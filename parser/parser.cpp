@@ -203,52 +203,52 @@ void CreateJSON(std::vector<std::string> colum_names, std::vector<Data> data, st
         output += value.dinamica.c_str();
         output += "\",\n";
 
-        output += "\"" + colum_names[10] + "\" : \"";
+        output += "\"" + colum_names[10] + "\" : ";
         value.titular?tmp="true":tmp="false";
         output += tmp.c_str();
-        output += "\",\n";
+        output += ",\n";
 
-        output += "\"" + colum_names[11] + "\" : \"";
+        output += "\"" + colum_names[11] + "\" : ";
         value.suplente?tmp="true":tmp="false";
         output += tmp.c_str();
-        output += "\",\n";
+        output += ",\n";
 
-        output += "\"" + colum_names[12] + "\" : \"";
+        output += "\"" + colum_names[12] + "\" : ";
         output += std::to_string(value.minutos_jugados);
-        output += "\",\n";
+        output += ",\n";
         
-        output += "\"" + colum_names[13] + "\" : \"";
+        output += "\"" + colum_names[13] + "\" : ";
         output += std::to_string(value.amarilla);
-        output += "\",\n";
+        output += ",\n";
         
-        output += "\"" + colum_names[14] + "\" : \"";
+        output += "\"" + colum_names[14] + "\" : ";
         output += std::to_string(value.roja);
-        output += "\",\n";
+        output += ",\n";
         
-        output += "\"" + colum_names[15] + "\" : \"";
+        output += "\"" + colum_names[15] + "\" : ";
         output += std::to_string(value.goles);
-        output += "\",\n";
+        output += ",\n";
        
-        output += "\"" + colum_names[16] + "\" : \"";
+        output += "\"" + colum_names[16] + "\" : ";
         tmp = value.gol_victoria?"true":"false";
         output += tmp.c_str();
-        output += "\",\n";
+        output += ",\n";
 
-        output += "\"" + colum_names[17] + "\" : \"";
+        output += "\"" + colum_names[17] + "\" : ";
         output += std::to_string(value.asistencias);
-        output += "\",\n";
+        output += ",\n";
 
         output += "\"" + colum_names[18] + "\" : \"";
         output += value.fecha_nacimiento.c_str();
         output += "\",\n";
         
-        output += "\"" + colum_names[19] + "\" : \"";
+        output += "\"" + colum_names[19] + "\" : ";
         output += std::to_string(value.edad);
-        output += "\",\n";
+        output += ",\n";
         
-        output += "\"" + colum_names[20] + "\" : \"";
+        output += "\"" + colum_names[20] + "\" : ";
         output += std::to_string(value.edad);
-        output += "\"\n";
+        output += "\n";
 
         output = output + "},";
     }
