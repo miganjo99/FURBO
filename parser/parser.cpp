@@ -154,43 +154,43 @@ void CreateJSON(std::vector<std::string> colum_names, std::vector<Data> data, st
         output = output + "\n";
         output = output + "{\n";
 
-        output += "\"jugador_name\" : \"";
+        output += "\"" + colum_names[0] + "\" : \"";
         output += value.jugador_name.c_str();
         output += "\",\n";
 
-        output += "\"temporada\" : \"";
+        output += "\"" + colum_names[1] + "\" : \"";
         output += value.temporada.c_str();
         output += "\",\n";
         
-        output += "\"jornada\" : \"";
+        output += "\"" + colum_names[2] + "\" : \"";
         output += value.jornada.c_str();
         output += "\",\n";
         
-        output += "\"rival_name\" : \"";
+        output += "\"" + colum_names[3] + "\" : \"";
         output += value.rival_name.c_str();
         output += "\",\n";
 
-        output += "\"fecha\" : \"";
+        output += "\"" + colum_names[4] + "\" : \"";
         output += value.fecha.c_str();
         output += "\",\n";
 
-        output += "\"local_visitante\" : \"";
+        output += "\"" + colum_names[5] + "\" : \"";
         output += value.rival_name.c_str();
         output += "\",\n";
 
-        output += "\"campo_name\" : \"";
+        output += "\"" + colum_names[6] + "\" : \"";
         output += value.campo_name.c_str();
         output += "\",\n";
 
-        output += "\"tipo_partido\" : \"";
+        output += "\"" + colum_names[7] + "\" : \"";
         output += value.tipo_partido.c_str();
         output += "\",\n";
 
-        output += "\"categoria\" : \"";
+        output += "\"" + colum_names[8] + "\" : \"";
         output += value.categoria.c_str();
         output += "\",\n";
 
-        output += "\"dinamica\" : \"";
+        output += "\"" + colum_names[9] + "\" : \"";
         std::string tmp;
        
         /*switch (value.dinamica){
@@ -203,50 +203,50 @@ void CreateJSON(std::vector<std::string> colum_names, std::vector<Data> data, st
         output += value.dinamica.c_str();
         output += "\",\n";
 
-        output += "\"titular\" : \"";
+        output += "\"" + colum_names[10] + "\" : \"";
         value.titular?tmp="true":tmp="false";
         output += tmp.c_str();
         output += "\",\n";
 
-        output += "\"suplente\" : \"";
+        output += "\"" + colum_names[11] + "\" : \"";
         value.suplente?tmp="true":tmp="false";
         output += tmp.c_str();
         output += "\",\n";
 
-        output += "\"minutos_jugados\" : \"";
+        output += "\"" + colum_names[12] + "\" : \"";
         output += std::to_string(value.minutos_jugados);
         output += "\",\n";
         
-        output += "\"amarilla\" : \"";
+        output += "\"" + colum_names[13] + "\" : \"";
         output += std::to_string(value.amarilla);
         output += "\",\n";
         
-        output += "\"roja\" : \"";
+        output += "\"" + colum_names[14] + "\" : \"";
         output += std::to_string(value.roja);
         output += "\",\n";
         
-        output += "\"goles\" : \"";
+        output += "\"" + colum_names[15] + "\" : \"";
         output += std::to_string(value.goles);
         output += "\",\n";
        
-        output += "\"gol_victoria\" : \"";
+        output += "\"" + colum_names[16] + "\" : \"";
         tmp = value.gol_victoria?"true":"false";
         output += tmp.c_str();
         output += "\",\n";
 
-        output += "\"asistencias\" : \"";
+        output += "\"" + colum_names[17] + "\" : \"";
         output += std::to_string(value.asistencias);
         output += "\",\n";
 
-        output += "\"fecha_nacimiento\" : \"";
+        output += "\"" + colum_names[18] + "\" : \"";
         output += value.fecha_nacimiento.c_str();
         output += "\",\n";
         
-        output += "\"edad\" : \"";
+        output += "\"" + colum_names[19] + "\" : \"";
         output += std::to_string(value.edad);
         output += "\",\n";
         
-        output += "\"num_partidos\" : \"";
+        output += "\"" + colum_names[20] + "\" : \"";
         output += std::to_string(value.edad);
         output += "\"\n";
 
