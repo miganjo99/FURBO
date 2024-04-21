@@ -3,37 +3,24 @@
 
 namespace And{
 
-  template <typename T>
   class Threw{
     public:
-      Threw(const char* file_name, const T& t){
-        FILE *f;
-        std::string name = std::string(file_name) + ".and";
-        f = fopen(name.c_str(), "wb");
 
-        if(f == NULL){
-          printf("\n*** Error writing file ***\n");
-          //return false;
-        }else{
-          fwrite(&t, sizeof(T), 1, f);
-          fclose(f);
-        }
-      }
       
-      Threw(const char* file_name, const T& t, const char* extension){
+      Threw(const char* file_name, std::string file, std::string extension = ".and"){
+        
         FILE *f;
-        std::string name = std::string(file_name) + extension;
-        f = fopen(name.c_str(), "wb");
+        std::string name = std::string(file_name) + extension.c_str();
+        f = fopen(name.c_str(), "w");
 
         if(f == NULL){
           printf("\n*** Error writing file ***\n");
           //return false;
         }else{
-          fwrite(&t, sizeof(T), 1, f);
+          fwrite(file.c_str(), file.size() , 1, f);
           fclose(f);
         }
       }
-
 
       Threw(const Threw&) = delete;
       Threw(Threw&&) = delete;

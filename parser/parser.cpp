@@ -32,18 +32,19 @@ struct Data{
     std::string tipo_partido; // Amistoso o nose que
     //unsigned int categoria;
     std::string categoria;
-    Dinamica dinamica;
+    //Dinamica dinamica;
+    std::string dinamica;
     bool titular;
     bool suplente;
-    unsigned int minutos_jugados;
-    unsigned int amarilla;
-    unsigned int roja;
-    unsigned int goles;
+    int minutos_jugados;
+    int amarilla;
+    int roja;
+    int goles;
     bool gol_victoria;
-    unsigned int asistencias;
+    int asistencias;
     std::string fecha_nacimiento;
     float edad;
-    unsigned int num_partidos;
+    int num_partidos;
 
 };
 
@@ -60,7 +61,8 @@ void SaveColumValue(Data& data, std::string& value, unsigned int index){
         case 6: data.campo_name = value.c_str();break;
         case 7: data.tipo_partido = value.c_str();break;
         case 8: data.categoria = value.c_str();break;
-        case 9: if(value.c_str() == "Empatado"){data.dinamica = Dinamica::Empatado;}if(value.c_str() == "Ganado"){data.dinamica = Dinamica::Ganado;}if(value.c_str() == "Perdido"){data.dinamica = Dinamica::Perdido;};break;
+        //case 9: if(value.c_str() == "Empatado"){data.dinamica = Dinamica::Empatado;}if(value.c_str() == "Ganado"){data.dinamica = Dinamica::Ganado;}if(value.c_str() == "Perdido"){data.dinamica = Dinamica::Perdido;};break;
+        case 9: data.dinamica = value.c_str();break;
         case 10: data.titular = value.c_str()=="Si"?true:false;break;
         case 11: data.suplente = value.c_str()=="Si"?true:false;break;
         case 12: data.minutos_jugados = std::stoul(value.c_str());break;
@@ -143,11 +145,119 @@ void ProcessLineColum(std::string line, std::vector<std::string>& data, bool ver
 
 void CreateJSON(std::vector<std::string> colum_names, std::vector<Data> data, std::string& output){
 
-    for(auto& column : colum_names){
-        printf("Column name: %s \n", column.c_str());
+    output = "[";
+
+    unsigned int index = 0;
+
+    for(Data& value : data){
+        //Data& value = data[2984];
+        output = output + "\n";
+        output = output + "{\n";
+
+        output += "\"jugador_name\" : \"";
+        output += value.jugador_name.c_str();
+        output += "\",\n";
+
+        output += "\"temporada\" : \"";
+        output += value.temporada.c_str();
+        output += "\",\n";
+        
+        output += "\"jornada\" : \"";
+        output += value.jornada.c_str();
+        output += "\",\n";
+        
+        output += "\"rival_name\" : \"";
+        output += value.rival_name.c_str();
+        output += "\",\n";
+
+        output += "\"fecha\" : \"";
+        output += value.fecha.c_str();
+        output += "\",\n";
+
+        output += "\"local_visitante\" : \"";
+        output += value.rival_name.c_str();
+        output += "\",\n";
+
+        output += "\"campo_name\" : \"";
+        output += value.campo_name.c_str();
+        output += "\",\n";
+
+        output += "\"tipo_partido\" : \"";
+        output += value.tipo_partido.c_str();
+        output += "\",\n";
+
+        output += "\"categoria\" : \"";
+        output += value.categoria.c_str();
+        output += "\",\n";
+
+        output += "\"dinamica\" : \"";
+        std::string tmp;
+       
+        /*switch (value.dinamica){
+            case Dinamica::Perdido: tmp = "Perdido";break;
+            case Dinamica::Ganado: tmp = "Ganado";break;
+            case Dinamica::Empatado: tmp = "Empatado";break;
+        }
+        output += tmp.c_str();
+        */
+        output += value.dinamica.c_str();
+        output += "\",\n";
+
+        output += "\"titular\" : \"";
+        value.titular?tmp="true":tmp="false";
+        output += tmp.c_str();
+        output += "\",\n";
+
+        output += "\"suplente\" : \"";
+        value.suplente?tmp="true":tmp="false";
+        output += tmp.c_str();
+        output += "\",\n";
+
+        output += "\"minutos_jugados\" : \"";
+        output += std::to_string(value.minutos_jugados);
+        output += "\",\n";
+        
+        output += "\"amarilla\" : \"";
+        output += std::to_string(value.amarilla);
+        output += "\",\n";
+        
+        output += "\"roja\" : \"";
+        output += std::to_string(value.roja);
+        output += "\",\n";
+        
+        output += "\"goles\" : \"";
+        output += std::to_string(value.goles);
+        output += "\",\n";
+       
+        output += "\"gol_victoria\" : \"";
+        tmp = value.gol_victoria?"true":"false";
+        output += tmp.c_str();
+        output += "\",\n";
+
+        output += "\"asistencias\" : \"";
+        output += std::to_string(value.asistencias);
+        output += "\",\n";
+
+        output += "\"fecha_nacimiento\" : \"";
+        output += value.fecha_nacimiento.c_str();
+        output += "\",\n";
+        
+        output += "\"edad\" : \"";
+        output += std::to_string(value.edad);
+        output += "\",\n";
+        
+        output += "\"num_partidos\" : \"";
+        output += std::to_string(value.edad);
+        output += "\"\n";
+
+        output = output + "},";
     }
 
+    // Borrar ultimo elemento de la string
+    output.pop_back();
 
+
+    output += "\n]";
 }
 
 int main(int argc, char** argv){
@@ -192,6 +302,10 @@ int main(int argc, char** argv){
     std::string output;
     CreateJSON(column_names, all_data_processed, output);
 
+    printf("Json completed:\n");
+    //printf("%s \n", output);
+
+    And::Threw t{"output", output, ".json"};
     
     return 0;
 }
