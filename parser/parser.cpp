@@ -48,19 +48,7 @@ struct Data{
 };
 
 void SaveColumValue(Data& data, std::string& value, unsigned int index){
-    //printf("Index %u\n", index);
 
-    //if(index == 2){
-        //printf("Casteando\n");
-        //unsigned int value_u;
-        //unsigned long value_ul;
-        //printf("Antes del stoul\n");
-        //std::stoul(value);
-        
-        //printf("Despues del stoul\n");
-        //value_ul = 
-        //printf("casteado");
-    //}
     switch(index){
         case 0: data.jugador_name = value.c_str();break;
         case 1: data.temporada = value.c_str();break;
@@ -120,6 +108,48 @@ Data ProcessLine(std::string line, bool verbosity = false){
     return data;
 }
 
+
+void ProcessLineColum(std::string line, std::vector<std::string>& data, bool verbosity = false){
+    unsigned int index = 0;
+    bool all_columns = false;
+    std::size_t last_pos = 0;
+    while(!all_columns){
+    
+        // Encuentrame ; a partir de last_pos
+        std::size_t separation = line.find(';', last_pos);
+        if(separation != std::string::npos){
+            // Encontrada separacion
+            std::string column_name = line.substr(last_pos, separation - last_pos);
+            if(verbosity)printf("%s - \n", column_name.c_str());
+            last_pos = separation + 1;
+            //printf("%s\n", column_name.c_str());
+            data.push_back(column_name);
+            index++;
+
+        }else{
+            // Todas las columnas encontradas
+            //printf("Ultima: \n");
+            //separation = line.find("\n", last_pos);
+            std::string column_name = line.substr(last_pos, line.size() - last_pos - 1);
+            if(verbosity)printf("%s FIN\n", column_name.c_str());
+            data.push_back(column_name);
+            all_columns = true;
+        }
+        
+    }
+
+
+}
+
+void CreateJSON(std::vector<std::string> colum_names, std::vector<Data> data, std::string& output){
+
+    for(auto& column : colum_names){
+        printf("Column name: %s \n", column.c_str());
+    }
+
+
+}
+
 int main(int argc, char** argv){
 
     And::Slurp slurp{"assets/data.csv"};
@@ -134,6 +164,7 @@ int main(int argc, char** argv){
     printf("Saving each line...\n");
     while ((pos = data_s.find("\n", pos)) != std::string::npos) {
         std::string line = data_s.substr(0, pos);
+        //printf("Line-> %s\n", line.c_str());
         lines.push_back(line);
         data_s.erase(0, pos + 1);
         pos = 0;
@@ -141,8 +172,12 @@ int main(int argc, char** argv){
 
 
     std::string columns = lines.front();
+    //printf("Column names-> %s\n", columns.c_str());
     lines.erase(lines.begin());
-
+    std::vector<std::string> column_names;
+    ProcessLineColum(columns, column_names);
+  
+    
     // Procesamos cada linea y la guardamos en la struct Data
     printf("Procesing each line...\n");
     std::vector<Data> all_data_processed;
@@ -153,12 +188,10 @@ int main(int argc, char** argv){
 
     printf("*** All lines pocessed ***\n");
 
+
+    std::string output;
+    CreateJSON(column_names, all_data_processed, output);
+
     
-    printf("\n *** Nombres de jugadores: ***\n");
-    for(auto& data : all_data_processed){
-        printf("%s\n",data.jugador_name.c_str());
-    }
-
-
     return 0;
 }
