@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string>
 #include <vector>
+#include <iostream>
 
 #include "include/Slurp.h"
 #include "include/Threw.h"
@@ -92,6 +93,32 @@ Data ProcessLine(std::string line, bool verbosity = false){
             std::string column_name = line.substr(last_pos, separation - last_pos);
             if(verbosity)printf("%s - ", column_name.c_str());
             last_pos = separation + 1;
+            printf("Columna value-> %s \n", column_name.c_str());
+
+            try{
+                double d = std::stod(column_name);
+                printf("Es double\n");
+            }catch(...){
+                printf("No es double\n");
+            }
+
+            try{
+                float f = std::stof(column_name);
+                printf("Es float\n");
+            }catch(...){
+
+                printf("No es float\n");
+            }
+
+            try{
+                int i = std::stoi(column_name);
+                printf("Es int\n");
+            }catch(...){
+                printf("No es int\n");
+            }
+
+
+
             SaveColumValue(data, column_name,index);
             index++;
 
