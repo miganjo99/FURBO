@@ -93,8 +93,9 @@ Data ProcessLine(std::string line, bool verbosity = false){
             std::string column_name = line.substr(last_pos, separation - last_pos);
             if(verbosity)printf("%s - ", column_name.c_str());
             last_pos = separation + 1;
-            printf("Columna value-> %s \n", column_name.c_str());
+           if(verbosity) printf("Columna value-> %s \n", column_name.c_str());
 
+            /*
             try{
                 double d = std::stod(column_name);
                 printf("Es double\n");
@@ -116,6 +117,7 @@ Data ProcessLine(std::string line, bool verbosity = false){
             }catch(...){
                 printf("No es int\n");
             }
+            */
 
 
 
