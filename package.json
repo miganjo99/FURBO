@@ -1,0 +1,16 @@
+{
+  "name": "furbo",
+  "version": "1.0.0",
+  "description": "El objetivo de este proyecto es crear la mayor base de datos conocida sobre el [Ontinyent 1931](https://www.ontinyent1931cf.com/index.php/club)",
+  "main": "./frontend/src/main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx rimraf dist && mkdir dist && copyfiles -u 1 frontend/src/**/* dist"
+  },
+  "author": "Miguel Gandia & Jose Maria Maestre",
+  "license": "ISC",
+  "dependencies": {
+    "copyfiles": "^2.4.1",
+    "rimraf": "^3.0.2"
+  }
+}
