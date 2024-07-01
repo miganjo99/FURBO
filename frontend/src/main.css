@@ -3,7 +3,7 @@
     --secondary-color: #241e20; /* Negro: texto principal, fondos secundarios y bordes */
     --terciary_color: #ffffff; /* Blanco: fondos principales, texto en fondos oscuros */
     --accent-color: #d32f2f;    /* Rojo */ 
-    --font-family: 'Arial, sans-serif';
+    --font-family: 'Roboto', sans-serif;
     --font-size-base: 16px;
     --spacing-unit: 8px;
 }
@@ -83,7 +83,7 @@ table, th, td {
 
 th, td {
     padding: calc(var(--spacing-unit) * 1.5);
-    text-align: left;
+    text-align: center;
 }
 
 th {
@@ -97,4 +97,56 @@ tr:nth-child(even) {
 
 tr:nth-child(odd) {
     background-color: #f9f9f9;
+}
+
+.container {
+    max-width: 1200px;
+    overflow-x: hidden;
+    padding: var(--spacing-unit) var(--spacing-unit * 2);
+}
+
+@media (max-width: 600px) {
+    /* Estilos específicos para pantallas pequeñas (ejemplo: smartphones) */
+    .container {
+        padding: var(--spacing-unit);
+    }
+
+    body{
+        font-size: calc(var(--font-size-base) * 0.75);
+    }
+    table {
+        width: calc(100% - var(--spacing-unit) * 2); /* Ajustar ancho de la tabla */
+        margin-left: auto;
+        margin-right: auto;
+        overflow-x: auto; /* Permitir desplazamiento horizontal en caso necesario */
+    }
+
+    th, td {
+        padding: calc(var(--spacing-unit) * 1.2); /* Reducir el padding de celdas en pantallas pequeñas */
+        text-align: center;
+    }
+}
+
+@media (max-width: 420px) {
+
+    body{
+        font-size: calc(var(--font-size-base) * 0.6);
+    }
+    .container {
+        padding: var(--spacing-unit); /* Reducir el padding del contenedor */
+        overflow-x: hidden; /* Ocultar desplazamiento horizontal en el contenedor */
+    }
+
+    table {
+        width: 100%; /* Hacer que la tabla ocupe el 100% del ancho del contenedor */
+        max-width: 100%; /* Asegurar que la tabla no sobrepase el 100% del ancho */
+        margin-left: auto;
+        margin-right: auto;
+        box-sizing: border-box; /* Asegurar que el ancho incluya padding y border */
+    }
+
+    th, td {
+        padding: calc(var(--spacing-unit) * 0.4); /* Reducir el padding de celdas */
+        text-align: center;
+    }
 }
