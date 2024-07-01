@@ -1,0 +1,13 @@
+.match-date {
+    font-weight: bold;
+}
+
+.team-name {
+    font-weight: bold;
+    color: var(--secondary-color);
+}
+
+.score {
+    font-size: 1.2em;
+    font-weight: bold;
+}
