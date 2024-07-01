@@ -174,7 +174,11 @@ void ProcessLineColum(std::string line, std::vector<std::string>& data, bool ver
 
 void CreateJSON(std::vector<std::string> colum_names, std::vector<Data> data, std::string& output){
 
-    output = "[";
+    output = "const data_matches = [";
+
+    std::string jornada_prefix = "J";
+    std::string jornada_prefix_2 = "Semifinales";
+
 
     unsigned int index = 0;
 
@@ -191,9 +195,23 @@ void CreateJSON(std::vector<std::string> colum_names, std::vector<Data> data, st
         output += value.temporada.c_str();
         output += "\",\n";
         
-        output += "\"" + colum_names[2] + "\" : \"";
-        output += value.jornada.c_str();
-        output += "\",\n";
+        output += "\"" + colum_names[2] + "\" : ";
+        if(value.jornada.substr(0, jornada_prefix.size()) == jornada_prefix){ // Comprobar si la jornada empieza por J
+            value.jornada.erase(0, jornada_prefix.size());
+            output += std::to_string(std::stoul(value.jornada.c_str() ) );
+
+        }else if(value.jornada.find('/') != std::string::npos || value.jornada.substr(0, jornada_prefix_2.size()) == jornada_prefix_2){ // Comprobar si la jornada es alguna 1/64 malvada o algun Semifinal del demonio
+
+            output += "\"" + value.jornada + "\"";
+        }else{
+        
+            output += std::to_string(std::stoul(value.jornada.c_str() ) );
+        }
+
+        output += ",\n";
+
+
+        
         
         output += "\"" + colum_names[3] + "\" : \"";
         output += value.rival_name.c_str();
@@ -280,6 +298,8 @@ void CreateJSON(std::vector<std::string> colum_names, std::vector<Data> data, st
         output += "\n";
 
         output = output + "},";
+
+        index++;
     }
 
     // Borrar ultimo elemento de la string
@@ -334,7 +354,8 @@ int main(int argc, char** argv){
     printf("Json completed:\n");
     //printf("%s \n", output);
 
-    And::Threw t{"output", output, ".json"};
+
+    And::Threw t{"output", output, ".js"};
     
     return 0;
 }
