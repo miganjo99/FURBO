@@ -6,16 +6,27 @@ on:
       - main  # O el nombre de la rama que quieras usar
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'  # O la versión de Node.js que necesites
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build the project
+        run: npm run build
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
-          publish_dir: ./  # Ajusta esta ruta según la carpeta raíz de tu proyecto
+          publish_dir: ./dist  # Ajusta esta ruta según la carpeta de salida de tu build++

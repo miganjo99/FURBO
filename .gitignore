@@ -6,3 +6,5 @@ bin/
 *.obj
 *.exe
 output.json
+
+node_modules
