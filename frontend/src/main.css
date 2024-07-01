@@ -1,0 +1,100 @@
+:root{
+    --primary-color: #e6b224; /* Dorado: encabezados, botones y logos */
+    --secondary-color: #241e20; /* Negro: texto principal, fondos secundarios y bordes */
+    --terciary_color: #ffffff; /* Blanco: fondos principales, texto en fondos oscuros */
+    --accent-color: #d32f2f;    /* Rojo */ 
+    --font-family: 'Arial, sans-serif';
+    --font-size-base: 16px;
+    --spacing-unit: 8px;
+}
+
+*{
+    padding: 10px;
+    
+}
+
+body {
+    font-family: var(--font-family);
+    font-size: var(--font-size-base);
+    color: var(--secondary-color);
+    background-color: var(--terciary-color);
+    margin: var(--spacing-unit);
+    line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color);
+    margin-top: calc(var(--spacing-unit) * 2);
+    margin-bottom: calc(var(--spacing-unit) * 2);
+}
+
+p {
+    margin-top: var(--spacing-unit);
+    margin-bottom: var(--spacing-unit);
+}
+
+a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--primary-color);
+}
+
+button {
+    background-color: var(--accent-color);
+    color: var(--terciary-color);
+    padding: calc(var(--spacing-unit) * 1.5) calc(var(--spacing-unit) * 2);
+    border: none;
+    cursor: pointer;
+    font-size: var(--font-size-base);
+    margin: var(--spacing-unit) 0;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+input, textarea, select {
+    border: 1px solid var(--secondary-color);
+    padding: calc(var(--spacing-unit) * 1.5);
+    font-size: var(--font-size-base);
+    border-radius: 4px;
+    margin-bottom: var(--spacing-unit);
+}
+
+input:focus, textarea:focus, select:focus {
+    border-color: var(--primary-color);
+    outline: none;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: var(--spacing-unit) 0;
+}
+
+table, th, td {
+    border: 1px solid var(--secondary-color);
+}
+
+th, td {
+    padding: calc(var(--spacing-unit) * 1.5);
+    text-align: left;
+}
+
+th {
+    background-color: var(--primary-color);
+    color: var(--terciary-color);
+}
+
+tr:nth-child(even) {
+    background-color: var(--terciary-color);
+}
+
+tr:nth-child(odd) {
+    background-color: #f9f9f9;
+}
