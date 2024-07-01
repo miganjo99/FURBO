@@ -1,0 +1,101 @@
+.escudo_img {
+    width: 125px !important;
+    height: auto !important;
+    margin: 0 auto !important;
+    display: block !important;
+}
+
+#menuToggle {
+    display: block ;
+    position: relative ;
+    top: 50px ;
+    left: 50px ;
+    z-index: 1 ;
+    -webkit-user-select: none ;
+    user-select: none ;
+}
+
+#menuToggle a {
+    text-decoration: none !important;
+    color: #232323 !important;
+    transition: color 0.3s ease !important;
+}
+
+#menuToggle a:hover {
+    color: tomato !important;
+}
+
+#menuToggle input {
+    display: block !important;
+    width: 40px !important;
+    height: 32px !important;
+    position: absolute !important;
+    top: -7px !important;
+    left: -5px !important;
+    cursor: pointer !important;
+    opacity: 0 !important; /* hide this */
+    z-index: 2 !important; /* and place it over the hamburger */
+    -webkit-touch-callout: none !important;
+}
+
+#menuToggle span {
+    display: block ;
+    width: 33px ;
+    height: 4px ;
+    margin-bottom: 5px ;
+    position: relative ;
+    background: #cdcdcd !important;
+    border-radius: 3px ;
+    z-index: 1 ;
+    transform-origin: 4px 0px !important;
+    transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0) ,
+                background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0) ,
+                opacity 0.55s ease !important;
+}
+
+#menuToggle span:first-child {
+    transform-origin: 0% 0% !important;
+}
+
+#menuToggle span:nth-last-child(2) {
+    transform-origin: 0% 100% !important;
+}
+
+#menuToggle input:checked ~ span {
+    opacity: 1 ;
+    transform: rotate(45deg) translate(-2px, -1px) ;
+    background: #232323 ;
+}
+
+#menuToggle input:checked ~ span:nth-last-child(3) {
+    opacity: 0 ;
+    transform: rotate(0deg) scale(0.2, 0.2) !important;
+}
+
+#menuToggle input:checked ~ span:nth-last-child(2) {
+    transform: rotate(-45deg) translate(0, -1px) !important;
+}
+
+#menu {
+    position: absolute ;
+    width: 300px ;
+    margin: -100px 0 0 -50px ;
+    padding: 50px ;
+    padding-top: 125px ;
+    background: #ededed ;
+    list-style-type: none ;
+    -webkit-font-smoothing: antialiased ;
+    /* to stop flickering of text in safari */
+    transform-origin: 0% 0% ;
+    transform: translate(-100%, 0) ;
+    transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0) ;
+}
+
+#menu li {
+    padding: 10px 0 !important;
+    font-size: 22px !important;
+}
+
+#menuToggle input:checked ~ ul {
+    transform: none !important;
+}

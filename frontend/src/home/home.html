@@ -2,17 +2,42 @@
 <html>
     <head>
         <title>Furbo</title>
-        <link rel="stylesheet" type="text/css" href="../main.css">    </head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">       
         <link rel="stylesheet" type="text/css" href="home.css">
+        <link rel="stylesheet" type="text/css" href="/FURBO/frontend/src/styles/nav.css">
+        
+        <link rel="stylesheet" type="text/css" href="../main.css">
+    </head>
     <body>
 
-        <nav>        
+        <!-- <nav>        
             <img src="/FURBO/frontend/data/images/escudo.png" class="escudo_img">
 
             <a href="home/home.html">Home</a>
             <a href="profile/profile.html">Profile</a>           
             <a href="about/about.html">About</a>
-        </nav>
+        </nav> -->
+        <img src="/FURBO/frontend/data/images/escudo.png" class="escudo_img">
+
+        <nav role="navigation">
+            <div id="menuToggle">
+           
+              <input type="checkbox"/>
+
+              <span></span>
+              <span></span>
+              <span></span>
+              
+              <ul id="menu">
+
+                <a href="home/home.html"><li>Home</li></a>
+                <a href="profile/profile.html"><li>Profile</li></a>           
+                <a href="about/about.html"><li>About</li></a>
+              </ul>
+            </div>
+          </nav>
+
+
 
     </body>
 </html>
