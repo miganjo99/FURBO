@@ -13,14 +13,7 @@
     --white: #fff;
   }
   
-  body {
-    min-height: 90vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: #333;
-    font-family: "Noto Sans", sans-serif;
-  }
+
   
   .device {
     position: relative;
