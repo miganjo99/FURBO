@@ -8,5 +8,8 @@ window.addEventListener("load", (event) => {
 
 
 function GetLastMatches(){
-    IN_GetLastMatches(5);
+    let matches = IN_GetLastMatches(5);
+    console.log(matches);
+
+    
 }

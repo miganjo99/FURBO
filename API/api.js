@@ -4,7 +4,7 @@
 function API_GetLastMatches(NumberOfMatches){
 
     let data = GetAllOntinyentMatches();
-    console.log(data);
+    //console.log(data);
 
     let tmp = [];
 
@@ -17,7 +17,17 @@ function API_GetLastMatches(NumberOfMatches){
     console.log("Ultima jornada: " + max_jornada)
     // proceso de normalizacion (opcional, igual no hay que hacer nada)
 
-    return data;
+    let total_jugadores = [];
+
+    for(let i = max_jornada; i > (max_jornada - NumberOfMatches); i--){
+        data.map((value) =>{
+            if(value.JORNADA == i){
+                total_jugadores.push(value);
+            }
+        });
+    }
+
+    return total_jugadores;
 }
 
 //export {API_GetLastMatches};
