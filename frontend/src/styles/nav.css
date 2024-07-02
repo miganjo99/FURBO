@@ -13,6 +13,11 @@
     z-index: 1 ;
     -webkit-user-select: none ;
     user-select: none ;
+    padding: 0 !important;
+}
+
+#menuToggle *{
+    padding: 0;
 }
 
 #menuToggle a {
@@ -99,3 +104,5 @@
 #menuToggle input:checked ~ ul {
     transform: none !important;
 }
+
+
