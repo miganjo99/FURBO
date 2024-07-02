@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
     document.getElementById('estadio').addEventListener('click', function() {
         console.log("hola estadio");
+        window.location.href = '/FURBO/frontend/src/stadium/stadium.html';
 
     });
 });
