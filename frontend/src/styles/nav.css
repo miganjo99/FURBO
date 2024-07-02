@@ -37,6 +37,7 @@
     position: absolute !important;
     top: -7px !important;
     left: -5px !important;
+    /* right: -5px !important; */
     cursor: pointer !important;
     opacity: 0 !important; /* hide this */
     z-index: 2 !important; /* and place it over the hamburger */
@@ -104,5 +105,3 @@
 #menuToggle input:checked ~ ul {
     transform: none !important;
 }
-
-
