@@ -1,107 +1,203 @@
-.escudo_img {
-    width: 125px !important;
-    height: auto !important;
-    margin: 0 auto !important;
-    display: block !important;
-}
-
-#menuToggle {
-    display: block ;
-    position: relative ;
-    top: 50px ;
-    left: 50px ;
-    z-index: 1 ;
-    -webkit-user-select: none ;
-    user-select: none ;
-    padding: 0 !important;
-}
-
-#menuToggle *{
-    padding: 0;
-}
-
-#menuToggle a {
-    text-decoration: none !important;
-    color: #232323 !important;
-    transition: color 0.3s ease !important;
-}
-
-#menuToggle a:hover {
-    color: tomato !important;
-}
-
-#menuToggle input {
-    display: block !important;
-    width: 40px !important;
-    height: 32px !important;
-    position: absolute !important;
-    top: -7px !important;
-    left: -5px !important;
-    /* right: -5px !important; */
-    cursor: pointer !important;
-    opacity: 0 !important; /* hide this */
-    z-index: 2 !important; /* and place it over the hamburger */
-    -webkit-touch-callout: none !important;
-}
-
-#menuToggle span {
-    display: block ;
-    width: 33px ;
-    height: 4px ;
-    margin-bottom: 5px ;
-    position: relative ;
-    background: #cdcdcd !important;
-    border-radius: 3px ;
-    z-index: 1 ;
-    transform-origin: 4px 0px !important;
-    transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0) ,
-                background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0) ,
-                opacity 0.55s ease !important;
-}
-
-#menuToggle span:first-child {
-    transform-origin: 0% 0% !important;
-}
-
-#menuToggle span:nth-last-child(2) {
-    transform-origin: 0% 100% !important;
-}
-
-#menuToggle input:checked ~ span {
-    opacity: 1 ;
-    transform: rotate(45deg) translate(-2px, -1px) ;
-    background: #232323 ;
-}
-
-#menuToggle input:checked ~ span:nth-last-child(3) {
-    opacity: 0 ;
-    transform: rotate(0deg) scale(0.2, 0.2) !important;
-}
-
-#menuToggle input:checked ~ span:nth-last-child(2) {
-    transform: rotate(-45deg) translate(0, -1px) !important;
-}
-
-#menu {
-    position: absolute ;
-    width: 300px ;
-    margin: -100px 0 0 -66px ;
-    padding: 50px ;
-    padding-top: 125px ;
-    background: #ededed ;
-    list-style-type: none ;
-    -webkit-font-smoothing: antialiased ;
-    /* to stop flickering of text in safari */
-    transform-origin: 0% 0% ;
-    transform: translate(-100%, 0) ;
-    transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0) ;
-}
-
-#menu li {
-    padding: 10px 0 !important;
-    font-size: 22px !important;
-}
-
-#menuToggle input:checked ~ ul {
-    transform: none !important;
-}
+.device * {
+    box-sizing: border-box;
+  }
+  
+  .device *,
+  .device *:after,
+  .device *:before {
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --color: #1950ff;
+    --white: #fff;
+  }
+  
+  body {
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #333;
+    font-family: "Noto Sans", sans-serif;
+  }
+  
+  .device {
+    position: relative;
+    width: 300px;
+    height: 600px;
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 30px;
+    box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    border-radius: 30px;
+    background: linear-gradient(to bottom, #eee, #ddd);
+  }
+  
+  .navTrigger {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    z-index: 1000;
+    width: 36px;
+    height: 36px;
+    background: none;
+    border: 0;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    -webkit-appearence: none;
+    -webkit-tap-highlight-color: transparent;
+    &:focus {
+      outline: none;
+    }
+    svg {
+      width: 64px;
+      height: 48px;
+      top: -6px;
+      left: -14px;
+      stroke: var(--terciary_color);
+      stroke-width: 4px;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      display: block;
+      position: absolute;
+      path {
+        transition: stroke-dasharray var(--duration, 0.85s) var(--easing, ease)
+            var(--delay, 0s),
+          stroke-dashoffset var(--duration, 0.85s) var(--easing, ease)
+            var(--delay, 0s);
+        stroke-dasharray: var(--array-1, 26px) var(--array-2, 100px);
+        stroke-dashoffset: var(--offset, 126px);
+        transform: translateZ(0);
+        &:nth-child(2) {
+          --duration: 0.7s;
+          --easing: ease-in;
+          --offset: 100px;
+          --array-2: 74px;
+        }
+        &:nth-child(3) {
+          --offset: 133px;
+          --array-2: 107px;
+        }
+      }
+    }
+    &.active {
+      svg {
+        stroke: var(--white);
+        path {
+          --offset: 57px;
+          &:nth-child(1),
+          &:nth-child(3) {
+            --delay: 0.15s;
+            --easing: cubic-bezier(0.2, 0.4, 0.2, 1.1);
+          }
+          &:nth-child(2) {
+            --duration: 0.4s;
+            --offset: 2px;
+            --array-1: 1px;
+          }
+          &:nth-child(3) {
+            --offset: 58px;
+          }
+        }
+      }
+    }
+  }
+  
+  .navMenu {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    background: #fff;
+    opacity: 0;
+    z-index: -1;
+    visibility: hidden;
+    transition: all 0.375s;
+    &.active {
+      opacity: 1;
+      z-index: 100;
+      visibility: visible;
+      &::before {
+        transform: skew(-14deg) translateX(0);
+      }
+      li {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: -15px;
+      /*background: #1950ff;*/
+      background: var(--primary-color);
+      transform-origin: 0 0;
+      transform: skew(-14deg) translateX(-120%);
+      transition: all 0.275s 0.1s;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      display: inline-flex;
+      flex-direction: column;
+      height: 93%; /* Should be 100%, but we have a notice message :D */
+      align-items: flex-end;
+      justify-content: center;
+      transform: translateX(-18%) skew(-16deg);
+      li {
+        display: block;
+        margin: 0.5rem 0;
+        text-align: right;
+        opacity: 0;
+        transform: translateY(-10px);
+        a {
+          position: relative;
+          left: 0;
+          display: block;
+          padding: 12px 0;
+          color: var(--terciary_color);
+          font-size: 2.4em;
+          text-decoration: none;
+          text-shadow: 2px 2px 9px rgba(0,0,0,0.62);
+          transform: skew(16deg);
+          transition: 0.25s;
+          &:hover {
+            left: 10px;
+          }
+        }
+        &:nth-child(1) {
+          transition: all 275ms 275ms;
+        }
+        &:nth-child(2) {
+          transition: all 275ms 325ms;
+        }
+        &:nth-child(3) {
+          transition: all 275ms 375ms;
+        }
+        &:nth-child(4) {
+          transition: all 275ms 425ms;
+        }
+        &:nth-child(5) {
+          transition: all 275ms 475ms;
+        }
+      }
+    }
+  }
+  
