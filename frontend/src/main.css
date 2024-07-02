@@ -104,6 +104,17 @@ tr:nth-child(odd) {
     padding: var(--spacing-unit) var(--spacing-unit * 2);
 }
 
+
+.body-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    align-items: center;
+    padding: 0 !important;
+    margin-top: 20%;
+}
+
 @media (max-width: 600px) {
     /* Estilos específicos para pantallas pequeñas (ejemplo: smartphones) */
     .container {
@@ -124,6 +135,8 @@ tr:nth-child(odd) {
         padding: calc(var(--spacing-unit) * 1.2); /* Reducir el padding de celdas en pantallas pequeñas */
         text-align: center;
     }
+
+
 }
 
 @media (max-width: 420px) {

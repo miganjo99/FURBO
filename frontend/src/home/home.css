@@ -240,11 +240,3 @@ a {
     color: #333;
   }
 
-.body-container{
-  display: flex;
-  flex-direction: column;
-  flex-wrap: nowrap;
-  align-content: space-around;
-  align-items: center;
-  padding: 0 !important;
-}

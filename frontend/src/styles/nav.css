@@ -43,6 +43,24 @@
     background: linear-gradient(to bottom, #eee, #ddd);
   }
   
+  .escudo_img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    max-width: 20%;
+    background: none;
+    border: 0;
+    padding: 0;
+    margin: 5px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    -webkit-appearence: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+
   .navTrigger {
     position: absolute;
     top: 15px;
@@ -57,12 +75,13 @@
     cursor: pointer;
     -webkit-appearence: none;
     -webkit-tap-highlight-color: transparent;
+
     &:focus {
       outline: none;
     }
     svg {
-      width: 64px;
-      height: 48px;
+      /*width: 64px;
+      height: 48px;*/
       top: -6px;
       left: -14px;
       stroke: var(--terciary_color);
@@ -211,8 +230,25 @@
     justify-content: flex-start;
   }
   
-  .escudo_img{
-    max-width: 20%;
-    padding: 0;
-    margin: 5px;
-  }
+@media (min-width: 600px){
+    svg{
+        width: calc(2.0 * 64px);
+        height: calc(2.0 * 48px);
+    }
+}  
+
+@media (max-width: 600px) {
+    svg {
+        width: calc(1.5 * 64px);
+        height: calc(1.5 * 48px);
+    }
+}
+
+@media (max-width: 420px) {
+    svg {
+        width: 64px;
+        height: 48px;
+    }
+  
+}
+  
