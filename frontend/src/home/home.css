@@ -25,10 +25,11 @@ a {
   justify-content: center;
   align-items: center;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 4rem;
+  grid-gap: 2rem;
   padding: 4rem;
   margin: 0 auto;
   width: max-content;
+  padding: 50px !important;
 }
 
 .card {
@@ -238,3 +239,12 @@ a {
     font-weight: bold;
     color: #333;
   }
+
+.body-container{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: space-around;
+  align-items: center;
+  padding: 0 !important;
+}
