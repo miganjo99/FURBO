@@ -7,6 +7,7 @@
 
 // This function returns the last NumberOfMatches from Ontinyent
 function IN_GetLastMatches(NumberOfMatches){
+
     return API_GetLastMatches(NumberOfMatches);
 }
 
