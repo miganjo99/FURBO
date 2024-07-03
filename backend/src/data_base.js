@@ -3,6 +3,21 @@
  */
 
 
+function sortMatchesByDate(matches, desc = true) {
+    return matches.sort((a, b) => {
+        // Convertir las fechas a objetos Date
+        let dateA = new Date(a.dia.split('/').reverse().join('-'));
+        let dateB = new Date(b.dia.split('/').reverse().join('-'));
+
+        // Ordenar de forma descendente
+        if(desc){
+            return dateB - dateA;
+        }else{
+            return dateA - dateB;
+        }
+    });
+}
+
 
 function DB_GetAllOntinyentMatches(){
    
@@ -16,30 +31,58 @@ function DB_GetAllPlayersInfo(){
 
 function DB_GetLastMatches(NumMatches){
 
+    let matches_sorted = sortMatchesByDate(data_teams);
+    //console.log(matches_sorted);
 
-    let max_jornada = data_teams[0].jornada;
+    let max_jornada = 0;
 
-    console.log(data_teams[0]);
+    console.log(matches_sorted[0]);
 
-    data_teams.map((value) =>{
-        if(value.jornada > max_jornada) max_jornada = value.jornada;
+    
+    /*matches_sorted.map((value) =>{
+        console.log("Jornada: " + value.jornada);
+        console.log("type " + typeof(value.jornada))
+        if(typeof(value.jornada) == 'number'  && value.jornada > max_jornada) max_jornada = value.jornada;
     })
-
-    // proceso de normalizacion (opcional, igual no hay que hacer nada)
+    
+    console.log("Max jornada: " + max_jornada);
+    
 
     let total_matches = [];
 
     for(let i = max_jornada; i > (max_jornada - NumMatches); i--){
  
-        data_teams.map((value) =>{
+        matches_sorted.map((value) =>{
             if(value.jornada == i){
                 total_matches.push(value);
             }
         });
-    }
+    }*/
+
+
+
+        let total_matches = [];
+
+        for(let i = 0; i < NumMatches; i++){
+            total_matches.push(matches_sorted[i]);
+        }
 
 
     return total_matches;    
+}
+
+function DB_GetMatch(ID){
+
+    return data_teams[0];
+    let match = null;
+    data_teams.map((value) =>{
+        if(value.id == ID){
+            match = value;
+            return;
+        }
+    });
+
+    return match;
 }
 
 // TODO

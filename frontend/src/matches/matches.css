@@ -1,13 +1,241 @@
-.match-date {
-    font-weight: bold;
+
+h1{
+    font-size: 5vw !important;
+    margin-bottom: 0.5rem;
 }
 
-.team-name {
-    font-weight: bold;
-    color: var(--secondary-color);
+.table-container{
+    overflow: auto; 
+    border-radius: .8rem; 
+    box-shadow: 0 0 0.5rem rgba(39, 38, 38, 0.1);
+    display: none;
 }
 
-.score {
-    font-size: 1.2em;
-    font-weight: bold;
+@media (min-width: 1024px) {
+    .table-container {
+        display: block;
+    }
+}
+
+
+table {
+    width: 100%;
+}
+
+.table-header{
+    background-color: #f9fafb; 
+    border-bottom-width: 0.125rem; 
+    border-color: #edf2f7;
+}
+
+.table-header-row{
+    background-color: #ff4b4b; 
+    border-bottom-width: 0.125rem; 
+    border-color: #edf2f7;
+}
+
+.key-heading{
+    width: 3.75rem; 
+    padding: 0.75rem; 
+    font-size: 0.875rem; 
+    font-weight: 600; 
+    letter-spacing: 0.025em; 
+    text-align: left;
+}
+
+.details-heading{
+    padding: 0.75rem; 
+    font-size: 0.875rem; 
+    font-weight: 600; 
+    letter-spacing: 0.025em; 
+    text-align: left;
+}
+
+.status-heading{
+    width: 6rem; 
+    padding: 0.75rem; 
+    font-size: 0.875rem; 
+    font-weight: 600; 
+    letter-spacing: 0.025em; 
+    text-align: left;
+}
+
+.date-heading{
+    /* padding: 1.5rem;  */
+    padding: 0.75rem; 
+    font-size: 0.875rem; 
+    font-weight: 600; 
+    letter-spacing: 0.025em; 
+    text-align: left;
+}
+
+.price-heading{
+    /* padding: 2rem;  */
+    padding: 0.75rem; 
+    font-size: 0.875rem; 
+    font-weight: 600; 
+    letter-spacing: 0.025em; 
+    text-align: left;
+}
+
+tbody{
+    border-color: #edf2f7;  
+}
+
+tr{
+    background-color: #ffffff;
+}
+
+.tr-even{
+    background-color: #f9fafb;
+}
+
+td{
+    padding: 0.75rem; 
+    font-size: 0.875rem; 
+    color: #4a5568; 
+    white-space: nowrap;
+}
+
+a{
+    font-weight: 600; 
+    color: #212121; 
+    text-decoration: none; 
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.cancelled-status, .shipped-status, .delivered-status{
+    border-radius: 12px 12px 12px 12px;
+    -moz-border-radius: 12px 12px 12px 12px;
+    -webkit-border-radius: 12px 12px 12px 12px;
+    border: 0px solid #000000;
+    
+}
+
+.cancelled-status{
+    padding: 0.375rem; 
+    font-size: 0.625rem; 
+    font-weight: 500; 
+    letter-spacing: 0.05em; 
+    color: var(--terciary_color);
+    background-color: var(--match-lose); 
+
+}
+
+.shipped-status{
+    padding: 0.375rem; 
+    font-size: 0.625rem; 
+    font-weight: 500; 
+    letter-spacing: 0.05em; 
+    color: var(--terciary_color);
+    background-color: var(--match-draw); 
+
+}
+
+.delivered-status{
+    padding: 0.375rem; 
+    font-size: 0.625rem; 
+    font-weight: 500; 
+    letter-spacing: 0.05em; 
+    color: var(--terciary_color);
+    background-color: var(--match-win); 
+}
+
+.grid-container{
+    display: grid; 
+    grid-template-columns: 1fr; 
+    gap: 1rem;
+    display: none;
+}
+
+@media (max-width: 1024px) {
+    .grid-container {
+        display: block;
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        justify-content: flex-start;
+    }
+}
+
+.grid-item{
+    background-color: #ffffff; 
+    padding: 15px; 
+    border-radius: 0.5rem; 
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
+    margin-bottom: 1rem;
+}
+
+.grid-top{
+    display: flex; 
+    align-items: center; 
+    gap: 0.5rem; 
+    font-size: 1.0rem; 
+    color: #374151;
+    margin-bottom: .5rem;
+}
+
+.grid-date{
+    color: #9ca3af;
+}
+
+.grid-desc{
+    font-size: 0.875rem; 
+    color: #4b5563;
+    margin-bottom: .5rem;
+}
+
+.grid-price{
+    font-size: 0.875rem; 
+    font-weight: 500; 
+    color: #000000;
+}
+
+.grid-a{
+    font-weight: 600; 
+    color: #ff4b4b; 
+    text-decoration: none; 
+}
+
+.highlight {
+    background-color: #f0f0f0;
+}
+
+.controls {
+    margin-bottom: 1em;
+    display: none;
+}
+
+.grid-item *{
+    font-size: 4.5vw !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}
+@media (min-width: 1024px) {
+    .controls {
+        display: block;
+    }
+}
+
+
+.filter-btn, .sort-btn, .search-input {
+    margin-right: 1em;
+    padding: 0.5em 1em;
+    cursor: pointer;
+    font-weight: 600; 
+    color: #212121; 
+    text-decoration: none; 
+    border-radius: .5rem;
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
+    border-color: #edf2f7;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.body-container{
+
 }

@@ -11,6 +11,10 @@ function IN_GetLastMatches(NumberOfMatches){
     return API_GetLastMatches(NumberOfMatches);
 }
 
+function IN_GetMatch(ID){
+    return API_GetMatch(ID);
+}
+
 //export {IN_GetLastMatches};
 
 // Example functions:
