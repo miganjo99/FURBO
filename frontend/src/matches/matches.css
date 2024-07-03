@@ -163,7 +163,7 @@ a:hover{
 
 .grid-item{
     background-color: #ffffff; 
-    padding: 2rem; 
+    padding: 15px; 
     border-radius: 0.5rem; 
     box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
     margin-bottom: 1rem;
@@ -210,7 +210,7 @@ a:hover{
 }
 
 .grid-item *{
-    font-size: 5vw !important;
+    font-size: 4.5vw !important;
     white-space: nowrap !important;
     overflow: hidden !important;
     text-overflow: ellipsis !important;

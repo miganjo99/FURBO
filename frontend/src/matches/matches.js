@@ -82,7 +82,11 @@ function GetLastMatches(){
         const jornadaLink = document.createElement('a');
         jornadaLink.href = "#"; // Asigna la URL apropiada si es necesario
         jornadaLink.classList.add('grid-a');
-        jornadaLink.textContent = `Jornada ${match.jornada}`;
+        if(typeof(match.jornada) == 'number'){
+            jornadaLink.textContent = `Jornada ${match.jornada}`;
+        }else{
+            jornadaLink.textContent = `${match.jornada}`;
+        }
         jornadaDiv.appendChild(jornadaLink);
         topDiv.appendChild(jornadaDiv);
 
