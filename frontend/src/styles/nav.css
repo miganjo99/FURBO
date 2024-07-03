@@ -1,0 +1,292 @@
+.device * {
+    box-sizing: border-box;
+  }
+  
+  .device *,
+  .device *:after,
+  .device *:before {
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --color: #1950ff;
+    --white: #fff;
+  }
+  
+
+  
+  .device {
+    position: relative;
+    width: 300px;
+    height: 600px;
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: 30px;
+    box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    border-radius: 30px;
+    background: linear-gradient(to bottom, #eee, #ddd);
+  }
+  
+  .escudo_img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    max-width: 20%;
+    background: none;
+    border: 0;
+    padding: 0;
+    margin: 5px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    -webkit-appearence: none;
+    -webkit-tap-highlight-color: transparent;
+    transition: all 0.375s;
+  }
+
+
+
+
+  .navTrigger {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    z-index: 1000;
+    background: none;
+    border: 0;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    -webkit-appearence: none;
+    -webkit-tap-highlight-color: transparent;
+    /*width: 18vw !important;
+    height: 13vw !important;*/
+
+    /*width: 100%;
+    height: 100%;*/
+
+    &:focus {
+      outline: none;
+    }
+    svg {
+      /*width: 64px;
+      height: 48px;*/
+      width: 25vw;
+      height: 21vw;
+
+      top: -18px;
+      right: -18px;
+      stroke: var(--terciary_color);
+      stroke-width: 4px;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      display: block;
+      position: absolute;
+      path {
+        transition: stroke-dasharray var(--duration, 0.85s) var(--easing, ease)
+            var(--delay, 0s),
+          stroke-dashoffset var(--duration, 0.85s) var(--easing, ease)
+            var(--delay, 0s);
+        stroke-dasharray: var(--array-1, 26px) var(--array-2, 100px);
+        stroke-dashoffset: var(--offset, 126px);
+        transform: translateZ(0);
+        &:nth-child(2) {
+          --duration: 0.7s;
+          --easing: ease-in;
+          --offset: 100px;
+          --array-2: 74px;
+        }
+        &:nth-child(3) {
+          --offset: 133px;
+          --array-2: 107px;
+        }
+      }
+    }
+    &.active {
+      svg {
+        stroke: var(--white);
+        path {
+          --offset: 57px;
+          &:nth-child(1),
+          &:nth-child(3) {
+            --delay: 0.15s;
+            --easing: cubic-bezier(0.2, 0.4, 0.2, 1.1);
+          }
+          &:nth-child(2) {
+            --duration: 0.4s;
+            --offset: 2px;
+            --array-1: 1px;
+          }
+          &:nth-child(3) {
+            --offset: 58px;
+          }
+        }
+      }
+    }
+  }
+  
+  .navMenu {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    background: #fff;
+    opacity: 0;
+    z-index: -1;
+    visibility: hidden;
+    transition: all 0.375s;
+    &.active {
+      opacity: 1;
+      z-index: 100;
+      visibility: visible;
+      &::before {
+        transform: skew(-14deg) translateX(0);
+      }
+      li {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    &::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: -15px;
+      /*background: #1950ff;*/
+      background: var(--primary-color);
+      transform-origin: 0 0;
+      transform: skew(-14deg) translateX(-120%);
+      transition: all 0.275s 0.1s;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      display: inline-flex;
+      flex-direction: column;
+      height: 93%; /* Should be 100%, but we have a notice message :D */
+      align-items: flex-end;
+      justify-content: center;
+      transform: translateX(-18%) skew(-16deg);
+      li {
+        display: block;
+        margin: 0.5rem 0;
+        text-align: right;
+        opacity: 0;
+        transform: translateY(-10px);
+        a {
+          position: relative;
+          left: 0;
+          display: block;
+          padding: 12px 0;
+          color: var(--terciary_color);
+          font-size: 2.4em;
+          text-decoration: none;
+          text-shadow: 2px 2px 9px rgba(0,0,0,0.62);
+          transform: skew(16deg);
+          transition: 0.25s;
+          &:hover {
+            left: 10px;
+          }
+        }
+        &:nth-child(1) {
+          transition: all 275ms 275ms;
+        }
+        &:nth-child(2) {
+          transition: all 275ms 325ms;
+        }
+        &:nth-child(3) {
+          transition: all 275ms 375ms;
+        }
+        &:nth-child(4) {
+          transition: all 275ms 425ms;
+        }
+        &:nth-child(5) {
+          transition: all 275ms 475ms;
+        }
+      }
+    }
+  }
+
+  .header{
+    /*position: absolute;*/
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .menu-background{
+    display: block;
+    width: 100%;
+    height: 22vw;
+    position: absolute;
+    top: 0;
+    background-color: var(--primary-color);
+  }
+  
+/* Menu para PC */
+@media (min-width: 1024px){
+    svg{
+       display: none;
+    }
+
+    .navTrigger {
+        display: none;
+    }
+}  
+
+@media (max-width: 1024px) {
+  /*svg {
+      width: calc(2.5 * 64px);
+      height: calc(2.5 * 48px);
+  }*/
+
+  .navTrigger {
+      /*width: calc(2.5 * 36px);
+      height: calc(2.5 * 36px);*/
+  }
+}
+
+
+@media (max-width: 600px) {
+    /*svg {
+        width: calc(1.5 * 64px);
+        height: calc(1.5 * 48px);
+    }*/
+
+    .navTrigger {
+        /*width: calc(1.5 * 36px);
+        height: calc(1.5 * 36px);*/
+    }
+}
+
+@media (max-width: 420px) {
+    /*svg {
+        width: 64px;
+        height: 48px;
+    }*/
+
+    .navTrigger {
+        /*width: 36px;
+        height: 36px;*/
+    }
+  
+}
+  

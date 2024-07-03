@@ -1,0 +1,187 @@
+:root{
+    --primary-color: #e6b224; /* Dorado: encabezados, botones y logos */
+    --secondary-color: #241e20; /* Negro: texto principal, fondos secundarios y bordes */
+    --terciary_color: #ffffff; /* Blanco: fondos principales, texto en fondos oscuros */
+    --accent-color: #d32f2f;    /* Rojo */
+    
+    --match-win: #5ede57;
+    --match-lose: #ff6b80;
+    --match-draw: #fff16a;
+    
+    --font-family: 'Roboto', sans-serif;
+    --font-size-base: 16px;
+    --spacing-unit: 8px;
+}
+
+*{
+    /*padding: 10px;*/
+    font-family: var(--font-family) !important;
+}
+
+body {
+    font-family: var(--font-family) !important;
+    font-size: var(--font-size-base);
+    /*color: var(--secondary-color);*/
+    /*background-color: var(--terciary-color);*/
+    margin: var(--spacing-unit);
+    line-height: 1.5;
+}
+
+body {
+    margin: 0 !important;
+    min-height: 100vh;
+    /*font-family: 'Open Sans';*/
+    background: #fafafa;
+}
+
+body {
+    min-height: 90vh;
+    /*display: flex;
+    justify-content: center;
+    align-items: center;*/
+    background: #333 !important;
+    background-color: #333 !important;
+    /*font-family: "Noto Sans", sans-serif;*/
+  }
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color);
+    margin-top: calc(var(--spacing-unit) * 2);
+    margin-bottom: calc(var(--spacing-unit) * 2);
+}
+
+p {
+    margin-top: var(--spacing-unit);
+    margin-bottom: var(--spacing-unit);
+}
+
+a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--primary-color);
+}
+
+button {
+    background-color: var(--accent-color);
+    color: var(--terciary-color);
+    padding: calc(var(--spacing-unit) * 1.5) calc(var(--spacing-unit) * 2);
+    border: none;
+    cursor: pointer;
+    font-size: var(--font-size-base);
+    margin: var(--spacing-unit) 0;
+    border-radius: 4px;
+}
+
+button:hover {
+    /*background-color: var(--primary-color);*/
+    color: var(--secondary-color);
+}
+
+input, textarea, select {
+    border: 1px solid var(--secondary-color);
+    padding: calc(var(--spacing-unit) * 1.5);
+    font-size: var(--font-size-base);
+    border-radius: 4px;
+    margin-bottom: var(--spacing-unit);
+}
+
+input:focus, textarea:focus, select:focus {
+    border-color: var(--primary-color);
+    outline: none;
+}
+
+table {
+    /*width: 100%;
+    border-collapse: collapse;
+    margin: var(--spacing-unit) 0;*/
+}
+
+table, th, td {
+    /*border: 1px solid var(--secondary-color);*/
+}
+
+th, td {
+    /*padding: calc(var(--spacing-unit) * 1.5);
+    text-align: center;*/
+}
+
+th {
+    /*background-color: var(--primary-color);
+    color: var(--terciary-color);*/
+}
+
+tr:nth-child(even) {
+    /*background-color: var(--terciary-color);*/
+}
+
+tr:nth-child(odd) {
+    /*background-color: #f9f9f9;*/
+}
+
+.container {
+    max-width: 1200px;
+    overflow-x: hidden;
+    padding: var(--spacing-unit) var(--spacing-unit * 2);
+}
+
+
+.body-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    align-items: center;
+    padding: 0 !important;
+    margin-top: 30%;
+}
+
+@media (max-width: 600px) {
+    /* Estilos específicos para pantallas pequeñas (ejemplo: smartphones) */
+    .container {
+        padding: var(--spacing-unit);
+    }
+
+    body{
+        font-size: calc(var(--font-size-base) * 0.75);
+    }
+    table {
+        width: calc(100% - var(--spacing-unit) * 2); /* Ajustar ancho de la tabla */
+        margin-left: auto;
+        margin-right: auto;
+        overflow-x: auto; /* Permitir desplazamiento horizontal en caso necesario */
+    }
+
+    th, td {
+        padding: calc(var(--spacing-unit) * 1.2); /* Reducir el padding de celdas en pantallas pequeñas */
+        text-align: center;
+    }
+
+
+}
+
+@media (max-width: 420px) {
+
+    body{
+        font-size: calc(var(--font-size-base) * 0.6);
+    }
+    .container {
+        padding: var(--spacing-unit); /* Reducir el padding del contenedor */
+        overflow-x: hidden; /* Ocultar desplazamiento horizontal en el contenedor */
+    }
+
+    table {
+        width: 100%; /* Hacer que la tabla ocupe el 100% del ancho del contenedor */
+        max-width: 100%; /* Asegurar que la tabla no sobrepase el 100% del ancho */
+        margin-left: auto;
+        margin-right: auto;
+        box-sizing: border-box; /* Asegurar que el ancho incluya padding y border */
+    }
+
+    th, td {
+        padding: calc(var(--spacing-unit) * 0.4); /* Reducir el padding de celdas */
+        text-align: center;
+    }
+}

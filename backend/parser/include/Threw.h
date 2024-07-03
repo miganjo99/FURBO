@@ -17,6 +17,7 @@ namespace And{
           printf("\n*** Error writing file ***\n");
           //return false;
         }else{
+          printf("Writing file...");
           fwrite(file.c_str(), file.size() , 1, f);
           fclose(f);
         }
@@ -32,4 +33,4 @@ namespace And{
   };
 
 
-}
+};

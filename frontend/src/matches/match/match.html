@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Partido</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel="stylesheet" type="text/css" href="../../main.css">
+        <link rel="stylesheet" type="text/css" href="match.css">
+        <link rel="stylesheet" type="text/css" href="../../styles/nav.css">
+    </head>
+
+    <body>
+
+
+        <section id="menu" class="menu-container">
+            <div class="menu-background"></div>
+            <button class="navTrigger" id="navTrigger">
+              <svg viewBox="0 0 64 48">
+                <path d="M19,15 L45,15 C70,15 58,-2 49.0177126,7 L19,37"></path>
+                <path d="M19,24 L45,24 C61.2371586,24 57,49 41,33 L32,24"></path>
+                <path d="M45,33 L19,33 C-8,33 6,-2 22,14 L45,37"></path>
+              </svg>
+            </button>
+
+            <div class="header">
+              <img src="../../../data/images/escudo.png" class="escudo_img">
+            </div>
+            
+            <nav class="navMenu" id="navMenu">
+              <ul>
+                <li>
+                  <a href="#">Home</a>
+                </li>
+                <li>
+                  <a href="#">Partidos</a>
+                </li>
+                <li>
+                  <a href="#">Jugadores</a>
+                </li>
+                <li>
+                  <a href="#">Estadio</a>
+                </li>
+                <li>
+                  <a href="#">Historia</a>
+                </li>
+              </ul>
+            </nav>
+        </section>
+
+            
+        <div class="body-container">
+            <div class="match-container">
+
+                <h1 id="match-title">Title</h1>
+                <p id="match-campo" class="campo-label">Campo</p>
+
+                <div class="label_container">
+                    <span class="label" id="match-label-resultado">Ganado</span>
+                </div>
+
+                <dl class="dl-horizontal clearfix">
+                    
+                    <!--
+                        <dt class="label" id="match-label-resultado"></dt>
+                        <dd></dd>
+                    -->
+
+                    <dt>Resultado</dt>
+                    <dd class="value-lg" id="match-resultado"></dd>
+
+                    <dt>Oficial<span class="label-extra"></span></dt>
+                    <dd id="match-oficial"></dd>
+                    
+                    <dt>Tipo partido<span class="label-extra"></span></dt>
+                    <dd id="match-tipo"></dd>
+                    
+                    <dt>Jornada<span class="label-extra"></span></dt>
+                    <dd id="match-jornada"></dd>
+                    
+                    <dt>Dia</dt>
+                    <dd id="match-dia"></dd>
+                    
+                    <dt class="no-value">Hora</dt>
+                    <dd id="match-hora"></dd>        
+                    
+                    <dt></dt>
+                    <dd class="value-lg" id="match-video">url</dd>
+                </dl>
+
+                <p id="match-campo" class="campo-label">Especificaciones</p>
+                
+                <dl class="dl-horizontal clearfix">
+
+                    <dt>Arbitro</dt>
+                    <dd id="match-arbitro"></dd>
+                   
+                    <dt>Asistente 1</dt>
+                    <dd id="match-asistente1"></dd>
+                   
+                    <dt>Asistente 2</dt>
+                    <dd id="match-asistente2"></dd>
+                    
+                    <dt>Minutos ganando</dt>
+                    <dd id="match-min_ganando"></dd>
+                    
+                    <dt>Minutos perdiendo</dt>
+                    <dd id="match-min_perdiendo"></dd>
+                    
+                    <dt>Minutos Empatando</dt>
+                    <dd id="match-min_empatando"></dd>
+                    
+
+                    <dt>Goles a favor en casa</dt>
+                    <dd id="match-gol_fav_casa"></dd>
+                    <dt>Goles a favor fuera</dt>
+                    <dd id="match-gol_fav_fuera"></dd>
+                    
+                    <dt>Goles en contra en casa</dt>
+                    <dd id="match-gol_contra_casa"></dd>
+                    <dt>Goles en contra fuera</dt>
+                    <dd id="match-gol_contra_fuera"></dd>
+
+                    
+                    <dt>Media de edad</dt>
+                    <dd id="match-media_edad"></dd>
+                </dl>
+                
+                
+                
+            </div>
+        </div>
+            
+
+        <script src="match.js"></script>
+        <script src="../../main.js"></script>
+        <script src="../../../intermediate/intermediate.js"></script>
+        <script src="../../../../API/api.js"></script>
+        <script src="../../../../backend/src/data_base.js"></script>
+        <script src="../../../../backend/src/data/output.js"></script>
+        <script src="../../../../backend/src/data/output_equipos.js"></script>
+        
+    </body>
+</html>

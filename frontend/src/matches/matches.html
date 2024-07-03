@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ultimos partidos</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel="stylesheet" type="text/css" href="../main.css">
+        <link rel="stylesheet" type="text/css" href="matches.css">
+        <link rel="stylesheet" type="text/css" href="../styles/nav.css">
+    </head>
+
+    <body>
+
+
+        <section id="menu" class="menu-container">
+            <div class="menu-background"></div>
+            <button class="navTrigger" id="navTrigger">
+              <svg viewBox="0 0 64 48">
+                <path d="M19,15 L45,15 C70,15 58,-2 49.0177126,7 L19,37"></path>
+                <path d="M19,24 L45,24 C61.2371586,24 57,49 41,33 L32,24"></path>
+                <path d="M45,33 L19,33 C-8,33 6,-2 22,14 L45,37"></path>
+              </svg>
+            </button>
+
+            <div class="header">
+              <img src="../../data/images/escudo.png" class="escudo_img">
+            </div>
+            
+            <nav class="navMenu" id="navMenu">
+              <ul>
+                <li>
+                  <a href="../../src/home/home.html">Home</a>
+                </li>
+                <li>
+                  <a href="../../src/matches/matches.html">Partidos</a>
+                </li>
+                <li>
+                  <a href="#">Jugadores</a>
+                </li>
+                <li>
+                  <a href="#">Estadio</a>
+                </li>
+                <li>
+                  <a href="#">Historia</a>
+                </li>
+              </ul>
+            </nav>
+        </section>
+
+            
+        <div class="body-container">
+            
+
+                <h1>Últimos partidos</h1>
+                <div class="controls">
+                    <button class="filter-btn" data-status="all">All</button>
+                    <button class="filter-btn" data-status="cancelled">Cancelled</button>
+                    <button class="filter-btn" data-status="shipped">Shipped</button>
+                    <button class="filter-btn" data-status="delivered">Delivered</button>
+                    <button class="sort-btn">Sort by Date</button>
+                    <input type="text" class="search-input" placeholder="Search orders...">
+                </div>
+                <div class="table-container" id="matches-tables-pc">
+                    <table class="table">
+                        <thead class="table-header">
+                            <tr class="table-header-row">
+                                <th class="key-heading">No.</th>
+                                <th class="details-heading">Details</th>
+                                <th class="status-heading">Status</th>
+                                <th class="date-heading">Date</th>
+                                <th class="price-heading">Total</th>
+                            </tr>
+                        </thead>
+                        <tbody id="match-table-body">
+                            
+                            <tr>
+                                <td><a href="">Jornada 30</a></td>
+                                <td>Ontinyent 1931 - Albaidense</td>
+                                <td><span class="shipped-status">Ganado</span></td>
+                                <td>20/05/2023</td>
+                                <td>2 - 1</td>
+                            </tr>
+                            <!--<tr class="tr-even">
+                                <td><a href="#">1000</a></td>
+                                <td>Kring New Fit Office Chair, Mesh + PU, Black</td>
+                                <td><span class="cancelled-status">Cancelled</span></td>
+                                <td>10/10/2021</td>
+                                <td>$200.00</td>
+                            </tr>
+                            <tr>
+                                <td><a href="#">1002</a></td>
+                                <td>Executive Leather Office Chair, Brown</td>
+                                <td><span class="delivered-status">Delivered</span></td>
+                                <td>12/10/2021</td>
+                                <td>$180.00</td>
+                            </tr>       
+                        -->         
+                        </tbody>
+                    </table>
+                </div> 
+                <div class="grid-container" id="matches-tables-mobile">
+                    <div class="grid-item">
+                        <div class="grid-top">
+                            <div>
+                                <a href="#" class="grid-a">Jornada 33</a>
+                            </div>
+                            <div class="grid-date">20/05/2023</div>
+                            <div>
+                                <span class="delivered-status">Ganado</span>
+                            </div>
+                        </div>
+                        <div class="grid-desc">Ontinyent 1931 - Albaidense</div>
+                        <div class="grid-price">2- 1 </div>
+                    </div>
+                    <div class="grid-item">
+                        <div class="grid-top">
+                            <div>
+                                <a href="#" class="grid-a">#1001</a>
+                            </div>
+                            <div class="grid-date">11/10/2021</div>
+                            <div>
+                                <span class="shipped-status">Shipped</span>
+                            </div>
+                        </div>
+                        <div class="grid-desc">ErgoFlex Pro Ergonomic Office Chair, Black
+                        </div>
+                        <div class="grid-price">$250.00
+                        </div>
+                    </div>
+                    <div class="grid-item">
+                        <div class="grid-top">
+                            <div>
+                                <a href="#" class="grid-a">#1002</a>
+                            </div>
+                            <div class="grid-date">12/10/2021</div>
+                            <div>
+                                <span class="delivered-status">Delivered</span>
+                            </div>
+                        </div>
+                        <div class="grid-desc">Executive Leather Office Chair, Brown
+                        </div>
+                        <div class="grid-price">$180.00
+                        </div>
+                    </div>
+                </div>
+       
+        </div>
+            
+
+        <script src="matches.js"></script>
+        <script src="../main.js"></script>
+        <script src="../../intermediate/intermediate.js"></script>
+        <script src="../../../API/api.js"></script>
+        <script src="../../../backend/src/data_base.js"></script>
+        <script src="../../../backend/src/data/output.js"></script>
+        <script src="../../../backend/src/data/output_equipos.js"></script>
+        
+    </body>
+</html>

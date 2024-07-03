@@ -1,10 +1,13 @@
 
+//import {GetAllOntinyentMatches} from '../backend/src/data_base.js';
 
-function loquesea(){
-
-    let data = matches_onti_other_team();
-
-    // proceso de normalizacion (opcional, igual no hay que hacer nada)
-
-    return data;
+function API_GetLastMatches(NumberOfMatches){
+    return DB_GetLastMatches(NumberOfMatches);
 }
+
+
+function API_GetMatch(ID){
+    return DB_GetMatch(ID);
+}
+
+//export {API_GetLastMatches};
