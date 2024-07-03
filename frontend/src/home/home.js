@@ -24,16 +24,5 @@ document.addEventListener('DOMContentLoaded', function () {
     });*/
 
 
-    let burger = document.getElementById('navTrigger');
-    let nav  = document.getElementById('navMenu');
-    
-    console.log("Document load");
-
-    console.log(burger);
-    console.log(nav);
-    
-    burger.addEventListener('click', function(e){
-        this.classList.toggle('active');
-        nav.classList.toggle('active');
-    });
+   
 });

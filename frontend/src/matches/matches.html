@@ -13,37 +13,41 @@
     <body>
 
 
-        <br></br>
-
-        <img src="/FURBO/frontend/data/images/escudo.png" class="escudo_img">
-
-        <br></br>
-
-        <nav role="navigation">
-            <div id="menuToggle">
-           
-              <input type="checkbox"/>
-
-              <span></span>
-              <span></span>
-              <span></span>
-              
-              <ul id="menu">
-
-                <a href="/FURBO/frontend/src/home/home.html"><li>Home</li></a>
-                <a href="profile/profile.html"><li>Profile</li></a>           
-                <a href="about/about.html"><li>About</li></a>
-              </ul>
+        <section id="menu">
+            
+            <button class="navTrigger" id="navTrigger">
+              <svg viewBox="0 0 64 48">
+                <path d="M19,15 L45,15 C70,15 58,-2 49.0177126,7 L19,37"></path>
+                <path d="M19,24 L45,24 C61.2371586,24 57,49 41,33 L32,24"></path>
+                <path d="M45,33 L19,33 C-8,33 6,-2 22,14 L45,37"></path>
+              </svg>
+            </button>
+            <div class="header">
+              <img src="../../data/images/escudo.png" class="escudo_img">
             </div>
-        </nav>
+            <nav class="navMenu" id="navMenu">
+              <ul>
+                <li>
+                  <a href="#">Home</a>
+                </li>
+                <li>
+                  <a href="#">Partidos</a>
+                </li>
+                <li>
+                  <a href="#">Jugadores</a>
+                </li>
+                <li>
+                  <a href="#">Estadio</a>
+                </li>
+                <li>
+                  <a href="#">Historia</a>
+                </li>
+              </ul>
+            </nav>
+          </section>
 
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
-
-
-        <div class="container">
+            
+        <div class="body-containe">
             <h1>Últimos Partidos - Ontinyent 1931 CF</h1>
             <table>
                 <thead>
@@ -56,20 +60,21 @@
                 </thead>
                 <tbody id="match-table-body">
                     <!--
-                    <tr>
-                        <td class="match-date"></td>
-                        <td class="team-name"></td>
-                        <td class="score"></td>
-                        <td class="team-name"></td>
-                    </tr>
-                    -->
-                </tbody>
+                        <tr>
+                            <td class="match-date"></td>
+                            <td class="team-name"></td>
+                            <td class="score"></td>
+                            <td class="team-name"></td>
+                        </tr>
+                        -->
+                    </tbody>
             </table>
             <a href="#" class="button">Ver Todos los Partidos</a>
         </div>
 
 
         <script src="matches.js"></script>
+        <script src="../main.js"></script>
         <script src="../../intermediate/intermediate.js"></script>
         <script src="../../../API/api.js"></script>
         <script src="../../../backend/src/data_base.js"></script>
