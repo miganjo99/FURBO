@@ -46,65 +46,65 @@
 
 
 
-document.addEventListener('DOMContentLoaded', function() {
-    function createCarousel() {
-        const carouselHTML = `
-            <div class="glider-contain">
-                <button class="glider-prev">«</button>
-                <div class="glider">
-                    <div class="glider-slide" id="historia">
-                        <img src="/FURBO/frontend/data/images/trofeo.png" alt="History">
-                        <div class="glider-slide-title">HISTORIA</div>
-                    </div>
-                    <div class="glider-slide" id="partidos">
-                        <img src="/FURBO/frontend/data/images/bota-de-futbol.png" alt="Matches">
-                        <div class="glider-slide-title">PARTIDOS</div>
-                    </div>
-                    <div class="glider-slide" id="estadio">
-                        <img src="/FURBO/frontend/data/images/estadio.png" alt="Stadium">
-                        <div class="glider-slide-title">ESTADIO</div>
-                    </div>
-                </div>
-                <button class="glider-next">»</button>
-                <div id="dots"></div>
-            </div>
-        `;
+// document.addEventListener('DOMContentLoaded', function() {
+//     function createCarousel() {
+//         const carouselHTML = `
+//             <div class="glider-contain">
+//                 <button class="glider-prev">«</button>
+//                 <div class="glider">
+//                     <div class="glider-slide" id="historia">
+//                         <img src="/FURBO/frontend/data/images/trofeo.png" alt="History">
+//                         <div class="glider-slide-title">HISTORIA</div>
+//                     </div>
+//                     <div class="glider-slide" id="partidos">
+//                         <img src="/FURBO/frontend/data/images/bota-de-futbol.png" alt="Matches">
+//                         <div class="glider-slide-title">PARTIDOS</div>
+//                     </div>
+//                     <div class="glider-slide" id="estadio">
+//                         <img src="/FURBO/frontend/data/images/estadio.png" alt="Stadium">
+//                         <div class="glider-slide-title">ESTADIO</div>
+//                     </div>
+//                 </div>
+//                 <button class="glider-next">»</button>
+//                 <div id="dots"></div>
+//             </div>
+//         `;
 
-        const carrouselMenu = document.querySelector('.carrousel_menu');
-        carrouselMenu.innerHTML = ''; // Clear any existing content
-        carrouselMenu.innerHTML = carouselHTML;
+//         const carrouselMenu = document.querySelector('.carrousel_menu');
+//         carrouselMenu.innerHTML = ''; // Clear any existing content
+//         carrouselMenu.innerHTML = carouselHTML;
 
         
-        new Glider(document.querySelector('.glider'), {
-            slidesToShow: 5,
-            slidesToScroll: 1,
-            draggable: true,
-            dots: '.dots',
-            arrows: {
-            prev: '.glider-prev',
-            next: '.glider-next'
-            }
-        });
+//         new Glider(document.querySelector('.glider'), {
+//             slidesToShow: 5,
+//             slidesToScroll: 1,
+//             draggable: true,
+//             dots: '.dots',
+//             arrows: {
+//             prev: '.glider-prev',
+//             next: '.glider-next'
+//             }
+//         });
 
 
-        document.getElementById('historia').addEventListener('click', function() {
-            console.log("hola historia");
-            window.location.href = '/FURBO/frontend/src/history/history.html';
-        });
+//         document.getElementById('historia').addEventListener('click', function() {
+//             console.log("hola historia");
+//             window.location.href = '/FURBO/frontend/src/history/history.html';
+//         });
 
-        document.getElementById('partidos').addEventListener('click', function() {
-            console.log("hola partidos");
-            window.location.href = '/FURBO/frontend/src/matches/matches.html';
-        });
+//         document.getElementById('partidos').addEventListener('click', function() {
+//             console.log("hola partidos");
+//             window.location.href = '/FURBO/frontend/src/matches/matches.html';
+//         });
 
-        document.getElementById('estadio').addEventListener('click', function() {
-            console.log("hola estadio");
-            window.location.href = '/FURBO/frontend/src/stadium/stadium.html';
-        });
+//         document.getElementById('estadio').addEventListener('click', function() {
+//             console.log("hola estadio");
+//             window.location.href = '/FURBO/frontend/src/stadium/stadium.html';
+//         });
 
-    }
+//     }
 
-    createCarousel();
-});
+//     createCarousel();
+// });
 
 
