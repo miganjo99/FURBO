@@ -21,14 +21,14 @@
 body {
     font-family: var(--font-family) !important;
     font-size: var(--font-size-base);
-    color: var(--secondary-color);
+    /*color: var(--secondary-color);*/
     /*background-color: var(--terciary-color);*/
     margin: var(--spacing-unit);
     line-height: 1.5;
 }
 
 body {
-    /*margin: 0;*/
+    margin: 0 !important;
     min-height: 100vh;
     /*font-family: 'Open Sans';*/
     background: #fafafa;

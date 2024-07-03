@@ -71,6 +71,20 @@ function DB_GetLastMatches(NumMatches){
     return total_matches;    
 }
 
+function DB_GetMatch(ID){
+
+    return data_teams[0];
+    let match = null;
+    data_teams.map((value) =>{
+        if(value.id == ID){
+            match = value;
+            return;
+        }
+    });
+
+    return match;
+}
+
 // TODO
 function GetMatchFromJornada(NumJornada){
 
