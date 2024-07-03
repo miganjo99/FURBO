@@ -21,12 +21,15 @@ function LoadMatch(ID){
 
     console.log(match);
 
-
-
+    
+    
+    
     let title = document.getElementById("match-title");
     if(match.local_visitante == "Visitante"){
+        document.title = match.rival + " - " + "Ontinyent 1931";
         title.innerHTML = match.rival + " - " + "Ontinyent 1931";
     }else{
+        document.title = "Ontinyent 1931" + " - " + match.rival;
         title.innerHTML = "Ontinyent 1931" + " - " + match.rival;
     }
     document.getElementById("match-campo").innerHTML = match.campo;
