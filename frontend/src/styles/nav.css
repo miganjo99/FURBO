@@ -69,6 +69,11 @@
     cursor: pointer;
     -webkit-appearence: none;
     -webkit-tap-highlight-color: transparent;
+    /*width: 18vw !important;
+    height: 13vw !important;*/
+
+    /*width: 100%;
+    height: 100%;*/
 
     &:focus {
       outline: none;
@@ -76,8 +81,11 @@
     svg {
       /*width: 64px;
       height: 48px;*/
-      top: -6px;
-      right: 0;
+      width: 25vw;
+      height: 21vw;
+
+      top: -18px;
+      right: -18px;
       stroke: var(--terciary_color);
       stroke-width: 4px;
       stroke-linecap: round;
@@ -223,6 +231,15 @@
     align-items: flex-start;
     justify-content: flex-start;
   }
+
+  .menu-background{
+    display: block;
+    width: 100%;
+    height: 22vw;
+    position: absolute;
+    top: 0;
+    background-color: var(--primary-color);
+  }
   
 /* Menu para PC */
 @media (min-width: 1024px){
@@ -236,39 +253,39 @@
 }  
 
 @media (max-width: 1024px) {
-  svg {
+  /*svg {
       width: calc(2.5 * 64px);
       height: calc(2.5 * 48px);
-  }
+  }*/
 
   .navTrigger {
-      width: calc(2.5 * 36px);
-      height: calc(2.5 * 36px);
+      /*width: calc(2.5 * 36px);
+      height: calc(2.5 * 36px);*/
   }
 }
 
 
 @media (max-width: 600px) {
-    svg {
+    /*svg {
         width: calc(1.5 * 64px);
         height: calc(1.5 * 48px);
-    }
+    }*/
 
     .navTrigger {
-        width: calc(1.5 * 36px);
-        height: calc(1.5 * 36px);
+        /*width: calc(1.5 * 36px);
+        height: calc(1.5 * 36px);*/
     }
 }
 
 @media (max-width: 420px) {
-    svg {
+    /*svg {
         width: 64px;
         height: 48px;
-    }
+    }*/
 
     .navTrigger {
-        width: 36px;
-        height: 36px;
+        /*width: 36px;
+        height: 36px;*/
     }
   
 }
