@@ -8,6 +8,8 @@
         <link rel="stylesheet" type="text/css" href="../styles/nav.css">
         <link rel="stylesheet" type="text/css" href="../styles/footer.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js/glider.min.css">
+        
+        
 
     </head>
     <body>
@@ -40,10 +42,10 @@
             <nav class="navMenu" id="navMenu">
               <ul>
                 <li>
-                  <a href="#">Home</a>
+                  <a href="../../src/home/home.html">Home</a>
                 </li>
                 <li>
-                  <a href="#">Partidos</a>
+                  <a href="../../src/matches/matches.html">Partidos</a>
                 </li>
                 <li>
                   <a href="#">Jugadores</a>
@@ -56,8 +58,15 @@
                 </li>
               </ul>
             </nav>
+
           </section>
-          
+          <!-- <div class="overlay__scene"></div>
+          <div class="overlay__label-content"></div>
+          <div id="home" class="page__content"></div>
+          <div id="partidos" class="page__content"></div>
+          <div id="jugadores" class="page__content"></div>
+          <div id="estadio" class="page__content"></div>
+          <div id="historia" class="page__content"></div>           -->
 
 
 
@@ -106,27 +115,6 @@
           </section>
 
 
-    <div class="glider-contain">
-      <button class="glider-prev">«</button>
-      <div class="glider">
-        <div class="glider-slide" id="historia">
-          <img src="/FURBO/frontend/data/images/trofeo.png" alt="History">
-          <div class="glider-slide-title">HISTORIA</div>
-        </div>
-        <div class="glider-slide" id="partidos">
-          <img src="/FURBO/frontend/data/images/bota-de-futbol.png" alt="Matches">
-          <div class="glider-slide-title">PARTIDOS</div>
-        </div>
-        <div class="glider-slide" id="estadio">
-          <img src="/FURBO/frontend/data/images/estadio.png" alt="Stadium">
-          <div class="glider-slide-title">ESTADIO</div>
-        </div>
-      </div>
-      <button class="glider-next">»</button>
-      <div id="dots"></div>
-    </div>
-    
-  </div>
 
           
 <!--
@@ -160,19 +148,14 @@
         </footer>
         
       -->
-          <script src="https://cdn.jsdelivr.net/npm/glider-js/glider.min.js"></script>
-          <script>
-            new Glider(document.querySelector('.glider'), {
-                slidesToShow: 1,
-                dots: '#dots',
-                draggable: true,
-                arrows: {
-                  prev: '.glider-prev',
-                  next: '.glider-next'
-                }
-              });
-            </script>
 
+        <div class="carrousel_menu"></div>
+
+
+
+          <script src="https://cdn.jsdelivr.net/npm/glider-js/glider.min.js"></script>
+
+          
           <script src="home.js"></script>
           <script src="../main.js"></script>
     </body>
