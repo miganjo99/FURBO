@@ -73,10 +73,10 @@ function DB_GetLastMatches(NumMatches){
 
 function DB_GetMatch(ID){
 
-    return data_teams[0];
+
     let match = null;
     data_teams.map((value) =>{
-        if(value.id == ID){
+        if(value.partido == ID){
             match = value;
             return;
         }
