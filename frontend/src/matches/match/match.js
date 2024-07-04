@@ -54,9 +54,20 @@ function LoadMatch(ID){
     document.getElementById("match-tipo").innerHTML = match.tipo_partido;
     document.getElementById("match-jornada").innerHTML = match.jornada;
 
+    const video = document.getElementById("youtube-link");
+    if(match.observaciones != "null" && match.observaciones != null){
 
-    document.getElementById("match-video").innerHTML = (match.observaciones != "null" && match.observaciones != null) ? match.observaciones : ''; 
-    
+        video.addEventListener("click", function(){
+            window.open(match.observaciones,"_blank");
+        });
+        console.log("Add event listener");
+    }else{
+        video.remove();
+        console.log("No hay video");
+    }
+    //video.innerHTML = (match.observaciones != "null" && match.observaciones != null) ? match.observaciones : ''; 
+
+
     document.getElementById("match-dia").innerHTML = match.dia_semana + " " + match.dia;
     document.getElementById("match-hora").innerHTML = match.hora;
     
@@ -80,3 +91,4 @@ function LoadMatch(ID){
     
 
 }
+

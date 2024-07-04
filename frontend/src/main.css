@@ -138,6 +138,13 @@ tr:nth-child(odd) {
     margin-top: 30%;
 }
 
+.icon-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
 @media (max-width: 600px) {
     /* Estilos específicos para pantallas pequeñas (ejemplo: smartphones) */
     .container {

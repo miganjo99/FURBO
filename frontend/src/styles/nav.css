@@ -100,7 +100,7 @@
             var(--delay, 0s);
         stroke-dasharray: var(--array-1, 26px) var(--array-2, 100px);
         stroke-dashoffset: var(--offset, 126px);
-        transform: translateZ(0);
+        -webkit-transform: translateZ(0);
         &:nth-child(2) {
           --duration: 0.7s;
           --easing: ease-in;
@@ -153,11 +153,11 @@
       z-index: 100;
       visibility: visible;
       &::before {
-        transform: skew(-14deg) translateX(0);
+        -webkit-transform: skew(-14deg) translateX(0);
       }
       li {
         opacity: 1;
-        transform: translateY(0);
+        -webkit-transform: translateY(0);
       }
     }
     &::before {
@@ -169,8 +169,8 @@
       right: -15px;
       /*background: #1950ff;*/
       background: var(--primary-color);
-      transform-origin: 0 0;
-      transform: skew(-14deg) translateX(-120%);
+      -webkit-transform-origin: 0 0;
+      -webkit-transform: skew(-14deg) translateX(-120%);
       transition: all 0.275s 0.1s;
     }
     ul {
@@ -181,13 +181,13 @@
       height: 93%; /* Should be 100%, but we have a notice message :D */
       align-items: flex-end;
       justify-content: center;
-      transform: translateX(-18%) skew(-16deg);
+      -webkit-transform: translateX(-18%) skew(-16deg);
       li {
         display: block;
         margin: 0.5rem 0;
         text-align: right;
         opacity: 0;
-        transform: translateY(-10px);
+        -webkit-transform: translateY(-10px);
         a {
           position: relative;
           left: 0;
@@ -197,7 +197,7 @@
           font-size: 2.4em;
           text-decoration: none;
           text-shadow: 2px 2px 9px rgba(0,0,0,0.62);
-          transform: skew(16deg);
+          -webkit-transform: skew(16deg);
           transition: 0.25s;
           &:hover {
             left: 10px;

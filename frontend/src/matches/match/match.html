@@ -8,6 +8,7 @@
         <link rel="stylesheet" type="text/css" href="../../main.css">
         <link rel="stylesheet" type="text/css" href="match.css">
         <link rel="stylesheet" type="text/css" href="../../styles/nav.css">
+        
     </head>
 
     <body>
@@ -30,10 +31,10 @@
             <nav class="navMenu" id="navMenu">
               <ul>
                 <li>
-                  <a href="#">Home</a>
+                  <a href="../../../src/home/home.html">Home</a>
                 </li>
                 <li>
-                  <a href="#">Partidos</a>
+                  <a href="../../../src/matches/matches.html">Partidos</a>
                 </li>
                 <li>
                   <a href="#">Jugadores</a>
@@ -83,11 +84,17 @@
                     
                     <dt class="no-value">Hora</dt>
                     <dd id="match-hora"></dd>        
-                    
-                    <dt></dt>
-                    <dd class="value-lg" id="match-video">url</dd>
+                    <!--
+                      <dt></dt>
+                      <dd class="value-lg" id="match-video"> <i class="fas fa-camera"></i></dd>
+                    -->
                 </dl>
 
+                <div class="icon-container">
+                  <div class="icon-clicker" id="youtube-link">  
+                    <i class="fa-brands fa-youtube icon-yt" ></i>
+                  </div>
+                </div>
                 <p id="match-campo" class="campo-label">Especificaciones</p>
                 
                 <dl class="dl-horizontal clearfix">
@@ -131,7 +138,7 @@
             </div>
         </div>
             
-
+        <script src="https://kit.fontawesome.com/a1d3af8fdb.js" crossorigin="anonymous"></script>
         <script src="match.js"></script>
         <script src="../../main.js"></script>
         <script src="../../../intermediate/intermediate.js"></script>

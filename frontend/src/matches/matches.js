@@ -72,6 +72,9 @@ function GetLastMatches(){
     data.forEach(match => {
         const item = document.createElement('div');
         item.classList.add('grid-item');
+        item.addEventListener("click", function(){
+            window.location.href = "./match/match.html?id=" + match.partido;
+        });
 
         // Parte superior de la grid-item
         const topDiv = document.createElement('div');
@@ -79,7 +82,7 @@ function GetLastMatches(){
 
         // Enlace de Jornada
         const jornadaDiv = document.createElement('div');
-        const jornadaLink = document.createElement('a');
+        const jornadaLink = document.createElement('p');
         jornadaLink.href = "#"; // Asigna la URL apropiada si es necesario
         jornadaLink.classList.add('grid-a');
         if(typeof(match.jornada) == 'number'){
