@@ -126,3 +126,11 @@ function DB_GetInfoMatch(JornadaNum){
     return null;
 }
 //export {GetAllOntinyentMatches};
+
+
+//PLAYERS
+
+function DB_GetPlayers(){
+    let name_player = []
+    
+}
