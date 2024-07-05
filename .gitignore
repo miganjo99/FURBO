@@ -7,6 +7,6 @@ bin/
 *.exe
 output.json
 
-
+*.csv
 
 node_modules
