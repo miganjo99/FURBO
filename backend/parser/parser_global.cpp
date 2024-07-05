@@ -169,6 +169,15 @@ bool CheckFloat(std::string& value){
 }
 
 
+void tmp_func(std::string& v){
+    printf("%s ",v.c_str());
+    if(CheckFloat(v)){
+        printf("Es float\n");
+    }else{
+        printf("No es float\n");
+    }
+}
+
 
 int main(int argc, char** argv) {
     // Archivos de entrada y salida
@@ -217,14 +226,20 @@ int main(int argc, char** argv) {
         }
 
         std::string prueba_1 = "25.7";
-        std::string prueba_2 = "25,7";
-        std::string prueba_3 = "25,7a";
-        std::string prueba_4 = "a25,7";
-        std::string prueba_5 = "25,a7";
-        std::string prueba_6 = "25,7 ";
-        std::string prueba_7 = " 25,7";
-        std::string prueba_8 = "1a25,7";
-        std::string prueba_9 = "ole los caracoles";
+        std::string prueba_2 = ".25.7";
+        std::string prueba_3 = ",25.7";
+        std::string prueba_4 = "25,7";
+        std::string prueba_5 = "+25.7";
+        std::string prueba_6 = "-25.7";
+        std::string prueba_7 = "+25,7";
+        std::string prueba_8 = "-25,7a";
+        std::string prueba_9 = "a25,7";
+        std::string prueba_10 = "25,a7";
+        std::string prueba_11 = "25,7 ";
+        std::string prueba_12 = " 25,7";
+        std::string prueba_13 = "1a25,7";
+        std::string prueba_14 = "1Ta.uela en bo1es 'çaS";
+        std::string prueba_15 = "ole los caracoles";
 
         printf("%s\n",prueba_1.c_str());
         printf("%s\n",prueba_2.c_str());
@@ -236,59 +251,21 @@ int main(int argc, char** argv) {
         printf("%s\n",prueba_8.c_str());
         printf("%s\n",prueba_9.c_str());
 
-        if(CheckFloat(prueba_1)){
-            printf("Es float %s\n", prueba_1.c_str());
-        }else{
-            printf("No es float\n");
-        }
-        
-        if(CheckFloat(prueba_2)){
-            printf("Es float %s\n", prueba_2.c_str());
-        }else{
-            printf("No es float\n");
-        }
-        
-        if(CheckFloat(prueba_3)){
-            printf("Es float %s\n", prueba_3.c_str());
-        }else{
-            printf("No es float\n");
-        }
-        
-        if(CheckFloat(prueba_4)){
-            printf("Es float %s\n", prueba_4.c_str());
-        }else{
-            printf("No es float\n");
-        }
-        
-        if(CheckFloat(prueba_5)){
-            printf("Es float %s\n", prueba_5.c_str());
-        }else{
-            printf("No es float\n");
-        }
-        
-        if(CheckFloat(prueba_6)){
-            printf("Es float %s\n", prueba_6.c_str());
-        }else{
-            printf("No es float\n");
-        }
-        
-        if(CheckFloat(prueba_7)){
-            printf("Es float %s\n", prueba_7.c_str());
-        }else{
-            printf("No es float\n");
-        }
-        
-        if(CheckFloat(prueba_8)){
-            printf("Es float %s\n", prueba_8.c_str());
-        }else{
-            printf("No es float\n");
-        }
-        
-        if(CheckFloat(prueba_9)){
-            printf("Es float %s\n", prueba_9.c_str());
-        }else{
-            printf("No es float\n");
-        }
+        tmp_func(prueba_1);
+        tmp_func(prueba_2);
+        tmp_func(prueba_3);
+        tmp_func(prueba_4);
+        tmp_func(prueba_5);
+        tmp_func(prueba_6);
+        tmp_func(prueba_7);
+        tmp_func(prueba_8);
+        tmp_func(prueba_9);
+        tmp_func(prueba_10);
+        tmp_func(prueba_11);
+        tmp_func(prueba_12);
+        tmp_func(prueba_13);
+        tmp_func(prueba_14);
+        tmp_func(prueba_15);
         
 
         // Vector para almacenar los datos procesados
