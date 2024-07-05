@@ -15,6 +15,10 @@ function IN_GetMatch(ID){
     return API_GetMatch(ID);
 }
 
+
+function IN_GetPlayers(){
+    return API_GetPlayers();
+}
 //export {IN_GetLastMatches};
 
 // Example functions:
