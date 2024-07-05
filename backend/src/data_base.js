@@ -131,6 +131,5 @@ function DB_GetInfoMatch(JornadaNum){
 //PLAYERS
 
 function DB_GetPlayers(){
-    let name_player = []
-    
+    return players;     
 }

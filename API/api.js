@@ -10,4 +10,8 @@ function API_GetMatch(ID){
     return DB_GetMatch(ID);
 }
 
+function API_GetPlayers(){
+    return DB_GetPlayers();
+}
+
 //export {API_GetLastMatches};
