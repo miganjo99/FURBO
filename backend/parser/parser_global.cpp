@@ -169,12 +169,58 @@ bool CheckFloat(std::string& value){
 }
 
 
-void tmp_func(std::string& v){
-    printf("%s ",v.c_str());
-    if(CheckFloat(v)){
-        printf("Es float\n");
+bool checkInt(std::string& value){
+
+    bool first_letter = true;
+    bool first_num = true;
+    bool is_int = true;
+    
+    for(char& c : value){
+
+        // Si en algun momento detecto algo raro, ya no es un float
+        if(is_int){
+
+            if(first_letter){
+                // Primera letra, comprobamos si es un numero, si no lo es, comprobamos que tenga el signo, si tampoco tiene, no es un float
+                bool is_num = CheckIfNum(c);
+                
+
+                // Si no es un num, comprobar si tiene signo
+                if(!is_num){
+                    is_int = CheckSign(c);
+                }
+                first_letter = false;
+            }else{
+
+                //Comprobar que lo demas sean letras o . ,
+
+                if(first_num){
+                    // Es el primer num, no puede ser un . o ,
+                    is_int = CheckIfNum(c);
+                    first_num = false;
+                }else{
+                    
+                    // No es el primer num, puede ser un num o (.,)
+                    is_int = CheckIfNum(c);
+                }
+
+            }
+
+
+        }
+    }
+
+    return is_int;
+
+}
+
+void tmp_func(std::string value){
+
+    printf("%s ",value.c_str());
+    if(checkInt(value)){
+        printf("Es INT\n");
     }else{
-        printf("No es float\n");
+        printf("No es INT\n");
     }
 }
 
@@ -225,47 +271,34 @@ int main(int argc, char** argv) {
 
         }
 
-        std::string prueba_1 = "25.7";
-        std::string prueba_2 = ".25.7";
-        std::string prueba_3 = ",25.7";
-        std::string prueba_4 = "25,7";
-        std::string prueba_5 = "+25.7";
-        std::string prueba_6 = "-25.7";
-        std::string prueba_7 = "+25,7";
-        std::string prueba_8 = "-25,7a";
-        std::string prueba_9 = "a25,7";
-        std::string prueba_10 = "25,a7";
-        std::string prueba_11 = "25,7 ";
-        std::string prueba_12 = " 25,7";
-        std::string prueba_13 = "1a25,7";
-        std::string prueba_14 = "1Ta.uela en bo1es 'çaS";
-        std::string prueba_15 = "ole los caracoles";
 
-        printf("%s\n",prueba_1.c_str());
-        printf("%s\n",prueba_2.c_str());
-        printf("%s\n",prueba_3.c_str());
-        printf("%s\n",prueba_4.c_str());
-        printf("%s\n",prueba_5.c_str());
-        printf("%s\n",prueba_6.c_str());
-        printf("%s\n",prueba_7.c_str());
-        printf("%s\n",prueba_8.c_str());
-        printf("%s\n",prueba_9.c_str());
+        std::string value_1 = "1234";
+        std::string value_2 = "+1234";
+        std::string value_3 = "-1234";
+        std::string value_4 = "091234";
+        std::string value_5 = " 1234";
+        std::string value_6 = "1234 ";
+        std::string value_7 = "1234,";
+        std::string value_8 = ".1234 ";
+        std::string value_9 = "-.1234 ";
+        std::string value_10 = "+.1234 ";
+        std::string value_11 = "-a1234 ";
+        std::string value_12 = "a.1234 ";
 
-        tmp_func(prueba_1);
-        tmp_func(prueba_2);
-        tmp_func(prueba_3);
-        tmp_func(prueba_4);
-        tmp_func(prueba_5);
-        tmp_func(prueba_6);
-        tmp_func(prueba_7);
-        tmp_func(prueba_8);
-        tmp_func(prueba_9);
-        tmp_func(prueba_10);
-        tmp_func(prueba_11);
-        tmp_func(prueba_12);
-        tmp_func(prueba_13);
-        tmp_func(prueba_14);
-        tmp_func(prueba_15);
+        tmp_func(value_1);
+        tmp_func(value_2);
+        tmp_func(value_3);
+        tmp_func(value_4);
+        tmp_func(value_5);
+        tmp_func(value_6);
+        tmp_func(value_7);
+        tmp_func(value_8);
+        tmp_func(value_9);
+        tmp_func(value_10);
+        tmp_func(value_11);
+        tmp_func(value_12);
+
+        
         
 
         // Vector para almacenar los datos procesados
