@@ -168,6 +168,11 @@ bool CheckFloat(std::string& value){
     return is_float;
 }
 
+bool CheckBool(std::string& value){
+
+    return (value == "true" || value == "false" || value == "True" || value == "False");
+}
+
 
 bool checkInt(std::string& value){
 
@@ -217,10 +222,10 @@ bool checkInt(std::string& value){
 void tmp_func(std::string value){
 
     printf("%s ",value.c_str());
-    if(checkInt(value)){
-        printf("Es INT\n");
+    if(CheckBool(value)){
+        printf("Es BOOL\n");
     }else{
-        printf("No es INT\n");
+        printf("No es BOOL\n");
     }
 }
 
@@ -272,18 +277,16 @@ int main(int argc, char** argv) {
         }
 
 
-        std::string value_1 = "1234";
-        std::string value_2 = "+1234";
-        std::string value_3 = "-1234";
-        std::string value_4 = "091234";
-        std::string value_5 = " 1234";
-        std::string value_6 = "1234 ";
-        std::string value_7 = "1234,";
-        std::string value_8 = ".1234 ";
-        std::string value_9 = "-.1234 ";
-        std::string value_10 = "+.1234 ";
-        std::string value_11 = "-a1234 ";
-        std::string value_12 = "a.1234 ";
+       
+
+
+        std::string value_1 = "true";
+        std::string value_2 = "false";
+        std::string value_3 = "True";
+        std::string value_4 = "False";
+        std::string value_5 = " true";
+        std::string value_6 = " false";
+        std::string value_7 = " f a l s e";
 
         tmp_func(value_1);
         tmp_func(value_2);
@@ -292,11 +295,6 @@ int main(int argc, char** argv) {
         tmp_func(value_5);
         tmp_func(value_6);
         tmp_func(value_7);
-        tmp_func(value_8);
-        tmp_func(value_9);
-        tmp_func(value_10);
-        tmp_func(value_11);
-        tmp_func(value_12);
 
         
         
