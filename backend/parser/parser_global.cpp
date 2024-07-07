@@ -170,7 +170,11 @@ bool CheckFloat(std::string& value){
 
 bool CheckBool(std::string& value){
 
+    if(value == "True")value = "true";
+    if(value == "False")value = "false";
+    
     return (value == "true" || value == "false" || value == "True" || value == "False");
+
 }
 
 
