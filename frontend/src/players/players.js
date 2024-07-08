@@ -4,6 +4,8 @@ window.addEventListener("load", (event) => {
 });
 
 function GetPlayers() {
+
+
   let data = IN_GetPlayers(); 
 
   let cardGrid = document.querySelector('.card-grid-space'); 
@@ -29,11 +31,16 @@ function GetPlayers() {
       cardContent.appendChild(playerName);
       card.appendChild(cardContent);
 
-      cardGrid.appendChild(card);
+      cardGrid.appendChild(card); 
 
       card.playerData = jugador;
   });
 
+  // setTimeout(() => {
+    
+  //   initModal();
+  // }, 1000);
+  
   initModal();
 }
 
@@ -48,28 +55,24 @@ function initModal() {
   // Iterar sobre cada tarjeta para agregar el evento clic
   cards.forEach(function(card) {
       card.addEventListener('click', function(event) {
-          event.preventDefault(); // Evitar la acción predeterminada del enlace
-          event.stopPropagation(); // Evitar que el clic se propague y cierre el modal
+          event.preventDefault(); 
+          event.stopPropagation(); 
 
-          // Obtener los datos del jugador desde la tarjeta
           var player = this.playerData;
 
           console.log(player);
       
           updateModalContent(player);
 
-          // Mostrar el modal
-          modal.style.display = "block";
+          modal.style.display = "flex";
       });
   });
 
-  // Cerrar el modal al hacer clic en la X
   var closeBtn = modal.querySelector('.close');
   closeBtn.addEventListener('click', function() {
       modal.style.display = "none";
   });
 
-  // Cerrar el modal si se hace clic fuera del contenido del modal
   window.addEventListener('click', function(event) {
       if (event.target == modal) {
           modal.style.display = "none";
@@ -77,9 +80,7 @@ function initModal() {
   });
 }
 
-// Función para actualizar el contenido del modal con los detalles del jugador
 function updateModalContent(player) {
-
   console.log(player);
 
   var modalPlayerName = document.getElementById('modalPlayerName');
@@ -92,14 +93,28 @@ function updateModalContent(player) {
 
   playerDetails.innerHTML = '';
 
-  for (var key in player) {//modificar el modal más bonito!!!!!!!!!!!!!!
-      if (player.hasOwnProperty(key)) {
-          var listItem = document.createElement('li');
-          console.log("listItem");
-          console.log(listItem);
+  // Array de claves que deseas mostrar en el modal
+  var keysToShow = ['FEC. NAC.', 'LOCALIDAD', 'KMs', 'Posición', 'Min', 'Gol', 'Amarillas', 'Rojas'];
 
-          listItem.textContent = key + ': ' + player[key];
+  keysToShow.forEach(key => {
+      if (player.hasOwnProperty(key)) {
+
+        console.log(keysToShow);
+        console.log("keysToShow");
+
+          var listItem = document.createElement('li');
+
+          var keySpan = document.createElement('span');
+          keySpan.textContent = key + ': ';
+
+          var valueSpan = document.createElement('span');
+          valueSpan.textContent = player[key];
+
+          listItem.appendChild(keySpan);
+          listItem.appendChild(valueSpan);
+
           playerDetails.appendChild(listItem);
       }
-  }
+  });
 }
+
