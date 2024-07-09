@@ -1,361 +1,341 @@
-#include <stdio.h>
-#include <string>
-#include <vector>
 #include <iostream>
+#include <fstream>
+#include <sstream>
+#include <vector>
+#include <string>
 
-#include "include/Slurp.h"
+#include <stdio.h>
+
+
 #include "include/Threw.h"
 
+static char numbers[10] = {'0','1','2','3','4','5','6','7','8','9'};
 
-#define NUM_COLUMNS 21
-
-enum class LocalVisitante{
-    Local = 1,
-    Visitante = 2,
-    None = 3,
+static char rare_characters[27] = {
+    '/', ' ', '*', '!', '?', '¿', '¡', '@', '·', '#', '$', '~', '¬', '=', '|',
+    'ª', 'º', '\\', '<', '>', '-', ':', '}', '{', '[', ']', '┬'
 };
 
-enum class Dinamica{
-    Empatado = 1,
-    Perdido = 0,
-    Ganado = 2
-};
 
-struct Data{
-    std::string jugador_name;
-    std::string temporada;
-    //unsigned int jornada;
-    std::string jornada;
-    std::string rival_name;
-    std::string fecha;
-    LocalVisitante l_c;
-    std::string campo_name;
-    std::string tipo_partido; // Amistoso o nose que
-    //unsigned int categoria;
-    std::string categoria;
-    //Dinamica dinamica;
-    std::string dinamica;
-    bool titular;
-    bool suplente;
-    int minutos_jugados;
-    int amarilla;
-    int roja;
-    int goles;
-    bool gol_victoria;
-    int asistencias;
-    std::string fecha_nacimiento;
-    float edad;
-    int num_partidos;
+// Función para reemplazar los delimitadores en el archivo CSV
+void ReplaceDelimiters(const std::string& inputFilePath, const std::string& outputFilePath) {
+    std::ifstream inputFile(inputFilePath);
+    std::ofstream outputFile(outputFilePath);
 
-};
-
-void SaveColumValue(Data& data, std::string& value, unsigned int index){
-
-    switch(index){
-        case 0: data.jugador_name = value.c_str();break;
-        case 1: data.temporada = value.c_str();break;
-        //case 2: data.jornada = std::stoul(value);break;
-        case 2: data.jornada = value.c_str();break;
-        case 3: data.rival_name = value.c_str();break;
-        case 4: data.fecha = value.c_str();break;
-        case 5: data.l_c = value.c_str() == "Visitante" ? LocalVisitante::Visitante:LocalVisitante::Local;break;
-        case 6: data.campo_name = value.c_str();break;
-        case 7: data.tipo_partido = value.c_str();break;
-        case 8: data.categoria = value.c_str();break;
-        //case 9: if(value.c_str() == "Empatado"){data.dinamica = Dinamica::Empatado;}if(value.c_str() == "Ganado"){data.dinamica = Dinamica::Ganado;}if(value.c_str() == "Perdido"){data.dinamica = Dinamica::Perdido;};break;
-        case 9: data.dinamica = value.c_str();break;
-        case 10: data.titular = value.c_str()=="Si"?true:false;break;
-        case 11: data.suplente = value.c_str()=="Si"?true:false;break;
-        case 12: data.minutos_jugados = std::stoul(value.c_str());break;
-        case 13: data.amarilla = std::stoul(value.c_str());break;
-        case 14: data.roja = std::stoul(value.c_str());break;
-        case 15: data.goles = std::stoul(value.c_str());break;
-        case 16: data.gol_victoria = value.c_str() == "Si"?true:false;break;
-        case 17: data.asistencias = std::stoul(value.c_str());break;
-        case 18: data.fecha_nacimiento = value.c_str();break;
-        case 19: data.edad = std::stof(value.c_str());break;
-        case 20: data.num_partidos= std::stoul(value.c_str());break;
+    if (!inputFile.is_open()) {
+        std::cerr << "No se pudo abrir el archivo de entrada: " << inputFilePath << std::endl;
+        return;
+    }
+    if (!outputFile.is_open()) {
+        std::cerr << "No se pudo abrir el archivo de salida: " << outputFilePath << std::endl;
+        inputFile.close();
+        return;
     }
 
+    std::string line;
+    bool insideQuotes = false;
+
+    while (std::getline(inputFile, line)) {
+        std::string modifiedLine;
+
+        for (char ch : line) {
+            if (ch == '\"') {
+                insideQuotes = !insideQuotes;
+            } else if (ch == ',' && !insideQuotes) {
+                modifiedLine += ';'; // Reemplazar ',' por ';'
+            } else {
+                modifiedLine += ch;
+            }
+        }
+        outputFile << modifiedLine << '\n';
+    }
+
+    inputFile.close();
+    outputFile.close();
 }
 
-Data ProcessLine(std::string line, bool verbosity = false){
-    unsigned int index = 0;
-    bool all_columns = false;
-    std::size_t last_pos = 0;
-    Data data;
-    while(!all_columns){
+
+bool CheckCharacter(char c){
     
-        // Encuentrame ; a partir de last_pos
-        std::size_t separation = line.find(';', last_pos);
-        if(separation != std::string::npos){
-            // Encontrada separacion
-            std::string column_name = line.substr(last_pos, separation - last_pos);
-            if(verbosity)printf("%s - ", column_name.c_str());
-            last_pos = separation + 1;
-           if(verbosity) printf("Columna value-> %s \n", column_name.c_str());
+    bool correct_value = true;
 
-            /*
-            try{
-                double d = std::stod(column_name);
-                printf("Es double\n");
-            }catch(...){
-                printf("No es double\n");
-            }
-
-            try{
-                float f = std::stof(column_name);
-                printf("Es float\n");
-            }catch(...){
-
-                printf("No es float\n");
-            }
-
-            try{
-                int i = std::stoi(column_name);
-                printf("Es int\n");
-            }catch(...){
-                printf("No es int\n");
-            }
-            */
-
-
-
-            SaveColumValue(data, column_name,index);
-            index++;
-
-        }else{
-            // Todas las columnas encontradas
-            //printf("Ultima");
-            separation = line.find("\n", last_pos);
-            std::string column_name = line.substr(last_pos, separation - last_pos);
-            if(verbosity)printf("%s ;\n", column_name.c_str());
-            SaveColumValue(data, column_name,index);
-            all_columns = true;
+    for(char symbol : rare_characters){
+        if(c == symbol){
+            correct_value = false;
+            return correct_value;
         }
-        
     }
 
-    return data;
+    return correct_value;
+}
+
+// This function recives a line divided by ; and returns vector of each word inside ;
+void GetLineDividedBySingleWord(std::string line, std::vector<std::string>& all_words, bool check_char = true){
+    std::string column_value = "";
+    for(char c : line){
+
+        
+        // Si el caracter es ; lo añado al vector y reseteo el string
+        if(c == ';'){
+            all_words.push_back(column_value);
+            column_value = "";
+        }else{
+
+
+            // Si hay un caracter raro, lo cambio por _ y au
+            if(check_char){
+                if(CheckCharacter(c)){
+                    column_value += c; 
+                }else{
+                    column_value += "_";
+                }
+            }else{
+                column_value += c; 
+            }
+        }
+    }
+    all_words.push_back(column_value);
+}
+
+bool CheckIfNum(char c){
+
+    bool is_num = false;
+    for(char num : numbers){
+        if(num == c){
+            is_num = true;
+        }
+    }
+
+    return is_num;
+}
+bool CheckSign(char c){
+    return c == '+' || c == '-';
 }
 
 
-void ProcessLineColum(std::string line, std::vector<std::string>& data, bool verbosity = false){
-    unsigned int index = 0;
-    bool all_columns = false;
-    std::size_t last_pos = 0;
-    while(!all_columns){
+
+bool CheckFloat(std::string& value){
+
+    if(value.empty())return false;
+
+    bool first_letter = true;
+    bool first_num = true;
+    bool is_float = true;
     
-        // Encuentrame ; a partir de last_pos
-        std::size_t separation = line.find(';', last_pos);
-        if(separation != std::string::npos){
-            // Encontrada separacion
-            std::string column_name = line.substr(last_pos, separation - last_pos);
-            if(verbosity)printf("%s - \n", column_name.c_str());
-            last_pos = separation + 1;
-            //printf("%s\n", column_name.c_str());
-            data.push_back(column_name);
-            index++;
+    for(char& c : value){
 
-        }else{
-            // Todas las columnas encontradas
-            //printf("Ultima: \n");
-            //separation = line.find("\n", last_pos);
-            std::string column_name = line.substr(last_pos, line.size() - last_pos - 1);
-            if(verbosity)printf("%s FIN\n", column_name.c_str());
-            data.push_back(column_name);
-            all_columns = true;
+        // Si en algun momento detecto algo raro, ya no es un float
+        if(is_float){
+
+            if(first_letter){
+                // Primera letra, comprobamos si es un numero, si no lo es, comprobamos que tenga el signo, si tampoco tiene, no es un float
+                bool is_num = CheckIfNum(c);
+                
+
+                // Si no es un num, comprobar si tiene signo
+                if(!is_num){
+                    is_float = CheckSign(c);
+                }
+                first_letter = false;
+            }else{
+
+                //Comprobar que lo demas sean letras o . ,
+
+                if(first_num){
+                    // Es el primer num, no puede ser un . o ,
+                    is_float = CheckIfNum(c);
+                    first_num = false;
+                }else{
+                    
+                    // No es el primer num, puede ser un num o (.,)
+                    if(!CheckIfNum(c)){
+
+                        // Si no es un num, tiene que ser un ., o a la calle
+                        if(c == ','){
+                            
+                            // Es un float separado por , sigue siendo float pero ya que estoy lo cambio por un .
+                            c = '.';
+                        }else if(c != '.'){
+                            // No era una , y ahora tampoco es un . pues a tomar por culo
+                            is_float = false;
+                        }
+                    }
+                }
+
+            }
+
+
         }
-        
     }
 
+    return is_float;
+}
+
+bool CheckBool(std::string& value){
+
+    if(value.empty())return false;
+
+    if(value == "True")value = "true";
+    if(value == "False")value = "false";
+    
+    return (value == "true" || value == "false" || value == "True" || value == "False");
 
 }
 
-void CreateJSON(std::vector<std::string> colum_names, std::vector<Data> data, std::string& output){
 
-    output = "const data_matches = [";
+bool CheckInt(std::string& value){
 
-    std::string jornada_prefix = "J";
-    std::string jornada_prefix_2 = "Semifinales";
+    if(value.empty())return false;
+
+    bool first_letter = true;
+    bool first_num = true;
+    bool is_int = true;
+    
+    for(char& c : value){
+
+        // Si en algun momento detecto algo raro, ya no es un float
+        if(is_int){
+
+            if(first_letter){
+                // Primera letra, comprobamos si es un numero, si no lo es, comprobamos que tenga el signo, si tampoco tiene, no es un float
+                bool is_num = CheckIfNum(c);
+                
+
+                // Si no es un num, comprobar si tiene signo
+                if(!is_num){
+                    is_int = CheckSign(c);
+                }
+                first_letter = false;
+            }else{
+
+                //Comprobar que lo demas sean letras o . ,
+
+                if(first_num){
+                    // Es el primer num, no puede ser un . o ,
+                    is_int = CheckIfNum(c);
+                    first_num = false;
+                }else{
+                    
+                    // No es el primer num, puede ser un num o (.,)
+                    is_int = CheckIfNum(c);
+                }
+
+            }
 
 
-    unsigned int index = 0;
-
-    for(Data& value : data){
-        //Data& value = data[2984];
-        output = output + "\n";
-        output = output + "{\n";
-
-        output += "\"" + colum_names[0] + "\" : \"";
-        output += value.jugador_name.c_str();
-        output += "\",\n";
-
-        output += "\"" + colum_names[1] + "\" : \"";
-        output += value.temporada.c_str();
-        output += "\",\n";
-        
-        output += "\"" + colum_names[2] + "\" : ";
-        if(value.jornada.substr(0, jornada_prefix.size()) == jornada_prefix){ // Comprobar si la jornada empieza por J
-            value.jornada.erase(0, jornada_prefix.size());
-            output += std::to_string(std::stoul(value.jornada.c_str() ) );
-
-        }else if(value.jornada.find('/') != std::string::npos || value.jornada.substr(0, jornada_prefix_2.size()) == jornada_prefix_2){ // Comprobar si la jornada es alguna 1/64 malvada o algun Semifinal del demonio
-
-            output += "\"" + value.jornada + "\"";
-        }else{
-        
-            output += std::to_string(std::stoul(value.jornada.c_str() ) );
         }
-
-        output += ",\n";
-
-
-        
-        
-        output += "\"" + colum_names[3] + "\" : \"";
-        output += value.rival_name.c_str();
-        output += "\",\n";
-
-        output += "\"" + colum_names[4] + "\" : \"";
-        output += value.fecha.c_str();
-        output += "\",\n";
-
-        output += "\"" + colum_names[5] + "\" : \"";
-        output += value.rival_name.c_str();
-        output += "\",\n";
-
-        output += "\"" + colum_names[6] + "\" : \"";
-        output += value.campo_name.c_str();
-        output += "\",\n";
-
-        output += "\"" + colum_names[7] + "\" : \"";
-        output += value.tipo_partido.c_str();
-        output += "\",\n";
-
-        output += "\"" + colum_names[8] + "\" : \"";
-        output += value.categoria.c_str();
-        output += "\",\n";
-
-        output += "\"" + colum_names[9] + "\" : \"";
-        std::string tmp;
-       
-        /*switch (value.dinamica){
-            case Dinamica::Perdido: tmp = "Perdido";break;
-            case Dinamica::Ganado: tmp = "Ganado";break;
-            case Dinamica::Empatado: tmp = "Empatado";break;
-        }
-        output += tmp.c_str();
-        */
-        output += value.dinamica.c_str();
-        output += "\",\n";
-
-        output += "\"" + colum_names[10] + "\" : ";
-        value.titular?tmp="true":tmp="false";
-        output += tmp.c_str();
-        output += ",\n";
-
-        output += "\"" + colum_names[11] + "\" : ";
-        value.suplente?tmp="true":tmp="false";
-        output += tmp.c_str();
-        output += ",\n";
-
-        output += "\"" + colum_names[12] + "\" : ";
-        output += std::to_string(value.minutos_jugados);
-        output += ",\n";
-        
-        output += "\"" + colum_names[13] + "\" : ";
-        output += std::to_string(value.amarilla);
-        output += ",\n";
-        
-        output += "\"" + colum_names[14] + "\" : ";
-        output += std::to_string(value.roja);
-        output += ",\n";
-        
-        output += "\"" + colum_names[15] + "\" : ";
-        output += std::to_string(value.goles);
-        output += ",\n";
-       
-        output += "\"" + colum_names[16] + "\" : ";
-        tmp = value.gol_victoria?"true":"false";
-        output += tmp.c_str();
-        output += ",\n";
-
-        output += "\"" + colum_names[17] + "\" : ";
-        output += std::to_string(value.asistencias);
-        output += ",\n";
-
-        output += "\"" + colum_names[18] + "\" : \"";
-        output += value.fecha_nacimiento.c_str();
-        output += "\",\n";
-        
-        output += "\"" + colum_names[19] + "\" : ";
-        output += std::to_string(value.edad);
-        output += ",\n";
-        
-        output += "\"" + colum_names[20] + "\" : ";
-        output += std::to_string(value.edad);
-        output += "\n";
-
-        output = output + "},";
-
-        index++;
     }
 
-    // Borrar ultimo elemento de la string
+    return is_int;
+
+}
+
+void tmp_func(std::string value){
+
+    printf("%s ",value.c_str());
+    if(CheckBool(value)){
+        printf("Es BOOL\n");
+    }else{
+        printf("No es BOOL\n");
+    }
+}
+
+bool CreateJSON(const std::vector<std::string>& columnas, std::vector<std::string>& filas, std::string& output){
+    if(columnas.size() != filas.size()) return false;
+
+    bool is_null = false;
+    output += "\n{\n";
+
+    for(int i = 0; i < columnas.size(); i++){
+        output += "\"" + columnas[i] + "\" : ";
+
+
+        if(CheckFloat(filas[i])){
+            output += filas[i];
+        }else if(CheckInt(filas[i])){
+            output += filas[i];
+        }else if(CheckBool(filas[i])){
+            output += filas[i];
+        }else{
+            if(filas[i].empty()){ 
+                output += "null";
+            }else{
+                output += "\"" + filas[i] + "\"";
+            }
+        }
+
+        output += ",\n";
+    }
+
     output.pop_back();
-
-
-    output += "\n]";
+    output += "\n},";
+    return true;
 }
 
-int main(int argc, char** argv){
 
-    And::Slurp slurp{"assets/data.csv"};
+int main(int argc, char** argv) {
+    // Archivos de entrada y salida
+    printf("Penne\n");
+    if(argc > 1){
 
-    char* data = slurp.data();
-    std::string data_s = std::string(data);
-    //printf("Data:\n%s",data_s.c_str());
-    
-    // Guardamos linea por linea en formato string
-    std::vector<std::string> lines;
-    std::size_t pos = 0;
-    printf("Saving each line...\n");
-    while ((pos = data_s.find("\n", pos)) != std::string::npos) {
-        std::string line = data_s.substr(0, pos);
-        //printf("Line-> %s\n", line.c_str());
-        lines.push_back(line);
-        data_s.erase(0, pos + 1);
-        pos = 0;
+        std::string inputFilePath = "../assets/" + std::string(argv[1]) + ".csv";
+        std::string outputFilePath = "../assets/" + std::string(argv[1]) +"_parsed.csv";
+
+        printf("Input file [%s]\n Output file[%s]\n", inputFilePath.c_str(), outputFilePath.c_str());
+
+        // Reemplazar delimitadores en el archivo CSV
+        ReplaceDelimiters(inputFilePath, outputFilePath);
+
+        // Leer el archivo procesado
+        std::ifstream inputFile(outputFilePath);
+        if (!inputFile.is_open()) {
+            std::cerr << "No se pudo abrir el archivo de entrada: " << outputFilePath << std::endl;
+            return 1;
+        }
+
+
+        // Get columnas
+        std::vector<std::string> columnas;
+
+        std::string line;
+        std::getline(inputFile, line);
+        //printf("%s\n", line.c_str());
+
+        GetLineDividedBySingleWord(line, columnas);
+       
+
+        //printf("Lines separated:\n");
+        /*for(std::string v : columnas){
+            printf("%s\n", v.c_str());
+        }*/
+
+        std::string output_json = "const data_" + std::string(argv[1]) + " = [";
+
+        // Ya tengo las columnas, ahora el valor
+        while(std::getline(inputFile, line)){
+            std::vector<std::string> values;
+            GetLineDividedBySingleWord(line, values, false);
+            
+            // Printear el json aqui, tengo las columnas y aqui itero cada uno de los datos
+            if(!CreateJSON(columnas, values, output_json)){
+                printf("\n ***** Algo no ha salido como se esperaba... *****\n");
+            }
+        }
+
+        // Quitamos la coma
+        output_json.pop_back();
+        output_json += "\n]"; 
+
+        printf("JSON completed!\n");
+        
+        printf("Writing file...\n");
+        And::Threw t{argv[1], output_json, ".js"};
+        printf("File writed succesfully!");
+
+        
+    }else{
+        printf("Requerido nombre del archivo csv\n");
     }
 
-
-    std::string columns = lines.front();
-    //printf("Column names-> %s\n", columns.c_str());
-    lines.erase(lines.begin());
-    std::vector<std::string> column_names;
-    ProcessLineColum(columns, column_names);
-  
-    
-    // Procesamos cada linea y la guardamos en la struct Data
-    printf("Procesing each line...\n");
-    std::vector<Data> all_data_processed;
-    for(auto& line : lines ){
-        Data line_processed = ProcessLine(line);
-        all_data_processed.push_back(line_processed);
-    }
-
-    printf("*** All lines pocessed ***\n");
-
-
-    std::string output;
-    CreateJSON(column_names, all_data_processed, output);
-
-    printf("Json completed:\n");
-    //printf("%s \n", output);
-
-
-    And::Threw t{"output", output, ".js"};
-    
     return 0;
 }
