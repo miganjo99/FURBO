@@ -230,16 +230,6 @@ bool CheckInt(std::string& value){
 
 }
 
-void tmp_func(std::string value){
-
-    printf("%s ",value.c_str());
-    if(CheckBool(value)){
-        printf("Es BOOL\n");
-    }else{
-        printf("No es BOOL\n");
-    }
-}
-
 bool CreateJSON(const std::vector<std::string>& columnas, std::vector<std::string>& filas, std::string& output){
     if(columnas.size() != filas.size()) return false;
 
@@ -275,13 +265,13 @@ bool CreateJSON(const std::vector<std::string>& columnas, std::vector<std::strin
 
 int main(int argc, char** argv) {
     // Archivos de entrada y salida
-    printf("Penne\n");
+
     if(argc > 1){
 
         std::string inputFilePath = "../assets/" + std::string(argv[1]) + ".csv";
         std::string outputFilePath = "../assets/" + std::string(argv[1]) +"_parsed.csv";
 
-        printf("Input file [%s]\n Output file[%s]\n", inputFilePath.c_str(), outputFilePath.c_str());
+        printf("Input file [%s]\nOutput file[%s]\n", inputFilePath.c_str(), outputFilePath.c_str());
 
         // Reemplazar delimitadores en el archivo CSV
         ReplaceDelimiters(inputFilePath, outputFilePath);
@@ -299,15 +289,8 @@ int main(int argc, char** argv) {
 
         std::string line;
         std::getline(inputFile, line);
-        //printf("%s\n", line.c_str());
 
         GetLineDividedBySingleWord(line, columnas);
-       
-
-        //printf("Lines separated:\n");
-        /*for(std::string v : columnas){
-            printf("%s\n", v.c_str());
-        }*/
 
         std::string output_json = "const data_" + std::string(argv[1]) + " = [";
 
@@ -334,7 +317,7 @@ int main(int argc, char** argv) {
 
         
     }else{
-        printf("Requerido nombre del archivo csv\n");
+        printf("\nRequerido nombre del archivo csv\n");
     }
 
     return 0;
