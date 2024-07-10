@@ -1,0 +1,11 @@
+1º Descargar los nuevos csv
+
+2º Mover los csv a la carpeta backend/parser/assets/
+
+3º Ejecutar "parser.exe" dentro de la carpeta backend/parser/bin/ desde la consola pasandole el nombre del fichero que quieres parsear
+
+4º Los archivos generados estan en la carpeta bin, y tienen la extension ".js", mover esos archivos a la carpeta backend/src/data/
+
+5º Ejecutar .sh para subir los cambios
+
+chmod +x update_excel.sh
