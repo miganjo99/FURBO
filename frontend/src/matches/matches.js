@@ -10,7 +10,7 @@ window.addEventListener("load", (event) => {
 
 
 function GetLastMatches(){
-    let data = IN_GetLastMatches(5);
+    let data = IN_GetLastMatches(50);
     console.log(data);
 
     const table = document.getElementById("match-table-body");
