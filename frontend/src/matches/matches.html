@@ -8,6 +8,8 @@
         <link rel="stylesheet" type="text/css" href="../main.css">
         <link rel="stylesheet" type="text/css" href="matches.css">
         <link rel="stylesheet" type="text/css" href="../styles/nav.css">
+        <!--
+        -->
     </head>
 
     <body>
@@ -58,21 +60,21 @@
                 <h1>Últimos partidos</h1>
                 <div class="controls">
                     <button class="filter-btn" data-status="all">All</button>
-                    <button class="filter-btn" data-status="cancelled">Cancelled</button>
-                    <button class="filter-btn" data-status="shipped">Shipped</button>
-                    <button class="filter-btn" data-status="delivered">Delivered</button>
+                    <button class="filter-btn" data-status="cancelled">Ganados</button>
+                    <button class="filter-btn" data-status="shipped">Perdidos</button>
+                    <button class="filter-btn" data-status="delivered">Empatados</button>
                     <button class="sort-btn">Sort by Date</button>
-                    <input type="text" class="search-input" placeholder="Search orders...">
+                    <input type="text" class="search-input" placeholder="Buscar rival...">
                 </div>
                 <div class="table-container" id="matches-tables-pc">
                     <table class="table">
                         <thead class="table-header">
                             <tr class="table-header-row">
-                                <th class="key-heading">No.</th>
-                                <th class="details-heading">Details</th>
-                                <th class="status-heading">Status</th>
-                                <th class="date-heading">Date</th>
-                                <th class="price-heading">Total</th>
+                                <th class="key-heading">Jornada</th>
+                                <th class="details-heading">Equipos</th>
+                                <th class="status-heading">Estado</th>
+                                <th class="date-heading">Fecha</th>
+                                <th class="price-heading">Resultado</th>
                             </tr>
                         </thead>
                         <tbody id="match-table-body">
@@ -83,25 +85,15 @@
                                 <td><span class="shipped-status">Ganado</span></td>
                                 <td>20/05/2023</td>
                                 <td>2 - 1</td>
-                            </tr>
-                            <!--<tr class="tr-even">
-                                <td><a href="#">1000</a></td>
-                                <td>Kring New Fit Office Chair, Mesh + PU, Black</td>
-                                <td><span class="cancelled-status">Cancelled</span></td>
-                                <td>10/10/2021</td>
-                                <td>$200.00</td>
-                            </tr>
-                            <tr>
-                                <td><a href="#">1002</a></td>
-                                <td>Executive Leather Office Chair, Brown</td>
-                                <td><span class="delivered-status">Delivered</span></td>
-                                <td>12/10/2021</td>
-                                <td>$180.00</td>
-                            </tr>       
-                        -->         
+                            </tr>  
                         </tbody>
                     </table>
                 </div> 
+
+
+
+
+
                 <div class="grid-container" id="matches-tables-mobile">
                     <div class="grid-item">
                         <div class="grid-top">

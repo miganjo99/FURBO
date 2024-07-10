@@ -65,7 +65,7 @@ a:hover {
 }
 
 button {
-    background-color: var(--accent-color);
+    background-color: var(--primary-color);
     color: var(--terciary-color);
     padding: calc(var(--spacing-unit) * 1.5) calc(var(--spacing-unit) * 2);
     border: none;

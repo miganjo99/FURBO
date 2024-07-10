@@ -13,7 +13,7 @@ function GetLastMatches(){
     let data = IN_GetLastMatches(5);
     console.log(data);
 
-    const table = document.getElementById("matches-tables-pc");
+    const table = document.getElementById("match-table-body");
     table.innerHTML = '';
 
     // Si estamos en pc
@@ -38,15 +38,17 @@ function GetLastMatches(){
         // Columna de Dinámica con clase
         const dynamicCell = document.createElement('td');
         const dynamicSpan = document.createElement('span');
-        dynamicSpan.classList.add('shipped-status'); // Cambiar la clase según la dinámica
+        //dynamicSpan.classList.add('shipped-status'); // Cambiar la clase según la dinámica
         if (match.dinamica === 'Ganado') {
-            dynamicSpan.classList.add('shipped-status');
+            dynamicSpan.classList.add('delivered-status');
             dynamicSpan.textContent = 'Ganado';
+
         } else if (match.dinamica === 'Perdido') {
             dynamicSpan.classList.add('cancelled-status');
             dynamicSpan.textContent = 'Perdido';
+
         } else if (match.dinamica === 'Empatado') {
-            dynamicSpan.classList.add('delivered-status');
+            dynamicSpan.classList.add('shipped-status');
             dynamicSpan.textContent = 'Empatado';
         }
         dynamicCell.appendChild(dynamicSpan);
