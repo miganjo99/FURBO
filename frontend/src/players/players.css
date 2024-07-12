@@ -21,8 +21,47 @@
     padding: 50px !important;
   }
   
-  .card {
+  .card-grid-space{
+
+  /* display:inline;
+  flex-flow:column;
+  justify-content: center !important;
+  align-content: center !important;
+  align-items: center !important; */
+
+
+
+  display: flex;
+ flex-flow: 
+column
+ 
+nowrap
+;
+flex-direction: 
+column
+;
+flex-wrap: 
+nowrap
+;
+justify-content: 
+center
+;
+align-content: 
+flex-end
+;
+align-items: 
+center
+;
+}
+
+
+
   
+
+
+
+  .card {
+    margin: 80px;
     --bg-filter-opacity: 0.5;
     background-image: linear-gradient(rgba(0,0,0,var(--bg-filter-opacity)),rgba(0,0,0,var(--bg-filter-opacity))), var(--bg-img);
     height: 20em;
@@ -204,6 +243,8 @@
   align-items: center;
   justify-content: center;
   display: none;
+
+  
 }
 
 /* Contenido del modal */
@@ -215,7 +256,7 @@
   box-shadow: 0 0 0.5rem rgba(39, 38, 38, 0.1);
   width: 80%;
   max-width: 600px;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
   margin-top: 150px;
     margin-left: 25px;
 }

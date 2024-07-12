@@ -1,19 +1,24 @@
+
+import { initModal } from '../utils/modal.js';
+
 window.addEventListener("load", (event) => {
   console.log("page is fully loaded");
   GetPlayers();
+
+
+  initModal("playerModal", updatePlayerModalContent);
+
 });
 
 function GetPlayers() {
+  let data = IN_GetPlayers();
 
-
-  let data = IN_GetPlayers(); 
-
-  let cardGrid = document.querySelector('.card-grid-space'); 
+  let cardGrid = document.querySelector('.card-grid-space');
 
   data.forEach((jugador, index) => {
       let card = document.createElement('a');
       card.setAttribute('class', 'card');
-      card.setAttribute('href', ''); 
+      card.setAttribute('href', '#');
 
       console.log(jugador.JUGADOR);
 
@@ -31,56 +36,19 @@ function GetPlayers() {
       cardContent.appendChild(playerName);
       card.appendChild(cardContent);
 
-      cardGrid.appendChild(card); 
+      cardGrid.appendChild(card);
 
-      card.playerData = jugador;
-  });
-
-  // setTimeout(() => {
-    
-  //   initModal();
-  // }, 1000);
-  
-  initModal();
-}
-
-function initModal() {
-  var modal = document.getElementById("playerModal");
-  var modalContent = modal.querySelector('.modal-content');
-  
-  console.log(modalContent);
-  var cards = document.querySelectorAll('.card');
-
-  console.log(cards);  
-  // Iterar sobre cada tarjeta para agregar el evento clic
-  cards.forEach(function(card) {
-      card.addEventListener('click', function(event) {
-          event.preventDefault(); 
-          event.stopPropagation(); 
-
-          var player = this.playerData;
-
-          console.log(player);
-      
-          updateModalContent(player);
-
-          modal.style.display = "flex";
-      });
-  });
-
-  var closeBtn = modal.querySelector('.close');
-  closeBtn.addEventListener('click', function() {
-      modal.style.display = "none";
-  });
-
-  window.addEventListener('click', function(event) {
-      if (event.target == modal) {
-          modal.style.display = "none";
-      }
+      card.data = jugador; // Asignar los datos del jugador a la tarjeta
   });
 }
 
-function updateModalContent(player) {
+
+function updatePlayerModalContent(player) {
+  if (!player) {
+      console.error('No player data found');
+      return;
+  }
+
   console.log(player);
 
   var modalPlayerName = document.getElementById('modalPlayerName');
@@ -93,14 +61,12 @@ function updateModalContent(player) {
 
   playerDetails.innerHTML = '';
 
-  // Array de claves que deseas mostrar en el modal
   var keysToShow = ['FEC. NAC.', 'LOCALIDAD', 'KMs', 'Posición', 'Min', 'Gol', 'Amarillas', 'Rojas'];
 
   keysToShow.forEach(key => {
       if (player.hasOwnProperty(key)) {
-
-        console.log(keysToShow);
-        console.log("keysToShow");
+          console.log(keysToShow);
+          console.log("keysToShow");
 
           var listItem = document.createElement('li');
 
