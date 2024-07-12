@@ -6,7 +6,7 @@ window.addEventListener("load", (event) => {
   GetPlayers();
 
 
-  initModal("playerModal", updatePlayerModalContent);
+  //initModal("playerModal", updatePlayerModalContent);
 
 });
 
@@ -15,6 +15,14 @@ function GetPlayers() {
 
   let cardGrid = document.querySelector('.card-grid-space');
 
+  // let objectModal{
+  //   title : String,
+  //   imgURL : String,
+  //   description : String,
+  //   footer : String
+  // }
+
+
   data.forEach((jugador, index) => {
       let card = document.createElement('a');
       card.setAttribute('class', 'card');
@@ -22,7 +30,11 @@ function GetPlayers() {
 
       console.log(jugador.JUGADOR);
 
-      let bgImage = `url('../../data/images/jugadores/${jugador.JUGADOR}.jpg')`;
+
+      let jugadorNombre = jugador.JUGADOR.replace(/\s+/g, '_');
+
+
+      let bgImage = `url('../../data/images/jugadores/${jugadorNombre}.jpg')`;
 
       console.log(bgImage);
 
@@ -39,48 +51,70 @@ function GetPlayers() {
       cardGrid.appendChild(card);
 
       card.data = jugador; // Asignar los datos del jugador a la tarjeta
-  });
-}
+
+      console.log(jugador["FEC._NAC."]);
+
+      let modal_data = {
+        Titulo: jugador.JUGADOR,
+        Descripcion:[jugador.LOCALIDAD, jugador.Nombre_Completo, jugador.Gol, jugador.Asi],
+        Footer: jugador["FEC._NAC."] 
 
 
-function updatePlayerModalContent(player) {
-  if (!player) {
-      console.error('No player data found');
-      return;
-  }
-
-  console.log(player);
-
-  var modalPlayerName = document.getElementById('modalPlayerName');
-  var playerDetails = document.getElementById('playerDetails');
-
-  console.log(modalPlayerName);
-  console.log(playerDetails);
-
-  modalPlayerName.textContent = player.JUGADOR;
-
-  playerDetails.innerHTML = '';
-
-  var keysToShow = ['FEC. NAC.', 'LOCALIDAD', 'KMs', 'Posición', 'Min', 'Gol', 'Amarillas', 'Rojas'];
-
-  keysToShow.forEach(key => {
-      if (player.hasOwnProperty(key)) {
-          console.log(keysToShow);
-          console.log("keysToShow");
-
-          var listItem = document.createElement('li');
-
-          var keySpan = document.createElement('span');
-          keySpan.textContent = key + ': ';
-
-          var valueSpan = document.createElement('span');
-          valueSpan.textContent = player[key];
-
-          listItem.appendChild(keySpan);
-          listItem.appendChild(valueSpan);
-
-          playerDetails.appendChild(listItem);
       }
+
+
+
+     card.addEventListener("click",function(){
+      
+      
+      initModal(modal_data)
+
+
+     })
+
+
   });
 }
+
+
+// function updatePlayerModalContent(player) {
+//   if (!player) {
+//       console.error('No player data found');
+//       return;
+//   }
+
+//   console.log(player);
+
+//   var modalPlayerName = document.getElementById('modalPlayerName');
+//   var playerDetails = document.getElementById('playerDetails');
+
+//   console.log(modalPlayerName);
+//   console.log(playerDetails);
+
+//   modalPlayerName.textContent = player.JUGADOR;
+
+//   playerDetails.innerHTML = '';
+
+//   var keysToShow = ['FEC. NAC.', 'LOCALIDAD', 'KMs', 'Posición', 'Min', 'Gol', 'Amarillas', 'Rojas'];
+
+//   keysToShow.forEach(key => {
+//       if (player.hasOwnProperty(key)) {
+//           console.log(keysToShow);
+//           console.log("keysToShow");
+
+//           var listItem = document.createElement('li');
+
+//           var keySpan = document.createElement('span');
+//           keySpan.textContent = key + ': ';
+
+//           var valueSpan = document.createElement('span');
+//           valueSpan.textContent = player[key];
+
+//           listItem.appendChild(keySpan);
+//           listItem.appendChild(valueSpan);
+
+//           playerDetails.appendChild(listItem);
+//       }
+//   });
+// }
 

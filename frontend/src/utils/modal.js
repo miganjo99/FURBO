@@ -1,25 +1,27 @@
-export function initModal(modalId, updateContentCallback) {
-    var modal = document.getElementById(modalId);
-    var modalContent = modal.querySelector('.modal-content');
+export function initModal(data) {//objectModal
 
-    console.log(modalContent);
 
-    var cards = document.querySelectorAll('.card');
-    console.log(cards);
+    console.log(data);
 
-    cards.forEach(function(card) {
-        card.addEventListener('click', function(event) {
-            event.preventDefault(); 
-            event.stopPropagation(); 
+    var modal = document.getElementById("playerModal");
 
-            var data = this.data;
-            console.log(data);
+    // Actualizar el contenido del modal
+    var modalTitle = document.getElementById('modalPlayerName');
+    var modalDescription = document.getElementById('playerDetails');
+    var modalFooter = document.getElementById('modalFooter');
 
-            updateContentCallback(data);
+    modalTitle.textContent = data.Titulo;
 
-            modal.style.display = "flex";
-        });
+    modalDescription.innerHTML = '';
+    data.Descripcion.forEach(desc => {
+        var listItem = document.createElement('li');
+        listItem.textContent = desc;
+        modalDescription.appendChild(listItem);
     });
+
+    modalFooter.textContent = data.Footer;
+
+    modal.style.display = "flex";
 
     var closeBtn = modal.querySelector('.close');
     closeBtn.addEventListener('click', function() {
@@ -31,4 +33,9 @@ export function initModal(modalId, updateContentCallback) {
             modal.style.display = "none";
         }
     });
+
+    
+
+
+    
 }
