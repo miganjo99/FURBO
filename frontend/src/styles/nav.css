@@ -250,6 +250,130 @@
     .navTrigger {
         display: none;
     }
+
+    
+    .menu-background{
+      height: 8vw;
+    }
+    
+  
+   
+    .escudo_img{
+
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 0;
+      width: 15%;
+      background: none;
+      border: 0;
+      padding: 0;
+      margin: 5px;
+      outline: none;
+      border: none;
+      cursor: pointer;
+      -webkit-appearence: none;
+      -webkit-tap-highlight-color: transparent;
+      transition: all 0.375s;
+    }
+
+    .navMenu-pc{
+      position: absolute;
+      top: 0;
+      right: 0;
+      margin-right: 5%;
+      margin-top: 2%;
+    }
+
+    .navMenu-pc ul{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      align-content: center;
+      align-items: center;
+      justify-content: space-around;
+      font-size: 1.4vw;
+      list-style-type: none;
+    }
+    .navMenu-pc ul li{
+      margin-right: 50px;
+      
+    }
+    
+    .navMenu-pc a{
+      text-decoration: none;
+    }
+
+    /*
+    
+    .navMenu-pc a:hover{
+      text-decoration: none;
+      color: var(--terciary_color);
+      cursor: pointer;
+    }
+    
+    .navMenu-pc ul li:hover{
+      cursor: pointer;
+    }
+
+    */
+
+
+    .links {
+      zoom: 1;
+      padding: 50px;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+      text-align: center;
+      background: #313131;
+    }
+    .links:before, .links:after {
+      content: "";
+      display: table;
+    }
+    .links:after {
+      clear: both;
+    }
+
+
+    /* Effect 5: same word slide in */
+    .link-effect-2 {
+      overflow: hidden;
+    }
+    .link-effect-2 a {
+      overflow: hidden;
+      padding: 20px;
+      height: 1em;
+      color: #797878;
+      font-weight: 400;
+    }
+    .link-effect-2 a span {
+      position: relative;
+      display: inline-block;
+      -moz-transition: 0.3s;
+      -o-transition: 0.3s;
+      -webkit-transition: 0.3s;
+      transition: 0.3s;
+    }
+    .link-effect-2 a span::before {
+      color: white;
+      position: absolute;
+      top: 100%;
+      content: attr(data-hover);
+      font-weight: 800;
+      -moz-transform: translate3d(0, 0, 0);
+      -ms-transform: translate3d(0, 0, 0);
+      -webkit-transform: translate3d(0, 0, 0);
+      transform: translate3d(0, 0, 0);
+    }
+    .link-effect-2 a:hover span {
+      -moz-transform: translateY(-100%);
+      -ms-transform: translateY(-100%);
+      -webkit-transform: translateY(-100%);
+      transform: translateY(-100%);
+    }
+
 }  
 
 @media (max-width: 1024px) {
@@ -261,6 +385,10 @@
   .navTrigger {
       /*width: calc(2.5 * 36px);
       height: calc(2.5 * 36px);*/
+  }
+
+  .navMenu-pc{
+    display: none;
   }
 }
 
