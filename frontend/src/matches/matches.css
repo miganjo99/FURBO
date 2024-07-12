@@ -178,6 +178,7 @@ a:hover{
     -moz-box-shadow: 7px 7px 3px 0px var(--primary-color);
     /*box-shadow: 7px 7px 3px 0px rgba(0,0,0,0.75);*/
     margin-bottom: 1rem;
+    max-width: 75vw;
 }
 
 .grid-top{
@@ -197,6 +198,10 @@ a:hover{
     font-size: 0.875rem; 
     color: #4b5563;
     margin-bottom: .5rem;
+    max-width: 100%; 
+    overflow: hidden;
+    white-space: nowrap;
+    /*text-overflow: ellipsis;*/
 }
 
 .grid-price{
@@ -223,7 +228,7 @@ a:hover{
 .grid-item *{
     font-size: 4.5vw !important;
     white-space: nowrap !important;
-    overflow: hidden !important;
+    /*overflow: hidden !important;*/
     text-overflow: ellipsis !important;
 }
 @media (min-width: 1024px) {
@@ -302,6 +307,7 @@ a:hover{
     
     table {
         width: 100%;
+        border-collapse: collapse;
     }
 
     table *{
@@ -312,12 +318,21 @@ a:hover{
         font-size: 20px;
     }
 
+    th, td{
+        border-bottom: 1px solid var(--secondary-color);
+    }
+
 
     .cancelled-status, .shipped-status, .delivered-status{
         padding: 0.375rem; 
         font-size: 1.3rem; 
         font-weight: 500; 
     
+    }
+
+
+    .table-header-row th{
+        background-color: var(--primary-color);
     }
     
 
