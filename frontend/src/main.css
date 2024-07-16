@@ -56,16 +56,12 @@ p {
 }
 
 a {
-    color: var(--accent-color);
     text-decoration: none;
 }
 
-a:hover {
-    color: var(--primary-color);
-}
 
 button {
-    background-color: var(--accent-color);
+    background-color: var(--primary-color);
     color: var(--terciary-color);
     padding: calc(var(--spacing-unit) * 1.5) calc(var(--spacing-unit) * 2);
     border: none;
@@ -114,7 +110,7 @@ th {
 }
 
 tr:nth-child(even) {
-    /*background-color: var(--terciary-color);*/
+    background-color: #e5e5e5;
 }
 
 tr:nth-child(odd) {
@@ -170,7 +166,7 @@ tr:nth-child(odd) {
 }
 
 @media (max-width: 420px) {
-
+    
     body{
         font-size: calc(var(--font-size-base) * 0.6);
     }
@@ -178,7 +174,7 @@ tr:nth-child(odd) {
         padding: var(--spacing-unit); /* Reducir el padding del contenedor */
         overflow-x: hidden; /* Ocultar desplazamiento horizontal en el contenedor */
     }
-
+    
     table {
         width: 100%; /* Hacer que la tabla ocupe el 100% del ancho del contenedor */
         max-width: 100%; /* Asegurar que la tabla no sobrepase el 100% del ancho */
@@ -186,9 +182,15 @@ tr:nth-child(odd) {
         margin-right: auto;
         box-sizing: border-box; /* Asegurar que el ancho incluya padding y border */
     }
-
+    
     th, td {
         padding: calc(var(--spacing-unit) * 0.4); /* Reducir el padding de celdas */
         text-align: center;
+    }
+}
+
+@media (min-width: 1024px) {
+    .body-container{
+        margin-top: 12%;
     }
 }
