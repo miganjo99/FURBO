@@ -19,6 +19,7 @@ function GetLastMatches(){
     // Si estamos en pc
     data.forEach(match => {
         const row = document.createElement('tr');
+        row.classList.add("match-table-body_element");
 
         // Columna de Jornada con enlace
         const jornadaCell = document.createElement('td');
