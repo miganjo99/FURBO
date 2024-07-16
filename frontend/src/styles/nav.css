@@ -70,7 +70,7 @@
   width: 25vw;
   height: 21vw;
   top: -18px;
-  right: -18px;
+  right: -14px;
   stroke: var(--terciary_color);
   stroke-width: 4px;
   stroke-linecap: round;
@@ -139,6 +139,7 @@
   -webkit-transform: translateY(0);
 }
 .navMenu::before {
+  width: 100%;
   content: "";
   position: absolute;
   top: 0;
