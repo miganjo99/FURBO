@@ -1,47 +1,238 @@
 .device * {
-    box-sizing: border-box;
+  box-sizing: border-box;
+}
+.device *, .device *:after, .device *:before {
+  box-sizing: border-box;
+}
+:root {
+  --color: #1950ff;
+  --white: #fff;
+}
+.device {
+  position: relative;
+  width: 300px;
+  height: 600px;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 30px;
+  box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  border-radius: 30px;
+  background: linear-gradient(to bottom, #eee, #ddd);
+}
+.escudo_img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  max-width: 20%;
+  background: none;
+  border: 0;
+  padding: 0;
+  margin: 5px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  -webkit-appearence: none;
+  -webkit-tap-highlight-color: transparent;
+  transition: all 0.375s;
+}
+.navTrigger {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  z-index: 1000;
+  background: none;
+  border: 0;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  -webkit-appearence: none;
+  -webkit-tap-highlight-color: transparent;
+  /*width: 18vw !important;
+   height: 13vw !important;*/
+  /*width: 100%;
+   height: 100%;*/
+}
+.navTrigger:focus {
+  outline: none;
+}
+.navTrigger svg {
+  /*width: 64px;
+   height: 48px;*/
+  width: 25vw;
+  height: 21vw;
+  top: -18px;
+  right: -18px;
+  stroke: var(--terciary_color);
+  stroke-width: 4px;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+  display: block;
+  position: absolute;
+}
+.navTrigger svg path {
+  transition: stroke-dasharray var(--duration, 0.85s) var(--easing, ease) var(--delay, 0s), stroke-dashoffset var(--duration, 0.85s) var(--easing, ease) var(--delay, 0s);
+  stroke-dasharray: var(--array-1, 26px) var(--array-2, 100px);
+  stroke-dashoffset: var(--offset, 126px);
+  -webkit-transform: translateZ(0);
+}
+.navTrigger svg path:nth-child(2) {
+  --duration: 0.7s;
+  --easing: ease-in;
+  --offset: 100px;
+  --array-2: 74px;
+}
+.navTrigger svg path:nth-child(3) {
+  --offset: 133px;
+  --array-2: 107px;
+}
+.navTrigger.active svg {
+  stroke: var(--white);
+}
+.navTrigger.active svg path {
+  --offset: 57px;
+}
+.navTrigger.active svg path:nth-child(1), .navTrigger.active svg path:nth-child(3) {
+  --delay: 0.15s;
+  --easing: cubic-bezier(0.2, 0.4, 0.2, 1.1);
+}
+.navTrigger.active svg path:nth-child(2) {
+  --duration: 0.4s;
+  --offset: 2px;
+  --array-1: 1px;
+}
+.navTrigger.active svg path:nth-child(3) {
+  --offset: 58px;
+}
+.navMenu {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  text-align: center;
+  background: #fff;
+  opacity: 0;
+  z-index: -1;
+  visibility: hidden;
+  transition: all 0.375s;
+}
+.navMenu.active {
+  opacity: 1;
+  z-index: 100;
+  visibility: visible;
+}
+.navMenu.active::before {
+  -webkit-transform: skew(-14deg) translateX(0);
+}
+.navMenu.active li {
+  opacity: 1;
+  -webkit-transform: translateY(0);
+}
+.navMenu::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: -15px;
+  /*background: #1950ff;*/
+  background: var(--primary-color);
+  -webkit-transform-origin: 0 0;
+  -webkit-transform: skew(-14deg) translateX(-120%);
+  transition: all 0.275s 0.1s;
+}
+.navMenu ul {
+  list-style: none;
+  padding: 0;
+  display: inline-flex;
+  flex-direction: column;
+  height: 93%;
+  /* Should be 100%, but we have a notice message :D */
+  align-items: flex-end;
+  justify-content: center;
+  -webkit-transform: translateX(-18%) skew(-16deg);
+}
+.navMenu ul li {
+  display: block;
+  margin: 0.5rem 0;
+  text-align: right;
+  opacity: 0;
+  -webkit-transform: translateY(-10px);
+}
+.navMenu ul li a {
+  position: relative;
+  left: 0;
+  display: block;
+  padding: 12px 0;
+  color: var(--terciary_color);
+  font-size: 2.4em;
+  text-decoration: none;
+  text-shadow: 2px 2px 9px rgba(0, 0, 0, 0.62);
+  -webkit-transform: skew(16deg);
+  transition: 0.25s;
+}
+.navMenu ul li a:hover {
+  left: 10px;
+}
+.navMenu ul li:nth-child(1) {
+  transition: all 275ms 275ms;
+}
+.navMenu ul li:nth-child(2) {
+  transition: all 275ms 325ms;
+}
+.navMenu ul li:nth-child(3) {
+  transition: all 275ms 375ms;
+}
+.navMenu ul li:nth-child(4) {
+  transition: all 275ms 425ms;
+}
+.navMenu ul li:nth-child(5) {
+  transition: all 275ms 475ms;
+}
+.header {
+  /*position: absolute;*/
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.menu-background {
+  display: block;
+  width: 100%;
+  height: 22vw;
+  position: absolute;
+  top: 0;
+  background-color: var(--primary-color);
+}
+/* Menu para PC */
+@media (min-width: 1024px) {
+  svg {
+    display: none;
   }
-  
-  .device *,
-  .device *:after,
-  .device *:before {
-    box-sizing: border-box;
+  .navTrigger {
+    display: none;
   }
-  
-  :root {
-    --color: #1950ff;
-    --white: #fff;
+  .menu-background {
+    height: 8vw;
   }
-  
-
-  
-  .device {
-    position: relative;
-    width: 300px;
-    height: 600px;
-    background: #fff;
-    border: 1px solid #eee;
-    border-radius: 30px;
-    box-shadow: 0 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  
-  .container {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    overflow: hidden;
-    border-radius: 30px;
-    background: linear-gradient(to bottom, #eee, #ddd);
-  }
-  
-  .escudo_img{
+  .escudo_img {
     position: absolute;
     top: 0;
     left: 0;
     z-index: 0;
-    max-width: 20%;
+    width: 15%;
     background: none;
     border: 0;
     padding: 0;
@@ -53,240 +244,93 @@
     -webkit-tap-highlight-color: transparent;
     transition: all 0.375s;
   }
-
-
-
-
-  .navTrigger {
-    position: absolute;
-    top: 15px;
-    right: 15px;
-    z-index: 1000;
-    background: none;
-    border: 0;
-    outline: none;
-    border: none;
-    cursor: pointer;
-    -webkit-appearence: none;
-    -webkit-tap-highlight-color: transparent;
-    /*width: 18vw !important;
-    height: 13vw !important;*/
-
-    /*width: 100%;
-    height: 100%;*/
-
-    &:focus {
-      outline: none;
-    }
-    svg {
-      /*width: 64px;
-      height: 48px;*/
-      width: 25vw;
-      height: 21vw;
-
-      top: -18px;
-      right: -18px;
-      stroke: var(--terciary_color);
-      stroke-width: 4px;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-      fill: none;
-      display: block;
-      position: absolute;
-      path {
-        transition: stroke-dasharray var(--duration, 0.85s) var(--easing, ease)
-            var(--delay, 0s),
-          stroke-dashoffset var(--duration, 0.85s) var(--easing, ease)
-            var(--delay, 0s);
-        stroke-dasharray: var(--array-1, 26px) var(--array-2, 100px);
-        stroke-dashoffset: var(--offset, 126px);
-        -webkit-transform: translateZ(0);
-        &:nth-child(2) {
-          --duration: 0.7s;
-          --easing: ease-in;
-          --offset: 100px;
-          --array-2: 74px;
-        }
-        &:nth-child(3) {
-          --offset: 133px;
-          --array-2: 107px;
-        }
-      }
-    }
-    &.active {
-      svg {
-        stroke: var(--white);
-        path {
-          --offset: 57px;
-          &:nth-child(1),
-          &:nth-child(3) {
-            --delay: 0.15s;
-            --easing: cubic-bezier(0.2, 0.4, 0.2, 1.1);
-          }
-          &:nth-child(2) {
-            --duration: 0.4s;
-            --offset: 2px;
-            --array-1: 1px;
-          }
-          &:nth-child(3) {
-            --offset: 58px;
-          }
-        }
-      }
-    }
-  }
-  
-  .navMenu {
+  .navMenu-pc {
     position: absolute;
     top: 0;
     right: 0;
-    left: 0;
-    bottom: 0;
-    text-align: center;
-    background: #fff;
-    opacity: 0;
-    z-index: -1;
-    visibility: hidden;
-    transition: all 0.375s;
-    &.active {
-      opacity: 1;
-      z-index: 100;
-      visibility: visible;
-      &::before {
-        -webkit-transform: skew(-14deg) translateX(0);
-      }
-      li {
-        opacity: 1;
-        -webkit-transform: translateY(0);
-      }
-    }
-    &::before {
-      content: "";
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: -15px;
-      /*background: #1950ff;*/
-      background: var(--primary-color);
-      -webkit-transform-origin: 0 0;
-      -webkit-transform: skew(-14deg) translateX(-120%);
-      transition: all 0.275s 0.1s;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-      display: inline-flex;
-      flex-direction: column;
-      height: 93%; /* Should be 100%, but we have a notice message :D */
-      align-items: flex-end;
-      justify-content: center;
-      -webkit-transform: translateX(-18%) skew(-16deg);
-      li {
-        display: block;
-        margin: 0.5rem 0;
-        text-align: right;
-        opacity: 0;
-        -webkit-transform: translateY(-10px);
-        a {
-          position: relative;
-          left: 0;
-          display: block;
-          padding: 12px 0;
-          color: var(--terciary_color);
-          font-size: 2.4em;
-          text-decoration: none;
-          text-shadow: 2px 2px 9px rgba(0,0,0,0.62);
-          -webkit-transform: skew(16deg);
-          transition: 0.25s;
-          &:hover {
-            left: 10px;
-          }
-        }
-        &:nth-child(1) {
-          transition: all 275ms 275ms;
-        }
-        &:nth-child(2) {
-          transition: all 275ms 325ms;
-        }
-        &:nth-child(3) {
-          transition: all 275ms 375ms;
-        }
-        &:nth-child(4) {
-          transition: all 275ms 425ms;
-        }
-        &:nth-child(5) {
-          transition: all 275ms 475ms;
-        }
-      }
-    }
+    margin-right: 5%;
+    margin-top: 2%;
   }
-
-  .header{
-    /*position: absolute;*/
-    top: 0;
+  .navMenu-pc ul {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: nowrap;
-    align-items: flex-start;
-    justify-content: flex-start;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 1.4vw;
+    list-style-type: none;
+  }
+  .navMenu-pc ul li{
+    margin-left: 30px;
+  }
+  .navMenu-pc ul li, .navMenu-pc ul li a{
+    color: var(--secondary-color) !important;
+    transition: all 0.2s;
   }
 
-  .menu-background{
-    display: block;
-    width: 100%;
-    height: 22vw;
-    position: absolute;
-    top: 0;
-    background-color: var(--primary-color);
+  .navMenu-pc ul li:hover {
+    transform: scale(1.2);
+    
   }
   
-/* Menu para PC */
-@media (min-width: 1024px){
-    svg{
-       display: none;
-    }
+  .navMenu-pc ul li a:hover {
+    color: var(--terciary_color) !important;
+    text-shadow: 1px 1px 7px rgba(255,255,255,0.59);
+  }
+  .navMenu-pc ul li.active a{
+    color: var(--terciary_color) !important;
+  }
+  
+  .navMenu-pc ul li.active{
+    transform: scale(1.2);
+  }
 
-    .navTrigger {
-        display: none;
-    }
-}  
+  .navMenu-pc a {
+    text-decoration: none;
+    /*
+     .navMenu-pc a:hover{
+     text-decoration: none;
+     color: var(--terciary_color);
+     cursor: pointer;
+     }
+     .navMenu-pc ul li:hover{
+     cursor: pointer;
+     }
+     */
+  }
 
+}
 @media (max-width: 1024px) {
   /*svg {
-      width: calc(2.5 * 64px);
-      height: calc(2.5 * 48px);
-  }*/
-
+   width: calc(2.5 * 64px);
+   height: calc(2.5 * 48px);
+   }*/
   .navTrigger {
-      /*width: calc(2.5 * 36px);
-      height: calc(2.5 * 36px);*/
+    /*width: calc(2.5 * 36px);
+     height: calc(2.5 * 36px);*/
+  }
+  .navMenu-pc {
+    display: none;
   }
 }
-
-
 @media (max-width: 600px) {
-    /*svg {
-        width: calc(1.5 * 64px);
-        height: calc(1.5 * 48px);
-    }*/
-
-    .navTrigger {
-        /*width: calc(1.5 * 36px);
-        height: calc(1.5 * 36px);*/
-    }
+  /*svg {
+   width: calc(1.5 * 64px);
+   height: calc(1.5 * 48px);
+   }*/
+  .navTrigger {
+    /*width: calc(1.5 * 36px);
+     height: calc(1.5 * 36px);*/
+  }
 }
-
 @media (max-width: 420px) {
-    /*svg {
-        width: 64px;
-        height: 48px;
-    }*/
-
-    .navTrigger {
-        /*width: 36px;
-        height: 36px;*/
-    }
-  
+  /*svg {
+   width: 64px;
+   height: 48px;
+   }*/
+  .navTrigger {
+    /*width: 36px;
+     height: 36px;*/
+  }
 }
-  

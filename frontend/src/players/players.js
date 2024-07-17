@@ -1,23 +1,39 @@
+
+
 window.addEventListener("load", (event) => {
   console.log("page is fully loaded");
   GetPlayers();
+
+
+  //initModal("playerModal", updatePlayerModalContent);
+
 });
 
 function GetPlayers() {
+  let data = IN_GetPlayers();
 
+  let cardGrid = document.querySelector('.card-grid-space');
 
-  let data = IN_GetPlayers(); 
+  // let objectModal{
+  //   title : String,
+  //   imgURL : String,
+  //   description : String,
+  //   footer : String
+  // }
 
-  let cardGrid = document.querySelector('.card-grid-space'); 
 
   data.forEach((jugador, index) => {
       let card = document.createElement('a');
       card.setAttribute('class', 'card');
-      card.setAttribute('href', ''); 
+      card.setAttribute('href', '#');
 
       console.log(jugador.JUGADOR);
 
-      let bgImage = `url('../../data/images/jugadores/${jugador.JUGADOR}.jpg')`;
+
+      let jugadorNombre = jugador.JUGADOR.replace(/\s+/g, '_');
+
+
+      let bgImage = `url('../../data/images/jugadores/${jugadorNombre}.jpg')`;
 
       console.log(bgImage);
 
@@ -31,90 +47,73 @@ function GetPlayers() {
       cardContent.appendChild(playerName);
       card.appendChild(cardContent);
 
-      cardGrid.appendChild(card); 
+      cardGrid.appendChild(card);
 
-      card.playerData = jugador;
-  });
+      card.data = jugador; // Asignar los datos del jugador a la tarjeta
 
-  // setTimeout(() => {
-    
-  //   initModal();
-  // }, 1000);
-  
-  initModal();
-}
+      console.log(jugador["FEC._NAC."]);
 
-function initModal() {
-  var modal = document.getElementById("playerModal");
-  var modalContent = modal.querySelector('.modal-content');
-  
-  console.log(modalContent);
-  var cards = document.querySelectorAll('.card');
+      let modal_data = {
+        Titulo: jugador.JUGADOR,
+        Descripcion:[jugador.LOCALIDAD, jugador.Nombre_Completo, jugador.Gol, jugador.Asi],
+        Footer: jugador["FEC._NAC."] 
 
-  console.log(cards);  
-  // Iterar sobre cada tarjeta para agregar el evento clic
-  cards.forEach(function(card) {
-      card.addEventListener('click', function(event) {
-          event.preventDefault(); 
-          event.stopPropagation(); 
 
-          var player = this.playerData;
+      }
 
-          console.log(player);
+
+
+     card.addEventListener("click",function(){
       
-          updateModalContent(player);
+      
+      initModal(modal_data);
 
-          modal.style.display = "flex";
-      });
-  });
 
-  var closeBtn = modal.querySelector('.close');
-  closeBtn.addEventListener('click', function() {
-      modal.style.display = "none";
-  });
+     })
 
-  window.addEventListener('click', function(event) {
-      if (event.target == modal) {
-          modal.style.display = "none";
-      }
+
   });
 }
 
-function updateModalContent(player) {
-  console.log(player);
 
-  var modalPlayerName = document.getElementById('modalPlayerName');
-  var playerDetails = document.getElementById('playerDetails');
+// function updatePlayerModalContent(player) {
+//   if (!player) {
+//       console.error('No player data found');
+//       return;
+//   }
 
-  console.log(modalPlayerName);
-  console.log(playerDetails);
+//   console.log(player);
 
-  modalPlayerName.textContent = player.JUGADOR;
+//   var modalPlayerName = document.getElementById('modalPlayerName');
+//   var playerDetails = document.getElementById('playerDetails');
 
-  playerDetails.innerHTML = '';
+//   console.log(modalPlayerName);
+//   console.log(playerDetails);
 
-  // Array de claves que deseas mostrar en el modal
-  var keysToShow = ['FEC. NAC.', 'LOCALIDAD', 'KMs', 'Posición', 'Min', 'Gol', 'Amarillas', 'Rojas'];
+//   modalPlayerName.textContent = player.JUGADOR;
 
-  keysToShow.forEach(key => {
-      if (player.hasOwnProperty(key)) {
+//   playerDetails.innerHTML = '';
 
-        console.log(keysToShow);
-        console.log("keysToShow");
+//   var keysToShow = ['FEC. NAC.', 'LOCALIDAD', 'KMs', 'Posición', 'Min', 'Gol', 'Amarillas', 'Rojas'];
 
-          var listItem = document.createElement('li');
+//   keysToShow.forEach(key => {
+//       if (player.hasOwnProperty(key)) {
+//           console.log(keysToShow);
+//           console.log("keysToShow");
 
-          var keySpan = document.createElement('span');
-          keySpan.textContent = key + ': ';
+//           var listItem = document.createElement('li');
 
-          var valueSpan = document.createElement('span');
-          valueSpan.textContent = player[key];
+//           var keySpan = document.createElement('span');
+//           keySpan.textContent = key + ': ';
 
-          listItem.appendChild(keySpan);
-          listItem.appendChild(valueSpan);
+//           var valueSpan = document.createElement('span');
+//           valueSpan.textContent = player[key];
 
-          playerDetails.appendChild(listItem);
-      }
-  });
-}
+//           listItem.appendChild(keySpan);
+//           listItem.appendChild(valueSpan);
+
+//           playerDetails.appendChild(listItem);
+//       }
+//   });
+// }
 

@@ -5,50 +5,75 @@
         <title>Players</title>
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" type="text/css" href="../styles/nav.css">
         <link rel="stylesheet" type="text/css" href="../main.css">
         <link rel="stylesheet" type="text/css" href="players.css">
+        <link rel="stylesheet" type="text/css" href="../styles/nav.css">
 
 
     </head>
     <body>
-        <section id="menu" class="menu-container">
-            <div class="menu-background"></div>
-            <button class="navTrigger" id="navTrigger">
-              <svg viewBox="0 0 64 48">
-                <path d="M19,15 L45,15 C70,15 58,-2 49.0177126,7 L19,37"></path>
-                <path d="M19,24 L45,24 C61.2371586,24 57,49 41,33 L32,24"></path>
-                <path d="M45,33 L19,33 C-8,33 6,-2 22,14 L45,37"></path>
-              </svg>
-            </button>
+      <section id="menu" class="menu-container">
+        <div class="menu-background"></div>
+        <button class="navTrigger" id="navTrigger">
+          <svg viewBox="0 0 64 48">
+            <path d="M19,15 L45,15 C70,15 58,-2 49.0177126,7 L19,37"></path>
+            <path d="M19,24 L45,24 C61.2371586,24 57,49 41,33 L32,24"></path>
+            <path d="M45,33 L19,33 C-8,33 6,-2 22,14 L45,37"></path>
+          </svg>
+        </button>
 
-            <div class="header">
-              <img src="../../data/images/escudo.png" class="escudo_img">
-            </div>
-            
-            <nav class="navMenu" id="navMenu">
-              <ul>
-                <li>
-                  <a href="../../src/home/home.html">Home</a>
-                </li>
-                <li>
-                  <a href="../../src/matches/matches.html">Partidos</a>
-                </li>
-                <li>
-                    <a href="../../src/matches/all_matches/all.html">Todos los partidos</a>
-                  </li>
-                <li>
-                  <a href="../../src/players/players.html">Jugadores</a>
-                </li>
-                <li>
-                  <a href="#">Estadio</a>
-                </li>
-                <li>
-                  <a href="#">Historia</a>
-                </li>
-              </ul>
+        <div class="header">
+          <img src="../../data/images/escudo.png" class="escudo_img">
+        </div>
+        
+        <nav class="navMenu" id="navMenu">
+          <ul>
+            <li>
+              <a href="../../src/home/home.html">Home</a>
+            </li>
+            <li>
+              <a href="../../src/matches/matches.html">Partidos</a>
+            </li>
+            <li>
+                <a href="../../src/matches/all_matches/all.html">Todos los partidos</a>
+              </li>
+            <li>
+              <a href="../../src/players/players.html">Jugadores</a>
+            </li>
+            <li>
+              <a href="#">Estadio</a>
+            </li>
+            <li>
+              <a href="#">Historia</a>
+            </li>
+          </ul>
+        </nav>
+        <section class="links">
+
+            <nav class="navMenu-pc link-effect-2" id="navMenu-pc">
+                <ul>
+                    <li>
+                        <a href="../../src/home/home.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="../../src/matches/matches.html">Partidos</a>
+                    </li>
+                    <li>
+                        <a href="../../src/matches/all_matches/all.html">Todos los partidos</a>
+                    </li>
+                    <li class="active">
+                        <a href="../../src/players/players.html">Jugadores</a>
+                    </li>
+                    <li>
+                        <a href="#">Estadio</a>
+                    </li>
+                    <li>
+                        <a href="#">Historia</a>
+                    </li>
+                </ul>
             </nav>
         </section>
+    </section>
 
         <br></br>
         <br></br>
@@ -56,7 +81,6 @@
         <br></br>
 
         <div class="card-grid-space">
-            <a class="card" href="" style="--bg-img: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://codetheweb.blog/assets/img/posts/html-syntax/cover.jpg)">
               <div>
                 <br></br>
                 <h1></h1>
@@ -72,12 +96,13 @@
 
         <!-- Modal -->
         <div id="playerModal" class="modal">
-            <div class="modal-content">
-            <span class="close">&times;</span>
-            <h1 id="modalPlayerName"></h1>
-            <ul id="playerDetails"></ul>
-            </div>
-        </div>
+          <div class="modal-content">
+              <span class="close">&times;</span>
+              <h1 id="modalPlayerName"></h1>
+              <ul id="playerDetails"></ul>
+              <div id="modalFooter"></div>
+          </div>
+      </div>
         
 
 
@@ -85,11 +110,14 @@
 
 
         <script src="players.js"></script>
+        <script src="../utils/modal.js"></script>
         <script src="../main.js"></script>
         <script src="../../intermediate/intermediate.js"></script>
         <script src="../../../API/api.js"></script>
         <script src="../../../backend/src/data_base.js"></script>
-        <script src="../../../backend/src/data/output_players.js"></script>
+        <script src="../../../backend/src/data/Players.js"></script>
+        <script src="../utils/modal.js"></script>
+
 
     </body>
 

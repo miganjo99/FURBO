@@ -131,5 +131,5 @@ function DB_GetInfoMatch(JornadaNum){
 //PLAYERS
 
 function DB_GetPlayers(){
-    return players;     
+    return data_Players;     
 }
