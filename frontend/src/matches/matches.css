@@ -5,7 +5,9 @@ h1{
 }
 
 .table-container{
-    overflow: auto; 
+    overflow: auto;
+    /*overflow-y: visible; 
+    overflow-x: visible;*/ 
     border-radius: .8rem; 
     box-shadow: 0 0 0.5rem rgba(39, 38, 38, 0.1);
     /*display: none;*/
@@ -13,7 +15,18 @@ h1{
 
 @media (min-width: 1024px) {
     .table-container {
-        display: block;
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .table_radius{
+        border-radius: 0.8rem;
+        /*width: 100%;*/
     }
 }
 
@@ -303,10 +316,22 @@ a:hover{
         align-content: center;
     }
         */
+    .match-table-body_element{    
+        cursor: pointer;
+        transition: all 0.3s;
+        overflow: visible !important;
+    }
+    
+    .match-table-body_element:hover{
+        transform: scale(1.1);
+        overflow: visible !important;
+    }
+
+
     
     
     table {
-        width: 100%;
+        width: 90%;
         border-collapse: collapse;
     }
 
