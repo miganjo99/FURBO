@@ -261,9 +261,31 @@
     font-size: 1.4vw;
     list-style-type: none;
   }
-  .navMenu-pc ul li {
-    /*margin-right: 50px;*/
+  .navMenu-pc ul li{
+    margin-left: 30px;
   }
+  .navMenu-pc ul li, .navMenu-pc ul li a{
+    color: var(--secondary-color) !important;
+    transition: all 0.2s;
+  }
+
+  .navMenu-pc ul li:hover {
+    transform: scale(1.2);
+    
+  }
+  
+  .navMenu-pc ul li a:hover {
+    color: var(--terciary_color) !important;
+    text-shadow: 1px 1px 7px rgba(255,255,255,0.59);
+  }
+  .navMenu-pc ul li.active a{
+    color: var(--terciary_color) !important;
+  }
+  
+  .navMenu-pc ul li.active{
+    transform: scale(1.2);
+  }
+
   .navMenu-pc a {
     text-decoration: none;
     /*
@@ -277,58 +299,7 @@
      }
      */
   }
-  .links {
-    zoom: 1;
-    padding: 50px;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    text-align: center;
-    background: #313131;
-  }
-  .links:before, .links:after {
-    content: "";
-    display: table;
-  }
-  .links:after {
-    clear: both;
-    /* Effect 5: same word slide in */
-  }
-  .link-effect-2 {
-    overflow: hidden;
-  }
-  .link-effect-2 a {
-    overflow: hidden;
-    padding: 20px;
-    height: 1em;
-    color: #797878;
-    font-weight: 400;
-  }
-  .link-effect-2 a span {
-    position: relative;
-    display: inline-block;
-    -moz-transition: 0.3s;
-    -o-transition: 0.3s;
-    -webkit-transition: 0.3s;
-    transition: 0.3s;
-  }
-  .link-effect-2 a span::before {
-    color: white;
-    position: absolute;
-    top: 100%;
-    content: attr(data-hover);
-    font-weight: 800;
-    -moz-transform: translate3d(0, 0, 0);
-    -ms-transform: translate3d(0, 0, 0);
-    -webkit-transform: translate3d(0, 0, 0);
-    transform: translate3d(0, 0, 0);
-  }
-  .link-effect-2 a:hover span {
-    -moz-transform: translateY(-100%);
-    -ms-transform: translateY(-100%);
-    -webkit-transform: translateY(-100%);
-    transform: translateY(-100%);
-  }
+
 }
 @media (max-width: 1024px) {
   /*svg {
