@@ -1,5 +1,4 @@
 
-import { initModal } from '../utils/modal.js';
 
 window.addEventListener("load", (event) => {
   console.log("page is fully loaded");
@@ -67,7 +66,7 @@ function GetPlayers() {
      card.addEventListener("click",function(){
       
       
-      initModal(modal_data)
+      initModal(modal_data);
 
 
      })
