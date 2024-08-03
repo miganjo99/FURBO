@@ -21,51 +21,23 @@ function sortMatchesByDate(matches, desc = true) {
 
 function DB_GetAllOntinyentMatches(){
    
-    return data_teams;
+    return data_equipos;
 }
 
 
 function DB_GetAllPlayersInfo(){
-    return data_matches;
+    return data_jugadores;
 }
 
 function DB_GetLastMatches(NumMatches){
-
-    let matches_sorted = sortMatchesByDate(data_teams);
-    //console.log(matches_sorted);
-
-    let max_jornada = 0;
-
-    console.log(matches_sorted[0]);
-
-    
-    /*matches_sorted.map((value) =>{
-        console.log("Jornada: " + value.jornada);
-        console.log("type " + typeof(value.jornada))
-        if(typeof(value.jornada) == 'number'  && value.jornada > max_jornada) max_jornada = value.jornada;
-    })
-    
-    console.log("Max jornada: " + max_jornada);
-    
+    console.log(data_equipos);
+    let matches_sorted = sortMatchesByDate(data_equipos);
 
     let total_matches = [];
 
-    for(let i = max_jornada; i > (max_jornada - NumMatches); i--){
- 
-        matches_sorted.map((value) =>{
-            if(value.jornada == i){
-                total_matches.push(value);
-            }
-        });
-    }*/
-
-
-
-        let total_matches = [];
-
-        for(let i = 0; i < NumMatches; i++){
-            total_matches.push(matches_sorted[i]);
-        }
+    for(let i = 0; i < NumMatches; i++){
+        total_matches.push(matches_sorted[i]);
+    }
 
 
     return total_matches;    
@@ -75,7 +47,7 @@ function DB_GetMatch(ID){
 
 
     let match = null;
-    data_teams.map((value) =>{
+    data_equipos.map((value) =>{
         if(value.partido == ID){
             match = value;
             return;
@@ -99,7 +71,7 @@ function GetMatchesBetweenJornadas(MinJornada, MaxJornada){
 
     for(let i = MinJornada; i <= MaxJornada; i++){
  
-        data_teams.map((value) =>{
+        data_equipos.map((value) =>{
             if(value.jornada == i){
                 total_matches.push(value);
             }
@@ -131,5 +103,5 @@ function DB_GetInfoMatch(JornadaNum){
 //PLAYERS
 
 function DB_GetPlayers(){
-    return data_Players;     
+    return data_datos_jugadores;     
 }
