@@ -25,7 +25,9 @@ function GetPlayers() {
   data.forEach((jugador, index) => {
       let card = document.createElement('a');
       card.setAttribute('class', 'card');
-      card.setAttribute('href', '#');
+
+      // Add player id to the href
+      card.setAttribute('href', './player/player.html?id=0');
 
       console.log(jugador.jugador);
 

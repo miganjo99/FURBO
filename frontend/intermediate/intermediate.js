@@ -19,6 +19,52 @@ function IN_GetMatch(ID){
 function IN_GetPlayers(){
     return API_GetPlayers();
 }
+
+function IN_GetPlayer(id){
+    return API_GetPlayer(id);
+}
+
+function IN_GetMaxAmarillasNo_Oficial(){
+    return API_GetMaxAmarillasNo_Oficial();
+}
+
+function IN_GetMaxAmarillasOficial(){
+    return API_GetMaxAmarillasOficial();
+}
+
+function IN_GetMaxRojasNo_Oficial(){
+    return API_GetMaxRojasNo_Oficial();
+}
+
+function IN_GetMaxRojasOficial(){
+    return API_GetMaxRojasOficial();
+}
+
+function IN_GetMaxGoles(){
+    return API_GetMaxGoles();
+}
+
+function IN_GetMaxAsistencias(){
+    return API_GetMaxAsistencias();
+}
+
+function IN_GetMaxConvocatorias(){
+    return API_GetMaxConvocatorias();
+}
+
+function IN_GetMaxMinJugados(){
+    return API_GetMaxMinJugados();
+}
+
+function IN_GetMaxTitular(){
+    return API_GetMaxTitular();
+}
+
+function IN_GetMaxSuplente(){
+    return API_GetMaxSuplente();
+}
+
+
 //export {IN_GetLastMatches};
 
 // Example functions:
