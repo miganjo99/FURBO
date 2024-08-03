@@ -27,10 +27,10 @@ function GetPlayers() {
       card.setAttribute('class', 'card');
       card.setAttribute('href', '#');
 
-      console.log(jugador.JUGADOR);
+      console.log(jugador.jugador);
 
 
-      let jugadorNombre = jugador.JUGADOR.replace(/\s+/g, '_');
+      let jugadorNombre = jugador.jugador.replace(/\s+/g, '_');
 
 
       let bgImage = `url('../../data/images/jugadores/${jugadorNombre}.jpg')`;
@@ -42,7 +42,7 @@ function GetPlayers() {
       let cardContent = document.createElement('div');
 
       let playerName = document.createElement('h1');
-      playerName.textContent = jugador.JUGADOR;
+      playerName.textContent = jugador.jugador;
 
       cardContent.appendChild(playerName);
       card.appendChild(cardContent);
@@ -54,7 +54,7 @@ function GetPlayers() {
       console.log(jugador["FEC._NAC."]);
 
       let modal_data = {
-        Titulo: jugador.JUGADOR,
+        Titulo: jugador.jugador,
         Descripcion:[jugador.LOCALIDAD, jugador.Nombre_Completo, jugador.Gol, jugador.Asi],
         Footer: jugador["FEC._NAC."] 
 
@@ -90,7 +90,7 @@ function GetPlayers() {
 //   console.log(modalPlayerName);
 //   console.log(playerDetails);
 
-//   modalPlayerName.textContent = player.JUGADOR;
+//   modalPlayerName.textContent = player.jugador;
 
 //   playerDetails.innerHTML = '';
 

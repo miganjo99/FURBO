@@ -67,8 +67,9 @@ function LoadMatch(ID){
     }
     //video.innerHTML = (match.observaciones != "null" && match.observaciones != null) ? match.observaciones : ''; 
 
+    console.log("Dia semana " + match.dia_sem);
 
-    document.getElementById("match-dia").innerHTML = match.dia_semana + " " + match.dia;
+    document.getElementById("match-dia").innerHTML = match.dia_sem + " " + match.dia;
     document.getElementById("match-hora").innerHTML = match.hora;
     
     // Especificaciones
@@ -81,13 +82,13 @@ function LoadMatch(ID){
     document.getElementById("match-min_empatando").innerHTML = match.min_empatando;
 
 
-    document.getElementById("match-gol_fav_casa").innerHTML = match.goles_favor_casa;
-    document.getElementById("match-gol_fav_fuera").innerHTML = match.goles_favor_fuera;
-    document.getElementById("match-gol_contra_casa").innerHTML = match.goles_contra_casa;
-    document.getElementById("match-gol_contra_fuera").innerHTML = match.goles_contra_fuera;
+    document.getElementById("match-gol_fav_casa").innerHTML = match.goles_a_favor_casa;
+    document.getElementById("match-gol_fav_fuera").innerHTML = match.goles_a_favor_fuera;
+    document.getElementById("match-gol_contra_casa").innerHTML = match.goles_en_contra_casa;
+    document.getElementById("match-gol_contra_fuera").innerHTML = match.goles_en_contra_fuera;
 
 
-    document.getElementById("match-media_edad").innerHTML = match.media_edad;
+    document.getElementById("match-media_edad").innerHTML = match.med_edad_11_t;
     
 
 }
