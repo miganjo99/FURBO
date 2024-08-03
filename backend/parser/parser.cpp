@@ -3,7 +3,8 @@
 #include <sstream>
 #include <vector>
 #include <string>
-
+#include <algorithm>
+#include <cctype>
 #include <stdio.h>
 
 
@@ -230,6 +231,14 @@ bool CheckInt(std::string& value){
 
 }
 
+std::string toLowerCase(const std::string& str) {
+    std::string lowerStr = str;
+    std::transform(lowerStr.begin(), lowerStr.end(), lowerStr.begin(), [](unsigned char c) {
+        return std::tolower(c);
+    });
+    return lowerStr;
+}
+
 bool CreateJSON(const std::vector<std::string>& columnas, std::vector<std::string>& filas, std::string& output){
     if(columnas.size() != filas.size()) return false;
 
@@ -237,7 +246,7 @@ bool CreateJSON(const std::vector<std::string>& columnas, std::vector<std::strin
     output += "\n{\n";
 
     for(int i = 0; i < columnas.size(); i++){
-        output += "\"" + columnas[i] + "\" : ";
+        output += "\"" + toLowerCase(columnas[i]) + "\" : ";
 
 
         if(CheckFloat(filas[i])){
