@@ -76,6 +76,37 @@
     </section>
 
 
+
+
+        <div class="filter-container">
+          <form id="filterForm">
+              <label for="positionFilter">Posicion:</label>
+              <select id="positionFilter" name="position">
+                  <option value="all">All</option>
+                  <option value="Portero">Portero</option>
+                  <option value="Defensa">Defensa</option>
+                  <option value="Mediocentro">Mediocentro</option>
+                  <option value="Delantero">Delantero</option>
+              </select>
+              <label for="seasonFilter">Season:</label>
+              <select id="seasonFilter" name="season">
+                  <option value="all">All</option>
+                  <option value="2020">2020</option>
+                  <option value="2021">2021</option>
+                  <option value="2022">2022</option>
+                  <option value="2023">2023</option>
+              </select>
+              <label for="sortAge">Sort by Age:</label>
+              <select id="sortAge" name="sortAge">
+                  <option value="none">None</option>
+                  <option value="asc">Ascendente</option>
+                  <option value="desc">Descendente</option>
+              </select>
+              <button type="button" id="applyFilters">Filtrar</button>
+          </form>
+      </div>
+
+
     <!-- Payers container -->
     <div class="card-grid-space"></div>
 
@@ -88,7 +119,22 @@
             <ul id="playerDetails"></ul>
             <div id="modalFooter"></div>
         </div>
-    </div>
+
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+
+
+        <!-- Modal -->
+        <div id="Modal" class="modal">
+          <div class="modal-content">
+              <span class="close">&times;</span>
+              <h1 id="Title"></h1>
+              <ul id="Details"></ul>
+              <div id="modalFooter"></div>
+          </div>
+      </div>
         
 
 

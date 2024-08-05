@@ -213,7 +213,7 @@ center
     }
   }
   
-  @media screen and (max-width: 450px) {
+  @media screen and (max-width: 450px) {  
     .info {
       display: block;
       text-align: center;
@@ -310,3 +310,19 @@ center
 }
 
   
+
+
+.filter-container {
+  margin: 20px;
+  margin-top: 250px;
+}
+
+.filter-container form {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.filter-container label, .filter-container input, .filter-container select, .filter-container button {
+  font-family: "Poppins", sans-serif;
+}

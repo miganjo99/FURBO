@@ -3,11 +3,11 @@ export function initModal(data) {//objectModal
 
     console.log(data);
 
-    var modal = document.getElementById("playerModal");
+    var modal = document.getElementById("Modal");
 
     // Actualizar el contenido del modal
-    var modalTitle = document.getElementById('modalPlayerName');
-    var modalDescription = document.getElementById('playerDetails');
+    var modalTitle = document.getElementById('Title');
+    var modalDescription = document.getElementById('Details');
     var modalFooter = document.getElementById('modalFooter');
 
     modalTitle.textContent = data.Titulo;
