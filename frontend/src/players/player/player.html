@@ -49,43 +49,60 @@
           </ul>
         </nav>
         <section class="links">
-
-            <nav class="navMenu-pc link-effect-2" id="navMenu-pc">
-                <ul>
-                    <li>
-                        <a href="../../../src/home/home.html">Home</a>
-                    </li>
-                    <li>
-                        <a href="../../../src/matches/matches.html">Partidos</a>
-                    </li>
-                    <li>
-                        <a href="../../../src/matches/all_matches/all.html">Todos los partidos</a>
-                    </li>
-                    <li class="active">
-                        <a href="../../../src/players/players.html">Jugadores</a>
-                    </li>
-                    <li>
-                        <a href="#">Estadio</a>
-                    </li>
-                    <li>
-                        <a href="#">Historia</a>
-                    </li>
-                </ul>
-            </nav>
+          <nav class="navMenu-pc link-effect-2" id="navMenu-pc">
+              <ul>
+                  <li>
+                      <a href="../../../src/home/home.html">Home</a>
+                  </li>
+                  <li>
+                      <a href="../../../src/matches/matches.html">Partidos</a>
+                  </li>
+                  <li>
+                      <a href="../../../src/matches/all_matches/all.html">Todos los partidos</a>
+                  </li>
+                  <li class="active">
+                      <a href="../../../src/players/players.html">Jugadores</a>
+                  </li>
+                  <li>
+                      <a href="#">Estadio</a>
+                  </li>
+                  <li>
+                      <a href="#">Historia</a>
+                  </li>
+              </ul>
+          </nav>
         </section>
-    </section>
+      </section>
 
 
-    <!-- Player container -->
-    <div class="player_container" id="player_container">
-      <h1 id="player_name">Nombre jugador obubueb ebue onetyeb bue um emuven osas</h1>
-      <div class="grafo_container" id="grafo_container">
-
+      <!-- Player container -->
+      <div class="player_container" id="player_container">
+        <div class="player_personal">
+          <img src="../../../data/images/jugadores/Adam_Lachehab.jpg" alt="player_img" />
+          <div class="player_personal_info_left">
+            <p class="player_info" id="player_name">Nombre completo</p>
+            <p class="player_info" id="player_localidad">Localidad:</p>
+            <p class="player_info" id="player_fecha_fich">Fecha fichaje: 11/09/2000</p>
+            <p class="player_info" id="player_fecha_fich_2">Fecha fichaje 2: 1/1/1</p>
+          </div>
+          <div class="player_personal_info_right">
+            <p class="player_info" id="player_fecha_nac">Fecha nacimiento: 01/09/1998</p>
+            <p class="player_info" id="player_posicion">Extremo izquierdo</p>
+            <p class="player_info" id="player_fecha_sal">Fecha salida: 20/09/2021</p>
+            <p class="player_info" id="player_fecha_sal_2">Fecha salida: 20/09/2021</p>
+          </div>
+        </div>
+        <div class="player_observaciones">
+          <p>Descripcion del jugador Lorem ipsum odor amet, consectetuer adipiscing elit. Primis nam imperdiet massa natoque mattis massa. Suscipit nibh ipsum molestie inceptos facilisis. Torquent turpis praesent quis tortor nibh penatibus ornare. Etiam feugiat varius elit vitae aptent natoque at luctus. Turpis est facilisis habitant tristique penatibus. Suspendisse per ullamcorper nibh vehicula magna sed.</p>
+        </div>
+        <div class="player_grafos">
+          <div class="player_grafo_convocatorias" id="player_grafo_convocatorias"></div>
+          <div class="player_grafo_partidos" id="player_grafo_partidos"></div>
+        </div>
+        <div class="player_grafo_radar" id="grafo_container"></div>
       </div>
-      <p>Descripcion</p>
-    </div>
-
-
+  
+  
 
         
 
@@ -93,14 +110,14 @@
 
 
 
-        <script src="player.js"></script>
-        <script src="../../main.js"></script>
-        <script src="../../styles/nav.js"></script>
-        <script src="../../../intermediate/intermediate.js"></script>
-        <script src="../../../../API/api.js"></script>
-        <script src="../../../../backend/src/data_base.js"></script>
-        <script src="../../../../backend/src/data/datos_jugadores.js"></script>
-        <script src="https://fastly.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js"></script>
+      <script src="player.js"></script>
+      <script src="../../main.js"></script>
+      <script src="../../styles/nav.js"></script>
+      <script src="../../../intermediate/intermediate.js"></script>
+      <script src="../../../../API/api.js"></script>
+      <script src="../../../../backend/src/data_base.js"></script>
+      <script src="../../../../backend/src/data/datos_jugadores.js"></script>
+      <script src="https://fastly.jsdelivr.net/npm/echarts@5.5.1/dist/echarts.min.js"></script>
 
     </body>
 

@@ -219,7 +219,7 @@
 }
 /* Menu para PC */
 @media (min-width: 1024px) {
-  svg {
+  .navTrigger {
     display: none;
   }
   .navTrigger {
