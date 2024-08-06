@@ -70,10 +70,13 @@ function GetPlayers() {
         text: ''
       },
       legend: {
-        data: ['Oficial', 'No oficial']
+        data: ['Oficial', 'No oficial'],
+        top: '10%'
       },
       radar: {
         shape: 'polygon',
+        center: ['50%', '50%'],
+        radius: '50%',
         indicator: [
  
           { name: 'Goles', max: IN_GetMaxGoles() }, // Get player with max n of goals
@@ -103,8 +106,6 @@ function GetPlayers() {
 
 
     chart.setOption(option);
-
-
     window.addEventListener('resize', chart.resize);
   }
 
@@ -119,7 +120,8 @@ function GetPlayers() {
       backgroundColor: '#333',
       title: {
         text: 'Convocatorias',
-        subtext: ''
+        subtext: '',
+        left: 'center'
       },
       tooltip: {
         trigger: 'axis',
@@ -177,6 +179,7 @@ function GetPlayers() {
     };
 
     chart_waterfall.setOption(option);
+    window.addEventListener('resize', chart_waterfall.resize);
   }
 
   // Waterfall chart (partidos)
@@ -190,7 +193,8 @@ function GetPlayers() {
       backgroundColor: '#333',
       title: {
         text: 'Partidos',
-        subtext: ''
+        subtext: '',
+        left: 'center'
       },
       tooltip: {
         trigger: 'axis',
@@ -231,7 +235,7 @@ function GetPlayers() {
               color: 'transparent'
             }
           },
-          data: [0, 0, 0, 0]
+          data: [0, 0, data.pj_of, data.pj_of + (data.pj - data.pj_of)]
           //data: [0, data.convo - data.convo_of, 0]
         },
         {
@@ -248,6 +252,7 @@ function GetPlayers() {
     };
 
     chart_waterfall.setOption(option);
+    window.addEventListener('resize', chart_waterfall.resize);
   }
 
   
