@@ -31,7 +31,6 @@ body {
     margin: 0 !important;
     min-height: 100vh;
     /*font-family: 'Open Sans';*/
-    background: #fafafa;
 }
 
 body {
@@ -39,7 +38,7 @@ body {
     /*display: flex;
     justify-content: center;
     align-items: center;*/
-    background: #333 !important;
+    /*background: #333 !important;*/
     background-color: #333 !important;
     /*font-family: "Noto Sans", sans-serif;*/
   }
