@@ -94,55 +94,64 @@ function PrintPlayers(data){
   //   footer : String
   // }
 
-
-  data.forEach((jugador, index) => {
-      let card = document.createElement('a');
-      card.setAttribute('class', 'card');
-
-      // Add player id to the href
-      card.setAttribute('href', './player/player.html?id=0');
-
-      let jugadorNombre = jugador.jugador.replace(/\s+/g, '_');
-
-
-      let bgImage = `url('../../data/images/jugadores/${jugadorNombre}.jpg')`;
-
-      card.style.setProperty('--bg-img', bgImage);
-
-      let cardContent = document.createElement('div');
-
-      let playerName = document.createElement('h1');
-      playerName.textContent = jugador.jugador;
-
-      cardContent.appendChild(playerName);
-      card.appendChild(cardContent);
-
-      cardGrid.appendChild(card);
-
-      card.data = jugador; // Asignar los datos del jugador a la tarjeta
+  if(data.length > 0){
 
     
-
+    data.forEach((jugador, index) => {
+      let card = document.createElement('a');
+      card.setAttribute('class', 'card');
+      
+      // Add player id to the href
+      card.setAttribute('href', './player/player.html?id=0');
+      
+      let jugadorNombre = jugador.jugador.replace(/\s+/g, '_');
+      
+      
+      let bgImage = `url('../../data/images/jugadores/${jugadorNombre}.jpg')`;
+      
+      card.style.setProperty('--bg-img', bgImage);
+      
+      let cardContent = document.createElement('div');
+      
+      let playerName = document.createElement('h1');
+      playerName.textContent = jugador.jugador;
+      
+      cardContent.appendChild(playerName);
+      card.appendChild(cardContent);
+      
+      cardGrid.appendChild(card);
+      
+      card.data = jugador; // Asignar los datos del jugador a la tarjeta
+      
+      
+      
       let modal_data = {
         Titulo: jugador.jugador,
         Descripcion:[jugador.LOCALIDAD, jugador.Nombre_Completo, jugador.Gol, jugador.Asi],
         Footer: jugador["FEC._NAC."] 
-
-
+        
+        
       }
-
-
-
-     card.addEventListener("click",function(){
       
       
-      initModal(modal_data);
+      
+      card.addEventListener("click",function(){
+        
+        
+        initModal(modal_data);
+        
+        
+      })
+      
+      
+    });
+  }else{
 
-
-     })
-
-
-  });
+    let text = document.createElement('p');
+    text.innerHTML = "Ningun jugador encontrado";
+    text.classList.add("normal_text");
+    cardGrid.appendChild(text);
+  }
 }
 
 function GetPlayers() {

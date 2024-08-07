@@ -118,7 +118,7 @@ center
     /*color: white;*/
   }
 
-  .filter_title{
+  .filter_title, .normal_text{
     color: var(--terciary_color);
   }
   
@@ -347,18 +347,24 @@ center
   }
 }
 
-  
-
-
-
 .filter-container form {
   display: flex;
   gap: 10px;
-  align-items: center;
+  align-items: flex-end;
   flex-direction: row;
   justify-content: center;
 }
 
 .filter-container label, .filter-container input, .filter-container select, .filter-container button {
   font-family: "Poppins", sans-serif;
+}
+
+
+select, input, button{
+  padding: 0;
+  margin: 0;
+}
+
+.filter_bar select, .filter_bar input, .filter_bar button, .filter_bar label{
+  padding: 0.8vw;
 }
