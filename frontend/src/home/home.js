@@ -1,5 +1,36 @@
 
 
+
+// Función para ejecutar después de que el widget se haya cargado
+function onWidgetLoad() {
+    console.log('El widget de Twitter ha sido cargado');
+    // Aquí puedes realizar cualquier acción que desees
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+    console.log("Seteando callback");
+
+    // Asegúrate de que el widget de Twitter esté cargado
+    window.twttr = (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0], 
+        t = window.twttr || {};
+        if (d.getElementById(id)) return t;
+        js = d.createElement(s); 
+        js.id = id;
+        js.src = "https://platform.twitter.com/widgets.js";
+        fjs.parentNode.insertBefore(js, fjs);
+        
+        js.onload = function() {
+            t._e = [];
+            t.ready = function(f) {
+                t._e.push(f);
+            };
+            t.ready(onWidgetLoad);
+        };
+        
+        return t;
+    }(document, "script", "twitter-wjs"));
+});
 // document.addEventListener('DOMContentLoaded', function() {
 //     const links = document.querySelectorAll("[data-page-link]");
 //     const overlay = document.querySelector(".overlay__scene");

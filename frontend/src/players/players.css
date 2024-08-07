@@ -52,6 +52,8 @@ flex-end
 align-items: 
 center
 ;
+
+transition: all 0.3s;
 }
 
 
