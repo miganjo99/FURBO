@@ -66,3 +66,7 @@ function API_GetPlayerByName(name){
 function API_GetFilterValues(){
     return DB_GetFilterValues();
 }
+
+function API_GetPlayerByPosition(name){
+    return DB_GetPlayerByPosition(name);
+}

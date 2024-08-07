@@ -43,19 +43,43 @@ function LoadFiltersValues(){
 }
 
 function ApplyFilters(){
+  let print_all = true;
   let player_name = document.getElementById("player_name").value;
+
+  let players_total = [];
   
   // Funciona bien
   if(player_name){
-    console.log(player_name);
     let players = IN_GetPlayerByName(player_name.toLowerCase());
-    console.log(players);
-    PrintPlayers(players);
-  }else{
-    GetPlayers();
+    players_total = [...players];
+    print_all = false;
+  }
+
+  let player_position = document.getElementById("positionFilter").value;
+
+
+  if(player_position != "Todos"){
+    let players = IN_GetPlayerByPosition(player_position.toLowerCase());
+
+    if(players_total.length > 0){
+     
+      const interseccion = players_total.filter(elemento => players.includes(elemento));
+      players_total = interseccion;
+    }else{ 
+
+      players_total = players_total.concat(players);
+    }
+    print_all = false;
   }
 
 
+  if(print_all){
+    GetPlayers();
+  }else{
+    console.log("Players total: ");
+    console.log(players_total);
+    PrintPlayers(players_total);
+  }
 
 }
 
@@ -83,7 +107,7 @@ function PrintPlayers(data){
 
       let bgImage = `url('../../data/images/jugadores/${jugadorNombre}.jpg')`;
 
-      card.style.setProperty('--bg-img', bgImage);
+      //card.style.setProperty('--bg-img', bgImage);
 
       let cardContent = document.createElement('div');
 

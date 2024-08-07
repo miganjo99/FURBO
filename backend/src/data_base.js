@@ -275,6 +275,24 @@ function DB_GetPlayerByName(name){
     return players;
 }
 
+function DB_GetPlayerByPosition(name){
+    let players = [];
+
+
+    data_datos_jugadores.map((value) =>{
+        
+        if(value.posicion){
+            if(value.posicion.toLowerCase().includes(name)){
+                players.push(value);
+            }
+        }
+    })
+
+    return players;
+}
+
+
+
 function DB_GetFilterValues(){
     let posiciones = [];
     let posiciones_filtered = [];
@@ -287,7 +305,9 @@ function DB_GetFilterValues(){
         return value != null && posiciones.indexOf(value) == i;
     });
 
-    
+    console.log(data_datos_jugadores[0]);
+
+    //let max_edad = data_datos_jugadores[0];
 
     return posiciones_filtered;
 
