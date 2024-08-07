@@ -42,6 +42,45 @@ function LoadFiltersValues(){
   
 }
 
+function convertDateFormat(dateStr) {
+  const [day, month, year] = dateStr.split('/');
+  return `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
+}
+
+function bubbleSortByDateAsc(arr) {
+  let n = arr.length;
+  for (let i = 0; i < n - 1; i++) {
+      for (let j = 0; j < n - 1 - i; j++) {
+          let date1 = new Date(convertDateFormat(arr[j].fec_nac));
+          let date2 = new Date(convertDateFormat(arr[j + 1].fec_nac));
+          if (date1 > date2) {
+              // Intercambiamos los elementos
+              let temp = arr[j];
+              arr[j] = arr[j + 1];
+              arr[j + 1] = temp;
+          }
+      }
+  }
+  return arr;
+}
+
+function bubbleSortByDateDesc(arr) {
+  let n = arr.length;
+  for (let i = 0; i < n - 1; i++) {
+      for (let j = 0; j < n - 1 - i; j++) {
+          let date1 = new Date(convertDateFormat(arr[j].fec_nac));
+          let date2 = new Date(convertDateFormat(arr[j + 1].fec_nac));
+          if (date2 > date1) {
+              // Intercambiamos los elementos
+              let temp = arr[j];
+              arr[j] = arr[j + 1];
+              arr[j + 1] = temp;
+          }
+      }
+  }
+  return arr;
+}
+
 function ApplyFilters(){
   let print_all = true;
   let player_name = document.getElementById("player_name").value;
@@ -69,6 +108,36 @@ function ApplyFilters(){
 
       players_total = players_total.concat(players);
     }
+    print_all = false;
+  }
+
+
+  let edad = document.getElementById("sortAge");
+  if(edad.value == "asc"){
+    if(players_total.length == 0){
+      players_total = IN_GetPlayers();
+    }
+    
+    let tmp = players_total.filter((value) => {
+      return value.fec_nac != null;
+    });
+
+    players_total = bubbleSortByDateAsc(tmp);
+
+    print_all = false;
+  }else if(edad.value == "desc"){
+
+    if(players_total.length == 0){
+      players_total = IN_GetPlayers();
+    }
+
+    let tmp = players_total.filter((value) => {
+      return value.fec_nac != null;
+    });
+
+    players_total = bubbleSortByDateDesc(tmp);
+
+
     print_all = false;
   }
 
@@ -109,7 +178,7 @@ function PrintPlayers(data){
       
       let bgImage = `url('../../data/images/jugadores/${jugadorNombre}.jpg')`;
       
-      card.style.setProperty('--bg-img', bgImage);
+      //card.style.setProperty('--bg-img', bgImage);
       
       let cardContent = document.createElement('div');
       
