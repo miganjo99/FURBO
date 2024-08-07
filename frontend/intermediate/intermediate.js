@@ -68,6 +68,10 @@ function IN_GetPlayerByName(name){
     return API_GetPlayerByName(name);
 }
 
+function IN_GetFilterValues(){
+    return API_GetFilterValues();
+}
+
 //export {IN_GetLastMatches};
 
 // Example functions:

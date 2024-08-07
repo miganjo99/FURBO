@@ -62,3 +62,7 @@ function API_GetMaxSuplente(){
 function API_GetPlayerByName(name){
    return DB_GetPlayerByName(name);
 }
+
+function API_GetFilterValues(){
+    return DB_GetFilterValues();
+}

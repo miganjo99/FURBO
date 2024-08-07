@@ -274,3 +274,21 @@ function DB_GetPlayerByName(name){
 
     return players;
 }
+
+function DB_GetFilterValues(){
+    let posiciones = [];
+    let posiciones_filtered = [];
+
+    data_datos_jugadores.map((value) => {
+        posiciones.push(value.posicion);
+    });
+
+    posiciones_filtered = posiciones.filter((value, i) => {
+        return value != null && posiciones.indexOf(value) == i;
+    });
+
+    
+
+    return posiciones_filtered;
+
+}

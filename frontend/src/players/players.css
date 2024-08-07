@@ -117,6 +117,10 @@ center
     background: var(--color);
     /*color: white;*/
   }
+
+  .filter_title{
+    color: var(--terciary_color);
+  }
   
   .card .date {
     position: absolute;
@@ -351,6 +355,8 @@ center
   display: flex;
   gap: 10px;
   align-items: center;
+  flex-direction: row;
+  justify-content: center;
 }
 
 .filter-container label, .filter-container input, .filter-container select, .filter-container button {

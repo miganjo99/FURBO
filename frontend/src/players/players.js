@@ -14,10 +14,33 @@ window.addEventListener("load", (event) => {
     }
   });
 
+  LoadFiltersValues();
+
 
   //initModal("playerModal", updatePlayerModalContent);
 
 });
+
+function LoadFiltersValues(){
+  console.log("Loading filter values...");
+  let position_values = IN_GetFilterValues();
+
+  let posiciones_element = document.getElementById("positionFilter");
+
+  posiciones_element.innerHTML = "";
+  let opt_all = document.createElement("option");
+  opt_all.value = "Todos";
+  opt_all.innerHTML = "Todos";
+  posiciones_element.appendChild(opt_all);
+
+  position_values.map((value) => {  
+    let opt = document.createElement("option");
+    opt.value = value;
+    opt.innerHTML = value;
+    posiciones_element.appendChild(opt);
+  });
+  
+}
 
 function ApplyFilters(){
   let player_name = document.getElementById("player_name").value;
@@ -55,15 +78,10 @@ function PrintPlayers(data){
       // Add player id to the href
       card.setAttribute('href', './player/player.html?id=0');
 
-      console.log(jugador.jugador);
-
-
       let jugadorNombre = jugador.jugador.replace(/\s+/g, '_');
 
 
       let bgImage = `url('../../data/images/jugadores/${jugadorNombre}.jpg')`;
-
-      console.log(bgImage);
 
       card.style.setProperty('--bg-img', bgImage);
 
@@ -79,7 +97,7 @@ function PrintPlayers(data){
 
       card.data = jugador; // Asignar los datos del jugador a la tarjeta
 
-      console.log(jugador["FEC._NAC."]);
+    
 
       let modal_data = {
         Titulo: jugador.jugador,
