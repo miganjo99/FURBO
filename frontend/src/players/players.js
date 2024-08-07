@@ -107,7 +107,7 @@ function PrintPlayers(data){
 
       let bgImage = `url('../../data/images/jugadores/${jugadorNombre}.jpg')`;
 
-      //card.style.setProperty('--bg-img', bgImage);
+      card.style.setProperty('--bg-img', bgImage);
 
       let cardContent = document.createElement('div');
 
