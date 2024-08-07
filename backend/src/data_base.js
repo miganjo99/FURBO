@@ -254,3 +254,23 @@ function DB_GetMaxSuplente(){
 
     return max_value >= max_value_of ? max_value : max_value_of;
 }
+
+function DB_GetPlayerByName(name){
+    let players = [];
+
+
+    data_datos_jugadores.map((value) =>{
+        
+        if(value.jugador){
+            if(value.jugador.toLowerCase().includes(name)){
+                players.push(value);
+            }
+        }else if(value.nombre_completo){
+            if(value.nombre_completo.toLowerCase().includes(name)){
+                players.push(value);
+            }
+        }
+    })
+
+    return players;
+}

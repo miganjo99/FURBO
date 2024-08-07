@@ -115,7 +115,7 @@ center
   
   .card:hover .tags .tag {
     background: var(--color);
-    color: white;
+    /*color: white;*/
   }
   
   .card .date {
@@ -153,9 +153,6 @@ center
     height: 200%;
   }
   
-  .card:hover {
-    color: var(--color);
-  }
   
   .card:hover:before, .card:hover:after {
     transform: scale(1);
@@ -302,20 +299,53 @@ center
   text-overflow: ellipsis;
 }
 
-/* Adaptación a pantallas grandes */
+.filter-container {
+  margin: 20px;
+  margin-top: 250px;
+}
+
+.filter-container{
+  display: none;
+}
+
+
 @media (min-width: 1024px) {
   .modal-content {
     width: 60%;
+  }
+  
+  .filter-container {
+    margin-top: 17vw;
+  }
+
+  .card-grid-space{
+    margin-top: 0;
+  }
+
+  .card-grid-space {
+    display: flex;
+    flex-flow: column nowrap;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: flex-start;
+    align-items: center;
+  }
+
+  .card{
+    margin: 20px;
+    width: 20vw;
+    height: 30vw;
+  }
+
+  .filter-container{
+    display: block;
   }
 }
 
   
 
 
-.filter-container {
-  margin: 20px;
-  margin-top: 250px;
-}
 
 .filter-container form {
   display: flex;

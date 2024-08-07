@@ -64,6 +64,9 @@ function IN_GetMaxSuplente(){
     return API_GetMaxSuplente();
 }
 
+function IN_GetPlayerByName(name){
+    return API_GetPlayerByName(name);
+}
 
 //export {IN_GetLastMatches};
 

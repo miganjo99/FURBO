@@ -4,15 +4,41 @@ window.addEventListener("load", (event) => {
   console.log("page is fully loaded");
   GetPlayers();
 
+  let filter_button = document.getElementById("applyFilters");
+  filter_button.addEventListener("click",ApplyFilters);
+
+  document.getElementById("player_name").addEventListener("keypress",function(event){
+    if(event.key == 'Enter'){
+      event.preventDefault();
+      ApplyFilters();
+    }
+  });
+
 
   //initModal("playerModal", updatePlayerModalContent);
 
 });
 
-function GetPlayers() {
-  let data = IN_GetPlayers();
+function ApplyFilters(){
+  let player_name = document.getElementById("player_name").value;
+  
+  // Funciona bien
+  if(player_name){
+    console.log(player_name);
+    let players = IN_GetPlayerByName(player_name.toLowerCase());
+    console.log(players);
+    PrintPlayers(players);
+  }else{
+    GetPlayers();
+  }
 
+
+
+}
+
+function PrintPlayers(data){
   let cardGrid = document.querySelector('.card-grid-space');
+  cardGrid.innerHTML = "";
 
   // let objectModal{
   //   title : String,
@@ -75,6 +101,14 @@ function GetPlayers() {
 
 
   });
+}
+
+function GetPlayers() {
+  let data = IN_GetPlayers();
+  if(data){
+    PrintPlayers(data);
+  }
+  
 }
 
 

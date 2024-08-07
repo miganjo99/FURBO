@@ -58,3 +58,7 @@ function API_GetMaxTitular(){
 function API_GetMaxSuplente(){
     return DB_GetMaxSuplente();
 }
+
+function API_GetPlayerByName(name){
+   return DB_GetPlayerByName(name);
+}

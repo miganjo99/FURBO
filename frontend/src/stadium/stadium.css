@@ -8,8 +8,8 @@ body {
 
 body::before {
     content: "";
-    position: fixed;
-    /*position: absolute;*/ /* Otro efecto distinto, esta guapardo tambien */
+    /*position: fixed;*/
+    position: absolute; /* Otro efecto distinto, esta guapardo tambien */
     top: 0;
     left: 0;
     width: 100%;
