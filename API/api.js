@@ -67,6 +67,10 @@ function API_GetFilterValues(){
     return DB_GetFilterValues();
 }
 
+function API_GetFilterCategory(){
+    return DB_GetFilterCategory();
+}
+
 function API_GetPlayerByPosition(name){
     return DB_GetPlayerByPosition(name);
 }
