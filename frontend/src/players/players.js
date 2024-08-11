@@ -67,7 +67,7 @@ function convertDateFormat(dateStr) {
   return `${year}-${month.padStart(2, '0')}-${day.padStart(2, '0')}`;
 }
 
-function bubbleSortByDateAsc(arr) {
+function bubbleSortByDateDesc(arr) {
   let n = arr.length;
   for (let i = 0; i < n - 1; i++) {
       for (let j = 0; j < n - 1 - i; j++) {
@@ -84,7 +84,7 @@ function bubbleSortByDateAsc(arr) {
   return arr;
 }
 
-function bubbleSortByDateDesc(arr) {
+function bubbleSortByDateAsc(arr) {
   let n = arr.length;
   for (let i = 0; i < n - 1; i++) {
       for (let j = 0; j < n - 1 - i; j++) {
