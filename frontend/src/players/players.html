@@ -86,6 +86,15 @@
                   <option value="2022">2022</option>
                   <option value="2023">2023</option>
               </select>
+
+              <!-- hacerlo dinamicamente -->
+              <label for="categoryFilter" class="filter_title">Categoria:</label>
+              <select id="categoryFilter" name="category">
+                  <!-- <option value="all">All</option> -->
+                  <option value="Example">Example</option>
+
+              </select>
+
               <label for="sortAge" class="filter_title">Edad</label>
               <select id="sortAge" name="sortAge">
                   <option value="default">Por defecto</option>
@@ -140,6 +149,7 @@
         <script src="../../../API/api.js"></script>
         <script src="../../../backend/src/data_base.js"></script>
         <script src="../../../backend/src/data/datos_jugadores.js"></script>
+        <script src="../../../backend/src/data/jugadores.js"></script>
         <script src="../utils/modal.js"></script>
 
 

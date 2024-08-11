@@ -320,3 +320,37 @@ function DB_GetFilterValues(){
     return posiciones_filtered;
 
 }
+
+
+function DB_GetFilterCategory(){
+    let categorias = [];
+    let categorias_filtered = [];
+
+    // let data_jugador = DB_GetAllPlayersInfo();
+
+    console.log("data_jugadores");
+    console.log(data_jugadores);
+
+
+    data_jugadores.map((value) => {
+        if (value.categoria === 0) {
+            // Si la categoría es 0, añadimos "Amistoso"
+            categorias.push("Amistoso");
+        } else if (value.categoria != null) {
+            
+            categorias.push(value.categoria);
+        }
+    });
+
+    categorias_filtered = categorias.filter((value, i) => {
+        return value != null && categorias.indexOf(value) == i;
+    });
+
+    
+
+    console.log(data_jugadores[0]);
+
+
+    return categorias_filtered;
+
+}
