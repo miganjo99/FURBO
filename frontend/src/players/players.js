@@ -87,10 +87,14 @@ function ApplyFilters(){
 
   let players_total = [];
   
-  // Funciona bien
+  // Si hay nombre de jugador, pillo los jugadores que en su nombre aparezca la cadena introducida pasada a minusculas para evitar el case sensitive
   if(player_name){
     let players = IN_GetPlayerByName(player_name.toLowerCase());
+
+    // Los que tenga los pillo y los meto en mi array global de todos (players_total)
     players_total = [...players];
+
+    // Lo pongo a false porque si al final de todo esta en true, significa que no hay nigun filtro seleccionado y los pinto a todos
     print_all = false;
   }
 
@@ -98,14 +102,22 @@ function ApplyFilters(){
 
 
   if(player_position != "Todos"){
+
+    // Pillo los jugadores que jueguen en la posicion seleccionada (pasada a minusculas por el case sensitive)
     let players = IN_GetPlayerByPosition(player_position.toLowerCase());
 
+    // Si ya tenia los jugadores que he pillado por el nombre, solamente guardo los que existan en ambos arrays, 
+    // lo que signfica que me guardo los que coincidan en ambos filtros
     if(players_total.length > 0){
-     
+
+      // el metodo "includes" es como comprobar dos objet, es decir: if( object == object )
       const interseccion = players_total.filter(elemento => players.includes(elemento));
+
+      // Machaco el array global y me guardo los que estaban en ambos
       players_total = interseccion;
     }else{ 
 
+      // Como no habia nada antes, me guardo los que tengan esa posicion y au
       players_total = players_total.concat(players);
     }
     print_all = false;
@@ -114,17 +126,23 @@ function ApplyFilters(){
 
   let edad = document.getElementById("sortAge");
   if(edad.value == "asc"){
+
+    // Si no habia ningun filtro antes, los pillo a todos y los guardo en el array global
     if(players_total.length == 0){
       players_total = IN_GetPlayers();
     }
     
+    // Hay algunos que no tienen fecha de nacimiento, asi que los que no tienen me los cargo
     let tmp = players_total.filter((value) => {
       return value.fec_nac != null;
     });
 
+    // Ordeno ascendentemente a los jugadores por el campo fecha de nacimiento y los guardo en mi array
     players_total = bubbleSortByDateAsc(tmp);
 
     print_all = false;
+
+    // Esto es lo mismo pero de forma descendente
   }else if(edad.value == "desc"){
 
     if(players_total.length == 0){
@@ -142,9 +160,12 @@ function ApplyFilters(){
   }
 
 
+  // De nuevo, si no habia ningun filtro pinto todos los jugadores sin mas
   if(print_all){
     GetPlayers();
   }else{
+
+    // Pinto los jugadores que coinciden con los filtros
     console.log("Players total: ");
     console.log(players_total);
     PrintPlayers(players_total);
