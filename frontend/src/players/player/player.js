@@ -37,7 +37,11 @@ function GetPlayers() {
   document.getElementById("player_fecha_sal").innerHTML = "Fecha salida 1: " + data.salida_1;
   document.getElementById("player_fecha_sal_2").innerHTML = "Fecha salida 2: " + (data.salida_2 ? data.salida_2 : "Ninguna");
   
+  document.getElementById("player_desc").innerHTML = data.observaciones;
   //document.getElementById("player_name").innerHTML = data.nombre_completo;
+
+  let jugadorNombre = data.jugador.replace(/\s+/g, '_');
+  document.getElementById("player_img").src = `../../../data/images/jugadores/${jugadorNombre}.png`;
 
 // Radar chart
   {

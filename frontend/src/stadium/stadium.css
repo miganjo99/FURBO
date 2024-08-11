@@ -45,11 +45,27 @@ body::before {
     transition: all 0.3s;
 }
 
-.body-container img:hover{
+.stadium_img{
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+}
+
+.body-container .stadium_maps_img:hover{
     cursor: pointer;
     -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
     box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
 
     transform: scale(1.01);
+}
+
+.stadium_maps_img{
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+}
+
+.body-container p{
+    width: 75%;
+    text-wrap: pretty;
+    color: var(--terciary_color) !important;
 }

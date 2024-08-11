@@ -191,15 +191,18 @@ function PrintPlayers(data){
       let card = document.createElement('a');
       card.setAttribute('class', 'card');
       
+      console.log("--- JUGADOR ---");
+      console.log(jugador);
+
       // Add player id to the href
-      card.setAttribute('href', './player/player.html?id=0');
+      card.setAttribute('href', './player/player.html?id='+jugador.id_jugador);
       
       let jugadorNombre = jugador.jugador.replace(/\s+/g, '_');
       
       
-      let bgImage = `url('../../data/images/jugadores/${jugadorNombre}.jpg')`;
+      let bgImage = `url('../../data/images/jugadores/${jugadorNombre}.png')`;
       
-      //card.style.setProperty('--bg-img', bgImage);
+      card.style.setProperty('--bg-img', bgImage);
       
       let cardContent = document.createElement('div');
       
@@ -251,46 +254,4 @@ function GetPlayers() {
   }
   
 }
-
-
-// function updatePlayerModalContent(player) {
-//   if (!player) {
-//       console.error('No player data found');
-//       return;
-//   }
-
-//   console.log(player);
-
-//   var modalPlayerName = document.getElementById('modalPlayerName');
-//   var playerDetails = document.getElementById('playerDetails');
-
-//   console.log(modalPlayerName);
-//   console.log(playerDetails);
-
-//   modalPlayerName.textContent = player.jugador;
-
-//   playerDetails.innerHTML = '';
-
-//   var keysToShow = ['FEC. NAC.', 'LOCALIDAD', 'KMs', 'Posición', 'Min', 'Gol', 'Amarillas', 'Rojas'];
-
-//   keysToShow.forEach(key => {
-//       if (player.hasOwnProperty(key)) {
-//           console.log(keysToShow);
-//           console.log("keysToShow");
-
-//           var listItem = document.createElement('li');
-
-//           var keySpan = document.createElement('span');
-//           keySpan.textContent = key + ': ';
-
-//           var valueSpan = document.createElement('span');
-//           valueSpan.textContent = player[key];
-
-//           listItem.appendChild(keySpan);
-//           listItem.appendChild(valueSpan);
-
-//           playerDetails.appendChild(listItem);
-//       }
-//   });
-// }
 

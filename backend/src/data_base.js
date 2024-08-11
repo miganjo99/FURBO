@@ -109,8 +109,16 @@ function DB_GetPlayers(){
 function DB_GetPlayer(id){
 
     // TODO: iterate over player id's and get the correct player
+
+    let jugador = null; 
+
+    data_datos_jugadores.map((value) => {
+        if(value.id_jugador == id){
+            jugador = value;
+        }
+    });
     
-    return data_datos_jugadores[0];
+    return jugador;
 }
 
 function DB_GetMaxAmarillasNo_Oficial(){
