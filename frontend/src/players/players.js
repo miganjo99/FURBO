@@ -17,9 +17,34 @@ window.addEventListener("load", (event) => {
   LoadFiltersValues();
   LoadFiltersCategory();
 
+
+
+  // Check filter button
+  document.getElementById("mobile_filter_btn").addEventListener("click", MenuToggle);
+
+  // Check out of filters click
+  document.getElementById("outer_filters_container").addEventListener("click", MenuToggle);
+
+
+
   //initModal("playerModal", updatePlayerModalContent);
 
 });
+
+
+function MenuToggle(){
+  let filter = document.getElementById("mobile_filter_menu");
+    filter.classList.toggle("filter_active");
+    document.body.classList.toggle("filter_black");
+
+    if(!filter.classList.contains("filter_active")){
+      filter.classList.add("filter_deactive");
+      document.getElementById("outer_filters_container").classList.remove("outer_filters_container_active");
+    }else{
+      filter.classList.remove("filter_deactive");
+      document.getElementById("outer_filters_container").classList.add("outer_filters_container_active");
+    }
+}
 
 function LoadFiltersValues(){
   console.log("Loading filter values...");
@@ -43,7 +68,7 @@ function LoadFiltersValues(){
 }
 function LoadFiltersCategory(){
 
-  let category_values = IN_GetFilterCategory();
+  /*let category_values = IN_GetFilterCategory();
 
   let category_element = document.getElementById("categoryFilter");
 
@@ -58,7 +83,7 @@ function LoadFiltersCategory(){
     opt.value = value;
     opt.innerHTML = value;
     category_element.appendChild(opt);
-  });
+  });*/
   
 }
 
@@ -211,8 +236,8 @@ function PrintPlayers(data){
       let card = document.createElement('a');
       card.setAttribute('class', 'card');
       
-      console.log("--- JUGADOR ---");
-      console.log(jugador);
+      //console.log("--- JUGADOR ---");
+      //console.log(jugador);
 
       // Add player id to the href
       card.setAttribute('href', './player/player.html?id='+jugador.id_jugador);
@@ -222,7 +247,7 @@ function PrintPlayers(data){
       
       let bgImage = `url('../../data/images/jugadores/${jugadorNombre}.png')`;
       
-      card.style.setProperty('--bg-img', bgImage);
+      //card.style.setProperty('--bg-img', bgImage);
       
       let cardContent = document.createElement('div');
       

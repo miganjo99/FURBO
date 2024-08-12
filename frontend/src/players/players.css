@@ -229,7 +229,7 @@ transition: all 0.3s;
 
 
 .card-grid-space{
-  margin-top: 20vw;
+  margin-bottom: 20vw;
 }
 
 
@@ -314,8 +314,58 @@ transition: all 0.3s;
   display: none;
 }
 
+.filter-container{
+  display: none;
+}
+
+.mobile_filter-container{
+  display: block;
+  z-index: 1005;
+}
+
+#mobile_filter_btn {
+  display: inline-block; /* Para que el div se ajuste al tamaño de su contenido */
+  width: fit-content; /* Ajusta el ancho al contenido */
+  height: fit-content; /* Ajusta la altura al contenido */
+  padding: 0; /* Elimina cualquier relleno interno */
+  margin: 0;
+  margin-left: 6%;
+}
+
+.filter-icon{
+  font-size: 10vw;
+  color: var(--terciary_color);
+  margin-left: 6%;
+}
+
+@media (max-width: 600px) {
+
+  .mobile_filter-container{
+    display: block;
+    margin-top: 27vw;
+  }
+}
+
+@media (max-width: 420px) {
+  
+
+}
+
 
 @media (min-width: 1024px) {
+
+  .mobile_filter_menu-container{
+    display: none;
+  }
+
+  .mobile_filter-container{
+    display: none;
+  }
+
+  .filter-container{
+    display: block;
+  }
+
   .modal-content {
     width: 60%;
   }
@@ -369,4 +419,117 @@ select, input, button{
 
 .filter_bar select, .filter_bar input, .filter_bar button, .filter_bar label{
   padding: 0.8vw;
+}
+
+.mobile_filter_menu-container{
+  display: none;
+  position: absolute;
+  background-color: var(--terciary_color);
+  z-index: 1006;
+  
+  /*padding-top: 2vw;
+  padding-bottom: 2vw;
+  padding-right: 2vw;*/
+
+  margin-top: 4vw;
+
+  -webkit-border-top-right-radius: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  -moz-border-radius-topright: 5px;
+  -moz-border-radius-bottomright: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+  /* width: 100%; */
+}
+
+.filter_active{
+  animation: menu_appear 0.6s ease forwards;
+  display: block !important;
+  /*position: absolute;*/
+  will-change: transform; /* Sugerencia para la aceleración de hardware */
+  transform: translateZ(0); /* Otra opción para forzar la aceleración de hardware */
+}
+
+.filter_deactive{
+  animation: menu_dissappear 0.6s ease forwards;
+  display: block !important;
+  /*position: absolute;*/
+  will-change: transform; /* Sugerencia para la aceleración de hardware */
+  transform: translateZ(0); /* Otra opción para forzar la aceleración de hardware */
+}
+
+.mobile_filter_list{
+  list-style: none;
+  padding: 0;
+  margin: 0 !important;
+  margin-top: 0.5vw;
+}
+
+.mobile_filter_list li{
+  padding-left: 6vw;
+  padding-top: 3vw;
+  padding-bottom: 3vw;
+  padding-right: 15vw;
+  font-size: 4vw;
+  border-bottom: 1px solid black;
+}
+
+body::before {
+  content: "";
+  position: fixed; 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0); /* Comienza transparente */
+  z-index: 1000;
+  pointer-events: none;
+  transition: background-color 0.3s; /* Transición para el color de fondo */
+}
+
+.filter_black::before {
+  content: "";
+  position: fixed; /* Cubre toda la pantalla */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7); /* Oscurece con una transparencia */
+  z-index: 1000; /* Asegúrate de que esté por encima de todo */
+  pointer-events: none; /* Permite la interacción con el contenido debajo */
+}
+
+#outer_filters_container{
+
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  position: fixed;
+  z-index: 1003;
+  display: none;
+}
+
+.outer_filters_container_active{
+  display: block !important;
+}
+
+
+@keyframes menu_appear{
+  0% {
+    transform: translateX(-100%); /* Comienza fuera de la pantalla a la izquierda */
+  }
+  100% {
+    transform: translateX(0); /* Termina en su posición original */
+  }
+}
+
+@keyframes menu_dissappear{
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-102%);
+  }
 }
