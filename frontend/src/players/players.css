@@ -515,6 +515,25 @@ body::before {
   display: block !important;
 }
 
+.caret_filter{
+  margin-left: 2.0vw;
+}
+
+.sub_menu {
+  display: none; /* Oculta los elementos por defecto */
+  opacity: 0; /* Comienza transparente */
+  height: 0; /* Altura inicial de 0 */
+  overflow: hidden; /* Evita que el contenido desborde */
+  transition: opacity 0.5s ease, height 0.5s ease; /* Transiciones suaves */
+}
+
+.sub_item_active {
+  display: block; /* Hace visible el elemento */
+  height: auto; /* Deja que tome su altura natural */
+  opacity: 1; /* Hace visible el contenido */
+  padding-left: 22vw !important; /* Mantiene el padding */
+  transition: opacity 0.9s ease; /* Aplica transiciones suaves */
+}
 
 @keyframes menu_appear{
   0% {

@@ -34,9 +34,30 @@ window.addEventListener("load", (event) => {
   // Check out of filters click
   document.getElementById("outer_filters_container").addEventListener("click", MenuToggle);
 
+  let active = false;
 
+  document.getElementById("menu_item_posicion").addEventListener("click", function(){
+  
+    active = !active;
+    let elements = document.getElementsByClassName("sub_menu");
+    
+    Array.from(elements).map((value) => {
+      if(active){
 
-  //initModal("playerModal", updatePlayerModalContent);
+        value.style.display = "block"; // Hace que el elemento sea visible
+        let height = value.scrollHeight + "px"; // Obtiene la altura natural
+        value.style.height = height; // Establece la altura
+        value.classList.add("sub_item_active");
+      }else{
+        value.style.display = "none"; // Hace que el elemento sea visible
+        let height = value.scrollHeight + "px"; // Obtiene la altura natural
+        value.style.height = height; // Establece la altura
+        value.classList.remove("sub_item_active");
+      }
+
+      //value.classList.toggle("sub_item_active");
+    });
+  })
 
 });
 
@@ -66,6 +87,7 @@ function LoadFiltersValues(){
   let position_values = IN_GetFilterValues();
 
   let posiciones_element = document.getElementById("positionFilter");
+  let posiciones_mobile = document.getElementById("mobile_filter_list");
 
   posiciones_element.innerHTML = "";
   let opt_all = document.createElement("option");
@@ -73,14 +95,29 @@ function LoadFiltersValues(){
   opt_all.innerHTML = "Todos";
   posiciones_element.appendChild(opt_all);
 
+  let segundo_elemento = posiciones_mobile.children[1];
+
   position_values.map((value) => {  
+    
+    // Pc
     let opt = document.createElement("option");
     opt.value = value;
     opt.innerHTML = value;
     posiciones_element.appendChild(opt);
+  
+    // Mobile
+    if(posiciones_mobile){
+      let lista = document.createElement("li");
+      lista.classList.add("sub_menu");
+      lista.innerHTML = value;
+      lista.id = value;
+      posiciones_mobile.insertBefore(lista, segundo_elemento);
+    }
+
   });
   
 }
+
 function LoadFiltersCategory(){
 
   /*let category_values = IN_GetFilterCategory();
@@ -141,7 +178,7 @@ function bubbleSortByDateAsc(arr) {
   return arr;
 }
 
-function ApplyFilters(){
+function ApplyFilters(is_mobile = false){
   let print_all = true;
   let player_name = document.getElementById("player_name").value;
 
