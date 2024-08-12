@@ -17,10 +17,19 @@ window.addEventListener("load", (event) => {
   LoadFiltersValues();
   LoadFiltersCategory();
 
-
-
+  
   // Check filter button
-  document.getElementById("mobile_filter_btn").addEventListener("click", MenuToggle);
+  document.getElementById("mobile_filter_btn").addEventListener("click", function(){
+    MenuToggle();
+    
+ 
+    document.getElementById("filter_icon").classList.add("fa-bounce");
+    setTimeout(() =>{
+      console.log("Quitao el bounce");
+      document.getElementById("filter_icon").classList.remove("fa-bounce");
+    },1000);
+    
+  });
 
   // Check out of filters click
   document.getElementById("outer_filters_container").addEventListener("click", MenuToggle);
@@ -32,9 +41,15 @@ window.addEventListener("load", (event) => {
 });
 
 
+
 function MenuToggle(){
   let filter = document.getElementById("mobile_filter_menu");
+
     filter.classList.toggle("filter_active");
+
+    
+
+
     document.body.classList.toggle("filter_black");
 
     if(!filter.classList.contains("filter_active")){
