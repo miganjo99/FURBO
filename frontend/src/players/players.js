@@ -125,6 +125,16 @@ window.addEventListener("load", (event) => {
     MenuToggle();
   });
 
+
+  console.log(document.getElementById("search_button_mobile"));
+  document.getElementById("search_button_mobile").addEventListener("click",function(){
+
+    console.log("Buscando por nombre mobile");
+    filter_data_mobile.nombre = document.getElementById("player_name_mobile").value ? document.getElementById("player_name_mobile").value : "";
+    ApplyFilters();
+    MenuToggle();
+  });
+
 });
 
 
@@ -274,7 +284,14 @@ function bubbleSortByDateAsc(arr) {
 
 function ApplyFilters(){
   let print_all = true;
-  let player_name = document.getElementById("player_name").value;
+
+  let player_name = null;
+
+  if(window.innerWidth >= 1024){ 
+    player_name = document.getElementById("player_name").value;
+  }else{
+    player_name = filter_data_mobile.nombre ? filter_data_mobile.nombre : null;
+  }
 
   let players_total = [];
   

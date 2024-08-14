@@ -470,7 +470,7 @@ select, input, button{
   padding-left: 6vw;
   padding-top: 3vw;
   padding-bottom: 3vw;
-  padding-right: 15vw;
+  padding-right: 12vw;
   font-size: 4vw;
   border-bottom: 1px solid black;
 }
@@ -537,6 +537,24 @@ body::before {
 
 .sub_item_active_selected, .sub_item_active_edad_selected{
   background-color: var(--primary-color);
+}
+
+.input_player_name_mobile{
+  margin-right: 3.0vw;
+  padding: 1vw;
+}
+
+.search_lupa{
+  font-size: 5vw;
+}
+
+.filter_mobile_search_container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: flex-start;
+  align-content: center;
 }
 
 @keyframes menu_appear{
