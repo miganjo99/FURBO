@@ -1,4 +1,12 @@
 
+let filter_data_mobile = {
+  posicion : null,
+  temporada : null,
+  edad : null,
+  nombre : null,
+};
+
+
 
 window.addEventListener("load", (event) => {
   console.log("page is fully loaded");
@@ -35,29 +43,87 @@ window.addEventListener("load", (event) => {
   document.getElementById("outer_filters_container").addEventListener("click", MenuToggle);
 
   let active = false;
-
+  
   document.getElementById("menu_item_posicion").addEventListener("click", function(){
   
     active = !active;
-    let elements = document.getElementsByClassName("sub_menu");
+    let elements = document.getElementsByClassName("sub_menu_position");
     
     Array.from(elements).map((value) => {
       if(active){
-
-        value.style.display = "block"; // Hace que el elemento sea visible
-        let height = value.scrollHeight + "px"; // Obtiene la altura natural
-        value.style.height = height; // Establece la altura
+        
+        value.style.display = "block";
+        let height = value.scrollHeight + "px";
+        value.style.height = height;
         value.classList.add("sub_item_active");
       }else{
-        value.style.display = "none"; // Hace que el elemento sea visible
-        let height = value.scrollHeight + "px"; // Obtiene la altura natural
-        value.style.height = height; // Establece la altura
+        value.style.display = "none";
+        let height = value.scrollHeight + "px";
+        value.style.height = height;
         value.classList.remove("sub_item_active");
       }
-
+      
       //value.classList.toggle("sub_item_active");
     });
   })
+  
+
+  // Sub menu edad
+  let active_edad = false;
+  document.getElementById("menu_item_edad").addEventListener("click", function(){
+    active = !active;
+    let elements = document.getElementsByClassName("sub_menu_edad");
+    
+    Array.from(elements).map((value) => {
+      if(active){
+        
+        value.style.display = "block";
+        let height = value.scrollHeight + "px";
+        value.style.height = height;
+        value.classList.add("sub_item_active");
+      }else{
+        value.style.display = "none";
+        let height = value.scrollHeight + "px";
+        value.style.height = height;
+        value.classList.remove("sub_item_active");
+      }
+      
+      //value.classList.toggle("sub_item_active");
+    });
+  });
+
+  let filter_edad_asc = document.getElementById("filter_edad_asc");
+  let filter_edad_desc = document.getElementById("filter_edad_desc");
+  
+  filter_edad_asc.addEventListener("click", function(){
+    
+    
+    if(filter_data_mobile.edad && filter_data_mobile.edad == "asc"){
+      filter_data_mobile.edad = null;
+      filter_edad_asc.classList.remove("sub_item_active_edad_selected")
+    }else{
+      filter_data_mobile.edad = "asc";
+      filter_edad_asc.classList.add("sub_item_active_edad_selected");
+      filter_edad_desc.classList.remove("sub_item_active_edad_selected");
+    }
+    
+    ApplyFilters();
+    MenuToggle();
+  });
+  
+  filter_edad_desc.addEventListener("click", function(){
+    console.log(filter_data_mobile)
+    if(filter_data_mobile.edad && filter_data_mobile.edad == "desc"){
+      filter_data_mobile.edad = null;
+      filter_edad_desc.classList.remove("sub_item_active_edad_selected");
+    }else{
+      filter_data_mobile.edad = "desc";
+      filter_edad_desc.classList.add("sub_item_active_edad_selected");
+      filter_edad_asc.classList.remove("sub_item_active_edad_selected");
+    }
+    ApplyFilters();
+    MenuToggle();
+  });
 
 });
 
@@ -109,13 +175,41 @@ function LoadFiltersValues(){
     if(posiciones_mobile){
       let lista = document.createElement("li");
       lista.classList.add("sub_menu");
+      lista.classList.add("sub_menu_position");
       lista.innerHTML = value;
       lista.id = value;
+      lista.addEventListener("click",function(){
+      
+        let contains = lista.classList.contains("sub_item_active_selected");
+
+        Array.from(document.getElementsByClassName("sub_item_active")).map((value) => {
+          value.classList.remove("sub_item_active_selected");
+        });
+
+        if(!contains)lista.classList.add("sub_item_active_selected");
+
+        MenuToggle();
+        SelectPositionFilter(value);
+      })
       posiciones_mobile.insertBefore(lista, segundo_elemento);
     }
 
   });
   
+}
+
+function SelectPositionFilter(value){
+  console.log("Position selected: " + value);
+
+  // Deseleccionar
+  if(filter_data_mobile.posicion == value){
+    filter_data_mobile.posicion = null;
+  }else{
+    // Seleccionar
+    filter_data_mobile.posicion = value;
+  }
+
+  ApplyFilters();
 }
 
 function LoadFiltersCategory(){
@@ -178,7 +272,7 @@ function bubbleSortByDateAsc(arr) {
   return arr;
 }
 
-function ApplyFilters(is_mobile = false){
+function ApplyFilters(){
   let print_all = true;
   let player_name = document.getElementById("player_name").value;
 
@@ -195,10 +289,23 @@ function ApplyFilters(is_mobile = false){
     print_all = false;
   }
 
-  let player_position = document.getElementById("positionFilter").value;
+  console.log("Applying filters")
+
+  // Posicion del jugador (PC)
+  let player_position = "Todos";
+
+  if(window.innerWidth >= 1024){
+    player_position = document.getElementById("positionFilter").value;
+  }else{
+    player_position = filter_data_mobile.posicion ? filter_data_mobile.posicion : "Todos";
+  }
+
+  console.log("Player position:")
+  console.log(player_position)
 
 
-  if(player_position != "Todos"){
+
+  if(player_position && player_position != "Todos"){
 
     // Pillo los jugadores que jueguen en la posicion seleccionada (pasada a minusculas por el case sensitive)
     let players = IN_GetPlayerByPosition(player_position.toLowerCase());
@@ -220,9 +327,14 @@ function ApplyFilters(is_mobile = false){
     print_all = false;
   }
 
+  let edad = null;
+  if(window.innerWidth >= 1024){
+    edad = document.getElementById("sortAge").value;
+  }else{
+    edad = filter_data_mobile.edad ? filter_data_mobile.edad : null;
+  }
 
-  let edad = document.getElementById("sortAge");
-  if(edad.value == "asc"){
+  if(edad && edad == "asc"){
 
     // Si no habia ningun filtro antes, los pillo a todos y los guardo en el array global
     if(players_total.length == 0){
@@ -240,7 +352,7 @@ function ApplyFilters(is_mobile = false){
     print_all = false;
 
     // Esto es lo mismo pero de forma descendente
-  }else if(edad.value == "desc"){
+  }else if(edad == "desc"){
 
     if(players_total.length == 0){
       players_total = IN_GetPlayers();

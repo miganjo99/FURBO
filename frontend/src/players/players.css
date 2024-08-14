@@ -535,6 +535,10 @@ body::before {
   transition: opacity 0.9s ease; /* Aplica transiciones suaves */
 }
 
+.sub_item_active_selected, .sub_item_active_edad_selected{
+  background-color: var(--primary-color);
+}
+
 @keyframes menu_appear{
   0% {
     transform: translateX(-100%); /* Comienza fuera de la pantalla a la izquierda */
