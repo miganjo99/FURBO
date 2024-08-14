@@ -57,6 +57,13 @@ function DB_GetMatch(ID){
     return match;
 }
 
+
+function DB_GetFilterDinamica(resultFilter){
+
+    return data_equipos.filter(equipo => equipo.dinamica === resultFilter);
+
+}
+
 // TODO
 function GetMatchFromJornada(NumJornada){
 
@@ -352,5 +359,37 @@ function DB_GetFilterCategory(){
 
 
     return categorias_filtered;
+
+}
+function DB_GetFilterJornada(){
+    let jornadas = [];
+    let jornadas_filtered = [];
+
+    // let data_jugador = DB_GetAllPlayersInfo();
+
+    console.log("data_equipos");
+    console.log(data_equipos);
+
+
+    data_equipos.map((value) => {
+        if (value.jornada === 0) {
+            // Si la categoría es 0, añadimos "Amistoso"
+            jornadas.push("Amistoso");
+        } else if (value.jornada != null) {
+            
+            jornadas.push(value.jornada);
+        }
+    });
+
+    jornadas_filtered = jornadas.filter((value, i) => {
+        return value != null && jornadas.indexOf(value) == i;
+    });
+
+    
+
+    
+
+
+    return jornadas_filtered;
 
 }

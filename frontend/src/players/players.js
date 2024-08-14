@@ -118,26 +118,6 @@ function LoadFiltersValues(){
   
 }
 
-function LoadFiltersCategory(){
-
-  /*let category_values = IN_GetFilterCategory();
-
-  let category_element = document.getElementById("categoryFilter");
-
-  category_element.innerHTML = "";
-  let opt_all = document.createElement("option");
-  opt_all.value = "Todas";
-  opt_all.innerHTML = "Todas";
-  category_element.appendChild(opt_all);
-
-  category_values.map((value) => {  
-    let opt = document.createElement("option");
-    opt.value = value;
-    opt.innerHTML = value;
-    category_element.appendChild(opt);
-  });*/
-  
-}
 
 function convertDateFormat(dateStr) {
   const [day, month, year] = dateStr.split('/');

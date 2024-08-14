@@ -5,6 +5,13 @@ function API_GetLastMatches(NumberOfMatches){
     return DB_GetLastMatches(NumberOfMatches);
 }
 
+function API_GetAllOntinyentMatches(){
+    return DB_GetAllOntinyentMatches();
+}
+function API_GetFilterDinamica(resultFilter){
+    return DB_GetFilterDinamica(resultFilter);
+}
+
 
 function API_GetMatch(ID){
     return DB_GetMatch(ID);
@@ -69,6 +76,9 @@ function API_GetFilterValues(){
 
 function API_GetFilterCategory(){
     return DB_GetFilterCategory();
+}
+function API_GetFilterJornada(){
+    return DB_GetFilterJornada();
 }
 
 function API_GetPlayerByPosition(name){

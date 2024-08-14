@@ -10,6 +10,14 @@ function IN_GetLastMatches(NumberOfMatches){
 
     return API_GetLastMatches(NumberOfMatches);
 }
+function IN_GetAllOntinyentMatches(){
+
+    return API_GetAllOntinyentMatches();
+}
+function IN_GetFilterDinamica(resultFilter){
+
+    return API_GetFilterDinamica(resultFilter);
+}
 
 function IN_GetMatch(ID){
     return API_GetMatch(ID);
@@ -74,6 +82,9 @@ function IN_GetFilterValues(){
 
 function IN_GetFilterCategory(){
     return API_GetFilterCategory();
+}
+function IN_GetFilterJornada(){
+    return API_GetFilterJornada();
 }
 
 function IN_GetPlayerByPosition(name){

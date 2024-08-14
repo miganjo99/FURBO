@@ -4,9 +4,79 @@ window.addEventListener("load", (event) => {
     console.log("page is fully loaded");
     GetLastMatches();
     TableController();
+    LoadFiltersCategory();
+    LoadFiltersJornada();
+   
+
+     // Obtener el botón de filtrar
+     let filter_button = document.getElementById("applyFilters");
+
+     // Añadir un listener para ejecutar ApplyFilters cuando se haga clic en el botón
+     if (filter_button) {
+         filter_button.addEventListener("click", FiltersMatches);
+     } else {
+         console.error("El botón de filtro no se encontró.");
+     }
+
 });
 
+function LoadFiltersCategory(){
 
+    let category_values = IN_GetFilterCategory();
+  
+    let category_element = document.getElementById("categoryFilter");
+  
+    category_element.innerHTML = "";
+    let opt_all = document.createElement("option");
+    opt_all.value = "Todas";
+    opt_all.innerHTML = "Todas";
+    category_element.appendChild(opt_all);
+  
+    category_values.map((value) => {  
+      let opt = document.createElement("option");
+      opt.value = value;
+      opt.innerHTML = value;
+      category_element.appendChild(opt);
+    });
+    
+
+  }
+function LoadFiltersJornada(){
+
+    let Jornada_values = IN_GetFilterJornada();
+  
+    let Jornada_element = document.getElementById("jornadaFilter");
+  
+    Jornada_element.innerHTML = "";
+    let opt_all = document.createElement("option");
+    opt_all.value = "Todas";
+    opt_all.innerHTML = "Todas";
+    Jornada_element.appendChild(opt_all);
+  
+    Jornada_values.map((value) => {  
+      let opt = document.createElement("option");
+      opt.value = value;
+      opt.innerHTML = value;
+      Jornada_element.appendChild(opt);
+    });
+    
+
+  }
+
+
+  function FiltersMatches(is_mobile = false){
+
+
+    let resultFilter = document.getElementById("resultFilter").value;
+    let filteredMatches = IN_GetFilterDinamica(resultFilter);
+
+    if (filteredMatches && filteredMatches.length > 0) {
+        console.log("Partidos filtrados: ", filteredMatches);
+    } else {
+        console.log("No se encontraron partidos para el filtro seleccionado.");
+    }  
+  
+  }
 
 
 function GetLastMatches(){

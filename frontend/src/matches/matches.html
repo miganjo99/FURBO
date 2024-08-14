@@ -77,14 +77,60 @@
             
 
                 <h1>Últimos partidos</h1>
-                <div class="controls">
-                    <button class="filter-btn" data-status="all">Todos</button>
-                    <button class="filter-btn" data-status="cancelled">Jornada</button>
-                    <button class="filter-btn" data-status="shipped">Resultado</button>
-                    <button class="filter-btn" data-status="delivered">Placeholder</button>
-                    <button class="sort-btn">Ordenar por fecha</button>
-                    <input type="text" class="search-input" placeholder="Buscar rival...">
+
+
+                <div class="filter-container">
+                    <form id="filterForm" class="filter_bar">                        
+
+
+                        
+                        <!-- ok -->
+                        <label for="resultFilter" class="filter_title">Resultado:</label>
+                        <select id="resultFilter" name="result">
+                            <option value="all">All</option>
+                            <option value="Ganado">Ganado</option>
+                            <option value="Perdido">Perdido</option>    
+                            <option value="Empatado">Empatado</option>
+                        </select>
+
+                        <!-- ok -->
+                        <label for="seasonFilter" class="filter_title">Temporada:</label>
+                        <select id="seasonFilter" name="season">
+                            <option value="all">All</option>
+                            <option value="2020">2020</option>
+                            <option value="2021">2021</option>
+                            <option value="2022">2022</option>
+                            <option value="2023">2023</option>
+                        </select>
+                        
+                        <!-- ok -->
+                        <!-- hacerlo dinamicamente -->
+                        <label for="categoryFilter" class="filter_title">Categoria:</label>
+                        <select id="categoryFilter" name="category">
+                            <option value="Example">Example</option>
+          
+                        </select>
+          
+                        <!-- ok -->
+                        <!-- hacerlo dinamicamente -->
+
+                        <label for="jornadaFilter" class="filter_title">Jornada:</label>
+                        <select id="jornadaFilter" name="jornada">
+                            <option value="Example">Example</option>
+                        </select>
+
+                        <button type="button" id="applyFilters">Filtrar</button>
+                    </form>
                 </div>
+          
+
+
+
+
+
+                
+
+
                 <div class="table-container" id="matches-tables-pc">
                     <div class="table_radius">
 
@@ -174,6 +220,7 @@
 
         <script src="../../../backend/src/data/equipos.js"></script>
         <script src="../../../backend/src/data/jugadores.js"></script>
+        
         <script src="../../../backend/src/data/datos_jugadores.js"></script>
  
         

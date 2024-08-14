@@ -30,8 +30,14 @@ h1{
     }
 }
 
+.controls #categoryFilter {
+    display: none; 
 
-table {
+}
+
+
+
+tacle {
     width: 100%;
 }
 
@@ -366,7 +372,6 @@ a:hover{
     .table-header-row th{
         background-color: var(--primary-color);
     }
-    
+}
 
     
-}
