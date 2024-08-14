@@ -40,15 +40,32 @@ window.addEventListener("load", (event) => {
   });
 
   // Check out of filters click
-  document.getElementById("outer_filters_container").addEventListener("click", MenuToggle);
+  document.getElementById("outer_filters_container").addEventListener("click", function(){
+    filter_data_mobile.nombre = document.getElementById("player_name_mobile").value ? document.getElementById("player_name_mobile").value : "";
+    ApplyFilters();
+    MenuToggle();
+  });
 
+  // Sub menu posicion
   let active = false;
+  let position_btn = document.getElementById("menu_item_posicion")
   
-  document.getElementById("menu_item_posicion").addEventListener("click", function(){
+  position_btn.addEventListener("click", function(){
   
     active = !active;
     let elements = document.getElementsByClassName("sub_menu_position");
-    
+
+
+
+    //position_btn.querySelector('svg').classList.toggle("rotate_icon");
+
+    if(active){
+      position_btn.querySelector('svg').style.transform = 'rotate(180deg)';
+    }else{
+      position_btn.querySelector('svg').style.transform = '';
+    }
+
+
     Array.from(elements).map((value) => {
       if(active){
         
@@ -70,12 +87,20 @@ window.addEventListener("load", (event) => {
 
   // Sub menu edad
   let active_edad = false;
-  document.getElementById("menu_item_edad").addEventListener("click", function(){
-    active = !active;
+  let edad_btn = document.getElementById("menu_item_edad")
+  edad_btn.addEventListener("click", function(){
+    active_edad = !active_edad;
     let elements = document.getElementsByClassName("sub_menu_edad");
+
+
+    if(active_edad){
+      edad_btn.querySelector('svg').style.transform = 'rotate(180deg)';
+    }else{
+      edad_btn.querySelector('svg').style.transform = '';
+    }
     
     Array.from(elements).map((value) => {
-      if(active){
+      if(active_edad){
         
         value.style.display = "block";
         let height = value.scrollHeight + "px";

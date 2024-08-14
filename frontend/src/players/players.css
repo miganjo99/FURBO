@@ -557,6 +557,11 @@ body::before {
   align-content: center;
 }
 
+.icon_rotating{
+  font-size: 4.5vw;
+  transition: transform 0.6s ease;
+}
+
 @keyframes menu_appear{
   0% {
     transform: translateX(-100%); /* Comienza fuera de la pantalla a la izquierda */
