@@ -86,6 +86,9 @@ function IN_GetFilterCategory(){
 function IN_GetFilterJornada(){
     return API_GetFilterJornada();
 }
+function IN_GetFilterTemporadas(){
+    return API_GetFilterTemporadas();
+}
 
 function IN_GetPlayerByPosition(name){
     return API_GetPlayerByPosition(name);

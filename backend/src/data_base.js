@@ -361,6 +361,41 @@ function DB_GetFilterCategory(){
     return categorias_filtered;
 
 }
+function DB_GetFilterTemporadas(){
+    let temporadas = [];
+    let temporadas_filtered = [];
+
+    // let data_jugador = DB_GetAllPlayersInfo();
+
+    console.log("data_jugadores");
+    console.log(data_jugadores);
+
+
+    data_jugadores.map((value) => {
+        if (value.temporada === 0) {
+            // Si la categoría es 0, añadimos "Amistoso"
+            temporadas.push("Amistoso");
+        } else if (value.categoria != null) {
+            
+            temporadas.push(value.temporada);
+        }
+    });
+
+    temporadas_filtered = temporadas.filter((value, i) => {
+        return value != null && temporadas.indexOf(value) == i;
+    });
+
+    
+
+    console.log(data_jugadores[0]);
+
+
+    return temporadas_filtered;
+
+}
+
+
+
 function DB_GetFilterJornada(){
     let jornadas = [];
     let jornadas_filtered = [];

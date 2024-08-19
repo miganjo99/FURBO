@@ -77,6 +77,9 @@ function API_GetFilterValues(){
 function API_GetFilterCategory(){
     return DB_GetFilterCategory();
 }
+function API_GetFilterTemporadas(){
+    return DB_GetFilterTemporadas();
+}
 function API_GetFilterJornada(){
     return DB_GetFilterJornada();
 }

@@ -2,11 +2,12 @@
 
 window.addEventListener("load", (event) => {
     console.log("page is fully loaded");
-    GetLastMatches();
+    // GetLastMatches();
     TableController();
     LoadFiltersCategory();
     LoadFiltersJornada();
-   
+    LoadFiltersTemporadas();
+    FiltersMatches();
 
      // Obtener el botón de filtrar
      let filter_button = document.getElementById("applyFilters");
@@ -41,6 +42,27 @@ function LoadFiltersCategory(){
     
 
   }
+function LoadFiltersTemporadas(){
+
+    let season_values = IN_GetFilterTemporadas();
+  
+    let season_element = document.getElementById("seasonFilter");
+  
+    season_element.innerHTML = "";
+    let opt_all = document.createElement("option");
+    opt_all.value = "Todas";
+    opt_all.innerHTML = "Todas";
+    season_element.appendChild(opt_all);
+  
+    season_values.map((value) => {  
+      let opt = document.createElement("option");
+      opt.value = value;
+      opt.innerHTML = value;
+      season_element.appendChild(opt);
+    });
+    
+
+  }
 function LoadFiltersJornada(){
 
     let Jornada_values = IN_GetFilterJornada();
@@ -64,23 +86,194 @@ function LoadFiltersJornada(){
   }
 
 
-  function FiltersMatches(is_mobile = false){
-
+  function FiltersMatches(is_mobile = false) {
+    let partidos = IN_GetAllOntinyentMatches();
 
     let resultFilter = document.getElementById("resultFilter").value;
-    let filteredMatches = IN_GetFilterDinamica(resultFilter);
+    if (resultFilter !== "all") {  
+        partidos = partidos.filter(partido => partido.dinamica === resultFilter);
+    }
 
-    if (filteredMatches && filteredMatches.length > 0) {
-        console.log("Partidos filtrados: ", filteredMatches);
+    // console.log("partidos");
+    // console.log(partidos);
+    // console.log("partidos");
+
+    // Aplicar filtro de categoría
+    let tipoFilter = document.getElementById("categoryFilter").value;
+    if (tipoFilter !== "Todas") {  
+        partidos = partidos.filter(partido => partido.categoria === tipoFilter);
+    }
+
+    console.log("partidos");
+    console.log(partidos);
+    console.log("partidos");
+
+    let seasonFilter = document.getElementById("seasonFilter").value;
+    console.log(seasonFilter);
+    if (seasonFilter !== "Todas") {
+        partidos = partidos.filter(partido => partido.temporada === seasonFilter);
+        console.log("partidos season");
+        console.log(partidos);
+        console.log("partidos season");
+    }
+
+    let jornadaFilter = document.getElementById("jornadaFilter").value;
+    if (jornadaFilter !== "Todas") {
+        partidos = partidos.filter(partido => partido.jornada === jornadaFilter);
+    }
+
+    // // Si no se encontraron partidos, cargar los ultimos 50
+    if (partidos.length === 0) {
+        partidos = IN_GetLastMatches(50);
+        //toaster?????
+        console.log("No se encontraron partidos para los filtros seleccionados.");
     } else {
-        console.log("No se encontraron partidos para el filtro seleccionado.");
-    }  
-  
-  }
+        console.log("Partidos filtrados: ", partidos);
+    }
 
 
-function GetLastMatches(){
-    let data = IN_GetLastMatches(50);
+
+
+    PrintMatches(partidos);
+}
+
+
+
+// function GetLastMatches(){
+//     let data = IN_GetLastMatches(50);
+//     console.log(data);
+
+//     const table = document.getElementById("match-table-body");
+//     table.innerHTML = '';
+
+//     // Si estamos en pc
+//     data.forEach(match => {
+//         const row = document.createElement('tr');
+//         row.classList.add("match-table-body_element");
+
+//         // Columna de Jornada con enlace
+//         const jornadaCell = document.createElement('td');
+//         const jornadaLink = document.createElement('a');
+//         jornadaLink.href = ""; // Asigna la URL apropiada si es necesario
+//         jornadaLink.textContent = `Jornada ${match.jornada}`;
+//         jornadaCell.appendChild(jornadaLink);
+//         row.appendChild(jornadaCell);
+
+//         // Columna de Equipos
+//         const teamsCell = document.createElement('td');
+//         const localTeam = match.local_visitante === 'Local' ? 'Ontinyent 1931' : match.rival;
+//         const visitorTeam = match.local_visitante === 'Visitante' ? 'Ontinyent 1931' : match.rival;
+//         teamsCell.textContent = `${localTeam} - ${visitorTeam}`;
+//         row.appendChild(teamsCell);
+
+//         // Columna de Dinámica con clase
+//         const dynamicCell = document.createElement('td');
+//         const dynamicSpan = document.createElement('span');
+//         //dynamicSpan.classList.add('shipped-status'); // Cambiar la clase según la dinámica
+//         if (match.dinamica === 'Ganado') {
+//             dynamicSpan.classList.add('delivered-status');
+//             dynamicSpan.textContent = 'Ganado';
+
+//         } else if (match.dinamica === 'Perdido') {
+//             dynamicSpan.classList.add('cancelled-status');
+//             dynamicSpan.textContent = 'Perdido';
+
+//         } else if (match.dinamica === 'Empatado') {
+//             dynamicSpan.classList.add('shipped-status');
+//             dynamicSpan.textContent = 'Empatado';
+//         }
+//         dynamicCell.appendChild(dynamicSpan);
+//         row.appendChild(dynamicCell);
+
+//         // Columna de Fecha
+//         const dateCell = document.createElement('td');
+//         dateCell.textContent = match.dia;
+//         row.appendChild(dateCell);
+
+//         // Columna de Resultado
+//         const scoreCell = document.createElement('td');
+//         scoreCell.textContent = match.resultado;
+//         row.appendChild(scoreCell);
+
+//         table.appendChild(row);
+//     });
+
+//     const table_mobile = document.getElementById("matches-tables-mobile");
+//     table_mobile.innerHTML = '';
+
+//     // Si estamos en movil
+//     data.forEach(match => {
+//         const item = document.createElement('div');
+//         item.classList.add('grid-item');
+//         item.addEventListener("click", function(){
+//             window.location.href = "./match/match.html?id=" + match.partido;
+//         });
+
+//         // Parte superior de la grid-item
+//         const topDiv = document.createElement('div');
+//         topDiv.classList.add('grid-top');
+
+//         // Enlace de Jornada
+//         const jornadaDiv = document.createElement('div');
+//         const jornadaLink = document.createElement('p');
+//         jornadaLink.href = "#"; // Asigna la URL apropiada si es necesario
+//         jornadaLink.classList.add('grid-a');
+//         if(typeof(match.jornada) == 'number'){
+//             jornadaLink.textContent = `Jornada ${match.jornada}`;
+//         }else{
+//             jornadaLink.textContent = `${match.jornada}`;
+//         }
+//         jornadaDiv.appendChild(jornadaLink);
+//         topDiv.appendChild(jornadaDiv);
+
+//         // Fecha
+//         const dateDiv = document.createElement('div');
+//         dateDiv.classList.add('grid-date');
+//         dateDiv.textContent = match.dia;
+//         topDiv.appendChild(dateDiv);
+
+//         // Dinámica con clase
+//         const dynamicDiv = document.createElement('div');
+//         const dynamicSpan = document.createElement('span');
+//         if (match.dinamica === 'Ganado') {
+//             dynamicSpan.classList.add('delivered-status');
+//             dynamicSpan.textContent = 'Ganado';
+//         } else if (match.dinamica === 'Perdido') {
+//             dynamicSpan.classList.add('cancelled-status');
+//             dynamicSpan.textContent = 'Perdido';
+//         } else if (match.dinamica === 'Empatado') {
+//             dynamicSpan.classList.add('shipped-status');
+//             dynamicSpan.textContent = 'Empatado';
+//         }
+//         dynamicDiv.appendChild(dynamicSpan);
+//         topDiv.appendChild(dynamicDiv);
+
+//         item.appendChild(topDiv);
+
+//         // Descripción del partido (Equipos)
+//         const descDiv = document.createElement('div');
+//         descDiv.classList.add('grid-desc');
+//         const localTeam = match.local_visitante === 'Local' ? 'Ontinyent 1931' : match.rival;
+//         const visitorTeam = match.local_visitante === 'Visitante' ? 'Ontinyent 1931' : match.rival;
+//         descDiv.textContent = `${localTeam} - ${visitorTeam}`;
+//         item.appendChild(descDiv);
+
+//         // Resultado del partido
+//         const scoreDiv = document.createElement('div');
+//         scoreDiv.classList.add('grid-price');
+//         scoreDiv.textContent = match.resultado;
+//         item.appendChild(scoreDiv);
+
+//         table_mobile.appendChild(item);
+//     });
+
+// }
+
+function PrintMatches(data){
+    // let data = IN_GetLastMatches(50);
+    
+    
+    console.log("data PrintMatches");
     console.log(data);
 
     const table = document.getElementById("match-table-body");
