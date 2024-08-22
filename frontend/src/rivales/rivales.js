@@ -33,16 +33,19 @@
         //card.setAttribute('href', './player/player.html?id='+value.id_jugador);
         
         let rival_nombre = value.rival.replace(/\s+/g, '_');
+        rival_nombre = rival_nombre.replace(/[\s']/g, '_');
         
+        //console.log(rival_nombre)
         
         let bgImage = `url('../../data/images/escudos/${rival_nombre}.png')`;
+
         
         card.style.setProperty('--bg-img', bgImage);
         
         let cardContent = document.createElement('div');
         
         let playerName = document.createElement('h1');
-        playerName.textContent = value.rival || "prueba nombre rival texto";
+        playerName.textContent = value.rival.replace(/ny/g, 'ñ');;
         
         cardContent.appendChild(playerName);
         card.appendChild(cardContent);

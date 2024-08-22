@@ -1,6 +1,6 @@
 const data_rivales = [
 {
-"rival" : "Algueña CF",
+"rival" : "Alguenya CF",
 "pj" : 2,
 "p_emp" : 1,
 "p_gan" : 1,
@@ -500,7 +500,7 @@ const data_rivales = [
 "min_emp" : 84,
 },
 {
-"rival" : "FC Jove Español",
+"rival" : "FC Jove Espanyol",
 "pj" : 2,
 "p_emp" : 1,
 "p_gan" : 0,
@@ -590,7 +590,7 @@ const data_rivales = [
 "min_emp" : 80,
 },
 {
-"rival" : "Peña Madridista de Ibi",
+"rival" : "Penya Madridista de Ibi",
 "pj" : 2,
 "p_emp" : 0,
 "p_gan" : 2,
