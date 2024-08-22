@@ -428,3 +428,7 @@ function DB_GetFilterJornada(){
     return jornadas_filtered;
 
 }
+
+function DB_GetRivales(){
+    return data_rivales;
+}
