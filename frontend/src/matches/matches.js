@@ -19,6 +19,9 @@ window.addEventListener("load", (event) => {
          console.error("El botón de filtro no se encontró.");
      }
 
+
+     LoadChatBot();
+
 });
 
 function LoadFiltersCategory(){
@@ -104,9 +107,6 @@ function LoadFiltersJornada(){
         partidos = partidos.filter(partido => partido.categoria === tipoFilter);
     }
 
-    console.log("partidos");
-    console.log(partidos);
-    console.log("partidos");
 
     let seasonFilter = document.getElementById("seasonFilter").value;
     console.log(seasonFilter);
@@ -129,7 +129,7 @@ function LoadFiltersJornada(){
         
         console.log("No se encontraron partidos para los filtros seleccionados.");
     } else {
-        console.log("Partidos filtrados: ", partidos);
+        //console.log("Partidos filtrados: ", partidos);
     }
 
 
@@ -271,7 +271,7 @@ function LoadFiltersJornada(){
 // }
 function PrintMatches(data) {
     console.log("data PrintMatches");
-    console.log(data);
+    //console.log(data);
 
     const table = document.getElementById("match-table-body");
     table.innerHTML = '';
