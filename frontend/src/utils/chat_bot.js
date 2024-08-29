@@ -20,19 +20,21 @@ async function sendMessage(message) {
         },
         body: JSON.stringify({
           model: "gpt-3.5-turbo", // O "gpt-3.5-turbo" dependiendo de tu acceso
-          messages: [{ role: "user", content: inputMessage }]
+          messages: [{ "role": "user", "content": inputMessage }]
         })
       });
   
+      
       // Verifica si la respuesta es exitosa
       if (!response.ok) {
-        const errorMessage = `Error: ${response.status} - ${response.statusText}`;
+        const errorMessage = `Error de response: ${response.status} - ${response.statusText}`;
         console.error(errorMessage);
         throw new Error(errorMessage);
       }
-  
+      
       const data = await response.json();
-      const botMessage = data.choices[0].message.content;
+      const botMessage = await data.choices[0].message;
+      //const botMessage = data.choices[0].message;
   
       console.log("Respuesta de ChatGPT:", botMessage);
   
