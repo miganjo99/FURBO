@@ -380,3 +380,104 @@ a:hover{
     color: #888; 
     padding: 20px;
 }
+label{
+
+    font-size: 16px;
+    color: #ffffff;
+    margin: 2px;
+}
+
+.filter-container {
+    margin: 20px;
+    margin-top: 250px;
+  }
+  
+  .filter-container{
+    display: none;
+  }
+  
+  .filter-container{
+    display: none;
+  }
+  
+  .mobile_filter-container{
+    display: block;
+    z-index: 1005;
+  }
+  
+  #mobile_filter_btn {
+    display: inline-block; /* Para que el div se ajuste al tamaño de su contenido */
+    width: fit-content; /* Ajusta el ancho al contenido */
+    height: fit-content; /* Ajusta la altura al contenido */
+    padding: 0; /* Elimina cualquier relleno interno */
+    margin: 0;
+    margin-left: 6%;
+  }
+  
+  .filter-icon{
+    font-size: 10vw;
+    color: var(--terciary_color);
+    margin-left: 6%;
+  }
+
+@media (max-width: 600px) {
+
+    .mobile_filter-container{
+      display: block;
+      margin-top: 27vw;
+    }
+  }
+  
+  @media (max-width: 420px) {
+    
+  }  
+
+@media (min-width: 1024px) {
+
+    .mobile_filter_menu-container{
+      display: none;
+    }
+  
+    .mobile_filter-container{
+      display: none;
+    }
+  
+    .filter-container{
+      display: block;
+    }
+  
+    .modal-content {
+      width: 60%;
+    }
+    
+    .filter-container {
+      margin-top: 17vw;
+    }
+  
+    .card-grid-space{
+      margin-top: 0;
+    }
+  
+    .card-grid-space {
+      display: flex;
+      flex-flow: column nowrap;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-content: flex-start;
+      align-items: center;
+    }
+  
+    .card{
+      margin: 20px;
+      width: 20vw;
+      height: 30vw;
+    }
+  
+    .filter-container{
+      display: block;
+    }
+  }
+
+
+  

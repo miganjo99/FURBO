@@ -295,6 +295,9 @@ function PrintMatches(data) {
             const jornadaLink = document.createElement('a');
             jornadaLink.href = ""; // Asigna la URL apropiada si es necesario
             jornadaLink.textContent = `Jornada ${match.jornada}`;
+            if(match.jornada == '0'){
+                jornadaLink.textContent = 'Amistoso';
+            }
             jornadaCell.appendChild(jornadaLink);
             row.appendChild(jornadaCell);
 
@@ -363,9 +366,14 @@ function PrintMatches(data) {
             const jornadaLink = document.createElement('p');
             jornadaLink.href = "#"; // Asigna la URL apropiada si es necesario
             jornadaLink.classList.add('grid-a');
-            if(typeof(match.jornada) == 'number'){
+
+            if(match.jornada == '0'){
+                jornadaLink.textContent = 'Amistoso';
+            }
+            else if(typeof(match.jornada) == 'number'){
                 jornadaLink.textContent = `Jornada ${match.jornada}`;
-            }else{
+            }
+            else{
                 jornadaLink.textContent = `${match.jornada}`;
             }
             jornadaDiv.appendChild(jornadaLink);
