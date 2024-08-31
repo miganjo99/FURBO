@@ -94,6 +94,10 @@ function IN_GetPlayerByPosition(name){
     return API_GetPlayerByPosition(name);
 }
 
+function IN_GetRivales(){
+    return API_GetRivales();
+}
+
 //export {IN_GetLastMatches};
 
 // Example functions:

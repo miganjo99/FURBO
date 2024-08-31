@@ -30,7 +30,7 @@ function DB_GetAllPlayersInfo(){
 }
 
 function DB_GetLastMatches(NumMatches){
-    console.log(data_equipos);
+
     let matches_sorted = sortMatchesByDate(data_equipos);
 
     let total_matches = [];
@@ -320,7 +320,6 @@ function DB_GetFilterValues(){
         return value != null && posiciones.indexOf(value) == i;
     });
 
-    console.log(data_datos_jugadores[0]);
 
     //let max_edad = data_datos_jugadores[0];
 
@@ -332,11 +331,6 @@ function DB_GetFilterValues(){
 function DB_GetFilterCategory(){
     let categorias = [];
     let categorias_filtered = [];
-
-    // let data_jugador = DB_GetAllPlayersInfo();
-
-    console.log("data_jugadores");
-    console.log(data_jugadores);
 
 
     data_jugadores.map((value) => {
@@ -353,23 +347,12 @@ function DB_GetFilterCategory(){
         return value != null && categorias.indexOf(value) == i;
     });
 
-    
-
-    console.log(data_jugadores[0]);
-
-
     return categorias_filtered;
 
 }
 function DB_GetFilterTemporadas(){
     let temporadas = [];
     let temporadas_filtered = [];
-
-    // let data_jugador = DB_GetAllPlayersInfo();
-
-    console.log("data_jugadores");
-    console.log(data_jugadores);
-
 
     data_jugadores.map((value) => {
         if (value.temporada === 0) {
@@ -385,11 +368,6 @@ function DB_GetFilterTemporadas(){
         return value != null && temporadas.indexOf(value) == i;
     });
 
-    
-
-    console.log(data_jugadores[0]);
-
-
     return temporadas_filtered;
 
 }
@@ -399,11 +377,6 @@ function DB_GetFilterTemporadas(){
 function DB_GetFilterJornada(){
     let jornadas = [];
     let jornadas_filtered = [];
-
-    // let data_jugador = DB_GetAllPlayersInfo();
-
-    console.log("data_equipos");
-    console.log(data_equipos);
 
 
     data_equipos.map((value) => {
@@ -427,4 +400,8 @@ function DB_GetFilterJornada(){
 
     return jornadas_filtered;
 
+}
+
+function DB_GetRivales(){
+    return data_rivales;
 }

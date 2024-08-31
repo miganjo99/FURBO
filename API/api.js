@@ -87,3 +87,7 @@ function API_GetFilterJornada(){
 function API_GetPlayerByPosition(name){
     return DB_GetPlayerByPosition(name);
 }
+
+function API_GetRivales(){
+    return DB_GetRivales();
+}
