@@ -129,6 +129,7 @@ a{
     text-decoration: none; 
 }
 
+
 a:hover{
     text-decoration: underline;
 }
@@ -338,6 +339,12 @@ a:hover{
     .match-table-body_element:hover{
         transform: scale(1.1);
         overflow: visible !important;
+    }
+
+    .match_title{
+        font-weight: 600; 
+        color: #212121; 
+        text-decoration: none; 
     }
 
 

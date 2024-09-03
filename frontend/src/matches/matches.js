@@ -289,11 +289,14 @@ function PrintMatches(data) {
         data.forEach(match => {
             const row = document.createElement('tr');
             row.classList.add("match-table-body_element");
+            row.addEventListener("click", function(){
+                window.location.href = "./match/match.html?id=" + match.partido;
+            });
 
             // Columna de Jornada con enlace
             const jornadaCell = document.createElement('td');
-            const jornadaLink = document.createElement('a');
-            jornadaLink.href = ""; // Asigna la URL apropiada si es necesario
+            const jornadaLink = document.createElement('p');
+            //jornadaLink.href = "./match/match.html?id=" + match.partido;
             jornadaLink.textContent = `Jornada ${match.jornada}`;
             if(match.jornada == '0'){
                 jornadaLink.textContent = 'Amistoso';
@@ -306,6 +309,7 @@ function PrintMatches(data) {
             const localTeam = match.local_visitante === 'Local' ? 'Ontinyent 1931' : match.rival;
             const visitorTeam = match.local_visitante === 'Visitante' ? 'Ontinyent 1931' : match.rival;
             teamsCell.textContent = `${localTeam} - ${visitorTeam}`;
+            teamsCell.classList.add("match_title")
             row.appendChild(teamsCell);
 
             // Columna de Dinámica con clase
@@ -334,6 +338,7 @@ function PrintMatches(data) {
             // Columna de Resultado
             const scoreCell = document.createElement('td');
             scoreCell.textContent = match.resultado;
+            scoreCell.classList.add("match_title");
             row.appendChild(scoreCell);
 
             table.appendChild(row);
