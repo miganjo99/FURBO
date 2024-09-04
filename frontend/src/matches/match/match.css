@@ -48,12 +48,7 @@
 .match-container h1 {
   font-size: 100% !important;
 }
-.match-container p {
-  font-size: 20px;
-  padding-bottom: 1em;
-  margin-bottom: 1.5em;
-  border-bottom: 1px solid lightgray;
-}
+
 .cancelled-status, .shipped-status, .delivered-status {
   border-radius: 16px 16px 16px 16px;
   -moz-border-radius: 16px 16px 16px 16px;
@@ -301,4 +296,110 @@
     transform: translateX(300px) skewX(-15deg);
     transition-property: opacity, transform;
   }
+}
+
+.match-container p {
+  font-size: 20px;
+}
+
+@media (max-width: 600px) {
+
+
+}
+
+@media (max-width: 420px) {
+  
+}
+
+@media (max-width: 1024px){
+  .match-container p {
+    padding-bottom: 1em;
+    margin-bottom: 1.5em;
+    border-bottom: 1px solid lightgray;
+  }
+
+  #container_pc{
+    display: none;
+  }
+}
+
+@media (min-width: 1024px) {
+
+  #container_mobile{
+    display: none;
+    width: 100%;
+  }
+
+  #container_pc{
+    /* display: block; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: nowrap;
+  }
+
+  .match-container{
+    width: 100%;
+  }
+
+  .partido_resultado_equipo {
+    display: flex;
+    flex-direction: column; /* Cambiado a columna para colocar la imagen encima del texto */
+    align-items: center; /* Alinea la imagen y el texto al centro horizontalmente */
+    justify-content: center;
+  }
+
+  .partido_resultado img {
+    margin-bottom: 0.5em; /* Añade un pequeño espacio entre la imagen y el texto */
+  }
+
+  .partido_resultado {
+    display: flex;
+    /*flex-grow: 1;*/
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    /*margin: 0 auto;*/
+  }
+
+  #campo_nombre{
+    margin-right: 1vw;
+  }
+
+  #partido_numero{
+    flex-grow: 1;
+  }
+
+  .partido_other{
+    flex-grow: 1;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #partido_dinamica{
+    text-shadow: 2px 2px 4px black;
+  }
+
+  .partido_resultado_goles{
+    margin: 0 !important;
+  }
+
+}
+
+.match_header {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: flex-end;
 }
