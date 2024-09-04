@@ -298,9 +298,7 @@
   }
 }
 
-.match-container p {
-  font-size: 20px;
-}
+
 
 @media (max-width: 600px) {
 
@@ -320,6 +318,10 @@
 
   #container_pc{
     display: none;
+  }
+
+  .match-container p {
+    font-size: 20px;
   }
 }
 
@@ -344,26 +346,31 @@
     width: 100%;
   }
 
-  .partido_resultado_equipo {
+  .partido_resultado_equipo, .partido_resultado_equipo_nombres {
     display: flex;
-    flex-direction: column; /* Cambiado a columna para colocar la imagen encima del texto */
-    align-items: center; /* Alinea la imagen y el texto al centro horizontalmente */
     justify-content: center;
+    align-items: center;
+  }
+
+  .partido_numero, .partido_resultado, .partido_other{
+    width: 100%;
   }
 
   .partido_resultado img {
-    margin-bottom: 0.5em; /* Añade un pequeño espacio entre la imagen y el texto */
+    margin-bottom: 0.5em;
+    width: 10vw;
+    height: auto;
+    margin-right: 3vw;
+    margin-left: 3vw;
+    border-radius: 10px;
   }
 
   .partido_resultado {
     display: flex;
-    /*flex-grow: 1;*/
-    flex-direction: row;
-    flex-wrap: nowrap;
-    align-content: center;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
-    /*margin: 0 auto;*/
+    justify-content: center;
+    align-content: center;
   }
 
   #campo_nombre{
@@ -374,12 +381,9 @@
     flex-grow: 1;
   }
 
-  .partido_other{
-    flex-grow: 1;
-
+  .partido_other {
     display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
     justify-content: center;
     align-items: center;
   }
@@ -388,8 +392,14 @@
     text-shadow: 2px 2px 4px black;
   }
 
-  .partido_resultado_goles{
+  .partido_resultado_goles {
     margin: 0 !important;
+    font-size: 2.5vw !important;
+    width: 7vw;
+  }
+
+  #local_nombre{
+    font-size: 1.5vw;
   }
 
 }
@@ -400,6 +410,15 @@
   flex-direction: row;
   flex-wrap: nowrap;
   align-content: center;
-  justify-content: center;
-  align-items: flex-end;
+  justify-content: space-between; /* Cambio a space-between para distribuir el espacio entre los bloques */
+  align-items: center;
+}
+
+.partido_numero, .partido_other {
+  flex-grow: 1;
+  text-align: center; /* Centramos el texto dentro de cada bloque */
+}
+
+.match_header *{
+  font-size: 1.25vw;
 }

@@ -100,6 +100,21 @@ function LoadMatch(ID){
 
         document.getElementById("campo_nombre").innerHTML = match.campo;
 
+        let rival_nombre = match.rival.replace(/\s+/g, '_');
+        rival_nombre = rival_nombre.replace(/[\s']/g, '_');    
+        let bgImage = `url('../../data/images/escudos/${rival_nombre}.png')`;
+
+        if(match.local_visitante == "Visitante"){
+
+            document.getElementById("local_nombre").innerHTML = match.rival + " - " + "Ontinyent 1931";
+            document.getElementById("imagen_equipo_local").src = `../../../data/images/escudos/${rival_nombre}.png`;
+            document.getElementById("imagen_equipo_visitante").src = '../../../data/images/escudos/CD_SB_Ontinyent.png';
+        }else{
+            document.getElementById("local_nombre").innerHTML = "Ontinyent 1931" + " - " + match.rival;
+            document.getElementById("imagen_equipo_visitante").src = `../../../data/images/escudos/${rival_nombre}.png`;
+            document.getElementById("imagen_equipo_local").src = '../../../data/images/escudos/CD_SB_Ontinyent.png';
+        }
+
         let label_result = document.getElementById("partido_dinamica");
         label_result.innerHTML = match.dinamica;
         if (match.dinamica === 'Ganado') {
