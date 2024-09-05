@@ -98,21 +98,24 @@ function LoadMatch(ID){
     }else{
         // PC
 
+        // Header
         document.getElementById("campo_nombre").innerHTML = match.campo;
 
         let rival_nombre = match.rival.replace(/\s+/g, '_');
         rival_nombre = rival_nombre.replace(/[\s']/g, '_');    
         let bgImage = `url('../../data/images/escudos/${rival_nombre}.png')`;
 
+        document.getElementById("partido_numero").innerHTML = "Partido Nº: " + match.partido;
+
         if(match.local_visitante == "Visitante"){
 
             document.getElementById("local_nombre").innerHTML = match.rival + " - " + "Ontinyent 1931";
             document.getElementById("imagen_equipo_local").src = `../../../data/images/escudos/${rival_nombre}.png`;
-            document.getElementById("imagen_equipo_visitante").src = '../../../data/images/escudos/CD_SB_Ontinyent.png';
+            document.getElementById("imagen_equipo_visitante").src = '../../../data/images/escudo.png';
         }else{
             document.getElementById("local_nombre").innerHTML = "Ontinyent 1931" + " - " + match.rival;
             document.getElementById("imagen_equipo_visitante").src = `../../../data/images/escudos/${rival_nombre}.png`;
-            document.getElementById("imagen_equipo_local").src = '../../../data/images/escudos/CD_SB_Ontinyent.png';
+            document.getElementById("imagen_equipo_local").src = '../../../data/images/escudo.png';
         }
 
         let label_result = document.getElementById("partido_dinamica");
@@ -127,6 +130,36 @@ function LoadMatch(ID){
             console.log("Empatao");
             label_result.classList.add('shipped-status');
         }
+
+        // Info
+
+        document.getElementById("partido_temporada").innerHTML = match.temporada;
+        document.getElementById("partido_fecha").innerHTML = match.dia + " - " + match.hora;
+        document.getElementById("partido_amistoso").innerHTML = match.tipo_partido;
+
+        // Minutos
+
+        document.getElementById("partido_primera").innerHTML = "1ª Parte: " + match.primera_parte;
+        document.getElementById("partido_segunda").innerHTML = "2ª Parte: " + match.segunda_parte;
+
+        let min_perdiendo = match.min_perdiendo;
+        let min_ganando = match.min_ganando;
+        let min_empatando = match.min_empatando;
+
+        let min_totales = min_perdiendo + min_ganando + min_empatando;
+
+        let perdiendo_percent = (min_perdiendo * 100.0) / min_totales;
+        let ganando_percent = (min_ganando * 100.0) / min_totales;
+        let empatando_percent = (min_empatando * 100.0) / min_totales;
+
+        console.log("Perdiendo: " + perdiendo_percent)
+        console.log("Ganando: " + ganando_percent)
+        console.log("Empatando: " + empatando_percent)
+
+        document.getElementById("min_perdiendo").style.width = perdiendo_percent+ "%";
+        document.getElementById("min_ganando").style.width = ganando_percent + "%";
+        document.getElementById("min_empatando").style.width = empatando_percent + "%";
+
 
     }
         
