@@ -107,6 +107,9 @@ function LoadMatch(ID){
 
         document.getElementById("partido_numero").innerHTML = "Partido Nº: " + match.partido;
 
+
+        document.getElementById("resultado_goles").innerHTML = match.resultado;
+
         if(match.local_visitante == "Visitante"){
 
             document.getElementById("local_nombre").innerHTML = match.rival + " - " + "Ontinyent 1931";
@@ -171,9 +174,28 @@ function LoadMatch(ID){
         if(formated < tolerance && formated > 0) formated += 2;
         document.getElementById("min_empatando").style.width = formated + "%";
 
-        if(perdiendo_percent > 0)document.getElementById("minutos_perdiendo_num").innerHTML = Math.floor(perdiendo_percent) + "%";
-        if(ganando_percent > 0)document.getElementById("minutos_ganando_num").innerHTML = Math.floor(ganando_percent) + "%";
-        if(empatando_percent > 0)document.getElementById("minutos_empatando_num").innerHTML = Math.floor(empatando_percent) + "%";
+        if(perdiendo_percent > 0){
+            document.getElementById("minutos_perdiendo_num").innerHTML = Math.floor(perdiendo_percent) + "%";
+        }else{
+            document.getElementById("minutos_perdiendo_num").innerHTML = "";
+            document.getElementById("min_perdiendo").classList.remove("minutos_perdidos_bar");
+        }
+
+        if(ganando_percent > 0){
+            document.getElementById("minutos_ganando_num").innerHTML = Math.floor(ganando_percent) + "%";
+        }else{
+            document.getElementById("minutos_ganando_num").innerHTML = "";
+            document.getElementById("min_ganando").classList.remove("minutos_ganados_bar");
+        }
+        
+        if(empatando_percent > 0){
+            document.getElementById("minutos_empatando_num").innerHTML = Math.floor(empatando_percent) + "%";
+        }else{
+            document.getElementById("minutos_empatando_num").innerHTML = "";
+            document.getElementById("min_empatando").classList.remove("minutos_empatados_bar");
+            
+
+        }
 
         if(match.observaciones != null && match.observaciones != "null"){
             let videoUrl = match.observaciones;
@@ -187,6 +209,9 @@ function LoadMatch(ID){
         
             // Asigna el nuevo src al iframe
             document.getElementById("match_video").src = videoUrl;
+        }else{
+            document.getElementById("video_unavailable").innerHTML = "Video no disponible";
+            document.getElementById("match_video").style.display = "none";
         }
 
     }

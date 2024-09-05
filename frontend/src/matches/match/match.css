@@ -499,6 +499,10 @@
   height: 30vw;
 }
 
+.partido_resultado_goles{
+  letter-spacing: 0.5vw;
+}
+
 .fa-circle{
   margin-right: 1.5vw;
 }
