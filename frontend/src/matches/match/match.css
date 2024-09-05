@@ -471,6 +471,14 @@
 .minutos_perdidos_bar, .minutos_ganados_bar, .minutos_empatados_bar{
   height: 4vw;
   border: 1px solid lightgray;
+
+  display: flex;
+
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
 }
 
 .minutos_perdidos_bar{
