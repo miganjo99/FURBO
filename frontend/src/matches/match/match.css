@@ -418,6 +418,10 @@
     font-size: 1.5vw;
   }
 
+  .minutos_showed{
+    text-shadow: 2px 2px 4px black;
+  }
+
 }
 
 .match_header {
@@ -471,17 +475,17 @@
 
 .minutos_perdidos_bar{
   width: 33%;
-  background-color: red;
+  background-color: #ea0d0d;
 }
 
 .minutos_ganados_bar{
   width: 33%;
-  background-color: green;
+  background-color: #0ac200;
 }
 
 .minutos_empatados_bar{
   width: 33%;
-  background-color: yellow;
+  background-color: #e6d100;
 }
 
 .fa-circle{

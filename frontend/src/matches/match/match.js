@@ -156,9 +156,24 @@ function LoadMatch(ID){
         console.log("Ganando: " + ganando_percent)
         console.log("Empatando: " + empatando_percent)
 
-        document.getElementById("min_perdiendo").style.width = perdiendo_percent+ "%";
-        document.getElementById("min_ganando").style.width = ganando_percent + "%";
-        document.getElementById("min_empatando").style.width = empatando_percent + "%";
+        // Le sumo 2 porque si es muy bajo sin llegar a 0, ocupa tan poquito que el numero se sale fuera
+        const tolerance = 2; // El limite para sumarle 2 y que se vea un poco
+
+        let formated = perdiendo_percent;
+        if(formated < tolerance) formated += 2;
+        document.getElementById("min_perdiendo").style.width = formated + "%";
+        
+        formated = ganando_percent;
+        if(formated < tolerance) formated += 2;
+        document.getElementById("min_ganando").style.width = formated + "%";
+        
+        formated = empatando_percent
+        if(formated < tolerance) formated += 2;
+        document.getElementById("min_empatando").style.width = formated + "%";
+
+        document.getElementById("minutos_perdiendo_num").innerHTML = Math.floor(perdiendo_percent) + "%";
+        document.getElementById("minutos_ganando_num").innerHTML = Math.floor(ganando_percent) + "%";
+        document.getElementById("minutos_empatando_num").innerHTML = Math.floor(empatando_percent) + "%";
 
 
     }
