@@ -488,6 +488,17 @@
   background-color: #e6d100;
 }
 
+.section_title{
+  margin-top: 3vw;
+  margin-bottom: 0 !important;
+  font-size: 2vw;
+}
+
+.match_video{
+  width: 60vw;
+  height: 30vw;
+}
+
 .fa-circle{
   margin-right: 1.5vw;
 }

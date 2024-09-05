@@ -160,21 +160,34 @@ function LoadMatch(ID){
         const tolerance = 2; // El limite para sumarle 2 y que se vea un poco
 
         let formated = perdiendo_percent;
-        if(formated < tolerance) formated += 2;
+        if(formated < tolerance && formated > 0) formated += 2;
         document.getElementById("min_perdiendo").style.width = formated + "%";
         
         formated = ganando_percent;
-        if(formated < tolerance) formated += 2;
+        if(formated < tolerance && formated > 0) formated += 2;
         document.getElementById("min_ganando").style.width = formated + "%";
         
         formated = empatando_percent
-        if(formated < tolerance) formated += 2;
+        if(formated < tolerance && formated > 0) formated += 2;
         document.getElementById("min_empatando").style.width = formated + "%";
 
-        document.getElementById("minutos_perdiendo_num").innerHTML = Math.floor(perdiendo_percent) + "%";
-        document.getElementById("minutos_ganando_num").innerHTML = Math.floor(ganando_percent) + "%";
-        document.getElementById("minutos_empatando_num").innerHTML = Math.floor(empatando_percent) + "%";
+        if(perdiendo_percent > 0)document.getElementById("minutos_perdiendo_num").innerHTML = Math.floor(perdiendo_percent) + "%";
+        if(ganando_percent > 0)document.getElementById("minutos_ganando_num").innerHTML = Math.floor(ganando_percent) + "%";
+        if(empatando_percent > 0)document.getElementById("minutos_empatando_num").innerHTML = Math.floor(empatando_percent) + "%";
 
+        if(match.observaciones != null && match.observaciones != "null"){
+            let videoUrl = match.observaciones;
+
+            // Si es una URL de YouTube con 'watch?v=', convierte a formato embed
+            if (videoUrl.includes("youtube.com/watch?v=")) {
+                let videoId = videoUrl.split("v=")[1];  // Obtén el ID del video (después de 'v=')
+                videoId = videoId.split("&")[0];        // Elimina posibles parámetros adicionales ('&')
+                videoUrl = `https://www.youtube.com/embed/${videoId}`;
+            }
+        
+            // Asigna el nuevo src al iframe
+            document.getElementById("match_video").src = videoUrl;
+        }
 
     }
         
