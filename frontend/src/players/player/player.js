@@ -83,10 +83,10 @@ function GetPlayers() {
         radius: '50%',
         indicator: [
  
-          { name: 'Goles', max: IN_GetMaxGoles() }, // Get player with max n of goals
-          { name: 'Asistencias', max: IN_GetMaxAsistencias() }, //
-          { name: 'Amarillas', max:  max_amarillas_total}, // Get player with max n of amarillas
-          { name: 'Rojas', max: max_rojas_total }, // Get player with max n of rojas
+          { name: 'Goles ' + data.gol, max: IN_GetMaxGoles() }, // Get player with max n of goals
+          { name: 'Asistencias ' + data.asi, max: IN_GetMaxAsistencias() }, //
+          { name: 'Amarillas ' + data.amarillas, max:  max_amarillas_total}, // Get player with max n of amarillas
+          { name: 'Rojas ' + data.rojas, max: max_rojas_total }, // Get player with max n of rojas
           
         ]
       },
@@ -96,11 +96,11 @@ function GetPlayers() {
           type: 'radar',
           data: [
             {
-              value: [data.gol, data.asi, data.amarillas, data.rojas],
+              value: [data.gol >= 0? data.gol: 0 , data.asi, data.amarillas, data.rojas],
               name: 'Oficial'
             },
             {
-              value: [data.gol_of, data.asi_of, data.amarilla_of, data.rojas_of],
+              value: [data.gol_of >= 0 ? data.gol_of : 0, data.asi_of, data.amarilla_of, data.rojas_of],
               name: 'No oficial'
             }
           ]
