@@ -390,8 +390,8 @@ transition: all 0.3s;
 
   .card{
     margin: 20px;
-    width: 20vw;
-    height: 30vw;
+    width: 15vw;
+    height: 25vw;
   }
 
   .filter-container{

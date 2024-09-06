@@ -32,7 +32,7 @@
   top: 0;
   left: 0;
   z-index: 0;
-  max-width: 20%;
+  max-width: 10%;
   background: none;
   border: 0;
   padding: 0;
@@ -226,11 +226,11 @@
     display: none;
   }
   .menu-background {
-    height: 8vw;
+    height: 6vw;
   }
   .escudo_img {
     position: absolute;
-    top: 0;
+    top: 0.5vw;
     left: 0;
     z-index: 0;
     width: 15%;
@@ -250,7 +250,7 @@
     top: 0;
     right: 0;
     margin-right: 5%;
-    margin-top: 2%;
+    margin-top: 1%;
   }
   .navMenu-pc ul {
     display: flex;
@@ -289,7 +289,7 @@
 
   .navMenu-pc a {
     text-decoration: none;
-    font-size: 1.2vw;
+    font-size: 1.0vw;
     /*
      .navMenu-pc a:hover{
      text-decoration: none;
