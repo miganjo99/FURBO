@@ -441,6 +441,12 @@
     text-wrap: nowrap;
   }
 
+  .sub_header{
+    background-color: #333;
+    color: white;
+    font-size: 1.1vw;
+  }
+
   tbody{
     border-color: #edf2f7;  
   }
