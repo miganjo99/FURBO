@@ -403,7 +403,7 @@ label{
 
 .filter-container {
     margin: 20px;
-    margin-top: 250px;
+    /*margin-top: 250px;*/
   }
   
   .filter-container{
@@ -465,7 +465,7 @@ label{
     }
     
     .filter-container {
-      margin-top: 17vw;
+      /*margin-top: 17vw;*/
     }
   
     .card-grid-space{
