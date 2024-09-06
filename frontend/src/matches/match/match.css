@@ -38,7 +38,6 @@
 }
 .match-container {
   font-size: 16px;
-  padding: 1em;
 }
 .match-container h1, .match-container p {
   text-align: center;
@@ -484,6 +483,8 @@
 .minutos_perdidos_bar{
   width: 33%;
   background-color: #ea0d0d;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
 }
 
 .minutos_ganados_bar{
@@ -494,6 +495,8 @@
 .minutos_empatados_bar{
   width: 33%;
   background-color: #e6d100;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 
 .section_title{

@@ -162,6 +162,8 @@ function LoadMatch(ID){
         // Le sumo 2 porque si es muy bajo sin llegar a 0, ocupa tan poquito que el numero se sale fuera
         const tolerance = 2; // El limite para sumarle 2 y que se vea un poco
 
+        let only_empatado = true;
+
         let formated = perdiendo_percent;
         if(formated < tolerance && formated > 0) formated += 2;
         document.getElementById("min_perdiendo").style.width = formated + "%";
@@ -176,13 +178,20 @@ function LoadMatch(ID){
 
         if(perdiendo_percent > 0){
             document.getElementById("minutos_perdiendo_num").innerHTML = Math.floor(perdiendo_percent) + "%";
+            only_empatado = false;
         }else{
             document.getElementById("minutos_perdiendo_num").innerHTML = "";
             document.getElementById("min_perdiendo").classList.remove("minutos_perdidos_bar");
+
+            // le ponemos border radius al verde porque no existe rojo
+            let element = document.getElementById("min_ganando");
+            element.style.borderTopLeftRadius = "5px";
+            element.style.borderBottomLeftRadius = "5px";
         }
 
         if(ganando_percent > 0){
             document.getElementById("minutos_ganando_num").innerHTML = Math.floor(ganando_percent) + "%";
+            only_empatado = false;
         }else{
             document.getElementById("minutos_ganando_num").innerHTML = "";
             document.getElementById("min_ganando").classList.remove("minutos_ganados_bar");
@@ -190,11 +199,16 @@ function LoadMatch(ID){
         
         if(empatando_percent > 0){
             document.getElementById("minutos_empatando_num").innerHTML = Math.floor(empatando_percent) + "%";
+            
+            // Si han quedado 0-0 o han estado todo el santo partido empatados, solo existe el amarillo y le pongo el borde redondo en todos lados del amarillo
+            if(only_empatado){
+                let element = document.getElementById("min_empatando");
+                element.style.borderTopLeftRadius = "5px";
+                element.style.borderBottomLeftRadius = "5px";
+            }
         }else{
             document.getElementById("minutos_empatando_num").innerHTML = "";
             document.getElementById("min_empatando").classList.remove("minutos_empatados_bar");
-            
-
         }
 
         if(match.observaciones != null && match.observaciones != "null"){
