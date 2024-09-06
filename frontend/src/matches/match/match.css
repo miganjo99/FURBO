@@ -433,7 +433,7 @@
   }
 
   table *{
-    font-size: 20px;
+    font-size: 1.3vw;
   }
 
   tbody{
@@ -519,7 +519,8 @@
   }
 
   .table-header-row *{
-    font-size: 20px;
+    font-size: 1.3vw;
+    text-wrap: nowrap;
   }
 
   .table-header-row th{

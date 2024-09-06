@@ -250,6 +250,7 @@ function LoadMatch(ID){
         console.log(match_players);
 
         let table_body = document.getElementById("match-table-body");
+        let table_body_suplente = document.getElementById("match-table-body_suplentes");
 
         match_players.map((value) => {
             let row = document.createElement("tr");
@@ -305,8 +306,11 @@ function LoadMatch(ID){
             row.appendChild(row_value);
 
 
-            
-            table_body.appendChild(row);
+            if(value.suplente == 0){
+                table_body.appendChild(row);
+            }else{
+                table_body_suplente.appendChild(row);
+            }
 
         })
     }
