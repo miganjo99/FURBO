@@ -242,7 +242,14 @@ function LoadMatch(ID){
             let row_value = document.createElement("td");
             row_value.classList.add("match_title");
             row_value.classList.add("resalted");
-            row_value.innerHTML = value.jugador;
+            //row_value.innerHTML = value.jugador;
+
+            let player_link = document.createElement("a");
+            let player_info = IN_GetPlayerByName(value.jugador);
+            player_link.href = "../../players/player/player.html?id=" + player_info[0].id_jugador;
+            player_link.innerHTML = value.jugador;
+            row_value.appendChild(player_link);
+
             row.appendChild(row_value);
             
             row_value = document.createElement("td");
@@ -277,7 +284,8 @@ function LoadMatch(ID){
             
             row_value = document.createElement("td");
             row_value.classList.add("match_title");
-            row_value.innerHTML = Math.floor(value.edad);
+            //row_value.innerHTML = Math.floor(value.edad);
+            row_value.innerHTML = value.edad;
             row.appendChild(row_value);
 
 

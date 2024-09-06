@@ -290,11 +290,11 @@ function DB_GetPlayerByName(name){
     data_datos_jugadores.map((value) =>{
         
         if(value.jugador){
-            if(value.jugador.toLowerCase().includes(name)){
+            if(value.jugador.toLowerCase().includes(name.toLowerCase())){
                 players.push(value);
             }
         }else if(value.nombre_completo){
-            if(value.nombre_completo.toLowerCase().includes(name)){
+            if(value.nombre_completo.toLowerCase().includes(name.toLowerCase())){
                 players.push(value);
             }
         }
