@@ -163,54 +163,70 @@ function LoadMatch(ID){
         const tolerance = 2; // El limite para sumarle 2 y que se vea un poco
 
         let only_empatado = true;
+        let remove_ganando = false;
+        let remove_perdiendo = false;
+        let remove_empatando = false;
 
-        let formated = perdiendo_percent;
-        if(formated < tolerance && formated > 0) formated += 2;
-        document.getElementById("min_perdiendo").style.width = formated + "%";
-        
-        formated = ganando_percent;
-        if(formated < tolerance && formated > 0) formated += 2;
-        document.getElementById("min_ganando").style.width = formated + "%";
-        
-        formated = empatando_percent
-        if(formated < tolerance && formated > 0) formated += 2;
-        document.getElementById("min_empatando").style.width = formated + "%";
+        setTimeout(() =>{
 
-        if(perdiendo_percent > 0){
-            document.getElementById("minutos_perdiendo_num").innerHTML = Math.floor(perdiendo_percent) + "%";
-            only_empatado = false;
-        }else{
-            document.getElementById("minutos_perdiendo_num").innerHTML = "";
-            document.getElementById("min_perdiendo").classList.remove("minutos_perdidos_bar");
-
-            // le ponemos border radius al verde porque no existe rojo
-            let element = document.getElementById("min_ganando");
-            element.style.borderTopLeftRadius = "5px";
-            element.style.borderBottomLeftRadius = "5px";
-        }
-
-        if(ganando_percent > 0){
-            document.getElementById("minutos_ganando_num").innerHTML = Math.floor(ganando_percent) + "%";
-            only_empatado = false;
-        }else{
-            document.getElementById("minutos_ganando_num").innerHTML = "";
-            document.getElementById("min_ganando").classList.remove("minutos_ganados_bar");
-        }
-        
-        if(empatando_percent > 0){
-            document.getElementById("minutos_empatando_num").innerHTML = Math.floor(empatando_percent) + "%";
+            let formated = perdiendo_percent;
+            if(formated < tolerance && formated > 0) formated += 2;
+            document.getElementById("min_perdiendo").style.width = formated + "%";
             
-            // Si han quedado 0-0 o han estado todo el santo partido empatados, solo existe el amarillo y le pongo el borde redondo en todos lados del amarillo
-            if(only_empatado){
-                let element = document.getElementById("min_empatando");
+            formated = ganando_percent;
+            if(formated < tolerance && formated > 0) formated += 2;
+            document.getElementById("min_ganando").style.width = formated + "%";
+            
+            formated = empatando_percent
+            if(formated < tolerance && formated > 0) formated += 2;
+            document.getElementById("min_empatando").style.width = formated + "%";
+            
+            if(perdiendo_percent > 0){
+                document.getElementById("minutos_perdiendo_num").innerHTML = Math.floor(perdiendo_percent) + "%";
+                only_empatado = false;
+            }else{
+                document.getElementById("minutos_perdiendo_num").innerHTML = "";
+               
+                
+                // le ponemos border radius al verde porque no existe rojo
+                let element = document.getElementById("min_ganando");
                 element.style.borderTopLeftRadius = "5px";
                 element.style.borderBottomLeftRadius = "5px";
-            }
-        }else{
-            document.getElementById("minutos_empatando_num").innerHTML = "";
-            document.getElementById("min_empatando").classList.remove("minutos_empatados_bar");
-        }
 
+                remove_perdiendo = true;
+            }
+
+            
+            if(ganando_percent > 0){
+                document.getElementById("minutos_ganando_num").innerHTML = Math.floor(ganando_percent) + "%";
+                only_empatado = false;
+            }else{
+                document.getElementById("minutos_ganando_num").innerHTML = "";
+                remove_ganando = true;
+            }
+            
+            if(empatando_percent > 0){
+                document.getElementById("minutos_empatando_num").innerHTML = Math.floor(empatando_percent) + "%";
+                
+                // Si han quedado 0-0 o han estado todo el santo partido empatados, solo existe el amarillo y le pongo el borde redondo en todos lados del amarillo
+                if(only_empatado){
+                    let element = document.getElementById("min_empatando");
+                    element.style.borderTopLeftRadius = "5px";
+                    element.style.borderBottomLeftRadius = "5px";
+                }
+            }else{
+                document.getElementById("minutos_empatando_num").innerHTML = "";
+                remove_empatando = true;
+            }
+
+        }, 1000);
+
+        setTimeout(()=>{
+            if(remove_ganando)document.getElementById("min_ganando").classList.remove("minutos_ganados_bar");
+            if(remove_perdiendo)document.getElementById("min_perdiendo").classList.remove("minutos_perdidos_bar");   
+            if(remove_empatando)document.getElementById("min_empatando").classList.remove("minutos_empatados_bar");;
+        },1500);
+            
         if(match.observaciones != null && match.observaciones != "null" && match.observaciones != 0){
             let videoUrl = match.observaciones;
 
