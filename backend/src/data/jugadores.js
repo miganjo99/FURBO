@@ -21,7 +21,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 16.97,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -45,7 +45,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 16.95,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Martin Nebot",
@@ -69,7 +69,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 18.97,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -93,7 +93,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.28,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Alex Pascual",
@@ -117,7 +117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.20,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -141,7 +141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.55,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -165,7 +165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.26,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Diego Cambra",
@@ -189,7 +189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 18.86,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Angel Galan",
@@ -213,7 +213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.55,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -237,7 +237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 16.87,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -261,7 +261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.46,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Salva Martinez",
@@ -285,7 +285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.41,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Alex Cambra",
@@ -309,7 +309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 24.98,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -333,7 +333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 17.92,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -357,7 +357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.48,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Vicent Such",
@@ -381,7 +381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/7/2001",
 "edad" : 18.06,
 "oficial" : "No",
-"partido_n�_" : 1,
+"partido_n_" : 1,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -405,7 +405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.30,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Martin Nebot",
@@ -429,7 +429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 18.99,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -453,7 +453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.48,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -477,7 +477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.58,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Salva Martinez",
@@ -501,7 +501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.43,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -525,7 +525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 17.94,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Diego Cambra",
@@ -549,7 +549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 18.88,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Angel Galan",
@@ -573,7 +573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.57,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Marc Pomer",
@@ -597,7 +597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.37,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -621,7 +621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 16.89,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -645,7 +645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.28,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -669,7 +669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 16.97,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -693,7 +693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.50,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Juan Riera",
@@ -717,7 +717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "26/9/2003",
 "edad" : 15.87,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -741,7 +741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 16.99,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Alex Pascual",
@@ -765,7 +765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.22,
 "oficial" : "No",
-"partido_n�_" : 2,
+"partido_n_" : 2,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -789,7 +789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.51,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Martin Nebot",
@@ -813,7 +813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.00,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -837,7 +837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.00,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -861,7 +861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.58,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Salva Martinez",
@@ -885,7 +885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.44,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -909,7 +909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.29,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Diego Cambra",
@@ -933,7 +933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 18.89,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -957,7 +957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 16.90,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Marc Pomer",
@@ -981,7 +981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.38,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -1005,7 +1005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 35.30,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -1029,7 +1029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.49,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -1053,7 +1053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 16.98,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -1077,7 +1077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.31,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -1101,7 +1101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.49,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -1125,7 +1125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 17.95,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Alex Pascual",
@@ -1149,7 +1149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.23,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Angel Galan",
@@ -1173,7 +1173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.58,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Vicent Such",
@@ -1197,7 +1197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/7/2001",
 "edad" : 18.09,
 "oficial" : "No",
-"partido_n�_" : 3,
+"partido_n_" : 3,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -1221,7 +1221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.32,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -1245,7 +1245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 16.99,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -1269,7 +1269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.60,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -1293,7 +1293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.01,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -1317,7 +1317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 17.96,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Diego Cambra",
@@ -1341,7 +1341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 18.90,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -1365,7 +1365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 16.91,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Angel Galan",
@@ -1389,7 +1389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.59,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Alex Pascual",
@@ -1413,7 +1413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.24,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -1437,7 +1437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.30,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -1461,7 +1461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.50,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Juan Riera",
@@ -1485,7 +1485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "26/9/2003",
 "edad" : 15.89,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -1509,7 +1509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.52,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -1533,7 +1533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.50,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Vicent Such",
@@ -1557,7 +1557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/7/2001",
 "edad" : 18.10,
 "oficial" : "No",
-"partido_n�_" : 4,
+"partido_n_" : 4,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -1581,7 +1581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.56,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Alex Cambra",
@@ -1605,7 +1605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.06,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -1629,7 +1629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.05,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Salva Martinez",
@@ -1653,7 +1653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.49,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -1677,7 +1677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.63,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -1701,7 +1701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.54,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Diego Cambra",
@@ -1725,7 +1725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 18.94,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -1749,7 +1749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 16.95,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -1773,7 +1773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 35.35,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Marc Pomer",
@@ -1797,7 +1797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.43,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -1821,7 +1821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.34,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -1845,7 +1845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.03,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Alex Pascual",
@@ -1869,7 +1869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.28,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Juan Belda",
@@ -1893,7 +1893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/9/2002",
 "edad" : 16.96,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Martin Nebot",
@@ -1917,7 +1917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.05,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Angel Galan",
@@ -1941,7 +1941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.63,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -1965,7 +1965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.00,
 "oficial" : "No",
-"partido_n�_" : 5,
+"partido_n_" : 5,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -1989,7 +1989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.57,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Alex Cambra",
@@ -2013,7 +2013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.08,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -2037,7 +2037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.07,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -2061,7 +2061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.65,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Salva Martinez",
@@ -2085,7 +2085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.51,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -2109,7 +2109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.02,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Diego Cambra",
@@ -2133,7 +2133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 18.96,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Angel Galan",
@@ -2157,7 +2157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.65,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -2181,7 +2181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 35.37,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Alex Pascual",
@@ -2205,7 +2205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.30,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -2229,7 +2229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.36,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Martin Nebot",
@@ -2253,7 +2253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.07,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -2277,7 +2277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.38,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -2301,7 +2301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 16.97,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Marc Pomer",
@@ -2325,7 +2325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.45,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Victor Navarro",
@@ -2349,7 +2349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.42,
 "oficial" : "No",
-"partido_n�_" : 6,
+"partido_n_" : 6,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -2373,7 +2373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.62,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Alex Cambra",
@@ -2397,7 +2397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.12,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -2421,7 +2421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.60,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -2445,7 +2445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.69,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Victor Navarro",
@@ -2469,7 +2469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.46,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Diego Cambra",
@@ -2493,7 +2493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.00,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -2517,7 +2517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.01,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -2541,7 +2541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 35.41,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Salva Martinez",
@@ -2565,7 +2565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.55,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Marc Pomer",
@@ -2589,7 +2589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.49,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -2613,7 +2613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.40,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -2637,7 +2637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.09,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -2661,7 +2661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.42,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -2685,7 +2685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.06,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Alex Pascual",
@@ -2709,7 +2709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.34,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Angel Galan",
@@ -2733,7 +2733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.69,
 "oficial" : "Si",
-"partido_n�_" : 7,
+"partido_n_" : 7,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -2757,7 +2757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.63,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Alex Cambra",
@@ -2781,7 +2781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.14,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -2805,7 +2805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.62,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -2829,7 +2829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.71,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Salva Martinez",
@@ -2853,7 +2853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.57,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -2877,7 +2877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.10,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Victor Navarro",
@@ -2901,7 +2901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.48,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -2925,7 +2925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.42,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Marc Pomer",
@@ -2949,7 +2949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.50,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -2973,7 +2973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.62,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Diego Cambra",
@@ -2997,7 +2997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.02,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Martin Nebot",
@@ -3021,7 +3021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.12,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -3045,7 +3045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.43,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Alex Pascual",
@@ -3069,7 +3069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.35,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -3093,7 +3093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.03,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -3117,7 +3117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.12,
 "oficial" : "Si",
-"partido_n�_" : 8,
+"partido_n_" : 8,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -3141,7 +3141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.46,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Alex Cambra",
@@ -3165,7 +3165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.16,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -3189,7 +3189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.64,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -3213,7 +3213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.73,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Salva Martinez",
@@ -3237,7 +3237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.59,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -3261,7 +3261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.10,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -3285,7 +3285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.44,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -3309,7 +3309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.05,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -3333,7 +3333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 35.45,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Angel Galan",
@@ -3357,7 +3357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.73,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -3381,7 +3381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.64,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Martin Nebot",
@@ -3405,7 +3405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.15,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -3429,7 +3429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.65,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Alex Pascual",
@@ -3453,7 +3453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.38,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Diego Cambra",
@@ -3477,7 +3477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.04,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -3501,7 +3501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.14,
 "oficial" : "Si",
-"partido_n�_" : 9,
+"partido_n_" : 9,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -3525,7 +3525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.67,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Martin Nebot",
@@ -3549,7 +3549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.16,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -3573,7 +3573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.65,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -3597,7 +3597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.14,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -3621,7 +3621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.74,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Victor Navarro",
@@ -3645,7 +3645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.51,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Diego Cambra",
@@ -3669,7 +3669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.05,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -3693,7 +3693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.06,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -3717,7 +3717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 35.46,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Marc Pomer",
@@ -3741,7 +3741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.54,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -3765,7 +3765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.45,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Alex Cambra",
@@ -3789,7 +3789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.17,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -3813,7 +3813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.47,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -3837,7 +3837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.11,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -3861,7 +3861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.16,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Angel Galan",
@@ -3885,7 +3885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.74,
 "oficial" : "Si",
-"partido_n�_" : 10,
+"partido_n_" : 10,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -3909,7 +3909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.48,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Alex Cambra",
@@ -3933,7 +3933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.18,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -3957,7 +3957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.16,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Martin Nebot",
@@ -3981,7 +3981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.16,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Salva Martinez",
@@ -4005,7 +4005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.61,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -4029,7 +4029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.12,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Victor Navarro",
@@ -4053,7 +4053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.52,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Angel Galan",
@@ -4077,7 +4077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.75,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -4101,7 +4101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 35.47,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Alex Pascual",
@@ -4125,7 +4125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.40,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -4149,7 +4149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.66,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -4173,7 +4173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.14,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -4197,7 +4197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.67,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -4221,7 +4221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.07,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Juanma Bas",
@@ -4245,7 +4245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "23/3/1977",
 "edad" : 42.56,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Marc Pomer",
@@ -4269,7 +4269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.55,
 "oficial" : "Si",
-"partido_n�_" : 11,
+"partido_n_" : 11,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -4293,7 +4293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.69,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Alex Cambra",
@@ -4317,7 +4317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.20,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -4341,7 +4341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.68,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -4365,7 +4365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.77,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -4389,7 +4389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.16,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -4413,7 +4413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.14,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Diego Cambra",
@@ -4437,7 +4437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.08,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -4461,7 +4461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.68,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Marc Pomer",
@@ -4485,7 +4485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.56,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -4509,7 +4509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.09,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -4533,7 +4533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.48,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Salva Martinez",
@@ -4557,7 +4557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.63,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -4581,7 +4581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.49,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Martin Nebot",
@@ -4605,7 +4605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.18,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Victor Navarro",
@@ -4629,7 +4629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.54,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Angel Galan",
@@ -4653,7 +4653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.77,
 "oficial" : "Si",
-"partido_n�_" : 12,
+"partido_n_" : 12,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -4677,7 +4677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.51,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Alex Cambra",
@@ -4701,7 +4701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.22,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -4725,7 +4725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.70,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -4749,7 +4749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.79,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Salva Martinez",
@@ -4773,7 +4773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.65,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Victor Navarro",
@@ -4797,7 +4797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.56,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Angel Galan",
@@ -4821,7 +4821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.79,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Diego Cambra",
@@ -4845,7 +4845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.10,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -4869,7 +4869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.11,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -4893,7 +4893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.50,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -4917,7 +4917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.20,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -4941,7 +4941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.18,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -4965,7 +4965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.71,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -4989,7 +4989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.70,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Alex Pascual",
@@ -5013,7 +5013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.43,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -5037,7 +5037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.15,
 "oficial" : "Si",
-"partido_n�_" : 13,
+"partido_n_" : 13,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -5061,7 +5061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.53,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Alex Cambra",
@@ -5085,7 +5085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.23,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -5109,7 +5109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.72,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -5133,7 +5133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.81,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Salva Martinez",
@@ -5157,7 +5157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.67,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Victor Navarro",
@@ -5181,7 +5181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.58,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Angel Galan",
@@ -5205,7 +5205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.81,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Diego Cambra",
@@ -5229,7 +5229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.12,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -5253,7 +5253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.13,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -5277,7 +5277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.52,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -5301,7 +5301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.22,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Martin Nebot",
@@ -5325,7 +5325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.22,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -5349,7 +5349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.73,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -5373,7 +5373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.17,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -5397,7 +5397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.72,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -5421,7 +5421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 35.53,
 "oficial" : "Si",
-"partido_n�_" : 14,
+"partido_n_" : 14,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -5445,7 +5445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.75,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Martin Nebot",
@@ -5469,7 +5469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.24,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -5493,7 +5493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.73,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -5517,7 +5517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.83,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -5541,7 +5541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.22,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -5565,7 +5565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.19,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Angel Galan",
@@ -5589,7 +5589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.82,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -5613,7 +5613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.74,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -5637,7 +5637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 35.55,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -5661,7 +5661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.53,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -5685,7 +5685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.14,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Victor Navarro",
@@ -5709,7 +5709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.60,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -5733,7 +5733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.55,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Alex Pascual",
@@ -5757,7 +5757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.47,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Diego Cambra",
@@ -5781,7 +5781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.13,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -5805,7 +5805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.24,
 "oficial" : "Si",
-"partido_n�_" : 15,
+"partido_n_" : 15,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -5829,7 +5829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.77,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Martin Nebot",
@@ -5853,7 +5853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.26,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -5877,7 +5877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.75,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Salva Martinez",
@@ -5901,7 +5901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.70,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -5925,7 +5925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.85,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -5949,7 +5949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.55,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Angel Galan",
@@ -5973,7 +5973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.84,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Diego Cambra",
@@ -5997,7 +5997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.15,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -6021,7 +6021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.16,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -6045,7 +6045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.76,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Marc Pomer",
@@ -6069,7 +6069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.64,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -6093,7 +6093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.24,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -6117,7 +6117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.57,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Alex Pascual",
@@ -6141,7 +6141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.49,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Victor Navarro",
@@ -6165,7 +6165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.62,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -6189,7 +6189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.26,
 "oficial" : "Si",
-"partido_n�_" : 16,
+"partido_n_" : 16,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -6213,7 +6213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.59,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Alex Cambra",
@@ -6237,7 +6237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.29,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -6261,7 +6261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.28,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Salva Martinez",
@@ -6285,7 +6285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.72,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -6309,7 +6309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.87,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -6333,7 +6333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.57,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Angel Galan",
@@ -6357,7 +6357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.86,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -6381,7 +6381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.78,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -6405,7 +6405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.18,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Alex Pascual",
@@ -6429,7 +6429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.51,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Marc Pomer",
@@ -6453,7 +6453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.66,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Martin Nebot",
@@ -6477,7 +6477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.28,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -6501,7 +6501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.79,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -6525,7 +6525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.23,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Victor Navarro",
@@ -6549,7 +6549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.64,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Hernan Lescano",
@@ -6573,7 +6573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/9/1997",
 "edad" : 22.21,
 "oficial" : "Si",
-"partido_n�_" : 17,
+"partido_n_" : 17,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -6597,7 +6597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.61,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Alex Cambra",
@@ -6621,7 +6621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.31,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -6645,7 +6645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.79,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Victor Navarro",
@@ -6669,7 +6669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.65,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -6693,7 +6693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.88,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -6717,7 +6717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.79,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Diego Cambra",
@@ -6741,7 +6741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.19,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Angel Galan",
@@ -6765,7 +6765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.88,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Marc Pomer",
@@ -6789,7 +6789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.68,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -6813,7 +6813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.20,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -6837,7 +6837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.59,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Salva Martinez",
@@ -6861,7 +6861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.74,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -6885,7 +6885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.80,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -6909,7 +6909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.25,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Hernan Lescano",
@@ -6933,7 +6933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/9/1997",
 "edad" : 22.23,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -6957,7 +6957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.30,
 "oficial" : "Si",
-"partido_n�_" : 18,
+"partido_n_" : 18,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -6981,7 +6981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.82,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Martin Nebot",
@@ -7005,7 +7005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.31,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -7029,7 +7029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.31,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -7053,7 +7053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.90,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -7077,7 +7077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.29,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Hernan Lescano",
@@ -7101,7 +7101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/9/1997",
 "edad" : 22.24,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Diego Cambra",
@@ -7125,7 +7125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.21,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -7149,7 +7149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.22,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -7173,7 +7173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 35.62,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Marc Pomer",
@@ -7197,7 +7197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.69,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -7221,7 +7221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.81,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Salva Martinez",
@@ -7245,7 +7245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.76,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -7269,7 +7269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.62,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Alex Pascual",
@@ -7293,7 +7293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.54,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -7317,7 +7317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.26,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Alex Cambra",
@@ -7341,7 +7341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.33,
 "oficial" : "Si",
-"partido_n�_" : 19,
+"partido_n_" : 19,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -7365,7 +7365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.84,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Martin Nebot",
@@ -7389,7 +7389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.33,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -7413,7 +7413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.83,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -7437,7 +7437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.92,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -7461,7 +7461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.31,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -7485,7 +7485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.24,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Hernan Lescano",
@@ -7509,7 +7509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/9/1997",
 "edad" : 22.26,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -7533,7 +7533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.63,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Marc Pomer",
@@ -7557,7 +7557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.72,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Angel Galan",
@@ -7581,7 +7581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.92,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -7605,7 +7605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.83,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Victor Navarro",
@@ -7629,7 +7629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.69,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -7653,7 +7653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.64,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Alex Cambra",
@@ -7677,7 +7677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.35,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -7701,7 +7701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.29,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -7725,7 +7725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.33,
 "oficial" : "Si",
-"partido_n�_" : 20,
+"partido_n_" : 20,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -7749,7 +7749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.67,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Martin Nebot",
@@ -7773,7 +7773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.36,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -7797,7 +7797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.85,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -7821,7 +7821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.94,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Victor Navarro",
@@ -7845,7 +7845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.71,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -7869,7 +7869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.31,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -7893,7 +7893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.65,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -7917,7 +7917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.26,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Angel Galan",
@@ -7941,7 +7941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.94,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Alex Pascual",
@@ -7965,7 +7965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.59,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -7989,7 +7989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.85,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -8013,7 +8013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.34,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -8037,7 +8037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.87,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Juanma Bas",
@@ -8061,7 +8061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "23/3/1977",
 "edad" : 42.75,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -8085,7 +8085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.36,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Timo Birladeanu",
@@ -8109,7 +8109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/1/1996",
 "edad" : 23.90,
 "oficial" : "Si",
-"partido_n�_" : 21,
+"partido_n_" : 21,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -8133,7 +8133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.90,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Alex Cambra",
@@ -8157,7 +8157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.40,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -8181,7 +8181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.39,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -8205,7 +8205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 18.98,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -8229,7 +8229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.37,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -8253,7 +8253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.34,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -8277,7 +8277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.69,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -8301,7 +8301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.89,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Marc Pomer",
@@ -8325,7 +8325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.77,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Angel Galan",
@@ -8349,7 +8349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 19.98,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Timo Birladeanu",
@@ -8373,7 +8373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/1/1996",
 "edad" : 23.94,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -8397,7 +8397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.70,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Salva Martinez",
@@ -8421,7 +8421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.84,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Martin Nebot",
@@ -8445,7 +8445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.39,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Juanma Bas",
@@ -8469,7 +8469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "23/3/1977",
 "edad" : 42.78,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Joan Ribera",
@@ -8493,7 +8493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "23/7/2002",
 "edad" : 17.45,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Alberto Vidal",
@@ -8517,7 +8517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/2/1997",
 "edad" : 22.88,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -8541,7 +8541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.30,
 "oficial" : "No",
-"partido_n�_" : 22,
+"partido_n_" : 22,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -8565,7 +8565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.92,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Alex Cambra",
@@ -8589,7 +8589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.43,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -8613,7 +8613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.91,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -8637,7 +8637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.00,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -8661,7 +8661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.39,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -8685,7 +8685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.37,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Angel Galan",
@@ -8709,7 +8709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 20.00,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -8733,7 +8733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.91,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -8757,7 +8757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.32,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -8781,7 +8781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.71,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Marc Pomer",
@@ -8805,7 +8805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.79,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Martin Nebot",
@@ -8829,7 +8829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.41,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -8853,7 +8853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.41,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Salva Martinez",
@@ -8877,7 +8877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.86,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Timo Birladeanu",
@@ -8901,7 +8901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/1/1996",
 "edad" : 23.96,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -8925,7 +8925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.72,
 "oficial" : "Si",
-"partido_n�_" : 23,
+"partido_n_" : 23,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -8949,7 +8949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.76,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Alex Cambra",
@@ -8973,7 +8973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.46,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -8997,7 +8997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.95,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -9021,7 +9021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.04,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -9045,7 +9045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.43,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -9069,7 +9069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.75,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Angel Galan",
@@ -9093,7 +9093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 20.04,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -9117,7 +9117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.95,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Timo Birladeanu",
@@ -9141,7 +9141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/1/1996",
 "edad" : 24.00,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Marc Pomer",
@@ -9165,7 +9165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.83,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -9189,7 +9189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.36,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Martin Nebot",
@@ -9213,7 +9213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.45,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Jaime Muñoz",
@@ -9237,7 +9237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/12/2002",
 "edad" : 17.13,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Diego Cambra",
@@ -9261,7 +9261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.35,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Salva Martinez",
@@ -9285,7 +9285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 38.90,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -9309,7 +9309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.45,
 "oficial" : "Si",
-"partido_n�_" : 24,
+"partido_n_" : 24,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -9333,7 +9333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 20.98,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Alex Cambra",
@@ -9357,7 +9357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.48,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -9381,7 +9381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.47,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -9405,7 +9405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.06,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -9429,7 +9429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.45,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -9453,7 +9453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.76,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -9477,7 +9477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.37,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -9501,7 +9501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.97,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -9525,7 +9525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 30.76,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Quico Vidal",
@@ -9549,7 +9549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 22.87,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Marc Pomer",
@@ -9573,7 +9573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.85,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Martin Nebot",
@@ -9597,7 +9597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.47,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -9621,7 +9621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.78,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Alex Pascual",
@@ -9645,7 +9645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.70,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -9669,7 +9669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.42,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Angel Galan",
@@ -9693,7 +9693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 20.05,
 "oficial" : "Si",
-"partido_n�_" : 25,
+"partido_n_" : 25,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -9717,7 +9717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.00,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Alex Cambra",
@@ -9741,7 +9741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.50,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -9765,7 +9765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.98,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -9789,7 +9789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.08,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -9813,7 +9813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.47,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -9837,7 +9837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.44,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -9861,7 +9861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.39,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Quico Vidal",
@@ -9885,7 +9885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 22.89,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -9909,7 +9909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 30.78,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -9933,7 +9933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.78,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Marc Pomer",
@@ -9957,7 +9957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.87,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Victor Navarro",
@@ -9981,7 +9981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.85,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -10005,7 +10005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.80,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -10029,7 +10029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 35.99,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Angel Galan",
@@ -10053,7 +10053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 20.07,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -10077,7 +10077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.49,
 "oficial" : "Si",
-"partido_n�_" : 26,
+"partido_n_" : 26,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -10101,7 +10101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.01,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Martin Nebot",
@@ -10125,7 +10125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.50,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -10149,7 +10149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 19.99,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -10173,7 +10173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.09,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -10197,7 +10197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.48,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Victor Navarro",
@@ -10221,7 +10221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.85,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Angel Galan",
@@ -10245,7 +10245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 20.08,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Quico Vidal",
@@ -10269,7 +10269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 22.90,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Timo Birladeanu",
@@ -10293,7 +10293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/1/1996",
 "edad" : 24.04,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -10317,7 +10317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.79,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Marc Pomer",
@@ -10341,7 +10341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.88,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Diego Cambra",
@@ -10365,7 +10365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.39,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Jaime Muñoz",
@@ -10389,7 +10389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/12/2002",
 "edad" : 17.18,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Alex Pascual",
@@ -10413,7 +10413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.73,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -10437,7 +10437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.50,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -10461,7 +10461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.40,
 "oficial" : "Si",
-"partido_n�_" : 27,
+"partido_n_" : 27,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -10485,7 +10485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.82,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Alex Cambra",
@@ -10509,7 +10509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.52,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -10533,7 +10533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.00,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -10557,7 +10557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.10,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -10581,7 +10581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.49,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Victor Navarro",
@@ -10605,7 +10605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.87,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -10629,7 +10629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.41,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Alejandro Martinez Peli",
@@ -10653,7 +10653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/2/1984",
 "edad" : 36.01,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -10677,7 +10677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 30.80,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -10701,7 +10701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.80,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Marc Pomer",
@@ -10725,7 +10725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.89,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Martin Nebot",
@@ -10749,7 +10749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.51,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -10773,7 +10773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.02,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Quico Vidal",
@@ -10797,7 +10797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 22.91,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Diego Cambra",
@@ -10821,7 +10821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.40,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Angel Galan",
@@ -10845,7 +10845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 20.09,
 "oficial" : "Si",
-"partido_n�_" : 28,
+"partido_n_" : 28,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -10869,7 +10869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.06,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Alex Cambra",
@@ -10893,7 +10893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.56,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -10917,7 +10917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.04,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -10941,7 +10941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.13,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -10965,7 +10965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.53,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Victor Navarro",
@@ -10989,7 +10989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.90,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -11013,7 +11013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.45,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Quico Vidal",
@@ -11037,7 +11037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 22.95,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -11061,7 +11061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 30.84,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -11085,7 +11085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.84,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Marc Pomer",
@@ -11109,7 +11109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.93,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Martin Nebot",
@@ -11133,7 +11133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.55,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -11157,7 +11157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.86,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Alex Pascual",
@@ -11181,7 +11181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1977",
 "edad" : 42.78,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Diego Cambra",
@@ -11205,7 +11205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.44,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Angel Galan",
@@ -11229,7 +11229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 20.13,
 "oficial" : "Si",
-"partido_n�_" : 29,
+"partido_n_" : 29,
 },
 {
 "jugador" : "Jordi Mompo",
@@ -11253,7 +11253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/2001",
 "edad" : 18.88,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Martin Nebot",
@@ -11277,7 +11277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 19.57,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -11301,7 +11301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.06,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -11325,7 +11325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 17.55,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Victor Navarro",
@@ -11349,7 +11349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 32.92,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -11373,7 +11373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 19.86,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Angel Galan",
@@ -11397,7 +11397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 20.15,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Diego Cambra",
@@ -11421,7 +11421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.46,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -11445,7 +11445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.47,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Quico Vidal",
@@ -11469,7 +11469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 22.97,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Marc Pomer",
@@ -11493,7 +11493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 19.95,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Alex Cambra",
@@ -11517,7 +11517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 25.58,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -11541,7 +11541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.08,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Salva Martinez",
@@ -11565,7 +11565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/3/1981",
 "edad" : 39.01,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -11589,7 +11589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 18.52,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -11613,7 +11613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 17.57,
 "oficial" : "Si",
-"partido_n�_" : 30,
+"partido_n_" : 30,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -11637,7 +11637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.57,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Martin Nebot",
@@ -11661,7 +11661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.06,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -11685,7 +11685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.56,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -11709,7 +11709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.04,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -11733,7 +11733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.65,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "David Aguilera",
@@ -11757,7 +11757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/10/1989",
 "edad" : 30.87,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Omar Cortes",
@@ -11781,7 +11781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.51,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -11805,7 +11805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.36,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Kevin Llario",
@@ -11829,7 +11829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.25,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -11853,7 +11853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.97,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Pablo Frances",
@@ -11877,7 +11877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.58,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Diego Cambra",
@@ -11901,7 +11901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.96,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -11925,7 +11925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.56,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Quico Vidal",
@@ -11949,7 +11949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.46,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -11973,7 +11973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 33.42,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -11997,7 +11997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.37,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Angel Galan",
@@ -12021,7 +12021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 20.65,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Marc Pomer",
@@ -12045,7 +12045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.44,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -12069,7 +12069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 31.35,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -12093,7 +12093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.31,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Alex Cambra",
@@ -12117,7 +12117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 26.08,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -12141,7 +12141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.06,
 "oficial" : "No",
-"partido_n�_" : 31,
+"partido_n_" : 31,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -12165,7 +12165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.59,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -12189,7 +12189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.06,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -12213,7 +12213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.67,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -12237,7 +12237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.57,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -12261,7 +12261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.08,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Pablo Frances",
@@ -12285,7 +12285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.60,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Diego Cambra",
@@ -12309,7 +12309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.97,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -12333,7 +12333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.37,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Quico Vidal",
@@ -12357,7 +12357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.48,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -12381,7 +12381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.38,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -12405,7 +12405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.98,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -12429,7 +12429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.58,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Martin Nebot",
@@ -12453,7 +12453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.08,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -12477,7 +12477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 33.43,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Alex Cambra",
@@ -12501,7 +12501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 26.09,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "David Aguilera",
@@ -12525,7 +12525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/10/1989",
 "edad" : 30.89,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -12549,7 +12549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.32,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Marc Pomer",
@@ -12573,7 +12573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.46,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Kevin Llario",
@@ -12597,7 +12597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.26,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -12621,7 +12621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 31.37,
 "oficial" : "No",
-"partido_n�_" : 32,
+"partido_n_" : 32,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -12645,7 +12645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.59,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Martin Nebot",
@@ -12669,7 +12669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.09,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Alex Cambra",
@@ -12693,7 +12693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 26.10,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -12717,7 +12717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 33.45,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -12741,7 +12741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.68,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Quico Vidal",
@@ -12765,7 +12765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.49,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -12789,7 +12789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.38,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Marc Pomer",
@@ -12813,7 +12813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.47,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -12837,7 +12837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 31.38,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -12861,7 +12861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 17.99,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -12885,7 +12885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.09,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -12909,7 +12909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.60,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -12933,7 +12933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.58,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -12957,7 +12957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.07,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Omar Cortes",
@@ -12981,7 +12981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.54,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Kevin Llario",
@@ -13005,7 +13005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.27,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Pablo Frances",
@@ -13029,7 +13029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.61,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Diego Cambra",
@@ -13053,7 +13053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.98,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -13077,7 +13077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.33,
 "oficial" : "No",
-"partido_n�_" : 33,
+"partido_n_" : 33,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -13101,7 +13101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.61,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -13125,7 +13125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 33.45,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -13149,7 +13149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.69,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -13173,7 +13173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.59,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Diego Cambra",
@@ -13197,7 +13197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 19.99,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -13221,7 +13221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.34,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -13245,7 +13245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.39,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Omar Cortes",
@@ -13269,7 +13269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.55,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Pablo Frances",
@@ -13293,7 +13293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.62,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -13317,7 +13317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.00,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Kevin Llario",
@@ -13341,7 +13341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.28,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -13365,7 +13365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.60,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Alex Cambra",
@@ -13389,7 +13389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 26.11,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -13413,7 +13413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.08,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -13437,7 +13437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.10,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -13461,7 +13461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 31.39,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -13485,7 +13485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.40,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Marc Pomer",
@@ -13509,7 +13509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.48,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Quico Vidal",
@@ -13533,7 +13533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.50,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Martin Nebot",
@@ -13557,7 +13557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.10,
 "oficial" : "No",
-"partido_n�_" : 34,
+"partido_n_" : 34,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -13581,7 +13581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.63,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -13605,7 +13605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.10,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -13629,7 +13629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.70,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -13653,7 +13653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.61,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Diego Cambra",
@@ -13677,7 +13677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.01,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -13701,7 +13701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.41,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -13725,7 +13725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.36,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -13749,7 +13749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.02,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Kevin Llario",
@@ -13773,7 +13773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.30,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -13797,7 +13797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.42,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Pablo Frances",
@@ -13821,7 +13821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.64,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Martin Nebot",
@@ -13845,7 +13845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.12,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Jaime Muñoz",
@@ -13869,7 +13869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/12/2002",
 "edad" : 17.80,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Quico Vidal",
@@ -13893,7 +13893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.52,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Marc Pomer",
@@ -13917,7 +13917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.50,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Esteban",
@@ -13941,7 +13941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/6/2004",
 "edad" : 16.27,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Oscar Garcia",
@@ -13965,7 +13965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/2/2004",
 "edad" : 16.64,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Omar Cortes",
@@ -13989,7 +13989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.57,
 "oficial" : "No",
-"partido_n�_" : 35,
+"partido_n_" : 35,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -14013,7 +14013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.63,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Quico Vidal",
@@ -14037,7 +14037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.53,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -14061,7 +14061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.42,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Kevin Llario",
@@ -14085,7 +14085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.31,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -14109,7 +14109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.72,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Marc Pomer",
@@ -14133,7 +14133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.51,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -14157,7 +14157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.13,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -14181,7 +14181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.11,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Angel Galan",
@@ -14205,7 +14205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 20.71,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Alex Cambra",
@@ -14229,7 +14229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 26.14,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Diego Cambra",
@@ -14253,7 +14253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.02,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -14277,7 +14277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.64,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -14301,7 +14301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.62,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -14325,7 +14325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.38,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -14349,7 +14349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.03,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -14373,7 +14373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.44,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Pablo Frances",
@@ -14397,7 +14397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.65,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Martin Nebot",
@@ -14421,7 +14421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.13,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Omar Cortes",
@@ -14445,7 +14445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.58,
 "oficial" : "No",
-"partido_n�_" : 36,
+"partido_n_" : 36,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -14469,7 +14469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.65,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -14493,7 +14493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.44,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Marc Pomer",
@@ -14517,7 +14517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.52,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -14541,7 +14541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.72,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -14565,7 +14565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.43,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Diego Cambra",
@@ -14589,7 +14589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.03,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -14613,7 +14613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.04,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -14637,7 +14637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.38,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -14661,7 +14661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.63,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Pablo Frances",
@@ -14685,7 +14685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.66,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -14709,7 +14709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.12,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -14733,7 +14733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.64,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Quico Vidal",
@@ -14757,7 +14757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.54,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Kevin Llario",
@@ -14781,7 +14781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.32,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -14805,7 +14805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.14,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Angel Galan",
@@ -14829,7 +14829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 20.72,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Alex Cambra",
@@ -14853,7 +14853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 26.15,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Martin Nebot",
@@ -14877,7 +14877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.14,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Omar Cortes",
@@ -14901,7 +14901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.59,
 "oficial" : "No",
-"partido_n�_" : 37,
+"partido_n_" : 37,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -14925,7 +14925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.64,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Pablo Frances",
@@ -14949,7 +14949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.66,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -14973,7 +14973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.12,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -14997,7 +14997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.73,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -15021,7 +15021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.63,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Diego Cambra",
@@ -15045,7 +15045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.03,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -15069,7 +15069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.43,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Omar Cortes",
@@ -15093,7 +15093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.59,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -15117,7 +15117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.04,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Marc Pomer",
@@ -15141,7 +15141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.52,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -15165,7 +15165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.38,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Martin Nebot",
@@ -15189,7 +15189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.14,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -15213,7 +15213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.65,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Quico Vidal",
@@ -15237,7 +15237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.54,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Angel Galan",
@@ -15261,7 +15261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 20.72,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -15285,7 +15285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.14,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Alex Cambra",
@@ -15309,7 +15309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 26.15,
 "oficial" : "No",
-"partido_n�_" : 38,
+"partido_n_" : 38,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -15333,7 +15333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.66,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -15357,7 +15357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.14,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -15381,7 +15381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.65,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -15405,7 +15405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.75,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -15429,7 +15429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.45,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -15453,7 +15453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.40,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Omar Cortes",
@@ -15477,7 +15477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.61,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Diego Cambra",
@@ -15501,7 +15501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.05,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Kevin Llario",
@@ -15525,7 +15525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.34,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -15549,7 +15549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.06,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Pablo Frances",
@@ -15573,7 +15573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.68,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Martin Nebot",
@@ -15597,7 +15597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.16,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Carlos Mora",
@@ -15621,7 +15621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "5/4/1999",
 "edad" : 21.52,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Alex Cambra",
@@ -15645,7 +15645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 26.17,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "David Aguilera",
@@ -15669,7 +15669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/10/1989",
 "edad" : 30.97,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Quico Vidal",
@@ -15693,7 +15693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.56,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Marc Pomer",
@@ -15717,7 +15717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.54,
 "oficial" : "No",
-"partido_n�_" : 39,
+"partido_n_" : 39,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -15741,7 +15741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.69,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -15765,7 +15765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.16,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -15789,7 +15789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.76,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -15813,7 +15813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.67,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Pablo Frances",
@@ -15837,7 +15837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.70,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "David Aguilera",
@@ -15861,7 +15861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/10/1989",
 "edad" : 30.99,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Omar Cortes",
@@ -15885,7 +15885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.63,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -15909,7 +15909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.47,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -15933,7 +15933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.08,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Kevin Llario",
@@ -15957,7 +15957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.36,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -15981,7 +15981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.42,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Quico Vidal",
@@ -16005,7 +16005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.58,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Juan Belda",
@@ -16029,7 +16029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/9/2002",
 "edad" : 18.09,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -16053,7 +16053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.48,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Martin Nebot",
@@ -16077,7 +16077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.18,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Marc Pomer",
@@ -16101,7 +16101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.56,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Alex Cambra",
@@ -16125,7 +16125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 26.19,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Diego Cambra",
@@ -16149,7 +16149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.07,
 "oficial" : "Si",
-"partido_n�_" : 40,
+"partido_n_" : 40,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -16173,7 +16173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.71,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -16197,7 +16197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.18,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -16221,7 +16221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.79,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -16245,7 +16245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.69,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -16269,7 +16269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.49,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Diego Cambra",
@@ -16293,7 +16293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.09,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Omar Cortes",
@@ -16317,7 +16317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.65,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -16341,7 +16341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.44,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -16365,7 +16365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.10,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Kevin Llario",
@@ -16389,7 +16389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.38,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Pablo Frances",
@@ -16413,7 +16413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.72,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Martin Nebot",
@@ -16437,7 +16437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.20,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -16461,7 +16461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.70,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Alex Cambra",
@@ -16485,7 +16485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 26.21,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Quico Vidal",
@@ -16509,7 +16509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.60,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Marc Pomer",
@@ -16533,7 +16533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.58,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -16557,7 +16557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.50,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -16581,7 +16581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 31.49,
 "oficial" : "Si",
-"partido_n�_" : 41,
+"partido_n_" : 41,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -16605,7 +16605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.79,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Martin Nebot",
@@ -16629,7 +16629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.28,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -16653,7 +16653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.77,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -16677,7 +16677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.86,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -16701,7 +16701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.26,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -16725,7 +16725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.57,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -16749,7 +16749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.52,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Diego Cambra",
@@ -16773,7 +16773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.17,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -16797,7 +16797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.18,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Pablo Frances",
@@ -16821,7 +16821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.80,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Kevin Llario",
@@ -16845,7 +16845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.46,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Alex Cambra",
@@ -16869,7 +16869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1994",
 "edad" : 26.29,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -16893,7 +16893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.78,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Quico Vidal",
@@ -16917,7 +16917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.68,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -16941,7 +16941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.58,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Marc Pomer",
@@ -16965,7 +16965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.66,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Omar Cortes",
@@ -16989,7 +16989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.72,
 "oficial" : "Si",
-"partido_n�_" : 42,
+"partido_n_" : 42,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -17013,7 +17013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.80,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -17037,7 +17037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.79,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Pablo Frances",
@@ -17061,7 +17061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.82,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -17085,7 +17085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.59,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Kevin Llario",
@@ -17109,7 +17109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.48,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Quico Vidal",
@@ -17133,7 +17133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.70,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Omar Cortes",
@@ -17157,7 +17157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.74,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Diego Cambra",
@@ -17181,7 +17181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.19,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -17205,7 +17205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.54,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -17229,7 +17229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.28,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -17253,7 +17253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.29,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Arthur",
@@ -17277,7 +17277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : null,
 "edad" : 120.91,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Marc Pomer",
@@ -17301,7 +17301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.68,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -17325,7 +17325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.60,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -17349,7 +17349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 31.58,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -17373,7 +17373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.20,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -17397,7 +17397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.88,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -17421,7 +17421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 33.65,
 "oficial" : "No",
-"partido_n�_" : 43,
+"partido_n_" : 43,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -17445,7 +17445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.82,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -17469,7 +17469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.80,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -17493,7 +17493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.29,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "David Aguilera",
@@ -17517,7 +17517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/10/1989",
 "edad" : 31.12,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -17541,7 +17541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.56,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Omar Cortes",
@@ -17565,7 +17565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.76,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Diego Cambra",
@@ -17589,7 +17589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.21,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -17613,7 +17613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.61,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Pablo Frances",
@@ -17637,7 +17637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.83,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Kevin Llario",
@@ -17661,7 +17661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.49,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -17685,7 +17685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.21,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -17709,7 +17709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.81,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Quico Vidal",
@@ -17733,7 +17733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.71,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -17757,7 +17757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.90,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Marc Pomer",
@@ -17781,7 +17781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.69,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -17805,7 +17805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 33.67,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -17829,7 +17829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.62,
 "oficial" : "Si",
-"partido_n�_" : 44,
+"partido_n_" : 44,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -17853,7 +17853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.82,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -17877,7 +17877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.81,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -17901,7 +17901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.56,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -17925,7 +17925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.91,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -17949,7 +17949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.30,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -17973,7 +17973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.61,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Quico Vidal",
@@ -17997,7 +17997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.72,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Pablo Frances",
@@ -18021,7 +18021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.84,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Omar Cortes",
@@ -18045,7 +18045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.77,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -18069,7 +18069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.22,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Kevin Llario",
@@ -18093,7 +18093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.50,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -18117,7 +18117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.83,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Marc Pomer",
@@ -18141,7 +18141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.70,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -18165,7 +18165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 33.68,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Martin Nebot",
@@ -18189,7 +18189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.32,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Diego Cambra",
@@ -18213,7 +18213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.21,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -18237,7 +18237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.62,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "David Aguilera",
@@ -18261,7 +18261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/10/1989",
 "edad" : 31.13,
 "oficial" : "Si",
-"partido_n�_" : 45,
+"partido_n_" : 45,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -18285,7 +18285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.86,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -18309,7 +18309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.84,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -18333,7 +18333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.33,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "David Aguilera",
@@ -18357,7 +18357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/10/1989",
 "edad" : 31.16,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -18381,7 +18381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 33.71,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Omar Cortes",
@@ -18405,7 +18405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.80,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -18429,7 +18429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.64,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -18453,7 +18453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.59,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Pablo Frances",
@@ -18477,7 +18477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.87,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Kevin Llario",
@@ -18501,7 +18501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.53,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -18525,7 +18525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.25,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Martin Nebot",
@@ -18549,7 +18549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.35,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -18573,7 +18573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.85,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -18597,7 +18597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.94,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Quico Vidal",
@@ -18621,7 +18621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.75,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Diego Cambra",
@@ -18645,7 +18645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.24,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Marc Pomer",
@@ -18669,7 +18669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.73,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -18693,7 +18693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.65,
 "oficial" : "Si",
-"partido_n�_" : 46,
+"partido_n_" : 46,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -18717,7 +18717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 21.87,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -18741,7 +18741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 20.85,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -18765,7 +18765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 19.95,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "David Aguilera",
@@ -18789,7 +18789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/10/1989",
 "edad" : 31.17,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -18813,7 +18813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 33.72,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Omar Cortes",
@@ -18837,7 +18837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 29.81,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -18861,7 +18861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.65,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -18885,7 +18885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.61,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Pablo Frances",
@@ -18909,7 +18909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 19.88,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Kevin Llario",
@@ -18933,7 +18933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.54,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -18957,7 +18957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.26,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -18981,7 +18981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.34,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Diego Cambra",
@@ -19005,7 +19005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.25,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -19029,7 +19029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.67,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Marc Pomer",
@@ -19053,7 +19053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 20.74,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -19077,7 +19077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 33.86,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -19101,7 +19101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.36,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Quico Vidal",
@@ -19125,7 +19125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 23.76,
 "oficial" : "Si",
-"partido_n�_" : 47,
+"partido_n_" : 47,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -19149,7 +19149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.13,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -19173,7 +19173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.11,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -19197,7 +19197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.60,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -19221,7 +19221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 33.97,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -19245,7 +19245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.86,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Omar Cortes",
@@ -19269,7 +19269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 30.07,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -19293,7 +19293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.91,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Diego Cambra",
@@ -19317,7 +19317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.51,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Pablo Frances",
@@ -19341,7 +19341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.14,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Kevin Llario",
@@ -19365,7 +19365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.80,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -19389,7 +19389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.52,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -19413,7 +19413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.12,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -19437,7 +19437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.21,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Alex Albert",
@@ -19461,7 +19461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2000",
 "edad" : 21.14,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Marc Pomer",
@@ -19485,7 +19485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 21.00,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Quico Vidal",
@@ -19509,7 +19509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 24.02,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -19533,7 +19533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.92,
 "oficial" : "Si",
-"partido_n�_" : 48,
+"partido_n_" : 48,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -19557,7 +19557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.14,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -19581,7 +19581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.14,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -19605,7 +19605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.89,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -19629,7 +19629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.00,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -19653,7 +19653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.23,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -19677,7 +19677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.94,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Omar Cortes",
@@ -19701,7 +19701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 30.09,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Diego Cambra",
@@ -19725,7 +19725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.54,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -19749,7 +19749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.95,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -19773,7 +19773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.55,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Pablo Frances",
@@ -19797,7 +19797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.16,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -19821,7 +19821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.62,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -19845,7 +19845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.15,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Alex Albert",
@@ -19869,7 +19869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2000",
 "edad" : 21.17,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Quico Vidal",
@@ -19893,7 +19893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 24.04,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -19917,7 +19917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 31.93,
 "oficial" : "Si",
-"partido_n�_" : 49,
+"partido_n_" : 49,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -19941,7 +19941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.17,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Alex Albert",
@@ -19965,7 +19965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2000",
 "edad" : 21.18,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -19989,7 +19989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.64,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -20013,7 +20013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.01,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -20037,7 +20037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.90,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Diego Cambra",
@@ -20061,7 +20061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.55,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -20085,7 +20085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.95,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Omar Cortes",
@@ -20109,7 +20109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 30.11,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Pablo Frances",
@@ -20133,7 +20133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.18,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -20157,7 +20157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.56,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -20181,7 +20181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.96,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -20205,7 +20205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.16,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Oscar Garcia",
@@ -20229,7 +20229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/2/2004",
 "edad" : 17.17,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -20253,7 +20253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 31.95,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Quico Vidal",
@@ -20277,7 +20277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 24.06,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Joan Ribera",
@@ -20301,7 +20301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "23/7/2002",
 "edad" : 18.72,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -20325,7 +20325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.24,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Victor Olavarrieta",
@@ -20349,7 +20349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/6/2002",
 "edad" : 18.83,
 "oficial" : "Si",
-"partido_n�_" : 50,
+"partido_n_" : 50,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -20373,7 +20373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.17,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -20397,7 +20397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.16,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -20421,7 +20421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.25,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -20445,7 +20445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.65,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -20469,7 +20469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.02,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -20493,7 +20493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.96,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Omar Cortes",
@@ -20517,7 +20517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 30.12,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Diego Cambra",
@@ -20541,7 +20541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.56,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -20565,7 +20565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.97,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -20589,7 +20589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.57,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Pablo Frances",
@@ -20613,7 +20613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.19,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -20637,7 +20637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.18,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Martin Nebot",
@@ -20661,7 +20661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.67,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Alex Albert",
@@ -20685,7 +20685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2000",
 "edad" : 21.19,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Marc Pomer",
@@ -20709,7 +20709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 21.05,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -20733,7 +20733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 31.96,
 "oficial" : "Si",
-"partido_n�_" : 51,
+"partido_n_" : 51,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -20757,7 +20757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.18,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -20781,7 +20781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.17,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -20805,7 +20805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.66,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -20829,7 +20829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.27,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -20853,7 +20853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.92,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -20877,7 +20877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.97,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Omar Cortes",
@@ -20901,7 +20901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 30.13,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Diego Cambra",
@@ -20925,7 +20925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.57,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -20949,7 +20949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.58,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Pablo Frances",
@@ -20973,7 +20973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.20,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -20997,7 +20997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 31.97,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -21021,7 +21021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.19,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Quico Vidal",
@@ -21045,7 +21045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 24.08,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Martin Nebot",
@@ -21069,7 +21069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.68,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Alex Albert",
@@ -21093,7 +21093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2000",
 "edad" : 21.20,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Marc Pomer",
@@ -21117,7 +21117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 21.06,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -21141,7 +21141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 36.98,
 "oficial" : "Si",
-"partido_n�_" : 52,
+"partido_n_" : 52,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -21165,7 +21165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.21,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -21189,7 +21189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.68,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -21213,7 +21213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.28,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -21237,7 +21237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.19,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -21261,7 +21261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.94,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -21285,7 +21285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 20.99,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Diego Cambra",
@@ -21309,7 +21309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.59,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Omar Cortes",
@@ -21333,7 +21333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 30.15,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Pablo Frances",
@@ -21357,7 +21357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.22,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -21381,7 +21381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.60,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Francesc Vidal",
@@ -21405,7 +21405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/9/1987",
 "edad" : 33.64,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -21429,7 +21429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.20,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Martin Nebot",
@@ -21453,7 +21453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.70,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Quico Vidal",
@@ -21477,7 +21477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 24.10,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Marc Pomer",
@@ -21501,7 +21501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 21.08,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -21525,7 +21525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.70,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -21549,7 +21549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 37.00,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -21573,7 +21573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 31.99,
 "oficial" : "Si",
-"partido_n�_" : 53,
+"partido_n_" : 53,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -21597,7 +21597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.21,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Martin Nebot",
@@ -21621,7 +21621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.71,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -21645,7 +21645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.30,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -21669,7 +21669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.69,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Omar Cortes",
@@ -21693,7 +21693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 30.16,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Marc Pomer",
@@ -21717,7 +21717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 21.10,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Diego Cambra",
@@ -21741,7 +21741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.61,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Quico Vidal",
@@ -21765,7 +21765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 24.11,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -21789,7 +21789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.62,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -21813,7 +21813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 37.02,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -21837,7 +21837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.71,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -21861,7 +21861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.22,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Arthur",
@@ -21885,7 +21885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : null,
 "edad" : 121.33,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -21909,7 +21909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.21,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -21933,7 +21933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.01,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -21957,7 +21957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 32.00,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -21981,7 +21981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 28.96,
 "oficial" : "No",
-"partido_n�_" : 54,
+"partido_n_" : 54,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -22005,7 +22005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.26,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -22029,7 +22029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.74,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Ruben Bella",
@@ -22053,7 +22053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 22.99,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -22077,7 +22077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.25,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -22101,7 +22101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.00,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Diego Cambra",
@@ -22125,7 +22125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.65,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -22149,7 +22149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.05,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Pablo Frances",
@@ -22173,7 +22173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.28,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Omar Cortes",
@@ -22197,7 +22197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 30.20,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -22221,7 +22221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.66,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Francesc Vidal",
@@ -22245,7 +22245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/9/1987",
 "edad" : 33.70,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -22269,7 +22269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.26,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -22293,7 +22293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.34,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Quico Vidal",
@@ -22317,7 +22317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 24.16,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -22341,7 +22341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.75,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -22365,7 +22365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.11,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Kevin Llario",
@@ -22389,7 +22389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.94,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -22413,7 +22413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 37.06,
 "oficial" : "Si",
-"partido_n�_" : 55,
+"partido_n_" : 55,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -22437,7 +22437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.28,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -22461,7 +22461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.26,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -22485,7 +22485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.13,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Ruben Bella",
@@ -22509,7 +22509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.00,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -22533,7 +22533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.02,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Diego Cambra",
@@ -22557,7 +22557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.67,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -22581,7 +22581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.07,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -22605,7 +22605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.67,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Pablo Frances",
@@ -22629,7 +22629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.29,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Kevin Llario",
@@ -22653,7 +22653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.95,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Francesc Vidal",
@@ -22677,7 +22677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/9/1987",
 "edad" : 33.71,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -22701,7 +22701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.36,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -22725,7 +22725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 32.06,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "David Aguilera",
@@ -22749,7 +22749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/10/1989",
 "edad" : 31.58,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Omar Cortes",
@@ -22773,7 +22773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 30.22,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -22797,7 +22797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.77,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -22821,7 +22821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.27,
 "oficial" : "Si",
-"partido_n�_" : 56,
+"partido_n_" : 56,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -22845,7 +22845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.29,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -22869,7 +22869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.29,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -22893,7 +22893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.77,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Ruben Bella",
@@ -22917,7 +22917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.03,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -22941,7 +22941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.04,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -22965,7 +22965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.09,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Diego Cambra",
@@ -22989,7 +22989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.69,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -23013,7 +23013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.70,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Pablo Frances",
@@ -23037,7 +23037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.31,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Kevin Llario",
@@ -23061,7 +23061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.98,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Francesc Vidal",
@@ -23085,7 +23085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/9/1987",
 "edad" : 33.74,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -23109,7 +23109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.30,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Alex Albert",
@@ -23133,7 +23133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2000",
 "edad" : 21.32,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -23157,7 +23157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.38,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -23181,7 +23181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.15,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Quico Vidal",
@@ -23205,7 +23205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 24.19,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Omar Cortes",
@@ -23229,7 +23229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 30.24,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -23253,7 +23253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.79,
 "oficial" : "Si",
-"partido_n�_" : 57,
+"partido_n_" : 57,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -23277,7 +23277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.31,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -23301,7 +23301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.30,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -23325,7 +23325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.79,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Ruben Bella",
@@ -23349,7 +23349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.04,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Diego Cambra",
@@ -23373,7 +23373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.70,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -23397,7 +23397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.10,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -23421,7 +23421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.05,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Pablo Frances",
@@ -23445,7 +23445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.33,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -23469,7 +23469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.71,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Kevin Llario",
@@ -23493,7 +23493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 30.99,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Francesc Vidal",
@@ -23517,7 +23517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/9/1987",
 "edad" : 33.75,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -23541,7 +23541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.32,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Alex Albert",
@@ -23565,7 +23565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2000",
 "edad" : 21.33,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Quico Vidal",
@@ -23589,7 +23589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 24.21,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -23613,7 +23613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.17,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Marc Pomer",
@@ -23637,7 +23637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/3/2000",
 "edad" : 21.19,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -23661,7 +23661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.40,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Omar Cortes",
@@ -23685,7 +23685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 30.26,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -23709,7 +23709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.81,
 "oficial" : "Si",
-"partido_n�_" : 58,
+"partido_n_" : 58,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -23733,7 +23733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.34,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -23757,7 +23757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.33,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -23781,7 +23781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.81,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Ruben Bella",
@@ -23805,7 +23805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.06,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -23829,7 +23829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.42,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -23853,7 +23853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.13,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Diego Cambra",
@@ -23877,7 +23877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.73,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Omar Cortes",
@@ -23901,7 +23901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 30.28,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -23925,7 +23925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.74,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -23949,7 +23949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.83,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Francesc Vidal",
@@ -23973,7 +23973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/9/1987",
 "edad" : 33.77,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -23997,7 +23997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.33,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Alex Albert",
@@ -24021,7 +24021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2000",
 "edad" : 21.36,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -24045,7 +24045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.19,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Pablo Frances",
@@ -24069,7 +24069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.35,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Kevin Llario",
@@ -24093,7 +24093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 31.01,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Mateo Sanchis",
@@ -24117,7 +24117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/4/1984",
 "edad" : 37.14,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Quico Vidal",
@@ -24141,7 +24141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 24.23,
 "oficial" : "Si",
-"partido_n�_" : 59,
+"partido_n_" : 59,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -24165,7 +24165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.35,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Martin Nebot",
@@ -24189,7 +24189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/8/2000",
 "edad" : 20.85,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Alex Albert",
@@ -24213,7 +24213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2000",
 "edad" : 21.37,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -24237,7 +24237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.44,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -24261,7 +24261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.10,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Ruben Bella",
@@ -24285,7 +24285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.08,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Quico Vidal",
@@ -24309,7 +24309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "20/3/1997",
 "edad" : 24.25,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Kevin Llario",
@@ -24333,7 +24333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/6/1990",
 "edad" : 31.03,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Pablo Frances",
@@ -24357,7 +24357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.37,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Diego Cambra",
@@ -24381,7 +24381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 20.74,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Francesc Vidal",
@@ -24405,7 +24405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/9/1987",
 "edad" : 33.79,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -24429,7 +24429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.36,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -24453,7 +24453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.75,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -24477,7 +24477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.34,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -24501,7 +24501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.14,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Omar Cortes",
@@ -24525,7 +24525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/3/1991",
 "edad" : 30.30,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -24549,7 +24549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.83,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -24573,7 +24573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.85,
 "oficial" : "Si",
-"partido_n�_" : 60,
+"partido_n_" : 60,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -24597,7 +24597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.48,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Joan Ribera",
@@ -24621,7 +24621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "23/7/2002",
 "edad" : 19.04,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Matias Aquino",
@@ -24645,7 +24645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.19,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -24669,7 +24669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.88,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Pablo Frances",
@@ -24693,7 +24693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.50,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Chimo Reig",
@@ -24717,7 +24717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.40,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -24741,7 +24741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.98,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -24765,7 +24765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.96,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -24789,7 +24789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.27,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -24813,7 +24813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.57,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -24837,7 +24837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.30,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Marc Tormo",
@@ -24861,7 +24861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 20.97,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -24885,7 +24885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.22,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -24909,7 +24909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.53,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Gorka Gallego",
@@ -24933,7 +24933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/2/2004",
 "edad" : 17.51,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -24957,7 +24957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 19.93,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Paco Saez",
@@ -24981,7 +24981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.59,
 "oficial" : "No",
-"partido_n�_" : 61,
+"partido_n_" : 61,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -25005,7 +25005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.48,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Pablo Frances",
@@ -25029,7 +25029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.50,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Matias Aquino",
@@ -25053,7 +25053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.19,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -25077,7 +25077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.88,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -25101,7 +25101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.27,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Marc Tormo",
@@ -25125,7 +25125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 20.97,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -25149,7 +25149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.22,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -25173,7 +25173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.53,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Gorka Gallego",
@@ -25197,7 +25197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/2/2004",
 "edad" : 17.51,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Sergio Mateu",
@@ -25221,7 +25221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/8/2001",
 "edad" : 19.93,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Paco Saez",
@@ -25245,7 +25245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.59,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -25269,7 +25269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.30,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -25293,7 +25293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.57,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -25317,7 +25317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 18.96,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -25341,7 +25341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 18.98,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Chimo Reig",
@@ -25365,7 +25365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.40,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Joan Ribera",
@@ -25389,7 +25389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "23/7/2002",
 "edad" : 19.04,
 "oficial" : "No",
-"partido_n�_" : 62,
+"partido_n_" : 62,
 },
 {
 "jugador" : "Ruben Bella",
@@ -25413,7 +25413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.23,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Paco Saez",
@@ -25437,7 +25437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.61,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Marc Tormo",
@@ -25461,7 +25461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 20.99,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -25485,7 +25485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.49,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -25509,7 +25509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.29,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -25533,7 +25533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.50,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -25557,7 +25557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.24,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Pablo Frances",
@@ -25581,7 +25581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.52,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Matias Aquino",
@@ -25605,7 +25605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.21,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -25629,7 +25629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.90,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -25653,7 +25653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.55,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -25677,7 +25677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.05,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Joan Ribera",
@@ -25701,7 +25701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "23/7/2002",
 "edad" : 19.06,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Pau Soriano",
@@ -25725,7 +25725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2006",
 "edad" : 15.59,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -25749,7 +25749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.32,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -25773,7 +25773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.59,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -25797,7 +25797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.00,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Chimo Reig",
@@ -25821,7 +25821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.42,
 "oficial" : "No",
-"partido_n�_" : 63,
+"partido_n_" : 63,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -25845,7 +25845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.51,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Paco Saez",
@@ -25869,7 +25869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.62,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -25893,7 +25893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.50,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Ruben Bella",
@@ -25917,7 +25917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.24,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -25941,7 +25941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.25,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Marc Tormo",
@@ -25965,7 +25965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.00,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -25989,7 +25989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.30,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -26013,7 +26013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.07,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Matias Aquino",
@@ -26037,7 +26037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.22,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -26061,7 +26061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.91,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Pablo Frances",
@@ -26085,7 +26085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.53,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Pau Soriano",
@@ -26109,7 +26109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2006",
 "edad" : 15.60,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Gorka Gallego",
@@ -26133,7 +26133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/2/2004",
 "edad" : 17.54,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -26157,7 +26157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.01,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -26181,7 +26181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.60,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -26205,7 +26205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.33,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -26229,7 +26229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.37,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Chimo Reig",
@@ -26253,7 +26253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.43,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Joan Ribera",
@@ -26277,7 +26277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "23/7/2002",
 "edad" : 19.07,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -26301,7 +26301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.56,
 "oficial" : "No",
-"partido_n�_" : 64,
+"partido_n_" : 64,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -26325,7 +26325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.52,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Paco Saez",
@@ -26349,7 +26349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.63,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -26373,7 +26373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.26,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -26397,7 +26397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.51,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Marc Tormo",
@@ -26421,7 +26421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.01,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Ruben Bella",
@@ -26445,7 +26445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.25,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -26469,7 +26469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.07,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -26493,7 +26493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.31,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Matias Aquino",
@@ -26517,7 +26517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.23,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -26541,7 +26541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.92,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Pablo Frances",
@@ -26565,7 +26565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.54,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Chimo Reig",
@@ -26589,7 +26589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.44,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Marcos Lopez",
@@ -26613,7 +26613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/1996",
 "edad" : 25.51,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -26637,7 +26637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.61,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -26661,7 +26661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.57,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -26685,7 +26685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.00,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Joan Ribera",
@@ -26709,7 +26709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "23/7/2002",
 "edad" : 19.08,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -26733,7 +26733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.02,
 "oficial" : "No",
-"partido_n�_" : 65,
+"partido_n_" : 65,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -26757,7 +26757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.53,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Paco Saez",
@@ -26781,7 +26781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.64,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Ruben Bella",
@@ -26805,7 +26805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.26,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -26829,7 +26829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.62,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -26853,7 +26853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.01,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -26877,7 +26877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.52,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Chimo Reig",
@@ -26901,7 +26901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.45,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -26925,7 +26925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.32,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Matias Aquino",
@@ -26949,7 +26949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.24,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -26973,7 +26973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.93,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Pablo Frances",
@@ -26997,7 +26997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.55,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -27021,7 +27021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.03,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Marcos Lopez",
@@ -27045,7 +27045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/1996",
 "edad" : 25.52,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -27069,7 +27069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.38,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Marc Tormo",
@@ -27093,7 +27093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.02,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -27117,7 +27117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.35,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Joan Ribera",
@@ -27141,7 +27141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "23/7/2002",
 "edad" : 19.09,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -27165,7 +27165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.08,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -27189,7 +27189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.58,
 "oficial" : "No",
-"partido_n�_" : 66,
+"partido_n_" : 66,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -27213,7 +27213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.54,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -27237,7 +27237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.36,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -27261,7 +27261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.02,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Marc Tormo",
@@ -27285,7 +27285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.03,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -27309,7 +27309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.63,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -27333,7 +27333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.40,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -27357,7 +27357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.33,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Chimo Reig",
@@ -27381,7 +27381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.46,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Pablo Frances",
@@ -27405,7 +27405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.56,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -27429,7 +27429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.10,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -27453,7 +27453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.94,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -27477,7 +27477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.55,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -27501,7 +27501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.28,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Matias Aquino",
@@ -27525,7 +27525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.25,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Ruben Bella",
@@ -27549,7 +27549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.27,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -27573,7 +27573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.53,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Iñaki Pastor",
@@ -27597,7 +27597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2004",
 "edad" : 17.02,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Oscar Garcia",
@@ -27621,7 +27621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/2/2004",
 "edad" : 17.56,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -27645,7 +27645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.04,
 "oficial" : "No",
-"partido_n�_" : 67,
+"partido_n_" : 67,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -27669,7 +27669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.56,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Marc Tormo",
@@ -27693,7 +27693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.05,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -27717,7 +27717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.04,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Paco Saez",
@@ -27741,7 +27741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.67,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -27765,7 +27765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.56,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -27789,7 +27789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.42,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -27813,7 +27813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.36,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -27837,7 +27837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 18.97,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Pablo Frances",
@@ -27861,7 +27861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.58,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Chimo Reig",
@@ -27885,7 +27885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.48,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Matias Aquino",
@@ -27909,7 +27909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.28,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -27933,7 +27933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.57,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -27957,7 +27957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.65,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -27981,7 +27981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.38,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -28005,7 +28005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.06,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -28029,7 +28029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.61,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -28053,7 +28053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.12,
 "oficial" : "Si",
-"partido_n�_" : 68,
+"partido_n_" : 68,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -28077,7 +28077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.58,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Paco Saez",
@@ -28101,7 +28101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.69,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -28125,7 +28125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.67,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -28149,7 +28149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.06,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -28173,7 +28173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.33,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -28197,7 +28197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.37,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -28221,7 +28221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.57,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Chimo Reig",
@@ -28245,7 +28245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.50,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Matias Aquino",
@@ -28269,7 +28269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.30,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -28293,7 +28293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.63,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Pablo Frances",
@@ -28317,7 +28317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.60,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -28341,7 +28341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.59,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -28365,7 +28365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.44,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Samuel Ferrandiz",
@@ -28389,7 +28389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/1998",
 "edad" : 23.39,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -28413,7 +28413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.40,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -28437,7 +28437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.08,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -28461,7 +28461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.14,
 "oficial" : "Si",
-"partido_n�_" : 69,
+"partido_n_" : 69,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -28485,7 +28485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.60,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Paco Saez",
@@ -28509,7 +28509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.71,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -28533,7 +28533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.34,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -28557,7 +28557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.08,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -28581,7 +28581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.68,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -28605,7 +28605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.39,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Chimo Reig",
@@ -28629,7 +28629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.52,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -28653,7 +28653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.59,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Matias Aquino",
@@ -28677,7 +28677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.31,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -28701,7 +28701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.15,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -28725,7 +28725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.00,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -28749,7 +28749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.61,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -28773,7 +28773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.42,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -28797,7 +28797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.65,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Pablo Frances",
@@ -28821,7 +28821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.62,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Marc Tormo",
@@ -28845,7 +28845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.09,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -28869,7 +28869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.10,
 "oficial" : "Si",
-"partido_n�_" : 70,
+"partido_n_" : 70,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -28893,7 +28893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.63,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Paco Saez",
@@ -28917,7 +28917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.73,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -28941,7 +28941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.10,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -28965,7 +28965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.36,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -28989,7 +28989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.71,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -29013,7 +29013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.41,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -29037,7 +29037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.61,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -29061,7 +29061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.17,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Matias Aquino",
@@ -29085,7 +29085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.33,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -29109,7 +29109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.02,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Pablo Frances",
@@ -29133,7 +29133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.64,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -29157,7 +29157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.62,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -29181,7 +29181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.44,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Ruben Bella",
@@ -29205,7 +29205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.35,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Marc Tormo",
@@ -29229,7 +29229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.11,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Chimo Reig",
@@ -29253,7 +29253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.54,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -29277,7 +29277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.12,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -29301,7 +29301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.67,
 "oficial" : "Si",
-"partido_n�_" : 71,
+"partido_n_" : 71,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -29325,7 +29325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.64,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Paco Saez",
@@ -29349,7 +29349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.75,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -29373,7 +29373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.38,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Ruben Bella",
@@ -29397,7 +29397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.37,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -29421,7 +29421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.43,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -29445,7 +29445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.63,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Pablo Frances",
@@ -29469,7 +29469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.66,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -29493,7 +29493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.12,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -29517,7 +29517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.04,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Matias Aquino",
@@ -29541,7 +29541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.35,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -29565,7 +29565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.69,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -29589,7 +29589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.65,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -29613,7 +29613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.14,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Marc Tormo",
@@ -29637,7 +29637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.13,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -29661,7 +29661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.73,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Chimo Reig",
@@ -29685,7 +29685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.56,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -29709,7 +29709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.19,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -29733,7 +29733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.49,
 "oficial" : "Si",
-"partido_n�_" : 72,
+"partido_n_" : 72,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -29757,7 +29757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.69,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Paco Saez",
@@ -29781,7 +29781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.79,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -29805,7 +29805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.16,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Ruben Bella",
@@ -29829,7 +29829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.41,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -29853,7 +29853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.42,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -29877,7 +29877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.47,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -29901,7 +29901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.67,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Chimo Reig",
@@ -29925,7 +29925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.60,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Matias Aquino",
@@ -29949,7 +29949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.39,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -29973,7 +29973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.08,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Pablo Frances",
@@ -29997,7 +29997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.70,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -30021,7 +30021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.68,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -30045,7 +30045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.50,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -30069,7 +30069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.73,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -30093,7 +30093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.53,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -30117,7 +30117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.23,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Marc Tormo",
@@ -30141,7 +30141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.17,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -30165,7 +30165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.76,
 "oficial" : "Si",
-"partido_n�_" : 73,
+"partido_n_" : 73,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -30189,7 +30189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.70,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Paco Saez",
@@ -30213,7 +30213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.81,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -30237,7 +30237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.18,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Ruben Bella",
@@ -30261,7 +30261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.43,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -30285,7 +30285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.69,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -30309,7 +30309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.49,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -30333,7 +30333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.44,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -30357,7 +30357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.10,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -30381,7 +30381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.25,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Pablo Frances",
@@ -30405,7 +30405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.72,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Matias Aquino",
@@ -30429,7 +30429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.41,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Pau Soriano",
@@ -30453,7 +30453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2006",
 "edad" : 15.78,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Diego Cambra",
@@ -30477,7 +30477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.09,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -30501,7 +30501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.75,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -30525,7 +30525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.51,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Marc Tormo",
@@ -30549,7 +30549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.19,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -30573,7 +30573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.78,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Chimo Reig",
@@ -30597,7 +30597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.62,
 "oficial" : "Si",
-"partido_n�_" : 74,
+"partido_n_" : 74,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -30621,7 +30621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.72,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Paco Saez",
@@ -30645,7 +30645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.82,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -30669,7 +30669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.19,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Ruben Bella",
@@ -30693,7 +30693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.44,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Chimo Reig",
@@ -30717,7 +30717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.63,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -30741,7 +30741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.51,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -30765,7 +30765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.71,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -30789,7 +30789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.77,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Matias Aquino",
@@ -30813,7 +30813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.43,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -30837,7 +30837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.12,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Pablo Frances",
@@ -30861,7 +30861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.73,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -30885,7 +30885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.71,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -30909,7 +30909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.53,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -30933,7 +30933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 20.80,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Marc Tormo",
@@ -30957,7 +30957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.20,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Diego Cambra",
@@ -30981,7 +30981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.11,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -31005,7 +31005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.57,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -31029,7 +31029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.21,
 "oficial" : "Si",
-"partido_n�_" : 75,
+"partido_n_" : 75,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -31053,7 +31053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.73,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Paco Saez",
@@ -31077,7 +31077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.84,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Ruben Bella",
@@ -31101,7 +31101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.46,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Marc Tormo",
@@ -31125,7 +31125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.22,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -31149,7 +31149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.48,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -31173,7 +31173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.52,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Pablo Frances",
@@ -31197,7 +31197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.75,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -31221,7 +31221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.72,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -31245,7 +31245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.59,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -31269,7 +31269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.13,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Matias Aquino",
@@ -31293,7 +31293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.45,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -31317,7 +31317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.74,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Chimo Reig",
@@ -31341,7 +31341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.65,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -31365,7 +31365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.23,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -31389,7 +31389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.55,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -31413,7 +31413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.21,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Diego Cambra",
@@ -31437,7 +31437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.13,
 "oficial" : "Si",
-"partido_n�_" : 76,
+"partido_n_" : 76,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -31461,7 +31461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.76,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Paco Saez",
@@ -31485,7 +31485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.87,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -31509,7 +31509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.23,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Ruben Bella",
@@ -31533,7 +31533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.49,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -31557,7 +31557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.50,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -31581,7 +31581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.55,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -31605,7 +31605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.75,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -31629,7 +31629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.61,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Matias Aquino",
@@ -31653,7 +31653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.47,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -31677,7 +31677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.16,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Pablo Frances",
@@ -31701,7 +31701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.77,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -31725,7 +31725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.75,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Marc Tormo",
@@ -31749,7 +31749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.24,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Diego Cambra",
@@ -31773,7 +31773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.15,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -31797,7 +31797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 21.79,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -31821,7 +31821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.81,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -31845,7 +31845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.31,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Chimo Reig",
@@ -31869,7 +31869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.67,
 "oficial" : "Si",
-"partido_n�_" : 77,
+"partido_n_" : 77,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -31893,7 +31893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.78,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Paco Saez",
@@ -31917,7 +31917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.88,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Ruben Bella",
@@ -31941,7 +31941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.50,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Marc Tormo",
@@ -31965,7 +31965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.26,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -31989,7 +31989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.51,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -32013,7 +32013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.56,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -32037,7 +32037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.76,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -32061,7 +32061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 21.80,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Matias Aquino",
@@ -32085,7 +32085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.48,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -32109,7 +32109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.17,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Pablo Frances",
@@ -32133,7 +32133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.79,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -32157,7 +32157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.77,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -32181,7 +32181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.25,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -32205,7 +32205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.59,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Diego Cambra",
@@ -32229,7 +32229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.16,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -32253,7 +32253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.63,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Chimo Reig",
@@ -32277,7 +32277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.69,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -32301,7 +32301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.33,
 "oficial" : "Si",
-"partido_n�_" : 78,
+"partido_n_" : 78,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -32325,7 +32325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.80,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Paco Saez",
@@ -32349,7 +32349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.90,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Marc Tormo",
@@ -32373,7 +32373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.28,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Ruben Bella",
@@ -32397,7 +32397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.52,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -32421,7 +32421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.54,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -32445,7 +32445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.59,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Pablo Frances",
@@ -32469,7 +32469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.81,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -32493,7 +32493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.79,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -32517,7 +32517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 21.83,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -32541,7 +32541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.20,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Matias Aquino",
@@ -32565,7 +32565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.51,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -32589,7 +32589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.79,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -32613,7 +32613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.61,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -32637,7 +32637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.65,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Diego Cambra",
@@ -32661,7 +32661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.19,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Chimo Reig",
@@ -32685,7 +32685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.71,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -32709,7 +32709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.84,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -32733,7 +32733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.27,
 "oficial" : "Si",
-"partido_n�_" : 79,
+"partido_n_" : 79,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -32757,7 +32757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.81,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Marc Tormo",
@@ -32781,7 +32781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.30,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Diego Cambra",
@@ -32805,7 +32805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.20,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -32829,7 +32829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.29,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Chimo Reig",
@@ -32853,7 +32853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.73,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -32877,7 +32877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.31,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -32901,7 +32901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.36,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -32925,7 +32925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.86,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -32949,7 +32949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.55,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -32973,7 +32973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.21,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -32997,7 +32997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.80,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -33021,7 +33021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.82,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Angel Galan",
@@ -33045,7 +33045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 21.89,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Matias Aquino",
@@ -33069,7 +33069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.52,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -33093,7 +33093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.66,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -33117,7 +33117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.63,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -33141,7 +33141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 21.84,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Pablo Frances",
@@ -33165,7 +33165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.83,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -33189,7 +33189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.60,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Paco Saez",
@@ -33213,7 +33213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.92,
 "oficial" : "No",
-"partido_n�_" : 80,
+"partido_n_" : 80,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -33237,7 +33237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.82,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -33261,7 +33261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.32,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -33285,7 +33285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.64,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -33309,7 +33309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.30,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Marc Tormo",
@@ -33333,7 +33333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.31,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -33357,7 +33357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.56,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Diego Cambra",
@@ -33381,7 +33381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.21,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Chimo Reig",
@@ -33405,7 +33405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.74,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -33429,7 +33429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.87,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -33453,7 +33453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.22,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -33477,7 +33477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.37,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -33501,7 +33501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.61,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Paco Saez",
@@ -33525,7 +33525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.93,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -33549,7 +33549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.83,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Pablo Frances",
@@ -33573,7 +33573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.84,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Matias Aquino",
@@ -33597,7 +33597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.53,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -33621,7 +33621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.81,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -33645,7 +33645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 21.85,
 "oficial" : "Si",
-"partido_n�_" : 81,
+"partido_n_" : 81,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -33669,7 +33669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.84,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Paco Saez",
@@ -33693,7 +33693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.94,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Ruben Bella",
@@ -33717,7 +33717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.56,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Marc Tormo",
@@ -33741,7 +33741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.32,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -33765,7 +33765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.57,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -33789,7 +33789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.62,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -33813,7 +33813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 21.86,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -33837,7 +33837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.82,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Matias Aquino",
@@ -33861,7 +33861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.54,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -33885,7 +33885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.23,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Pablo Frances",
@@ -33909,7 +33909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.85,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -33933,7 +33933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.83,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Chimo Reig",
@@ -33957,7 +33957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.75,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -33981,7 +33981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.33,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Diego Cambra",
@@ -34005,7 +34005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.22,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -34029,7 +34029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.88,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -34053,7 +34053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.39,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -34077,7 +34077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.31,
 "oficial" : "Si",
-"partido_n�_" : 82,
+"partido_n_" : 82,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -34101,7 +34101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.86,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Paco Saez",
@@ -34125,7 +34125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 31.96,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -34149,7 +34149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.33,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Marc Tormo",
@@ -34173,7 +34173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.34,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -34197,7 +34197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.64,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -34221,7 +34221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.59,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -34245,7 +34245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 21.88,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Chimo Reig",
@@ -34269,7 +34269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.77,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -34293,7 +34293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.25,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Pablo Frances",
@@ -34317,7 +34317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.87,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Matias Aquino",
@@ -34341,7 +34341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.56,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -34365,7 +34365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.85,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -34389,7 +34389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.84,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -34413,7 +34413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.40,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -34437,7 +34437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.35,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -34461,7 +34461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.67,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Diego Cambra",
@@ -34485,7 +34485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.24,
 "oficial" : "Si",
-"partido_n�_" : 83,
+"partido_n_" : 83,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -34509,7 +34509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.92,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Chimo Reig",
@@ -34533,7 +34533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.83,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Ruben Bella",
@@ -34557,7 +34557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.64,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -34581,7 +34581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.39,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -34605,7 +34605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 21.94,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -34629,7 +34629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.70,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -34653,7 +34653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.90,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -34677,7 +34677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.65,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Matias Aquino",
@@ -34701,7 +34701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.62,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -34725,7 +34725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.31,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -34749,7 +34749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.46,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Marc Tormo",
@@ -34773,7 +34773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.40,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -34797,7 +34797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.91,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -34821,7 +34821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.76,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -34845,7 +34845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.41,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Diego Cambra",
@@ -34869,7 +34869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.30,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -34893,7 +34893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.73,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -34917,7 +34917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.96,
 "oficial" : "Si",
-"partido_n�_" : 84,
+"partido_n_" : 84,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -34941,7 +34941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.92,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -34965,7 +34965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.73,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -34989,7 +34989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.39,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Marc Tormo",
@@ -35013,7 +35013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.40,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -35037,7 +35037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.91,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -35061,7 +35061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.77,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Diego Cambra",
@@ -35085,7 +35085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.31,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -35109,7 +35109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.97,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Paco Saez",
@@ -35133,7 +35133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.03,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -35157,7 +35157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.47,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Pablo Frances",
@@ -35181,7 +35181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.94,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -35205,7 +35205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.92,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Angel Galan",
@@ -35229,7 +35229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 22.00,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Matias Aquino",
@@ -35253,7 +35253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.63,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Ruben Bella",
@@ -35277,7 +35277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.65,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -35301,7 +35301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 21.95,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -35325,7 +35325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.32,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -35349,7 +35349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.66,
 "oficial" : "Si",
-"partido_n�_" : 85,
+"partido_n_" : 85,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -35373,7 +35373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.93,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Ruben Bella",
@@ -35397,7 +35397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.66,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Marc Tormo",
@@ -35421,7 +35421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.42,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -35445,7 +35445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.92,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -35469,7 +35469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.72,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -35493,7 +35493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 21.96,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -35517,7 +35517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.33,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -35541,7 +35541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.67,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Paco Saez",
@@ -35565,7 +35565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.04,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Pablo Frances",
@@ -35589,7 +35589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.95,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Matias Aquino",
@@ -35613,7 +35613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.64,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Marcos Lopez",
@@ -35637,7 +35637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/1996",
 "edad" : 25.92,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -35661,7 +35661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.78,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -35685,7 +35685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.74,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Pablo Orquin",
@@ -35709,7 +35709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/4/2001",
 "edad" : 20.79,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -35733,7 +35733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 22.98,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -35757,7 +35757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.41,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Diego Cambra",
@@ -35781,7 +35781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.32,
 "oficial" : "Si",
-"partido_n�_" : 86,
+"partido_n_" : 86,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -35805,7 +35805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.95,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -35829,7 +35829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.94,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -35853,7 +35853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.69,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -35877,7 +35877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.42,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Marc Tormo",
@@ -35901,7 +35901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.43,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -35925,7 +35925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 21.98,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -35949,7 +35949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.74,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Chimo Reig",
@@ -35973,7 +35973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.86,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -35997,7 +35997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 23.00,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Pablo Frances",
@@ -36021,7 +36021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.96,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Matias Aquino",
@@ -36045,7 +36045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.66,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Jaime Muñoz",
@@ -36069,7 +36069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/12/2002",
 "edad" : 19.12,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -36093,7 +36093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.44,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Ruben Bella",
@@ -36117,7 +36117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.67,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -36141,7 +36141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.76,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -36165,7 +36165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.50,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -36189,7 +36189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.35,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Diego Cambra",
@@ -36213,7 +36213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.34,
 "oficial" : "Si",
-"partido_n�_" : 87,
+"partido_n_" : 87,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -36237,7 +36237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.97,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -36261,7 +36261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.96,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -36285,7 +36285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.44,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Marc Tormo",
@@ -36309,7 +36309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.45,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -36333,7 +36333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.71,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -36357,7 +36357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.76,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -36381,7 +36381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 23.02,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -36405,7 +36405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.37,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Chimo Reig",
@@ -36429,7 +36429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.89,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Pablo Frances",
@@ -36453,7 +36453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 20.99,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Matias Aquino",
@@ -36477,7 +36477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.68,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -36501,7 +36501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.44,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Paco Saez",
@@ -36525,7 +36525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.08,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -36549,7 +36549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.82,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -36573,7 +36573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.00,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Ruben Bella",
@@ -36597,7 +36597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.70,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Diego Cambra",
@@ -36621,7 +36621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.36,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -36645,7 +36645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.52,
 "oficial" : "Si",
-"partido_n�_" : 88,
+"partido_n_" : 88,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -36669,7 +36669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 22.99,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Paco Saez",
@@ -36693,7 +36693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.10,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -36717,7 +36717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.46,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Ruben Bella",
@@ -36741,7 +36741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.72,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -36765,7 +36765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.02,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -36789,7 +36789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.73,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -36813,7 +36813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.78,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Diego Cambra",
@@ -36837,7 +36837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.38,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Chimo Reig",
@@ -36861,7 +36861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.90,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Pablo Frances",
@@ -36885,7 +36885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 21.00,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Matias Aquino",
@@ -36909,7 +36909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.70,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -36933,7 +36933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 34.98,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Angel Galan",
@@ -36957,7 +36957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 22.07,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -36981,7 +36981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.48,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Marc Tormo",
@@ -37005,7 +37005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.47,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -37029,7 +37029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.54,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -37053,7 +37053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.98,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -37077,7 +37077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.84,
 "oficial" : "Si",
-"partido_n�_" : 89,
+"partido_n_" : 89,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -37101,7 +37101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.01,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Paco Saez",
@@ -37125,7 +37125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.11,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -37149,7 +37149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.48,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Marc Tormo",
@@ -37173,7 +37173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.49,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -37197,7 +37197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 21.99,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -37221,7 +37221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.03,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -37245,7 +37245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.79,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -37269,7 +37269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 23.05,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Chimo Reig",
@@ -37293,7 +37293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.92,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -37317,7 +37317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.74,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Matias Aquino",
@@ -37341,7 +37341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.71,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -37365,7 +37365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 35.00,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -37389,7 +37389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.82,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -37413,7 +37413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.56,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -37437,7 +37437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.86,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Diego Cambra",
@@ -37461,7 +37461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.39,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -37485,7 +37485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.40,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Ruben Bella",
@@ -37509,7 +37509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.73,
 "oficial" : "Si",
-"partido_n�_" : 90,
+"partido_n_" : 90,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -37533,7 +37533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.03,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Paco Saez",
@@ -37557,7 +37557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.13,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -37581,7 +37581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.50,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Marc Tormo",
@@ -37605,7 +37605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.51,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -37629,7 +37629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.06,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -37653,7 +37653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.82,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -37677,7 +37677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.02,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -37701,7 +37701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.43,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -37725,7 +37725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.77,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Chimo Reig",
@@ -37749,7 +37749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.94,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Matias Aquino",
@@ -37773,7 +37773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.74,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -37797,7 +37797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 35.02,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Ruben Bella",
@@ -37821,7 +37821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.75,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Diego Cambra",
@@ -37845,7 +37845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.42,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -37869,7 +37869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.88,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -37893,7 +37893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.58,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -37917,7 +37917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 23.07,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Pablo Frances",
@@ -37941,7 +37941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 21.04,
 "oficial" : "Si",
-"partido_n�_" : 91,
+"partido_n_" : 91,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -37965,7 +37965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.05,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -37989,7 +37989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.52,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Marc Tormo",
@@ -38013,7 +38013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.53,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -38037,7 +38037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.79,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -38061,7 +38061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.03,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -38085,7 +38085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.08,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -38109,7 +38109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.83,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -38133,7 +38133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 23.09,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -38157,7 +38157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.44,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Pablo Frances",
@@ -38181,7 +38181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 21.06,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Matias Aquino",
@@ -38205,7 +38205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.75,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -38229,7 +38229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 35.04,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -38253,7 +38253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.86,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -38277,7 +38277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.60,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Diego Cambra",
@@ -38301,7 +38301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.43,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -38325,7 +38325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.90,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Chimo Reig",
@@ -38349,7 +38349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.96,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Ruben Bella",
@@ -38373,7 +38373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.77,
 "oficial" : "Si",
-"partido_n�_" : 92,
+"partido_n_" : 92,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -38397,7 +38397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.07,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -38421,7 +38421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.85,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -38445,7 +38445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.54,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Paco Saez",
@@ -38469,7 +38469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.17,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -38493,7 +38493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.09,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Ruben Bella",
@@ -38517,7 +38517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.79,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -38541,7 +38541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.80,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -38565,7 +38565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.46,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -38589,7 +38589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.05,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Matias Aquino",
@@ -38613,7 +38613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.77,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -38637,7 +38637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 23.11,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Chimo Reig",
@@ -38661,7 +38661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 23.98,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -38685,7 +38685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.92,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Diego Cambra",
@@ -38709,7 +38709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.45,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Pablo Frances",
@@ -38733,7 +38733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 21.08,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -38757,7 +38757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.62,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -38781,7 +38781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.88,
 "oficial" : "Si",
-"partido_n�_" : 93,
+"partido_n_" : 93,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -38805,7 +38805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.09,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Paco Saez",
@@ -38829,7 +38829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.19,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Marc Tormo",
@@ -38853,7 +38853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.57,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -38877,7 +38877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.07,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -38901,7 +38901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.82,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -38925,7 +38925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.11,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -38949,7 +38949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.87,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -38973,7 +38973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.93,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -38997,7 +38997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.48,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Pablo Frances",
@@ -39021,7 +39021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 21.10,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Matias Aquino",
@@ -39045,7 +39045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.79,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -39069,7 +39069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 35.08,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -39093,7 +39093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 18.65,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Chimo Reig",
@@ -39117,7 +39117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.00,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -39141,7 +39141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.90,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -39165,7 +39165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 23.13,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Diego Cambra",
@@ -39189,7 +39189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.47,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Ruben Bella",
@@ -39213,7 +39213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.81,
 "oficial" : "Si",
-"partido_n�_" : 94,
+"partido_n_" : 94,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -39237,7 +39237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 35.10,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Paco Saez",
@@ -39261,7 +39261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.21,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Ruben Bella",
@@ -39285,7 +39285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.83,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -39309,7 +39309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.58,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -39333,7 +39333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.84,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -39357,7 +39357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.95,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -39381,7 +39381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.89,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Pablo Frances",
@@ -39405,7 +39405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 21.12,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Matias Aquino",
@@ -39429,7 +39429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.81,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -39453,7 +39453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.50,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -39477,7 +39477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.65,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -39501,7 +39501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.60,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -39525,7 +39525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.11,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Marc Tormo",
@@ -39549,7 +39549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.59,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -39573,7 +39573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.13,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -39597,7 +39597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 23.15,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Diego Cambra",
@@ -39621,7 +39621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.49,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -39645,7 +39645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.09,
 "oficial" : "Si",
-"partido_n�_" : 95,
+"partido_n_" : 95,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -39669,7 +39669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.13,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -39693,7 +39693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.11,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -39717,7 +39717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.60,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Marc Tormo",
@@ -39741,7 +39741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.61,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -39765,7 +39765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.86,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -39789,7 +39789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.91,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -39813,7 +39813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.15,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Pablo Frances",
@@ -39837,7 +39837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 21.14,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -39861,7 +39861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.52,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -39885,7 +39885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.67,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Matias Aquino",
@@ -39909,7 +39909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.83,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -39933,7 +39933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 35.12,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Diego Cambra",
@@ -39957,7 +39957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.51,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -39981,7 +39981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.62,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -40005,7 +40005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.97,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -40029,7 +40029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.94,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Ruben Bella",
@@ -40053,7 +40053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.85,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -40077,7 +40077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 23.17,
 "oficial" : "Si",
-"partido_n�_" : 96,
+"partido_n_" : 96,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -40101,7 +40101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.15,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Chimo Reig",
@@ -40125,7 +40125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.06,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Ruben Bella",
@@ -40149,7 +40149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.87,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Marc Tormo",
@@ -40173,7 +40173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.63,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -40197,7 +40197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.88,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -40221,7 +40221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.93,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -40245,7 +40245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.17,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -40269,7 +40269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.54,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -40293,7 +40293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 34.99,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -40317,7 +40317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.13,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Matias Aquino",
@@ -40341,7 +40341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.85,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -40365,7 +40365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 35.14,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -40389,7 +40389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.62,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -40413,7 +40413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.96,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Diego Cambra",
@@ -40437,7 +40437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.53,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -40461,7 +40461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 23.19,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -40485,7 +40485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.69,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Pablo Frances",
@@ -40509,7 +40509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 21.16,
 "oficial" : "Si",
-"partido_n�_" : 97,
+"partido_n_" : 97,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -40533,7 +40533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.16,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -40557,7 +40557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 20.97,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Ruben Bella",
@@ -40581,7 +40581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.89,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -40605,7 +40605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.64,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Chimo Reig",
@@ -40629,7 +40629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.08,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -40653,7 +40653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.95,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -40677,7 +40677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 35.01,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -40701,7 +40701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.19,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -40725,7 +40725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.56,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Pablo Frances",
@@ -40749,7 +40749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 21.18,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Matias Aquino",
@@ -40773,7 +40773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.87,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -40797,7 +40797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 35.16,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -40821,7 +40821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 23.21,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Diego Cambra",
@@ -40845,7 +40845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.55,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -40869,7 +40869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.66,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Angel Galan",
@@ -40893,7 +40893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 22.24,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -40917,7 +40917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.71,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Marc Tormo",
@@ -40941,7 +40941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.65,
 "oficial" : "Si",
-"partido_n�_" : 98,
+"partido_n_" : 98,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -40965,7 +40965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.20,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Chimo Reig",
@@ -40989,7 +40989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.11,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Ruben Bella",
@@ -41013,7 +41013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.92,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -41037,7 +41037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.67,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -41061,7 +41061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.94,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -41085,7 +41085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.23,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -41109,7 +41109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 35.05,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -41133,7 +41133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 21.98,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -41157,7 +41157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.18,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Pablo Frances",
@@ -41181,7 +41181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 21.21,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Matias Aquino",
@@ -41205,7 +41205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.91,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Ruben Garcia",
@@ -41229,7 +41229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "12/2/1987",
 "edad" : 35.19,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Angel Galan",
@@ -41253,7 +41253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 22.28,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Marc Tormo",
@@ -41277,7 +41277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.68,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -41301,7 +41301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.59,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -41325,7 +41325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.75,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Diego Cambra",
@@ -41349,7 +41349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.59,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -41373,7 +41373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 21.01,
 "oficial" : "Si",
-"partido_n�_" : 99,
+"partido_n_" : 99,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -41397,7 +41397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.22,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -41421,7 +41421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.21,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Ruben Bella",
@@ -41445,7 +41445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.95,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -41469,7 +41469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.69,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -41493,7 +41493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.96,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -41517,7 +41517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 35.07,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Pablo Frances",
@@ -41541,7 +41541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 21.23,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -41565,7 +41565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.01,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Chimo Reig",
@@ -41589,7 +41589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.13,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -41613,7 +41613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.62,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Matias Aquino",
@@ -41637,7 +41637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.93,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Pau Soriano",
@@ -41661,7 +41661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2006",
 "edad" : 16.30,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -41685,7 +41685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.77,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -41709,7 +41709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.71,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -41733,7 +41733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 21.03,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Diego Cambra",
@@ -41757,7 +41757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.61,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Marc Tormo",
@@ -41781,7 +41781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.70,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -41805,7 +41805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 23.27,
 "oficial" : "Si",
-"partido_n�_" : 100,
+"partido_n_" : 100,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -41829,7 +41829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.24,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -41853,7 +41853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.71,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Ruben Bella",
@@ -41877,7 +41877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.96,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Chimo Reig",
@@ -41901,7 +41901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.15,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -41925,7 +41925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.98,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -41949,7 +41949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 35.09,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -41973,7 +41973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.03,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -41997,7 +41997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.23,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Diego Cambra",
@@ -42021,7 +42021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.63,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -42045,7 +42045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.64,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -42069,7 +42069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.79,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Pau Soriano",
@@ -42093,7 +42093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2006",
 "edad" : 16.32,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Angel Galan",
@@ -42117,7 +42117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 22.32,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Ivan Ceballos",
@@ -42141,7 +42141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/1/1999",
 "edad" : 23.29,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Pablo Orquin",
@@ -42165,7 +42165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/4/2001",
 "edad" : 21.09,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Marc Tormo",
@@ -42189,7 +42189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.72,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -42213,7 +42213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 21.05,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Junior Muanza Alberto Simao Nogueroles",
@@ -42237,7 +42237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "14/8/2002",
 "edad" : 19.73,
 "oficial" : "Si",
-"partido_n�_" : 101,
+"partido_n_" : 101,
 },
 {
 "jugador" : "Pau Soriano",
@@ -42261,7 +42261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2006",
 "edad" : 16.34,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Chimo Reig",
@@ -42285,7 +42285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.17,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Marc Tormo",
@@ -42309,7 +42309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.74,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -42333,7 +42333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.73,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -42357,7 +42357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.04,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Diego Cambra",
@@ -42381,7 +42381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.64,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -42405,7 +42405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.24,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -42429,7 +42429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.65,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -42453,7 +42453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 29.99,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Alejandro Peiro",
@@ -42477,7 +42477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "24/7/2000",
 "edad" : 21.80,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Matias Aquino",
@@ -42501,7 +42501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/5/1996",
 "edad" : 25.96,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -42525,7 +42525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.26,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Edwin Sanjuan",
@@ -42549,7 +42549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/1/2003",
 "edad" : 19.29,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Angel Galan",
@@ -42573,7 +42573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 22.33,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Oscar Garcia",
@@ -42597,7 +42597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/2/2004",
 "edad" : 18.27,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Jose Maria Cid",
@@ -42621,7 +42621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/4/2001",
 "edad" : 21.07,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Ruben Bella",
@@ -42645,7 +42645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/5/1998",
 "edad" : 23.98,
 "oficial" : "Si",
-"partido_n�_" : 102,
+"partido_n_" : 102,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -42669,7 +42669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.49,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Chimo Reig",
@@ -42693,7 +42693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.40,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -42717,7 +42717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.22,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -42741,7 +42741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.36,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -42765,7 +42765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.51,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Alberto Botella",
@@ -42789,7 +42789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.05,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -42813,7 +42813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.44,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -42837,7 +42837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.88,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Casti Almendros",
@@ -42861,7 +42861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.59,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -42885,7 +42885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.25,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Juli Cerda",
@@ -42909,7 +42909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 40.99,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -42933,7 +42933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.27,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -42957,7 +42957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.26,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Marc Tormo",
@@ -42981,7 +42981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.97,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -43005,7 +43005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.47,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Diego Cambra",
@@ -43029,7 +43029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.87,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -43053,7 +43053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 33.27,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -43077,7 +43077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 21.57,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Angel Galan",
@@ -43101,7 +43101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 22.56,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Samuel Ferrandiz",
@@ -43125,7 +43125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/1998",
 "edad" : 24.29,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -43149,7 +43149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.05,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Pablo Orquin",
@@ -43173,7 +43173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/4/2001",
 "edad" : 21.34,
 "oficial" : "No",
-"partido_n�_" : 103,
+"partido_n_" : 103,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -43197,7 +43197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.27,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Chimo Reig",
@@ -43221,7 +43221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.41,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -43245,7 +43245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.36,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -43269,7 +43269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.97,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -43293,7 +43293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.28,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Diego Cambra",
@@ -43317,7 +43317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.88,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -43341,7 +43341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.23,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Alberto Botella",
@@ -43365,7 +43365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.06,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -43389,7 +43389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.48,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Casti Almendros",
@@ -43413,7 +43413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.60,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -43437,7 +43437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.26,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -43461,7 +43461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.50,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Marc Tormo",
@@ -43485,7 +43485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.98,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -43509,7 +43509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 21.57,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -43533,7 +43533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.89,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -43557,7 +43557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.52,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Angel Galan",
@@ -43581,7 +43581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 22.57,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Samuel Ferrandiz",
@@ -43605,7 +43605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/1998",
 "edad" : 24.30,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Pablo Orquin",
@@ -43629,7 +43629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/4/2001",
 "edad" : 21.35,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -43653,7 +43653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 33.28,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -43677,7 +43677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.06,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Juli Cerda",
@@ -43701,7 +43701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.00,
 "oficial" : "No",
-"partido_n�_" : 104,
+"partido_n_" : 104,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -43725,7 +43725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.50,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -43749,7 +43749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.07,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Samuel Ferrandiz",
@@ -43773,7 +43773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/1998",
 "edad" : 24.31,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -43797,7 +43797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.37,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -43821,7 +43821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.24,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -43845,7 +43845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.46,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Diego Cambra",
@@ -43869,7 +43869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.89,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -43893,7 +43893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.90,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -43917,7 +43917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.49,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -43941,7 +43941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.27,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -43965,7 +43965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 33.28,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -43989,7 +43989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.28,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Pablo Orquin",
@@ -44013,7 +44013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/4/2001",
 "edad" : 21.36,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -44037,7 +44037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 21.58,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -44061,7 +44061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.45,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Chimo Reig",
@@ -44085,7 +44085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.42,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Alberto Botella",
@@ -44109,7 +44109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.06,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -44133,7 +44133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.53,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -44157,7 +44157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.98,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Casti Almendros",
@@ -44181,7 +44181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.61,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Juli Cerda",
@@ -44205,7 +44205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.01,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Marc Tormo",
@@ -44229,7 +44229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.98,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Angel Galan",
@@ -44253,7 +44253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 22.58,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -44277,7 +44277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.29,
 "oficial" : "No",
-"partido_n�_" : 105,
+"partido_n_" : 105,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -44301,7 +44301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.28,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Chimo Reig",
@@ -44325,7 +44325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.42,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -44349,7 +44349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.24,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -44373,7 +44373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.53,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -44397,7 +44397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.38,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Victor Fuentes",
@@ -44421,7 +44421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/4/1987",
 "edad" : 35.35,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -44445,7 +44445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.29,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Alberto Botella",
@@ -44469,7 +44469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.07,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -44493,7 +44493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.27,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Juli Cerda",
@@ -44517,7 +44517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.01,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Casti Almendros",
@@ -44541,7 +44541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.61,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -44565,7 +44565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.51,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -44589,7 +44589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.46,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Marc Tormo",
@@ -44613,7 +44613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 21.99,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Samuel Ferrandiz",
@@ -44637,7 +44637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/1998",
 "edad" : 24.31,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -44661,7 +44661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.07,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -44685,7 +44685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.45,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Angel Galan",
@@ -44709,7 +44709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 22.58,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Diego Cambra",
@@ -44733,7 +44733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.89,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -44757,7 +44757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 33.29,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -44781,7 +44781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.90,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -44805,7 +44805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.98,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -44829,7 +44829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.49,
 "oficial" : "No",
-"partido_n�_" : 106,
+"partido_n_" : 106,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -44853,7 +44853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.29,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -44877,7 +44877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 19.99,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Marc Tormo",
@@ -44901,7 +44901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/8/2000",
 "edad" : 22.00,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -44925,7 +44925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.54,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Casti Almendros",
@@ -44949,7 +44949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.62,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Juli Cerda",
@@ -44973,7 +44973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.02,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -44997,7 +44997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.46,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -45021,7 +45021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.50,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -45045,7 +45045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.08,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -45069,7 +45069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.28,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Alberto Botella",
@@ -45093,7 +45093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.08,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Chimo Reig",
@@ -45117,7 +45117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.43,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -45141,7 +45141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.25,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -45165,7 +45165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.39,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -45189,7 +45189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.30,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -45213,7 +45213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.52,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -45237,7 +45237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.47,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Marc Gonzalez",
@@ -45261,7 +45261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2001",
 "edad" : 21.60,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Diego Cambra",
@@ -45285,7 +45285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.90,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -45309,7 +45309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.91,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Samuel Ferrandiz",
@@ -45333,7 +45333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/1998",
 "edad" : 24.32,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Angel Galan",
@@ -45357,7 +45357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 22.59,
 "oficial" : "No",
-"partido_n�_" : 107,
+"partido_n_" : 107,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -45381,7 +45381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.53,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -45405,7 +45405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.55,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -45429,7 +45429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.39,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Chimo Reig",
@@ -45453,7 +45453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.44,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -45477,7 +45477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.26,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -45501,7 +45501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.48,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Alberto Botella",
@@ -45525,7 +45525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.09,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Juli Cerda",
@@ -45549,7 +45549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.03,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -45573,7 +45573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.47,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Casti Almendros",
@@ -45597,7 +45597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.63,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -45621,7 +45621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.29,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -45645,7 +45645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.30,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -45669,7 +45669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.09,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Samuel Ferrandiz",
@@ -45693,7 +45693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/1998",
 "edad" : 24.33,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Juanpe Andres",
@@ -45717,7 +45717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "30/4/1989",
 "edad" : 33.31,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -45741,7 +45741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.00,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -45765,7 +45765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.92,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -45789,7 +45789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.31,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -45813,7 +45813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.51,
 "oficial" : "No",
-"partido_n�_" : 108,
+"partido_n_" : 108,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -45837,7 +45837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.31,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -45861,7 +45861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.52,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -45885,7 +45885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.01,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -45909,7 +45909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.56,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Chimo Reig",
@@ -45933,7 +45933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.45,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -45957,7 +45957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.48,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Alberto Botella",
@@ -45981,7 +45981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.10,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -46005,7 +46005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.30,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -46029,7 +46029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.32,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -46053,7 +46053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.93,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Casti Almendros",
@@ -46077,7 +46077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.64,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -46101,7 +46101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.54,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Juli Cerda",
@@ -46125,7 +46125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.04,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -46149,7 +46149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.41,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -46173,7 +46173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.08,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -46197,7 +46197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.49,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -46221,7 +46221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.27,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Samuel Ferrandiz",
@@ -46245,7 +46245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/1998",
 "edad" : 24.34,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -46269,7 +46269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.10,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Diego Cambra",
@@ -46293,7 +46293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.92,
 "oficial" : "No",
-"partido_n�_" : 109,
+"partido_n_" : 109,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -46317,7 +46317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.34,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Chimo Reig",
@@ -46341,7 +46341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.48,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -46365,7 +46365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.43,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -46389,7 +46389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.59,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -46413,7 +46413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.30,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -46437,7 +46437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.52,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -46461,7 +46461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.35,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Alberto Botella",
@@ -46485,7 +46485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.12,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -46509,7 +46509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.33,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Casti Almendros",
@@ -46533,7 +46533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.67,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Juli Cerda",
@@ -46557,7 +46557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.07,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -46581,7 +46581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.56,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Diego Cambra",
@@ -46605,7 +46605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.95,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -46629,7 +46629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.51,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -46653,7 +46653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.10,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -46677,7 +46677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.04,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -46701,7 +46701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.96,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -46725,7 +46725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.55,
 "oficial" : "Si",
-"partido_n�_" : 110,
+"partido_n_" : 110,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -46749,7 +46749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.36,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -46773,7 +46773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.05,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -46797,7 +46797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.45,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Chimo Reig",
@@ -46821,7 +46821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.50,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -46845,7 +46845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.32,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -46869,7 +46869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.37,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Alberto Botella",
@@ -46893,7 +46893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.14,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -46917,7 +46917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.35,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Casti Almendros",
@@ -46941,7 +46941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.69,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -46965,7 +46965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 19.98,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Juli Cerda",
@@ -46989,7 +46989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.09,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -47013,7 +47013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.58,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -47037,7 +47037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.61,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -47061,7 +47061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.54,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Diego Cambra",
@@ -47085,7 +47085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.97,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -47109,7 +47109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.57,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -47133,7 +47133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.53,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -47157,7 +47157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.12,
 "oficial" : "Si",
-"partido_n�_" : 111,
+"partido_n_" : 111,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -47181,7 +47181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.38,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -47205,7 +47205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.47,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -47229,7 +47229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.63,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Chimo Reig",
@@ -47253,7 +47253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.52,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Alberto Botella",
@@ -47277,7 +47277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.17,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -47301,7 +47301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.39,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -47325,7 +47325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.56,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -47349,7 +47349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.37,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -47373,7 +47373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.55,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Casti Almendros",
@@ -47397,7 +47397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.71,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -47421,7 +47421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.34,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -47445,7 +47445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.61,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Juli Cerda",
@@ -47469,7 +47469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.11,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Diego Cambra",
@@ -47493,7 +47493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 21.99,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -47517,7 +47517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.00,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -47541,7 +47541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.15,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -47565,7 +47565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.08,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -47589,7 +47589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.59,
 "oficial" : "Si",
-"partido_n�_" : 112,
+"partido_n_" : 112,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -47613,7 +47613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.40,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -47637,7 +47637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.10,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Chimo Reig",
@@ -47661,7 +47661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.54,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -47685,7 +47685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.49,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -47709,7 +47709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.36,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -47733,7 +47733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.57,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Alberto Botella",
@@ -47757,7 +47757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.18,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -47781,7 +47781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.41,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -47805,7 +47805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.39,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -47829,7 +47829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.02,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Casti Almendros",
@@ -47853,7 +47853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.73,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Paco Saez",
@@ -47877,7 +47877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.73,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -47901,7 +47901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.62,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -47925,7 +47925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.61,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Juli Cerda",
@@ -47949,7 +47949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.13,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -47973,7 +47973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.16,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Diego Cambra",
@@ -47997,7 +47997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.01,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -48021,7 +48021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.58,
 "oficial" : "Si",
-"partido_n�_" : 113,
+"partido_n_" : 113,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -48045,7 +48045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.42,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Paco Saez",
@@ -48069,7 +48069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.75,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -48093,7 +48093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.51,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -48117,7 +48117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.67,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -48141,7 +48141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.63,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -48165,7 +48165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.43,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -48189,7 +48189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.60,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -48213,7 +48213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.41,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Juli Cerda",
@@ -48237,7 +48237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.15,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -48261,7 +48261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.18,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Casti Almendros",
@@ -48285,7 +48285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.75,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -48309,7 +48309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.64,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -48333,7 +48333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.59,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -48357,7 +48357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.21,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Samuel Ferrandiz",
@@ -48381,7 +48381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/1998",
 "edad" : 24.45,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Diego Cambra",
@@ -48405,7 +48405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.03,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -48429,7 +48429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.38,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -48453,7 +48453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.04,
 "oficial" : "Si",
-"partido_n�_" : 114,
+"partido_n_" : 114,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -48477,7 +48477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.44,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Chimo Reig",
@@ -48501,7 +48501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.57,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -48525,7 +48525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.13,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -48549,7 +48549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.40,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -48573,7 +48573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.53,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -48597,7 +48597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.61,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Diego Cambra",
@@ -48621,7 +48621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.05,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -48645,7 +48645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.45,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Juli Cerda",
@@ -48669,7 +48669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.17,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -48693,7 +48693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.06,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Casti Almendros",
@@ -48717,7 +48717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.77,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -48741,7 +48741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.20,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -48765,7 +48765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.66,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Samuel Ferrandiz",
@@ -48789,7 +48789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/1998",
 "edad" : 24.47,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -48813,7 +48813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.65,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Angel Galan",
@@ -48837,7 +48837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 22.74,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Alberto Botella",
@@ -48861,7 +48861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.22,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -48885,7 +48885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.23,
 "oficial" : "Si",
-"partido_n�_" : 115,
+"partido_n_" : 115,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -48909,7 +48909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.46,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -48933,7 +48933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.67,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Chimo Reig",
@@ -48957,7 +48957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.59,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -48981,7 +48981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.55,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -49005,7 +49005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.71,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -49029,7 +49029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.47,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Diego Cambra",
@@ -49053,7 +49053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.07,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Juli Cerda",
@@ -49077,7 +49077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.19,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -49101,7 +49101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.08,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -49125,7 +49125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.63,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Casti Almendros",
@@ -49149,7 +49149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.79,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -49173,7 +49173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.68,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -49197,7 +49197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.25,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Samuel Ferrandiz",
@@ -49221,7 +49221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/1998",
 "edad" : 24.48,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -49245,7 +49245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.15,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -49269,7 +49269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.22,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Paco Saez",
@@ -49293,7 +49293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.79,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -49317,7 +49317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.42,
 "oficial" : "Si",
-"partido_n�_" : 116,
+"partido_n_" : 116,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -49341,7 +49341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.48,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Paco Saez",
@@ -49365,7 +49365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.80,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -49389,7 +49389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.44,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -49413,7 +49413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.17,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -49437,7 +49437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.57,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -49461,7 +49461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.73,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Chimo Reig",
@@ -49485,7 +49485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.61,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -49509,7 +49509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.49,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -49533,7 +49533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.64,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -49557,7 +49557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.10,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Casti Almendros",
@@ -49581,7 +49581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.81,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -49605,7 +49605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.70,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Samuel Ferrandiz",
@@ -49629,7 +49629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/1998",
 "edad" : 24.50,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Diego Cambra",
@@ -49653,7 +49653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.09,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -49677,7 +49677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.69,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -49701,7 +49701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.24,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Juli Cerda",
@@ -49725,7 +49725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.20,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Alberto Botella",
@@ -49749,7 +49749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.26,
 "oficial" : "Si",
-"partido_n�_" : 117,
+"partido_n_" : 117,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -49773,7 +49773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.49,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Paco Saez",
@@ -49797,7 +49797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.82,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -49821,7 +49821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.74,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -49845,7 +49845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.59,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -49869,7 +49869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.45,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -49893,7 +49893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.50,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Alberto Botella",
@@ -49917,7 +49917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.28,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -49941,7 +49941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.11,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Casti Almendros",
@@ -49965,7 +49965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.82,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Juli Cerda",
@@ -49989,7 +49989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.22,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -50013,7 +50013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.66,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -50037,7 +50037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.72,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -50061,7 +50061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.70,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -50085,7 +50085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.19,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Samuel Ferrandiz",
@@ -50109,7 +50109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "22/4/1998",
 "edad" : 24.52,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -50133,7 +50133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.26,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Diego Cambra",
@@ -50157,7 +50157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.10,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -50181,7 +50181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.28,
 "oficial" : "Si",
-"partido_n�_" : 118,
+"partido_n_" : 118,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -50205,7 +50205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.73,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -50229,7 +50229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.29,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -50253,7 +50253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.20,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -50277,7 +50277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.75,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -50301,7 +50301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.46,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Diego Cambra",
@@ -50325,7 +50325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.11,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Alberto Botella",
@@ -50349,7 +50349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.29,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -50373,7 +50373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.67,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -50397,7 +50397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.71,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -50421,7 +50421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.12,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -50445,7 +50445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.27,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -50469,7 +50469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.50,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Oscar Garcia",
@@ -50493,7 +50493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/2/2004",
 "edad" : 18.74,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Edwin Sanjuan",
@@ -50517,7 +50517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/1/2003",
 "edad" : 19.76,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Casti Almendros",
@@ -50541,7 +50541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.83,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -50565,7 +50565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.51,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -50589,7 +50589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.59,
 "oficial" : "Si",
-"partido_n�_" : 119,
+"partido_n_" : 119,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -50613,7 +50613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.51,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -50637,7 +50637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.30,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -50661,7 +50661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.48,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -50685,7 +50685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.21,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -50709,7 +50709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.61,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Diego Cambra",
@@ -50733,7 +50733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.12,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -50757,7 +50757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.52,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Paco Saez",
@@ -50781,7 +50781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.84,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -50805,7 +50805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.68,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -50829,7 +50829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.13,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Casti Almendros",
@@ -50853,7 +50853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.85,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -50877,7 +50877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.74,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -50901,7 +50901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.77,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Edwin Sanjuan",
@@ -50925,7 +50925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/1/2003",
 "edad" : 19.78,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -50949,7 +50949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.28,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -50973,7 +50973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.72,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Juli Cerda",
@@ -50997,7 +50997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.24,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -51021,7 +51021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.50,
 "oficial" : "Si",
-"partido_n�_" : 120,
+"partido_n_" : 120,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -51045,7 +51045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.53,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -51069,7 +51069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.62,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Paco Saez",
@@ -51093,7 +51093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.86,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -51117,7 +51117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.70,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -51141,7 +51141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.52,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -51165,7 +51165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.49,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -51189,7 +51189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.54,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -51213,7 +51213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.15,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -51237,7 +51237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.78,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Alberto Botella",
@@ -51261,7 +51261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.32,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Casti Almendros",
@@ -51285,7 +51285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.86,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -51309,7 +51309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.76,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Juli Cerda",
@@ -51333,7 +51333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.26,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -51357,7 +51357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.32,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -51381,7 +51381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.74,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -51405,7 +51405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.30,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Diego Cambra",
@@ -51429,7 +51429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.14,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -51453,7 +51453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.23,
 "oficial" : "Si",
-"partido_n�_" : 121,
+"partido_n_" : 121,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -51477,7 +51477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.55,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -51501,7 +51501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.64,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -51525,7 +51525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.80,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Paco Saez",
@@ -51549,7 +51549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.88,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -51573,7 +51573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.51,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -51597,7 +51597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.56,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Alberto Botella",
@@ -51621,7 +51621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.34,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -51645,7 +51645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.54,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Casti Almendros",
@@ -51669,7 +51669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.88,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -51693,7 +51693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.17,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -51717,7 +51717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.72,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -51741,7 +51741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.78,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -51765,7 +51765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.76,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -51789,7 +51789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.25,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -51813,7 +51813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.32,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Juli Cerda",
@@ -51837,7 +51837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.28,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Diego Cambra",
@@ -51861,7 +51861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.16,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Chimo Reig",
@@ -51885,7 +51885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.69,
 "oficial" : "Si",
-"partido_n�_" : 122,
+"partido_n_" : 122,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -51909,7 +51909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.57,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Chimo Reig",
@@ -51933,7 +51933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.71,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -51957,7 +51957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.27,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -51981,7 +51981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.78,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -52005,7 +52005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.67,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -52029,7 +52029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.58,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Alberto Botella",
@@ -52053,7 +52053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.36,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -52077,7 +52077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.74,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -52101,7 +52101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.56,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -52125,7 +52125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.19,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Casti Almendros",
@@ -52149,7 +52149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.90,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -52173,7 +52173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.80,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -52197,7 +52197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.34,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -52221,7 +52221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.82,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Juli Cerda",
@@ -52245,7 +52245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.30,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -52269,7 +52269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.36,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -52293,7 +52293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.75,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Diego Cambra",
@@ -52317,7 +52317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.18,
 "oficial" : "Si",
-"partido_n�_" : 123,
+"partido_n_" : 123,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -52341,7 +52341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.59,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -52365,7 +52365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.55,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -52389,7 +52389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.28,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -52413,7 +52413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.84,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Chimo Reig",
@@ -52437,7 +52437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.73,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -52461,7 +52461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.60,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Alberto Botella",
@@ -52485,7 +52485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.37,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Juli Cerda",
@@ -52509,7 +52509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.32,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -52533,7 +52533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.76,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -52557,7 +52557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.21,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Casti Almendros",
@@ -52581,7 +52581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.92,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -52605,7 +52605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.81,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -52629,7 +52629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.38,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -52653,7 +52653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.77,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -52677,7 +52677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.35,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -52701,7 +52701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.80,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Paco Saez",
@@ -52725,7 +52725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.92,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Diego Cambra",
@@ -52749,7 +52749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.20,
 "oficial" : "Si",
-"partido_n�_" : 124,
+"partido_n_" : 124,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -52773,7 +52773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.84,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -52797,7 +52797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.31,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Chimo Reig",
@@ -52821,7 +52821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.75,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -52845,7 +52845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.57,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -52869,7 +52869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.70,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -52893,7 +52893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.86,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Juli Cerda",
@@ -52917,7 +52917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.34,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Alberto Botella",
@@ -52941,7 +52941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.40,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Casti Almendros",
@@ -52965,7 +52965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.94,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -52989,7 +52989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.23,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -53013,7 +53013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.78,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -53037,7 +53037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.61,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -53061,7 +53061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.40,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Paco Saez",
@@ -53085,7 +53085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.94,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -53109,7 +53109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.79,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -53133,7 +53133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.38,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -53157,7 +53157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.82,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Diego Cambra",
@@ -53181,7 +53181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.22,
 "oficial" : "Si",
-"partido_n�_" : 125,
+"partido_n_" : 125,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -53205,7 +53205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.85,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -53229,7 +53229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.72,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -53253,7 +53253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.59,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Paco Saez",
@@ -53277,7 +53277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 32.96,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -53301,7 +53301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.88,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -53325,7 +53325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.80,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Alberto Botella",
@@ -53349,7 +53349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.41,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Chimo Reig",
@@ -53373,7 +53373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.76,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -53397,7 +53397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.25,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Casti Almendros",
@@ -53421,7 +53421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 29.96,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -53445,7 +53445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.80,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Jaime Muñoz",
@@ -53469,7 +53469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "8/12/2002",
 "edad" : 20.02,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -53493,7 +53493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.32,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -53517,7 +53517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.39,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Diego Cambra",
@@ -53541,7 +53541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.24,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Juli Cerda",
@@ -53565,7 +53565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.36,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -53589,7 +53589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.84,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -53613,7 +53613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.61,
 "oficial" : "Si",
-"partido_n�_" : 126,
+"partido_n_" : 126,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -53637,7 +53637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.69,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -53661,7 +53661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.65,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Chimo Reig",
@@ -53685,7 +53685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.82,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -53709,7 +53709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.78,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -53733,7 +53733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.38,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -53757,7 +53757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.70,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -53781,7 +53781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.31,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Diego Cambra",
@@ -53805,7 +53805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.30,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -53829,7 +53829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.86,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Casti Almendros",
@@ -53853,7 +53853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.02,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -53877,7 +53877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.67,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -53901,7 +53901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.91,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Paco Saez",
@@ -53925,7 +53925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.02,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -53949,7 +53949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.48,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -53973,7 +53973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.90,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -53997,7 +53997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.45,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -54021,7 +54021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.94,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Alberto Botella",
@@ -54045,7 +54045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.47,
 "oficial" : "Si",
-"partido_n�_" : 127,
+"partido_n_" : 127,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -54069,7 +54069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.71,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -54093,7 +54093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.92,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Paco Saez",
@@ -54117,7 +54117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.03,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -54141,7 +54141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 20.40,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -54165,7 +54165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.80,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Diego Cambra",
@@ -54189,7 +54189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.32,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -54213,7 +54213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.72,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -54237,7 +54237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.87,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Casti Almendros",
@@ -54261,7 +54261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.04,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -54285,7 +54285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.33,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -54309,7 +54309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.69,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -54333,7 +54333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.93,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -54357,7 +54357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.67,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -54381,7 +54381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.88,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Alberto Botella",
@@ -54405,7 +54405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.49,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -54429,7 +54429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.50,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Angel Cobo",
@@ -54453,7 +54453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 28.86,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -54477,7 +54477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.96,
 "oficial" : "Si",
-"partido_n�_" : 128,
+"partido_n_" : 128,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -54501,7 +54501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.72,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Paco Saez",
@@ -54525,7 +54525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.05,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -54549,7 +54549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 22.98,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -54573,7 +54573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.82,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Diego Cambra",
@@ -54597,7 +54597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.34,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -54621,7 +54621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.74,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -54645,7 +54645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.69,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -54669,7 +54669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.89,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -54693,7 +54693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.71,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Angel Cobo",
@@ -54717,7 +54717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 28.88,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Casti Almendros",
@@ -54741,7 +54741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.06,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -54765,7 +54765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.95,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -54789,7 +54789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.52,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -54813,7 +54813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.93,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -54837,7 +54837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.49,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Juli Cerda",
@@ -54861,7 +54861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.45,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -54885,7 +54885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.34,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -54909,7 +54909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.90,
 "oficial" : "Si",
-"partido_n�_" : 129,
+"partido_n_" : 129,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -54933,7 +54933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.74,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Paco Saez",
@@ -54957,7 +54957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.07,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -54981,7 +54981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.84,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -55005,7 +55005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.00,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -55029,7 +55029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.70,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -55053,7 +55053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.75,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -55077,7 +55077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.73,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Alberto Botella",
@@ -55101,7 +55101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.53,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Angel Cobo",
@@ -55125,7 +55125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 28.90,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Casti Almendros",
@@ -55149,7 +55149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.08,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -55173,7 +55173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.91,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -55197,7 +55197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.97,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -55221,7 +55221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.36,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -55245,7 +55245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.53,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Juli Cerda",
@@ -55269,7 +55269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.47,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Diego Cambra",
@@ -55293,7 +55293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.35,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -55317,7 +55317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.92,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -55341,7 +55341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.95,
 "oficial" : "Si",
-"partido_n�_" : 130,
+"partido_n_" : 130,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -55365,7 +55365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.76,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Paco Saez",
@@ -55389,7 +55389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.09,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -55413,7 +55413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.72,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -55437,7 +55437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.86,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -55461,7 +55461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.01,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -55485,7 +55485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.77,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Alberto Botella",
@@ -55509,7 +55509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.55,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Juli Cerda",
@@ -55533,7 +55533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.49,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -55557,7 +55557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.75,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Angel Cobo",
@@ -55581,7 +55581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 28.92,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -55605,7 +55605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.93,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -55629,7 +55629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 23.99,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -55653,7 +55653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.53,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Diego Cambra",
@@ -55677,7 +55677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.37,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -55701,7 +55701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.97,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Chimo Reig",
@@ -55725,7 +55725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.90,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -55749,7 +55749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.38,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -55773,7 +55773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.94,
 "oficial" : "Si",
-"partido_n�_" : 131,
+"partido_n_" : 131,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -55797,7 +55797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.78,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -55821,7 +55821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.57,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -55845,7 +55845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 22.99,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -55869,7 +55869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.88,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -55893,7 +55893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.03,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -55917,7 +55917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.96,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Alberto Botella",
@@ -55941,7 +55941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.57,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -55965,7 +55965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.77,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -55989,7 +55989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.40,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -56013,7 +56013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.95,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Angel Cobo",
@@ -56037,7 +56037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 28.94,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -56061,7 +56061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.01,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -56085,7 +56085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.79,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -56109,7 +56109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.74,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Chimo Reig",
@@ -56133,7 +56133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.92,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Diego Cambra",
@@ -56157,7 +56157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.39,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Juli Cerda",
@@ -56181,7 +56181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.51,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -56205,7 +56205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.55,
 "oficial" : "Si",
-"partido_n�_" : 132,
+"partido_n_" : 132,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -56229,7 +56229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.80,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Ivan Llorens",
@@ -56253,7 +56253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/11/1998",
 "edad" : 24.25,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -56277,7 +56277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.05,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -56301,7 +56301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.89,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -56325,7 +56325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.76,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -56349,7 +56349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.81,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Alberto Botella",
@@ -56373,7 +56373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.58,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Juli Cerda",
@@ -56397,7 +56397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.53,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -56421,7 +56421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.97,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Casti Almendros",
@@ -56445,7 +56445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.13,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Angel Cobo",
@@ -56469,7 +56469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 28.96,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -56493,7 +56493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.02,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Diego Cambra",
@@ -56517,7 +56517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.41,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -56541,7 +56541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.59,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -56565,7 +56565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.56,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -56589,7 +56589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 34.98,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -56613,7 +56613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.42,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -56637,7 +56637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.01,
 "oficial" : "Si",
-"partido_n�_" : 133,
+"partido_n_" : 133,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -56661,7 +56661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.82,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -56685,7 +56685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.03,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Ivan Llorens",
@@ -56709,7 +56709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/11/1998",
 "edad" : 24.27,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -56733,7 +56733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.83,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Angel Cobo",
@@ -56757,7 +56757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 28.98,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -56781,7 +56781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.44,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Casti Almendros",
@@ -56805,7 +56805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.15,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -56829,7 +56829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.78,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Diego Cambra",
@@ -56853,7 +56853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.43,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -56877,7 +56877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.07,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Alberto Botella",
@@ -56901,7 +56901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.61,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -56925,7 +56925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.05,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Paco Saez",
@@ -56949,7 +56949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.15,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -56973,7 +56973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 35.00,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -56997,7 +56997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.59,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -57021,7 +57021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.03,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Juli Cerda",
@@ -57045,7 +57045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.55,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -57069,7 +57069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 22.99,
 "oficial" : "Si",
-"partido_n�_" : 134,
+"partido_n_" : 134,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -57093,7 +57093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.84,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -57117,7 +57117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.93,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Ivan Llorens",
@@ -57141,7 +57141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/11/1998",
 "edad" : 24.29,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -57165,7 +57165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.09,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -57189,7 +57189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.05,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -57213,7 +57213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.85,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Alberto Botella",
@@ -57237,7 +57237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.63,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -57261,7 +57261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.46,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Angel Cobo",
@@ -57285,7 +57285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.00,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Casti Almendros",
@@ -57309,7 +57309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.17,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -57333,7 +57333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.01,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -57357,7 +57357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.07,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Juli Cerda",
@@ -57381,7 +57381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.57,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -57405,7 +57405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.63,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Diego Cambra",
@@ -57429,7 +57429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.45,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -57453,7 +57453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.61,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -57477,7 +57477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 35.02,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Chimo Reig",
@@ -57501,7 +57501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 24.98,
 "oficial" : "Si",
-"partido_n�_" : 135,
+"partido_n_" : 135,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -57525,7 +57525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.86,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Chimo Reig",
@@ -57549,7 +57549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.00,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -57573,7 +57573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.95,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -57597,7 +57597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.11,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -57621,7 +57621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.82,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -57645,7 +57645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.87,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -57669,7 +57669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.62,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Alberto Botella",
@@ -57693,7 +57693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.64,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Angel Cobo",
@@ -57717,7 +57717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.02,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -57741,7 +57741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.48,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -57765,7 +57765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.03,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -57789,7 +57789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.08,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -57813,7 +57813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 35.04,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -57837,7 +57837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.65,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Juli Cerda",
@@ -57861,7 +57861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.59,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Diego Cambra",
@@ -57885,7 +57885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.47,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Ivan Llorens",
@@ -57909,7 +57909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/11/1998",
 "edad" : 24.31,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Paco Saez",
@@ -57933,7 +57933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.19,
 "oficial" : "Si",
-"partido_n�_" : 136,
+"partido_n_" : 136,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -57957,7 +57957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.90,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Chimo Reig",
@@ -57981,7 +57981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.03,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -58005,7 +58005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.86,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -58029,7 +58029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 32.99,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Ivan Llorens",
@@ -58053,7 +58053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/11/1998",
 "edad" : 24.35,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Diego Cambra",
@@ -58077,7 +58077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.51,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -58101,7 +58101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.66,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -58125,7 +58125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.91,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -58149,7 +58149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.07,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Juli Cerda",
@@ -58173,7 +58173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.63,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Angel Cobo",
@@ -58197,7 +58197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.05,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Angel Galan",
@@ -58221,7 +58221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 23.20,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -58245,7 +58245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.12,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -58269,7 +58269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.15,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -58293,7 +58293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.69,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -58317,7 +58317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.11,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -58341,7 +58341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.52,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Paco Saez",
@@ -58365,7 +58365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.23,
 "oficial" : "Si",
-"partido_n�_" : 137,
+"partido_n_" : 137,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -58389,7 +58389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.92,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Paco Saez",
@@ -58413,7 +58413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.25,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -58437,7 +58437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.01,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -58461,7 +58461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.17,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -58485,7 +58485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.88,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -58509,7 +58509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.93,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Alberto Botella",
@@ -58533,7 +58533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.70,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -58557,7 +58557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.68,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Angel Cobo",
@@ -58581,7 +58581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.07,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Casti Almendros",
@@ -58605,7 +58605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.25,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Juli Cerda",
@@ -58629,7 +58629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.65,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -58653,7 +58653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.14,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Ivan Llorens",
@@ -58677,7 +58677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/11/1998",
 "edad" : 24.37,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -58701,7 +58701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 35.09,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Diego Cambra",
@@ -58725,7 +58725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.53,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -58749,7 +58749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.90,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -58773,7 +58773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.09,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -58797,7 +58797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.54,
 "oficial" : "Si",
-"partido_n�_" : 138,
+"partido_n_" : 138,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -58821,7 +58821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.95,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Paco Saez",
@@ -58845,7 +58845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.28,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Ivan Llorens",
@@ -58869,7 +58869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/11/1998",
 "edad" : 24.40,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -58893,7 +58893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.05,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -58917,7 +58917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 23.72,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -58941,7 +58941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.96,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Angel Cobo",
@@ -58965,7 +58965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.11,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Casti Almendros",
@@ -58989,7 +58989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.28,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Juli Cerda",
@@ -59013,7 +59013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.68,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -59037,7 +59037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.91,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Alberto Botella",
@@ -59061,7 +59061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.74,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -59085,7 +59085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.18,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -59109,7 +59109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 35.13,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -59133,7 +59133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.57,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Diego Cambra",
@@ -59157,7 +59157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.56,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -59181,7 +59181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.94,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -59205,7 +59205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.20,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -59229,7 +59229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.12,
 "oficial" : "Si",
-"partido_n�_" : 139,
+"partido_n_" : 139,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -59253,7 +59253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.97,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Ivan Llorens",
@@ -59277,7 +59277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/11/1998",
 "edad" : 24.42,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -59301,7 +59301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 35.15,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Chimo Reig",
@@ -59325,7 +59325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.11,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Angel Cobo",
@@ -59349,7 +59349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.13,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -59373,7 +59373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.59,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -59397,7 +59397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.18,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -59421,7 +59421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.96,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -59445,7 +59445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.23,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Alberto Botella",
@@ -59469,7 +59469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.76,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -59493,7 +59493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.14,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -59517,7 +59517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.20,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Paco Saez",
@@ -59541,7 +59541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.30,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -59565,7 +59565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.76,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -59589,7 +59589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 22.98,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Juli Cerda",
@@ -59613,7 +59613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.70,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -59637,7 +59637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.93,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Diego Cambra",
@@ -59661,7 +59661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.58,
 "oficial" : "Si",
-"partido_n�_" : 140,
+"partido_n_" : 140,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -59685,7 +59685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.21,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Chimo Reig",
@@ -59709,7 +59709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.12,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -59733,7 +59733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.24,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -59757,7 +59757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.08,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -59781,7 +59781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.95,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -59805,7 +59805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 35.16,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Alberto Botella",
@@ -59829,7 +59829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.77,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -59853,7 +59853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.15,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -59877,7 +59877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 26.97,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Juli Cerda",
@@ -59901,7 +59901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.71,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Casti Almendros",
@@ -59925,7 +59925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.32,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "CristIan Martinez",
@@ -59949,7 +59949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 33.98,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -59973,7 +59973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.78,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Ivan Llorens",
@@ -59997,7 +59997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/11/1998",
 "edad" : 24.44,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -60021,7 +60021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.20,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Diego Cambra",
@@ -60045,7 +60045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.60,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -60069,7 +60069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.61,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Paco Saez",
@@ -60093,7 +60093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.31,
 "oficial" : "Si",
-"partido_n�_" : 141,
+"partido_n_" : 141,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -60117,7 +60117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.01,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Paco Saez",
@@ -60141,7 +60141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.34,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Ivan Llorens",
@@ -60165,7 +60165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/11/1998",
 "edad" : 24.46,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -60189,7 +60189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.10,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -60213,7 +60213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.02,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Angel Cobo",
@@ -60237,7 +60237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.17,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Casti Almendros",
@@ -60261,7 +60261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.34,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -60285,7 +60285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.22,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Juli Cerda",
@@ -60309,7 +60309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.74,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -60333,7 +60333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.00,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Alberto Botella",
@@ -60357,7 +60357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.80,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -60381,7 +60381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.24,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -60405,7 +60405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.80,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -60429,7 +60429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 35.19,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Chimo Reig",
@@ -60453,7 +60453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.15,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -60477,7 +60477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.97,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Diego Cambra",
@@ -60501,7 +60501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.62,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -60525,7 +60525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.18,
 "oficial" : "Si",
-"partido_n�_" : 142,
+"partido_n_" : 142,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -60549,7 +60549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.03,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Paco Saez",
@@ -60573,7 +60573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.36,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -60597,7 +60597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.13,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Chimo Reig",
@@ -60621,7 +60621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.17,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -60645,7 +60645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.04,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -60669,7 +60669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.65,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Casti Almendros",
@@ -60693,7 +60693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.36,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -60717,7 +60717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 30.99,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Diego Cambra",
@@ -60741,7 +60741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.64,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -60765,7 +60765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.28,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -60789,7 +60789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.20,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -60813,7 +60813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.26,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -60837,7 +60837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.82,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Ivan Llorens",
@@ -60861,7 +60861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/11/1998",
 "edad" : 24.48,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -60885,7 +60885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 35.21,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -60909,7 +60909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.24,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Juli Cerda",
@@ -60933,7 +60933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.76,
 "oficial" : "Si",
-"partido_n�_" : 143,
+"partido_n_" : 143,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -60957,7 +60957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.28,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -60981,7 +60981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 19.84,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Ivan Llorens",
@@ -61005,7 +61005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/11/1998",
 "edad" : 24.50,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -61029,7 +61029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.14,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -61053,7 +61053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 35.23,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Chimo Reig",
@@ -61077,7 +61077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.19,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Angel Cobo",
@@ -61101,7 +61101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.21,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -61125,7 +61125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.67,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Casti Almendros",
@@ -61149,7 +61149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.38,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -61173,7 +61173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.26,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Diego Cambra",
@@ -61197,7 +61197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.66,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Javier Castillo",
@@ -61221,7 +61221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "7/4/2004",
 "edad" : 19.12,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -61245,7 +61245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.06,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Angel Galan",
@@ -61269,7 +61269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/1/2000",
 "edad" : 23.35,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -61293,7 +61293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.01,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -61317,7 +61317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.04,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Edwin Sanjuan",
@@ -61341,7 +61341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/1/2003",
 "edad" : 20.31,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -61365,7 +61365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.22,
 "oficial" : "Si",
-"partido_n�_" : 144,
+"partido_n_" : 144,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -61389,7 +61389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.09,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Paco Saez",
@@ -61413,7 +61413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.42,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -61437,7 +61437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.18,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -61461,7 +61461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.10,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Angel Cobo",
@@ -61485,7 +61485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.24,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Casti Almendros",
@@ -61509,7 +61509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.42,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Juli Cerda",
@@ -61533,7 +61533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.82,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -61557,7 +61557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.05,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -61581,7 +61581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.07,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -61605,7 +61605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.34,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Alberto Botella",
@@ -61629,7 +61629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.87,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -61653,7 +61653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.31,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -61677,7 +61677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 35.26,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Chimo Reig",
@@ -61701,7 +61701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.22,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -61725,7 +61725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.71,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -61749,7 +61749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.30,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Diego Cambra",
@@ -61773,7 +61773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.70,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -61797,7 +61797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.26,
 "oficial" : "Si",
-"partido_n�_" : 145,
+"partido_n_" : 145,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -61821,7 +61821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.11,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Ivan Llorens",
@@ -61845,7 +61845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/11/1998",
 "edad" : 24.56,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -61869,7 +61869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.20,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Jesus Garcia",
@@ -61893,7 +61893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/2/1988",
 "edad" : 35.29,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Chimo Reig",
@@ -61917,7 +61917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.25,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -61941,7 +61941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.12,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Angel Cobo",
@@ -61965,7 +61965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.26,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Casti Almendros",
@@ -61989,7 +61989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/1/1993",
 "edad" : 30.44,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Juli Cerda",
@@ -62013,7 +62013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 41.84,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -62037,7 +62037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.07,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -62061,7 +62061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.28,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -62085,7 +62085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 24.33,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Paco Saez",
@@ -62109,7 +62109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/1/1990",
 "edad" : 33.44,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -62133,7 +62133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.73,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -62157,7 +62157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.32,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Diego Cambra",
@@ -62181,7 +62181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.72,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -62205,7 +62205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.10,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Alberto Botella",
@@ -62229,7 +62229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "19/7/1988",
 "edad" : 34.89,
 "oficial" : "Si",
-"partido_n�_" : 146,
+"partido_n_" : 146,
 },
 {
 "jugador" : "Dani Cerda",
@@ -62253,7 +62253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 22.90,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Chimo Reig",
@@ -62277,7 +62277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.37,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -62301,7 +62301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.33,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -62325,7 +62325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.41,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -62349,7 +62349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.25,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -62373,7 +62373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.71,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -62397,7 +62397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.00,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -62421,7 +62421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.45,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "David Mico",
@@ -62445,7 +62445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.56,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Victor Revert",
@@ -62469,7 +62469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.16,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "David Torres",
@@ -62493,7 +62493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.11,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Pau Soriano",
@@ -62517,7 +62517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/1/2006",
 "edad" : 17.54,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -62541,7 +62541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 20.03,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Miguel Richart",
@@ -62565,7 +62565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.46,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -62589,7 +62589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.86,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Pablo Frances",
@@ -62613,7 +62613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.48,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Angel Cobo",
@@ -62637,7 +62637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.39,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -62661,7 +62661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.20,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Diego Cambra",
@@ -62685,7 +62685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.85,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -62709,7 +62709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.23,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -62733,7 +62733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.49,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Mel Llin",
@@ -62757,7 +62757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/6/2006",
 "edad" : 17.11,
 "oficial" : "No",
-"partido_n�_" : 147,
+"partido_n_" : 147,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -62781,7 +62781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.26,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Chimo Reig",
@@ -62805,7 +62805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.40,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -62829,7 +62829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.47,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -62853,7 +62853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.35,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -62877,7 +62877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.51,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Pablo Frances",
@@ -62901,7 +62901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.50,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Diego Cambra",
@@ -62925,7 +62925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.87,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -62949,7 +62949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.27,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -62973,7 +62973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.25,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Angel Cobo",
@@ -62997,7 +62997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.42,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -63021,7 +63021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.73,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Dani Cerda",
@@ -63045,7 +63045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 22.92,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -63069,7 +63069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.43,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -63093,7 +63093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.02,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "David Mico",
@@ -63117,7 +63117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.58,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Victor Revert",
@@ -63141,7 +63141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.18,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "David Torres",
@@ -63165,7 +63165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.14,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -63189,7 +63189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 20.05,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -63213,7 +63213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.88,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -63237,7 +63237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.22,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Miguel Richart",
@@ -63261,7 +63261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.48,
 "oficial" : "No",
-"partido_n�_" : 148,
+"partido_n_" : 148,
 },
 {
 "jugador" : "Dani Cerda",
@@ -63285,7 +63285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 22.92,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -63309,7 +63309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.43,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -63333,7 +63333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.02,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "David Mico",
@@ -63357,7 +63357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.58,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Victor Revert",
@@ -63381,7 +63381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.18,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "David Torres",
@@ -63405,7 +63405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.14,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -63429,7 +63429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 20.05,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -63453,7 +63453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.88,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -63477,7 +63477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.22,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Miguel Richart",
@@ -63501,7 +63501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.48,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Angel Cobo",
@@ -63525,7 +63525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.42,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -63549,7 +63549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.26,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Chimo Reig",
@@ -63573,7 +63573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.40,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -63597,7 +63597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.47,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -63621,7 +63621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.35,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -63645,7 +63645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.51,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Pablo Frances",
@@ -63669,7 +63669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.50,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Diego Cambra",
@@ -63693,7 +63693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.87,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -63717,7 +63717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.27,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -63741,7 +63741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.25,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Angel Cobo",
@@ -63765,7 +63765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.42,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -63789,7 +63789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.73,
 "oficial" : "No",
-"partido_n�_" : 149,
+"partido_n_" : 149,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -63813,7 +63813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.27,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Chimo Reig",
@@ -63837,7 +63837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.40,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -63861,7 +63861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.36,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -63885,7 +63885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.48,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -63909,7 +63909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.52,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "David Mico",
@@ -63933,7 +63933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.59,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -63957,7 +63957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.03,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -63981,7 +63981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.28,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Angel Cobo",
@@ -64005,7 +64005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.42,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -64029,7 +64029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.74,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "David Torres",
@@ -64053,7 +64053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.14,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Dani Cerda",
@@ -64077,7 +64077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 22.93,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Pablo Frances",
@@ -64101,7 +64101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.51,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Diego Cambra",
@@ -64125,7 +64125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.88,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -64149,7 +64149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.26,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -64173,7 +64173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.44,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Victor Revert",
@@ -64197,7 +64197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.19,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -64221,7 +64221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 20.06,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -64245,7 +64245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.89,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -64269,7 +64269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.23,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Miguel Richart",
@@ -64293,7 +64293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.49,
 "oficial" : "No",
-"partido_n�_" : 150,
+"partido_n_" : 150,
 },
 {
 "jugador" : "Dani Cerda",
@@ -64317,7 +64317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 22.94,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -64341,7 +64341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.24,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -64365,7 +64365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.53,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -64389,7 +64389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.37,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Chimo Reig",
@@ -64413,7 +64413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.42,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -64437,7 +64437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.29,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Diego Cambra",
@@ -64461,7 +64461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.89,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Pablo Frances",
@@ -64485,7 +64485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.52,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -64509,7 +64509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.90,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "David Torres",
@@ -64533,7 +64533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.16,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Angel Cobo",
@@ -64557,7 +64557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.43,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -64581,7 +64581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.28,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -64605,7 +64605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.49,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -64629,7 +64629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.27,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -64653,7 +64653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.75,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -64677,7 +64677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.45,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -64701,7 +64701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.04,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "David Mico",
@@ -64725,7 +64725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.60,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Victor Revert",
@@ -64749,7 +64749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.20,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -64773,7 +64773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 20.07,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Miguel Richart",
@@ -64797,7 +64797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.50,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -64821,7 +64821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.07,
 "oficial" : "No",
-"partido_n�_" : 151,
+"partido_n_" : 151,
 },
 {
 "jugador" : "Dani Cerda",
@@ -64845,7 +64845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 22.95,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -64869,7 +64869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.30,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -64893,7 +64893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.06,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -64917,7 +64917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.39,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "David Torres",
@@ -64941,7 +64941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.17,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "David Mico",
@@ -64965,7 +64965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.62,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -64989,7 +64989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.50,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Victor Revert",
@@ -65013,7 +65013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.22,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Chimo Reig",
@@ -65037,7 +65037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.43,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -65061,7 +65061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.28,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -65085,7 +65085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.46,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -65109,7 +65109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.26,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -65133,7 +65133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.55,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Diego Cambra",
@@ -65157,7 +65157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.90,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Pablo Frances",
@@ -65181,7 +65181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.53,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -65205,7 +65205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.91,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Angel Cobo",
@@ -65229,7 +65229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.45,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -65253,7 +65253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.29,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -65277,7 +65277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.77,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -65301,7 +65301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 20.08,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Miguel Richart",
@@ -65325,7 +65325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.52,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -65349,7 +65349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.09,
 "oficial" : "No",
-"partido_n�_" : 152,
+"partido_n_" : 152,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -65373,7 +65373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.31,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Chimo Reig",
@@ -65397,7 +65397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.45,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -65421,7 +65421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.93,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -65445,7 +65445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.56,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -65469,7 +65469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.48,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -65493,7 +65493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.32,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Diego Cambra",
@@ -65517,7 +65517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.92,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -65541,7 +65541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.07,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "David Mico",
@@ -65565,7 +65565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.63,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -65589,7 +65589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.27,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "David Torres",
@@ -65613,7 +65613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.19,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Dani Cerda",
@@ -65637,7 +65637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 22.97,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -65661,7 +65661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.10,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Victor Revert",
@@ -65685,7 +65685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.23,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -65709,7 +65709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 20.10,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -65733,7 +65733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.40,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Pablo Frances",
@@ -65757,7 +65757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.55,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -65781,7 +65781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.78,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -65805,7 +65805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.30,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Angel Cobo",
@@ -65829,7 +65829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.46,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Miguel Richart",
@@ -65853,7 +65853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.53,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -65877,7 +65877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.52,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Juli Cerda",
@@ -65901,7 +65901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 42.04,
 "oficial" : "No",
-"partido_n�_" : 153,
+"partido_n_" : 153,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -65925,7 +65925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.33,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -65949,7 +65949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.54,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -65973,7 +65973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.58,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "David Mico",
@@ -65997,7 +65997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.65,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -66021,7 +66021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.34,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Juli Cerda",
@@ -66045,7 +66045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 42.06,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Angel Cobo",
@@ -66069,7 +66069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.49,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -66093,7 +66093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.80,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Pablo Frances",
@@ -66117,7 +66117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.57,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -66141,7 +66141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.32,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "David Torres",
@@ -66165,7 +66165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.21,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Dani Cerda",
@@ -66189,7 +66189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 22.99,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -66213,7 +66213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.12,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Chimo Reig",
@@ -66237,7 +66237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.47,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -66261,7 +66261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.95,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -66285,7 +66285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.50,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Diego Cambra",
@@ -66309,7 +66309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.94,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -66333,7 +66333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.10,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -66357,7 +66357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.29,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Victor Revert",
@@ -66381,7 +66381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.25,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -66405,7 +66405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 20.12,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -66429,7 +66429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.42,
 "oficial" : "No",
-"partido_n�_" : 154,
+"partido_n_" : 154,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -66453,7 +66453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.35,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Chimo Reig",
@@ -66477,7 +66477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.49,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -66501,7 +66501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.45,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -66525,7 +66525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.34,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -66549,7 +66549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.36,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -66573,7 +66573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 20.97,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Pablo Frances",
@@ -66597,7 +66597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.59,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -66621,7 +66621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.32,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Diego Cambra",
@@ -66645,7 +66645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.97,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -66669,7 +66669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.61,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "David Torres",
@@ -66693,7 +66693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.23,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Dani Cerda",
@@ -66717,7 +66717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.01,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -66741,7 +66741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.15,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -66765,7 +66765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.83,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -66789,7 +66789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.56,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Juli Cerda",
@@ -66813,7 +66813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 42.08,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -66837,7 +66837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.12,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -66861,7 +66861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.52,
 "oficial" : "Si",
-"partido_n�_" : 155,
+"partido_n_" : 155,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -66885,7 +66885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.38,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Chimo Reig",
@@ -66909,7 +66909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.51,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -66933,7 +66933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.47,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -66957,7 +66957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.59,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "David Mico",
@@ -66981,7 +66981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.70,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -67005,7 +67005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.39,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -67029,7 +67029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.00,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Diego Cambra",
@@ -67053,7 +67053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 22.99,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Angel Cobo",
@@ -67077,7 +67077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.53,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Pablo Frances",
@@ -67101,7 +67101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.61,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "David Torres",
@@ -67125,7 +67125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.25,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Dani Cerda",
@@ -67149,7 +67149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.04,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -67173,7 +67173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.17,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -67197,7 +67197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.85,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Juli Cerda",
@@ -67221,7 +67221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/8/1981",
 "edad" : 42.11,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -67245,7 +67245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.34,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -67269,7 +67269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.14,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -67293,7 +67293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.55,
 "oficial" : "Si",
-"partido_n�_" : 156,
+"partido_n_" : 156,
 },
 {
 "jugador" : "Dani Cerda",
@@ -67317,7 +67317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.05,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Chimo Reig",
@@ -67341,7 +67341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.53,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -67365,7 +67365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.18,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -67389,7 +67389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.35,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "David Mico",
@@ -67413,7 +67413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.72,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -67437,7 +67437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.40,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -67461,7 +67461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.16,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -67485,7 +67485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.38,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Angel Cobo",
@@ -67509,7 +67509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.55,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Pablo Frances",
@@ -67533,7 +67533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.63,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -67557,7 +67557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.87,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -67581,7 +67581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.39,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Victor Revert",
@@ -67605,7 +67605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.31,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -67629,7 +67629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.01,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -67653,7 +67653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.60,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Diego Cambra",
@@ -67677,7 +67677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.00,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "David Torres",
@@ -67701,7 +67701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.27,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -67725,7 +67725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.56,
 "oficial" : "Si",
-"partido_n�_" : 157,
+"partido_n_" : 157,
 },
 {
 "jugador" : "Dani Cerda",
@@ -67749,7 +67749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.07,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Chimo Reig",
@@ -67773,7 +67773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.55,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -67797,7 +67797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.51,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -67821,7 +67821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.38,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "David Mico",
@@ -67845,7 +67845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.74,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -67869,7 +67869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.43,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Pablo Frances",
@@ -67893,7 +67893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.65,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Diego Cambra",
@@ -67917,7 +67917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.03,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -67941,7 +67941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.18,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Angel Cobo",
@@ -67965,7 +67965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.57,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -67989,7 +67989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.89,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -68013,7 +68013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.41,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -68037,7 +68037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.21,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Victor Revert",
@@ -68061,7 +68061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.34,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -68085,7 +68085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.03,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -68109,7 +68109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.62,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "David Torres",
@@ -68133,7 +68133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.29,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -68157,7 +68157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.58,
 "oficial" : "Si",
-"partido_n�_" : 158,
+"partido_n_" : 158,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -68181,7 +68181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.43,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -68205,7 +68205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.53,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -68229,7 +68229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.64,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -68253,7 +68253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.39,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "David Mico",
@@ -68277,7 +68277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.76,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -68301,7 +68301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.44,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -68325,7 +68325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.05,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -68349,7 +68349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.20,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Angel Cobo",
@@ -68373,7 +68373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.59,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -68397,7 +68397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.91,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "David Torres",
@@ -68421,7 +68421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.31,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Dani Cerda",
@@ -68445,7 +68445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.09,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Victor Revert",
@@ -68469,7 +68469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.36,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Pablo Frances",
@@ -68493,7 +68493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.67,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Diego Cambra",
@@ -68517,7 +68517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.04,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -68541,7 +68541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.69,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -68565,7 +68565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.60,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Miguel Richart",
@@ -68589,7 +68589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.66,
 "oficial" : "Si",
-"partido_n�_" : 159,
+"partido_n_" : 159,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -68613,7 +68613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.45,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Chimo Reig",
@@ -68637,7 +68637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.59,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -68661,7 +68661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.55,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -68685,7 +68685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.66,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "David Mico",
@@ -68709,7 +68709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.78,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -68733,7 +68733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.46,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -68757,7 +68757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.22,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Victor Revert",
@@ -68781,7 +68781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.37,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -68805,7 +68805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.07,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Pablo Frances",
@@ -68829,7 +68829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.69,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -68853,7 +68853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.93,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Dani Cerda",
@@ -68877,7 +68877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.11,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Angel Cobo",
@@ -68901,7 +68901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.61,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -68925,7 +68925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.41,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Diego Cambra",
@@ -68949,7 +68949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.06,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "David Torres",
@@ -68973,7 +68973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.33,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -68997,7 +68997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.62,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Miguel Richart",
@@ -69021,7 +69021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.68,
 "oficial" : "Si",
-"partido_n�_" : 160,
+"partido_n_" : 160,
 },
 {
 "jugador" : "Dani Cerda",
@@ -69045,7 +69045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.13,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Chimo Reig",
@@ -69069,7 +69069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.61,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -69093,7 +69093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.56,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -69117,7 +69117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.43,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "David Mico",
@@ -69141,7 +69141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.79,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -69165,7 +69165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.48,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -69189,7 +69189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.24,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Victor Revert",
@@ -69213,7 +69213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.39,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Angel Cobo",
@@ -69237,7 +69237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.63,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Pablo Frances",
@@ -69261,7 +69261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.71,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "David Torres",
@@ -69285,7 +69285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.35,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -69309,7 +69309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.47,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -69333,7 +69333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.26,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -69357,7 +69357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.09,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -69381,7 +69381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.94,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -69405,7 +69405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.68,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Diego Cambra",
@@ -69429,7 +69429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.08,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -69453,7 +69453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.64,
 "oficial" : "Si",
-"partido_n�_" : 161,
+"partido_n_" : 161,
 },
 {
 "jugador" : "Dani Cerda",
@@ -69477,7 +69477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.15,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Chimo Reig",
@@ -69501,7 +69501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.63,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -69525,7 +69525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.28,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -69549,7 +69549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.70,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "David Mico",
@@ -69573,7 +69573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.81,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -69597,7 +69597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.50,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -69621,7 +69621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.11,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Pablo Frances",
@@ -69645,7 +69645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.73,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -69669,7 +69669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.26,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Victor Revert",
@@ -69693,7 +69693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.41,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Angel Cobo",
@@ -69717,7 +69717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.65,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -69741,7 +69741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.49,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -69765,7 +69765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.97,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -69789,7 +69789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.45,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Diego Cambra",
@@ -69813,7 +69813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.10,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -69837,7 +69837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.74,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "David Torres",
@@ -69861,7 +69861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.37,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -69885,7 +69885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.66,
 "oficial" : "Si",
-"partido_n�_" : 162,
+"partido_n_" : 162,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -69909,7 +69909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.51,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -69933,7 +69933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.30,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -69957,7 +69957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.60,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -69981,7 +69981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.72,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "David Mico",
@@ -70005,7 +70005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.83,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -70029,7 +70029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.52,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -70053,7 +70053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.13,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -70077,7 +70077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.28,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Victor Revert",
@@ -70101,7 +70101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.43,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Angel Cobo",
@@ -70125,7 +70125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.67,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Pablo Frances",
@@ -70149,7 +70149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.75,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Dani Cerda",
@@ -70173,7 +70173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.17,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -70197,7 +70197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 25.98,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -70221,7 +70221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.47,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Diego Cambra",
@@ -70245,7 +70245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.12,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -70269,7 +70269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.76,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "David Torres",
@@ -70293,7 +70293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.39,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -70317,7 +70317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.68,
 "oficial" : "Si",
-"partido_n�_" : 163,
+"partido_n_" : 163,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -70341,7 +70341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.53,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -70365,7 +70365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.32,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -70389,7 +70389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.62,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -70413,7 +70413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.49,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "David Mico",
@@ -70437,7 +70437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.85,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -70461,7 +70461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.54,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -70485,7 +70485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.30,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Victor Revert",
@@ -70509,7 +70509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.45,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Angel Cobo",
@@ -70533,7 +70533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.69,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -70557,7 +70557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.15,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Pablo Frances",
@@ -70581,7 +70581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.77,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Dani Cerda",
@@ -70605,7 +70605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.19,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -70629,7 +70629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.00,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -70653,7 +70653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.74,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -70677,7 +70677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.78,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "David Torres",
@@ -70701,7 +70701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.41,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -70725,7 +70725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.70,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Miguel Richart",
@@ -70749,7 +70749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.75,
 "oficial" : "Si",
-"partido_n�_" : 164,
+"partido_n_" : 164,
 },
 {
 "jugador" : "Dani Cerda",
@@ -70773,7 +70773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.21,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -70797,7 +70797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.64,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -70821,7 +70821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.76,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -70845,7 +70845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.51,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -70869,7 +70869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.80,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -70893,7 +70893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.56,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Victor Revert",
@@ -70917,7 +70917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.47,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -70941,7 +70941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.31,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Angel Cobo",
@@ -70965,7 +70965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.71,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -70989,7 +70989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.02,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "David Torres",
@@ -71013,7 +71013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.43,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -71037,7 +71037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.55,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Chimo Reig",
@@ -71061,7 +71061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.69,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -71085,7 +71085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.17,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Miguel Richart",
@@ -71109,7 +71109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.77,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "David Mico",
@@ -71133,7 +71133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.87,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -71157,7 +71157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.72,
 "oficial" : "Si",
-"partido_n�_" : 165,
+"partido_n_" : 165,
 },
 {
 "jugador" : "Dani Cerda",
@@ -71181,7 +71181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.23,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Chimo Reig",
@@ -71205,7 +71205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.71,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -71229,7 +71229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.36,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -71253,7 +71253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.53,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "David Mico",
@@ -71277,7 +71277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.89,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Victor Revert",
@@ -71301,7 +71301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.49,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -71325,7 +71325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.58,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -71349,7 +71349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.19,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -71373,7 +71373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.33,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Angel Cobo",
@@ -71397,7 +71397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.72,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Pablo Frances",
@@ -71421,7 +71421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.81,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -71445,7 +71445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.57,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -71469,7 +71469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.66,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -71493,7 +71493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.04,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -71517,7 +71517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 23.78,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -71541,7 +71541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.82,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "David Torres",
@@ -71565,7 +71565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.45,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -71589,7 +71589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.74,
 "oficial" : "Si",
-"partido_n�_" : 166,
+"partido_n_" : 166,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -71613,7 +71613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.60,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Chimo Reig",
@@ -71637,7 +71637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.73,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -71661,7 +71661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.39,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -71685,7 +71685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.69,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Victor Revert",
@@ -71709,7 +71709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.52,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -71733,7 +71733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.61,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Angel Cobo",
@@ -71757,7 +71757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.75,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Pablo Frances",
@@ -71781,7 +71781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.83,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -71805,7 +71805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.56,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -71829,7 +71829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.85,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "David Torres",
@@ -71853,7 +71853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.47,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Dani Cerda",
@@ -71877,7 +71877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.26,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -71901,7 +71901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.58,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -71925,7 +71925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.22,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -71949,7 +71949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.07,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "David Mico",
@@ -71973,7 +71973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.92,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -71997,7 +71997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.76,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Miguel Richart",
@@ -72021,7 +72021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.82,
 "oficial" : "Si",
-"partido_n�_" : 167,
+"partido_n_" : 167,
 },
 {
 "jugador" : "Dani Cerda",
@@ -72045,7 +72045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.29,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Chimo Reig",
@@ -72069,7 +72069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.76,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -72093,7 +72093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.42,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -72117,7 +72117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.59,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "David Mico",
@@ -72141,7 +72141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 22.95,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -72165,7 +72165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.64,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -72189,7 +72189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.25,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -72213,7 +72213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.39,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Victor Revert",
@@ -72237,7 +72237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.55,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Pablo Frances",
@@ -72261,7 +72261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.86,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -72285,7 +72285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.10,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -72309,7 +72309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.63,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -72333,7 +72333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.61,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Angel Cobo",
@@ -72357,7 +72357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.78,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Diego Cambra",
@@ -72381,7 +72381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.24,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -72405,7 +72405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.88,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -72429,7 +72429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.79,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Miguel Richart",
@@ -72453,7 +72453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.85,
 "oficial" : "Si",
-"partido_n�_" : 168,
+"partido_n_" : 168,
 },
 {
 "jugador" : "Dani Cerda",
@@ -72477,7 +72477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.34,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Chimo Reig",
@@ -72501,7 +72501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.82,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -72525,7 +72525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.64,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "David Mico",
@@ -72549,7 +72549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.01,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -72573,7 +72573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.93,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Victor Revert",
@@ -72597,7 +72597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.60,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -72621,7 +72621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.69,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -72645,7 +72645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.45,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Angel Cobo",
@@ -72669,7 +72669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.84,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Pablo Frances",
@@ -72693,7 +72693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.92,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -72717,7 +72717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.16,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -72741,7 +72741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.68,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -72765,7 +72765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.47,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -72789,7 +72789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.67,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Diego Cambra",
@@ -72813,7 +72813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.29,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "David Torres",
@@ -72837,7 +72837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.56,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -72861,7 +72861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.85,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Miguel Richart",
@@ -72885,7 +72885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.91,
 "oficial" : "Si",
-"partido_n�_" : 169,
+"partido_n_" : 169,
 },
 {
 "jugador" : "Dani Cerda",
@@ -72909,7 +72909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.36,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Chimo Reig",
@@ -72933,7 +72933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.84,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -72957,7 +72957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.66,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "David Mico",
@@ -72981,7 +72981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.03,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -73005,7 +73005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.95,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Victor Revert",
@@ -73029,7 +73029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.62,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -73053,7 +73053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.71,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -73077,7 +73077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.47,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Angel Cobo",
@@ -73101,7 +73101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.86,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Pablo Frances",
@@ -73125,7 +73125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.94,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -73149,7 +73149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.18,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -73173,7 +73173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.70,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -73197,7 +73197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.49,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -73221,7 +73221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.69,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -73245,7 +73245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.32,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Diego Cambra",
@@ -73269,7 +73269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.31,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "David Torres",
@@ -73293,7 +73293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.58,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Miguel Richart",
@@ -73317,7 +73317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.93,
 "oficial" : "Si",
-"partido_n�_" : 170,
+"partido_n_" : 170,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -73341,7 +73341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.72,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Chimo Reig",
@@ -73365,7 +73365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.86,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -73389,7 +73389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.68,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "David Mico",
@@ -73413,7 +73413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.04,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -73437,7 +73437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.97,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Victor Revert",
@@ -73461,7 +73461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.64,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -73485,7 +73485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.73,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Diego Cambra",
@@ -73509,7 +73509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.33,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Angel Cobo",
@@ -73533,7 +73533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.88,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Pablo Frances",
@@ -73557,7 +73557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.96,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -73581,7 +73581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.20,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Dani Cerda",
@@ -73605,7 +73605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.38,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -73629,7 +73629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.51,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -73653,7 +73653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.71,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -73677,7 +73677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.34,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Adrian Sanz",
@@ -73701,7 +73701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "11/6/2002",
 "edad" : 21.61,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -73725,7 +73725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.89,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Miguel Richart",
@@ -73749,7 +73749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.95,
 "oficial" : "Si",
-"partido_n�_" : 171,
+"partido_n_" : 171,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -73773,7 +73773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.74,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Chimo Reig",
@@ -73797,7 +73797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.88,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -73821,7 +73821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.83,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -73845,7 +73845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.70,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -73869,7 +73869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 23.99,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Victor Revert",
@@ -73893,7 +73893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.66,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -73917,7 +73917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.75,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -73941,7 +73941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.36,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Diego Cambra",
@@ -73965,7 +73965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.35,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Angel Cobo",
@@ -73989,7 +73989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.90,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Pablo Frances",
@@ -74013,7 +74013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 22.98,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Dani Cerda",
@@ -74037,7 +74037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.40,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -74061,7 +74061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.53,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -74085,7 +74085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.73,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -74109,7 +74109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.21,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "David Torres",
@@ -74133,7 +74133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.62,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -74157,7 +74157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.91,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Miguel Richart",
@@ -74181,7 +74181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.96,
 "oficial" : "Si",
-"partido_n�_" : 172,
+"partido_n_" : 172,
 },
 {
 "jugador" : "Dani Cerda",
@@ -74205,7 +74205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.42,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Chimo Reig",
@@ -74229,7 +74229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.90,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -74253,7 +74253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.85,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -74277,7 +74277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.72,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -74301,7 +74301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.01,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -74325,7 +74325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.77,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Victor Revert",
@@ -74349,7 +74349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.68,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Diego Cambra",
@@ -74373,7 +74373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.37,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -74397,7 +74397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.38,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Pablo Frances",
@@ -74421,7 +74421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.00,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -74445,7 +74445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.23,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -74469,7 +74469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.76,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -74493,7 +74493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.55,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -74517,7 +74517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.75,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "David Mico",
@@ -74541,7 +74541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.08,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -74565,7 +74565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.53,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -74589,7 +74589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.93,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Miguel Richart",
@@ -74613,7 +74613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 19.98,
 "oficial" : "Si",
-"partido_n�_" : 173,
+"partido_n_" : 173,
 },
 {
 "jugador" : "Dani Cerda",
@@ -74637,7 +74637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.44,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -74661,7 +74661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.57,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -74685,7 +74685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.77,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -74709,7 +74709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.74,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -74733,7 +74733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.03,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -74757,7 +74757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.79,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Diego Cambra",
@@ -74781,7 +74781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.39,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Victor Revert",
@@ -74805,7 +74805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.70,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Angel Cobo",
@@ -74829,7 +74829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.94,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -74853,7 +74853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.40,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Pablo Frances",
@@ -74877,7 +74877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.02,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -74901,7 +74901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.78,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -74925,7 +74925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.25,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "David Mico",
@@ -74949,7 +74949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.10,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -74973,7 +74973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.54,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "David Torres",
@@ -74997,7 +74997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.66,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -75021,7 +75021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.95,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Miguel Richart",
@@ -75045,7 +75045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 20.00,
 "oficial" : "Si",
-"partido_n�_" : 174,
+"partido_n_" : 174,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -75069,7 +75069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.80,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -75093,7 +75093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.89,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -75117,7 +75117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.78,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -75141,7 +75141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.76,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -75165,7 +75165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.05,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -75189,7 +75189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.81,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -75213,7 +75213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.56,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Victor Revert",
@@ -75237,7 +75237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.72,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Angel Cobo",
@@ -75261,7 +75261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.95,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -75285,7 +75285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.42,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Pablo Frances",
@@ -75309,7 +75309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.03,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Dani Cerda",
@@ -75333,7 +75333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.46,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -75357,7 +75357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.59,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -75381,7 +75381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.27,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Diego Cambra",
@@ -75405,7 +75405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.41,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "David Mico",
@@ -75429,7 +75429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.12,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "David Torres",
@@ -75453,7 +75453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.67,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -75477,7 +75477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 23.96,
 "oficial" : "Si",
-"partido_n�_" : 175,
+"partido_n_" : 175,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -75501,7 +75501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.83,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Chimo Reig",
@@ -75525,7 +75525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.97,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -75549,7 +75549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.93,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -75573,7 +75573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.79,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -75597,7 +75597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.08,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -75621,7 +75621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.84,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -75645,7 +75645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.60,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Victor Revert",
@@ -75669,7 +75669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.75,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Angel Cobo",
@@ -75693,7 +75693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 29.99,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -75717,7 +75717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.45,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Pablo Frances",
@@ -75741,7 +75741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.07,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Dani Cerda",
@@ -75765,7 +75765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.49,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -75789,7 +75789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.62,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -75813,7 +75813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.82,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Diego Cambra",
@@ -75837,7 +75837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.44,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "David Mico",
@@ -75861,7 +75861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.16,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "David Torres",
@@ -75885,7 +75885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.71,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -75909,7 +75909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 24.00,
 "oficial" : "Si",
-"partido_n�_" : 176,
+"partido_n_" : 176,
 },
 {
 "jugador" : "Dani Cerda",
@@ -75933,7 +75933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.52,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Chimo Reig",
@@ -75957,7 +75957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 25.99,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -75981,7 +75981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.95,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -76005,7 +76005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.82,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -76029,7 +76029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.11,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -76053,7 +76053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.87,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -76077,7 +76077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.62,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Victor Revert",
@@ -76101,7 +76101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.78,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Angel Cobo",
@@ -76125,7 +76125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 30.01,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -76149,7 +76149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.48,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Pablo Frances",
@@ -76173,7 +76173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.09,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -76197,7 +76197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 25.08,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -76221,7 +76221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.65,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -76245,7 +76245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.84,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -76269,7 +76269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.33,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Diego Cambra",
@@ -76293,7 +76293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.47,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "David Torres",
@@ -76317,7 +76317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.73,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -76341,7 +76341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 24.02,
 "oficial" : "Si",
-"partido_n�_" : 177,
+"partido_n_" : 177,
 },
 {
 "jugador" : "Dani Cerda",
@@ -76365,7 +76365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.53,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Chimo Reig",
@@ -76389,7 +76389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 26.01,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -76413,7 +76413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.97,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -76437,7 +76437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.83,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -76461,7 +76461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.12,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Diego Cambra",
@@ -76485,7 +76485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.48,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -76509,7 +76509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.64,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Victor Revert",
@@ -76533,7 +76533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.79,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -76557,7 +76557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.49,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -76581,7 +76581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.35,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -76605,7 +76605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 24.04,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -76629,7 +76629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.87,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -76653,7 +76653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.66,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -76677,7 +76677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.86,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Angel Cobo",
@@ -76701,7 +76701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 30.03,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "David Mico",
@@ -76725,7 +76725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.20,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "David Torres",
@@ -76749,7 +76749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.75,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Miguel Richart",
@@ -76773,7 +76773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 20.10,
 "oficial" : "Si",
-"partido_n�_" : 178,
+"partido_n_" : 178,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -76797,7 +76797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.88,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Chimo Reig",
@@ -76821,7 +76821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 26.02,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Pablo Bonet",
@@ -76845,7 +76845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "29/3/1990",
 "edad" : 33.98,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -76869,7 +76869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.84,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -76893,7 +76893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.13,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -76917,7 +76917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.89,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -76941,7 +76941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.65,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Victor Revert",
@@ -76965,7 +76965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.80,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Angel Cobo",
@@ -76989,7 +76989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 30.04,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -77013,7 +77013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.50,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -77037,7 +77037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 24.05,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Dani Cerda",
@@ -77061,7 +77061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.54,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -77085,7 +77085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.67,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -77109,7 +77109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.87,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -77133,7 +77133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.36,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Diego Cambra",
@@ -77157,7 +77157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.49,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "David Mico",
@@ -77181,7 +77181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.21,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "David Torres",
@@ -77205,7 +77205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.76,
 "oficial" : "Si",
-"partido_n�_" : 179,
+"partido_n_" : 179,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -77229,7 +77229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.89,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Chimo Reig",
@@ -77253,7 +77253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 26.03,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -77277,7 +77277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.69,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -77301,7 +77301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.85,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -77325,7 +77325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.15,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -77349,7 +77349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.90,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Diego Cambra",
@@ -77373,7 +77373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.50,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Victor Revert",
@@ -77397,7 +77397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.82,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -77421,7 +77421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.51,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Pablo Frances",
@@ -77445,7 +77445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.13,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -77469,7 +77469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.37,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Dani Cerda",
@@ -77493,7 +77493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.55,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -77517,7 +77517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.88,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Angel Cobo",
@@ -77541,7 +77541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 30.05,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "David Mico",
@@ -77565,7 +77565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.22,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -77589,7 +77589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.66,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "David Torres",
@@ -77613,7 +77613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.77,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -77637,7 +77637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 24.06,
 "oficial" : "Si",
-"partido_n�_" : 180,
+"partido_n_" : 180,
 },
 {
 "jugador" : "Dani Cerda",
@@ -77661,7 +77661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.57,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Chimo Reig",
@@ -77685,7 +77685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 26.05,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -77709,7 +77709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.87,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "David Mico",
@@ -77733,7 +77733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.23,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -77757,7 +77757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.16,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -77781,7 +77781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.92,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Diego Cambra",
@@ -77805,7 +77805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.52,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -77829,7 +77829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.90,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Pablo Frances",
@@ -77853,7 +77853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.15,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -77877,7 +77877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.38,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "David Torres",
@@ -77901,7 +77901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.79,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -77925,7 +77925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.91,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -77949,7 +77949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 21.60,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Victor Revert",
@@ -77973,7 +77973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.83,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Angel Cobo",
@@ -77997,7 +77997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 30.06,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -78021,7 +78021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.53,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -78045,7 +78045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 24.08,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Miguel Richart",
@@ -78069,7 +78069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 20.13,
 "oficial" : "Si",
-"partido_n�_" : 181,
+"partido_n_" : 181,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -78093,7 +78093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.93,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Chimo Reig",
@@ -78117,7 +78117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 26.07,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -78141,7 +78141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.72,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Victor Revert",
@@ -78165,7 +78165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.85,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -78189,7 +78189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.94,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -78213,7 +78213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.55,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Pablo Frances",
@@ -78237,7 +78237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.17,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -78261,7 +78261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.41,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -78285,7 +78285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.89,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "David Mico",
@@ -78309,7 +78309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.26,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -78333,7 +78333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.70,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Dani Cerda",
@@ -78357,7 +78357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.59,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -78381,7 +78381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.92,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Angel Cobo",
@@ -78405,7 +78405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 30.09,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -78429,7 +78429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 24.14,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Diego Cambra",
@@ -78453,7 +78453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.54,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "David Torres",
@@ -78477,7 +78477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.81,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Miguel Richart",
@@ -78501,7 +78501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 20.16,
 "oficial" : "Si",
-"partido_n�_" : 182,
+"partido_n_" : 182,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -78525,7 +78525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 34.95,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Chimo Reig",
@@ -78549,7 +78549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 26.09,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -78573,7 +78573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.74,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Victor Revert",
@@ -78597,7 +78597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.87,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -78621,7 +78621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.96,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Angel Cobo",
@@ -78645,7 +78645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 30.11,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -78669,7 +78669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.57,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Pablo Frances",
@@ -78693,7 +78693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.19,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "David Mico",
@@ -78717,7 +78717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.27,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -78741,7 +78741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.20,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -78765,7 +78765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.72,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Dani Cerda",
@@ -78789,7 +78789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.61,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -78813,7 +78813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.94,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -78837,7 +78837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.43,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Diego Cambra",
@@ -78861,7 +78861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.56,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "David Torres",
@@ -78885,7 +78885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.83,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -78909,7 +78909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 24.12,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Miguel Richart",
@@ -78933,7 +78933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 20.18,
 "oficial" : "Si",
-"partido_n�_" : 183,
+"partido_n_" : 183,
 },
 {
 "jugador" : "Dani Cerda",
@@ -78957,7 +78957,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.63,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Chimo Reig",
@@ -78981,7 +78981,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 26.11,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -79005,7 +79005,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.76,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Victor Revert",
@@ -79029,7 +79029,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.89,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -79053,7 +79053,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.98,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Angel Cobo",
@@ -79077,7 +79077,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 30.13,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -79101,7 +79101,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.59,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "David Mico",
@@ -79125,7 +79125,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.29,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -79149,7 +79149,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.22,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -79173,7 +79173,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.74,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -79197,7 +79197,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 24.14,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Jose Miguel Perez",
@@ -79221,7 +79221,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "23/6/2003",
 "edad" : 20.83,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -79245,7 +79245,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.96,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -79269,7 +79269,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.44,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -79293,7 +79293,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 24.18,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -79317,7 +79317,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.93,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "David Torres",
@@ -79341,7 +79341,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.85,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Miguel Richart",
@@ -79365,7 +79365,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 20.19,
 "oficial" : "Si",
-"partido_n�_" : 184,
+"partido_n_" : 184,
 },
 {
 "jugador" : "Dani Cerda",
@@ -79389,7 +79389,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.64,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Chimo Reig",
@@ -79413,7 +79413,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 26.12,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Victor Revert",
@@ -79437,7 +79437,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.91,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -79461,7 +79461,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 23.99,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Angel Cobo",
@@ -79485,7 +79485,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 30.14,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -79509,7 +79509,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.60,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Pablo Frances",
@@ -79533,7 +79533,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.22,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -79557,7 +79557,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.95,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "David Mico",
@@ -79581,7 +79581,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.31,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -79605,7 +79605,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.24,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -79629,7 +79629,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.75,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -79653,7 +79653,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 25.21,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -79677,7 +79677,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.78,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -79701,7 +79701,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.46,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Diego Cambra",
@@ -79725,7 +79725,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.59,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "David Torres",
@@ -79749,7 +79749,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.86,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -79773,7 +79773,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 24.15,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Miguel Richart",
@@ -79797,7 +79797,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 20.21,
 "oficial" : "Si",
-"partido_n�_" : 185,
+"partido_n_" : 185,
 },
 {
 "jugador" : "Dani Cerda",
@@ -79821,7 +79821,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.66,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Chimo Reig",
@@ -79845,7 +79845,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 26.14,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -79869,7 +79869,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.79,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Victor Revert",
@@ -79893,7 +79893,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.92,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -79917,7 +79917,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 24.01,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -79941,7 +79941,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.62,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Pablo Frances",
@@ -79965,7 +79965,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.24,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -79989,7 +79989,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.47,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -80013,7 +80013,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.96,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "David Mico",
@@ -80037,7 +80037,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.32,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -80061,7 +80061,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.76,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Jose Miguel Perez",
@@ -80085,7 +80085,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "23/6/2003",
 "edad" : 20.86,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -80109,7 +80109,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 27.99,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -80133,7 +80133,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 24.21,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Diego Cambra",
@@ -80157,7 +80157,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.61,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "David Torres",
@@ -80181,7 +80181,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.88,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -80205,7 +80205,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 24.17,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Miguel Richart",
@@ -80229,7 +80229,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 20.22,
 "oficial" : "Si",
-"partido_n�_" : 186,
+"partido_n_" : 186,
 },
 {
 "jugador" : "Dani Cerda",
@@ -80253,7 +80253,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.67,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Chimo Reig",
@@ -80277,7 +80277,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 26.15,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -80301,7 +80301,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.80,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Victor Revert",
@@ -80325,7 +80325,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.93,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -80349,7 +80349,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 24.02,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Angel Cobo",
@@ -80373,7 +80373,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 30.17,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -80397,7 +80397,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.63,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Pablo Frances",
@@ -80421,7 +80421,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.25,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -80445,7 +80445,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.97,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Diego Cambra",
@@ -80469,7 +80469,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.62,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "David Mico",
@@ -80493,7 +80493,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.33,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Ivelin Popov",
@@ -80517,7 +80517,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "9/2/1999",
 "edad" : 25.23,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -80541,7 +80541,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 28.00,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -80565,7 +80565,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.48,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -80589,7 +80589,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 24.22,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -80613,7 +80613,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.77,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -80637,7 +80637,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 24.18,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Miguel Richart",
@@ -80661,7 +80661,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 20.23,
 "oficial" : "Si",
-"partido_n�_" : 187,
+"partido_n_" : 187,
 },
 {
 "jugador" : "Dani Cerda",
@@ -80685,7 +80685,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.69,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -80709,7 +80709,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.82,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -80733,7 +80733,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 28.02,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -80757,7 +80757,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.79,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Pablo Frances",
@@ -80781,7 +80781,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.27,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -80805,7 +80805,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.50,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -80829,7 +80829,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 24.24,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Diego Cambra",
@@ -80853,7 +80853,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.64,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -80877,7 +80877,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.28,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -80901,7 +80901,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 24.20,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Miguel Richart",
@@ -80925,7 +80925,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 20.25,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -80949,7 +80949,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 35.03,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Angel Cobo",
@@ -80973,7 +80973,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 30.18,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Jorge Soriano",
@@ -80997,7 +80997,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/7/2003",
 "edad" : 20.82,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Pau Sanchis",
@@ -81021,7 +81021,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/8/2002",
 "edad" : 21.72,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -81045,7 +81045,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 31.99,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "David Torres",
@@ -81069,7 +81069,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.91,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Boby",
@@ -81093,7 +81093,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/9/2006",
 "edad" : 17.68,
 "oficial" : "Si",
-"partido_n�_" : 188,
+"partido_n_" : 188,
 },
 {
 "jugador" : "Dani Cerda",
@@ -81117,7 +81117,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.70,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Chimo Reig",
@@ -81141,7 +81141,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 26.18,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -81165,7 +81165,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 24.05,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Angel Cobo",
@@ -81189,7 +81189,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 30.20,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -81213,7 +81213,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.66,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Pablo Frances",
@@ -81237,7 +81237,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.28,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -81261,7 +81261,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 32.01,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "David Mico",
@@ -81285,7 +81285,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.37,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -81309,7 +81309,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.30,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Andreu Serrano",
@@ -81333,7 +81333,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "27/7/1999",
 "edad" : 24.81,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "David Torres",
@@ -81357,7 +81357,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/6/1986",
 "edad" : 37.92,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -81381,7 +81381,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 35.04,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -81405,7 +81405,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.84,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Victor Revert",
@@ -81429,7 +81429,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.97,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -81453,7 +81453,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 28.03,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -81477,7 +81477,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.52,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Diego Cambra",
@@ -81501,7 +81501,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "21/9/2000",
 "edad" : 23.66,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Miguel Richart",
@@ -81525,7 +81525,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 20.27,
 "oficial" : "Si",
-"partido_n�_" : 189,
+"partido_n_" : 189,
 },
 {
 "jugador" : "Dani Cerda",
@@ -81549,7 +81549,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "3/9/2000",
 "edad" : 23.73,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Chimo Reig",
@@ -81573,7 +81573,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "13/3/1998",
 "edad" : 26.20,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Rafeta Quilis",
@@ -81597,7 +81597,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "16/5/1992",
 "edad" : 32.03,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "David Mico",
@@ -81621,7 +81621,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.39,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Alexandru Pribeagu",
@@ -81645,7 +81645,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/1/2000",
 "edad" : 24.32,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Alberto Osoro",
@@ -81669,7 +81669,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "28/4/2000",
 "edad" : 24.08,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Miguel Richart",
@@ -81693,7 +81693,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/2/2004",
 "edad" : 20.29,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Victor Revert",
@@ -81717,7 +81717,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "31/5/2002",
 "edad" : 21.99,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Lluis Felipe",
@@ -81741,7 +81741,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "18/9/2002",
 "edad" : 21.69,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Pablo Frances",
@@ -81765,7 +81765,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/2/2001",
 "edad" : 23.30,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "David Mico",
@@ -81789,7 +81789,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "4/1/2001",
 "edad" : 23.39,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Cristian Martinez",
@@ -81813,7 +81813,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "2/5/1989",
 "edad" : 35.07,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Adam Lachehab",
@@ -81837,7 +81837,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "17/7/1996",
 "edad" : 27.86,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Juanjo Calvo",
@@ -81861,7 +81861,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/5/1996",
 "edad" : 28.05,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Angel Cobo",
@@ -81885,7 +81885,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "6/3/1994",
 "edad" : 30.22,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Alberto Cambra",
@@ -81909,7 +81909,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "10/11/1997",
 "edad" : 26.54,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Jorge Garcia",
@@ -81933,7 +81933,7 @@ const data_jugadores = [
 "fecha_nacimiento" : "15/2/2000",
 "edad" : 24.28,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 },
 {
 "jugador" : "Nico Cabanes",
@@ -81957,6 +81957,6 @@ const data_jugadores = [
 "fecha_nacimiento" : "1/3/2000",
 "edad" : 24.24,
 "oficial" : "Si",
-"partido_n�_" : 190,
+"partido_n_" : 190,
 }
 ]

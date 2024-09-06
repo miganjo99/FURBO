@@ -91,3 +91,7 @@ function API_GetPlayerByPosition(name){
 function API_GetRivales(){
     return DB_GetRivales();
 }
+
+function API_GetPlayerFromMatch(ID){
+    return DB_GetPlayerFromMatch(ID);
+}

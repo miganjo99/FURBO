@@ -98,6 +98,10 @@ function IN_GetRivales(){
     return API_GetRivales();
 }
 
+function IN_GetPlayerFromMatch(ID){
+    return API_GetPlayerFromMatch(ID);
+}
+
 //export {IN_GetLastMatches};
 
 // Example functions:

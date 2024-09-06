@@ -211,7 +211,7 @@ function LoadMatch(ID){
             document.getElementById("min_empatando").classList.remove("minutos_empatados_bar");
         }
 
-        if(match.observaciones != null && match.observaciones != "null"){
+        if(match.observaciones != null && match.observaciones != "null" && match.observaciones != 0){
             let videoUrl = match.observaciones;
 
             // Si es una URL de YouTube con 'watch?v=', convierte a formato embed
@@ -228,6 +228,63 @@ function LoadMatch(ID){
             document.getElementById("match_video").style.display = "none";
         }
 
+        // Table
+
+        let match_players = IN_GetPlayerFromMatch(ID);
+        console.log(match_players);
+
+        let table_body = document.getElementById("match-table-body");
+
+        match_players.map((value) => {
+            let row = document.createElement("tr");
+            row.classList.add("match-table-body_element");
+
+            let row_value = document.createElement("td");
+            row_value.classList.add("match_title");
+            row_value.classList.add("resalted");
+            row_value.innerHTML = value.jugador;
+            row.appendChild(row_value);
+            
+            row_value = document.createElement("td");
+            row_value.classList.add("match_title");
+            row_value.innerHTML = value.minutos_jugados;
+            row.appendChild(row_value);
+            
+            row_value = document.createElement("td");
+            row_value.classList.add("match_title");
+            row_value.innerHTML = value.goles != 0? value.goles: "-";
+            if(value.goles > 0)row_value.classList.add("color-green", "resalted");
+            if(value.goles < 0)row_value.classList.add("color-red", "resalted");
+            row.appendChild(row_value);
+            
+            row_value = document.createElement("td");
+            row_value.classList.add("match_title");
+            if(value.asistencias > 0)row_value.classList.add("color-green", "resalted");
+            row_value.innerHTML = row_value.innerHTML = value.asistencias > 0? value.asistencias: "-";
+            row.appendChild(row_value);
+            
+            row_value = document.createElement("td");
+            row_value.classList.add("match_title");
+            if(value.amarilla > 0)row_value.classList.add("color-red", "resalted");
+            row_value.innerHTML = row_value.innerHTML = value.amarilla > 0? value.amarilla: "-";
+            row.appendChild(row_value);
+            
+            row_value = document.createElement("td");
+            row_value.classList.add("match_title");
+            if(value.roja > 0)row_value.classList.add("color-red", "resalted");
+            row_value.innerHTML = row_value.innerHTML = value.roja > 0? value.roja: "-";
+            row.appendChild(row_value);
+            
+            row_value = document.createElement("td");
+            row_value.classList.add("match_title");
+            row_value.innerHTML = Math.floor(value.edad);
+            row.appendChild(row_value);
+
+
+            
+            table_body.appendChild(row);
+
+        })
     }
         
 }

@@ -322,6 +322,10 @@
   .match-container p {
     font-size: 20px;
   }
+
+  .table-container{
+    display: none;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -421,6 +425,103 @@
     text-shadow: 2px 2px 4px black;
   }
 
+  /* Table Style */
+
+  table {
+    width: 80%;
+    border-collapse: collapse;
+  }
+
+  table *{
+    font-size: 20px;
+  }
+
+  tbody{
+    border-color: #edf2f7;  
+  }
+
+  tr{
+    background-color: #ffffff;
+  }
+
+  .tr-even{
+    background-color: #f9fafb;
+  }
+
+  td{
+    padding: 0.75rem; 
+    font-size: 0.875rem; 
+    color: #4a5568; 
+    white-space: nowrap;
+  }
+
+  .match_title{
+    color: #212121; 
+    text-decoration: none; 
+    text-align: center;
+  }
+
+  .table-container{
+    overflow: auto;
+    /*overflow-y: visible; 
+    overflow-x: visible;*/ 
+    border-radius: .8rem; 
+    box-shadow: 0 0 0.5rem rgba(39, 38, 38, 0.1);
+    /*display: none;*/
+  }
+
+  .table-container {
+    margin-top: 2vw;
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+
+  }
+
+  .table_radius{
+
+    border-radius: 0.8rem;
+    width: 100%;
+  }
+
+  .table-header{
+    background-color: #f9fafb; 
+    border-bottom-width: 0.125rem; 
+    border-color: #edf2f7;
+  }
+
+  .table-header-row{
+    /*background-color: #ff4b4b; */
+    border-bottom-width: 0.125rem; 
+    border-color: #edf2f7;
+  }
+
+  .table-header-row *{
+    font-size: 20px;
+  }
+
+  .table-header-row th{
+    padding: 0.75rem;
+  }
+
+  th, td{
+    border-bottom: 1px solid var(--secondary-color);
+  }
+
+  .table-header-row th{
+    background-color: var(--primary-color);
+  }
+
+  td{
+    padding: 0.75rem; 
+    font-size: 0.875rem; 
+    color: #4a5568; 
+    white-space: nowrap;
+  }
+
 }
 
 .match_header {
@@ -497,6 +598,18 @@
   background-color: #e6d100;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
+}
+
+.color-green{
+  color: #0ac200;
+}
+
+.color-red{
+  color: #ea0d0d;
+}
+
+.resalted{
+  font-weight: 600; 
 }
 
 .section_title{

@@ -57,6 +57,19 @@ function DB_GetMatch(ID){
     return match;
 }
 
+function DB_GetPlayerFromMatch(ID){
+
+    let players_tmp = [];
+
+    data_jugadores.map( (value) =>{
+        if(value.partido_n_ == ID){
+            players_tmp.push(value);
+        }
+    })
+
+    return players_tmp;
+
+}
 
 function DB_GetFilterDinamica(resultFilter){
 
