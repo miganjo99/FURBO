@@ -433,7 +433,12 @@
   }
 
   table *{
-    font-size: 1.3vw;
+    font-size: 0.9vw;
+  }
+
+  .table-header-row *{
+    font-size: 1.1vw;
+    text-wrap: nowrap;
   }
 
   tbody{
@@ -450,7 +455,6 @@
 
   td{
     padding: 0.3vw !important;
-    font-size: 0.875rem; 
     color: #4a5568; 
     white-space: nowrap;
   }
@@ -518,10 +522,7 @@
     border-color: #edf2f7;
   }
 
-  .table-header-row *{
-    font-size: 1.3vw;
-    text-wrap: nowrap;
-  }
+ 
 
   .table-header-row th{
     padding: 0.75rem;
@@ -537,7 +538,6 @@
 
   td{
     padding: 0.75rem; 
-    font-size: 0.875rem; 
     color: #4a5568; 
     white-space: nowrap;
   }
