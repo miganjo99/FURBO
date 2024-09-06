@@ -428,7 +428,7 @@
   /* Table Style */
 
   table {
-    width: 80%;
+    width: 60%;
     border-collapse: collapse;
   }
 
@@ -455,10 +455,29 @@
     white-space: nowrap;
   }
 
+  td a{
+    text-decoration: none;
+    color: #212121;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  td a:hover{
+    cursor: pointer;
+    color: var(--primary-color);
+    text-decoration: underline;
+    text-shadow: 1px 1px 2px white;
+  }
+
   .match_title{
     color: #212121; 
     text-decoration: none; 
     text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .table-container{
