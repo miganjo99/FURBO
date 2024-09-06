@@ -225,7 +225,7 @@ function LoadMatch(ID){
             if(remove_ganando)document.getElementById("min_ganando").classList.remove("minutos_ganados_bar");
             if(remove_perdiendo)document.getElementById("min_perdiendo").classList.remove("minutos_perdidos_bar");   
             if(remove_empatando)document.getElementById("min_empatando").classList.remove("minutos_empatados_bar");;
-        },1500);
+        },2900);
             
         if(match.observaciones != null && match.observaciones != "null" && match.observaciones != 0){
             let videoUrl = match.observaciones;
