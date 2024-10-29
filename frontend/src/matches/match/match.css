@@ -445,6 +445,7 @@
     background-color: #333;
     color: white;
     font-size: 1.1vw;
+    padding: 0.8vw;
   }
 
   tbody{
@@ -540,6 +541,18 @@
 
   .table-header-row th{
     background-color: var(--primary-color);
+  }
+
+  .key-heading{
+    overflow: visible;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+
+  .last-element{
+    overflow: visible;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
   }
 
   td{
