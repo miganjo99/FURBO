@@ -56,7 +56,7 @@ function LoadFiltersTemporadas(){
     
     console.log(season_element);
     console.log("season_element");
-    
+
     season_element.innerHTML = "";
     let opt_all = document.createElement("option");
     opt_all.value = "Todas";
@@ -147,136 +147,6 @@ function LoadFiltersJornada(){
 }
 
 
-
-// function GetLastMatches(){
-//     let data = IN_GetLastMatches(50);
-//     console.log(data);
-
-//     const table = document.getElementById("match-table-body");
-//     table.innerHTML = '';
-
-//     // Si estamos en pc
-//     data.forEach(match => {
-//         const row = document.createElement('tr');
-//         row.classList.add("match-table-body_element");
-
-//         // Columna de Jornada con enlace
-//         const jornadaCell = document.createElement('td');
-//         const jornadaLink = document.createElement('a');
-//         jornadaLink.href = ""; // Asigna la URL apropiada si es necesario
-//         jornadaLink.textContent = `Jornada ${match.jornada}`;
-//         jornadaCell.appendChild(jornadaLink);
-//         row.appendChild(jornadaCell);
-
-//         // Columna de Equipos
-//         const teamsCell = document.createElement('td');
-//         const localTeam = match.local_visitante === 'Local' ? 'Ontinyent 1931' : match.rival;
-//         const visitorTeam = match.local_visitante === 'Visitante' ? 'Ontinyent 1931' : match.rival;
-//         teamsCell.textContent = `${localTeam} - ${visitorTeam}`;
-//         row.appendChild(teamsCell);
-
-//         // Columna de Dinámica con clase
-//         const dynamicCell = document.createElement('td');
-//         const dynamicSpan = document.createElement('span');
-//         //dynamicSpan.classList.add('shipped-status'); // Cambiar la clase según la dinámica
-//         if (match.dinamica === 'Ganado') {
-//             dynamicSpan.classList.add('delivered-status');
-//             dynamicSpan.textContent = 'Ganado';
-
-//         } else if (match.dinamica === 'Perdido') {
-//             dynamicSpan.classList.add('cancelled-status');
-//             dynamicSpan.textContent = 'Perdido';
-
-//         } else if (match.dinamica === 'Empatado') {
-//             dynamicSpan.classList.add('shipped-status');
-//             dynamicSpan.textContent = 'Empatado';
-//         }
-//         dynamicCell.appendChild(dynamicSpan);
-//         row.appendChild(dynamicCell);
-
-//         // Columna de Fecha
-//         const dateCell = document.createElement('td');
-//         dateCell.textContent = match.dia;
-//         row.appendChild(dateCell);
-
-//         // Columna de Resultado
-//         const scoreCell = document.createElement('td');
-//         scoreCell.textContent = match.resultado;
-//         row.appendChild(scoreCell);
-
-//         table.appendChild(row);
-//     });
-
-//     const table_mobile = document.getElementById("matches-tables-mobile");
-//     table_mobile.innerHTML = '';
-
-//     // Si estamos en movil
-//     data.forEach(match => {
-//         const item = document.createElement('div');
-//         item.classList.add('grid-item');
-//         item.addEventListener("click", function(){
-//             window.location.href = "./match/match.html?id=" + match.partido;
-//         });
-
-//         // Parte superior de la grid-item
-//         const topDiv = document.createElement('div');
-//         topDiv.classList.add('grid-top');
-
-//         // Enlace de Jornada
-//         const jornadaDiv = document.createElement('div');
-//         const jornadaLink = document.createElement('p');
-//         jornadaLink.href = "#"; // Asigna la URL apropiada si es necesario
-//         jornadaLink.classList.add('grid-a');
-//         if(typeof(match.jornada) == 'number'){
-//             jornadaLink.textContent = `Jornada ${match.jornada}`;
-//         }else{
-//             jornadaLink.textContent = `${match.jornada}`;
-//         }
-//         jornadaDiv.appendChild(jornadaLink);
-//         topDiv.appendChild(jornadaDiv);
-
-//         // Fecha
-//         const dateDiv = document.createElement('div');
-//         dateDiv.classList.add('grid-date');
-//         dateDiv.textContent = match.dia;
-//         topDiv.appendChild(dateDiv);
-
-//         // Dinámica con clase
-//         const dynamicDiv = document.createElement('div');
-//         const dynamicSpan = document.createElement('span');
-//         if (match.dinamica === 'Ganado') {
-//             dynamicSpan.classList.add('delivered-status');
-//             dynamicSpan.textContent = 'Ganado';
-//         } else if (match.dinamica === 'Perdido') {
-//             dynamicSpan.classList.add('cancelled-status');
-//             dynamicSpan.textContent = 'Perdido';
-//         } else if (match.dinamica === 'Empatado') {
-//             dynamicSpan.classList.add('shipped-status');
-//             dynamicSpan.textContent = 'Empatado';
-//         }
-//         dynamicDiv.appendChild(dynamicSpan);
-//         topDiv.appendChild(dynamicDiv);
-
-//         item.appendChild(topDiv);
-
-//         // Descripción del partido (Equipos)
-//         const descDiv = document.createElement('div');
-//         descDiv.classList.add('grid-desc');
-//         const localTeam = match.local_visitante === 'Local' ? 'Ontinyent 1931' : match.rival;
-//         const visitorTeam = match.local_visitante === 'Visitante' ? 'Ontinyent 1931' : match.rival;
-//         descDiv.textContent = `${localTeam} - ${visitorTeam}`;
-//         item.appendChild(descDiv);
-
-//         // Resultado del partido
-//         const scoreDiv = document.createElement('div');
-//         scoreDiv.classList.add('grid-price');
-//         scoreDiv.textContent = match.resultado;
-//         item.appendChild(scoreDiv);
-
-//         table_mobile.appendChild(item);
-//     });
-
-// }
 function PrintMatches(data) {
     console.log("data PrintMatches");
     //console.log(data);
