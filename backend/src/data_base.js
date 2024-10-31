@@ -381,6 +381,9 @@ function DB_GetFilterTemporadas(){
         return value != null && temporadas.indexOf(value) == i;
     });
 
+    console.log(temporadas_filtered);
+    console.log("temporadas_filtered____________________");
+
     return temporadas_filtered;
 
 }

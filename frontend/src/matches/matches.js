@@ -50,7 +50,13 @@ function LoadFiltersTemporadas(){
     let season_values = IN_GetFilterTemporadas();
   
     let season_element = document.getElementById("seasonFilter");
-  
+
+    console.log(season_values);
+    console.log("season_values");
+    
+    console.log(season_element);
+    console.log("season_element");
+    
     season_element.innerHTML = "";
     let opt_all = document.createElement("option");
     opt_all.value = "Todas";
@@ -109,7 +115,9 @@ function LoadFiltersJornada(){
 
 
     let seasonFilter = document.getElementById("seasonFilter").value;
-    console.log(seasonFilter);
+    // console.log(seasonFilter);
+    // console.log("++++++++++++++++++seasonFilter+++++++++++++++++++++++");
+
     if (seasonFilter !== "Todas") {
         partidos = partidos.filter(partido => partido.temporada === seasonFilter);
         console.log("partidos season");
